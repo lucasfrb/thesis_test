@@ -1,0 +1,915 @@
+<INDIVIDUAL>
+  <ID>subject819</ID>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-10 18:47:37</DATE>
+    <TEXT>What did you use for the trim? This looks awesome! Going pc with mame i take it?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-25 16:37:54</DATE>
+    <TEXT>https://rover.ebay.com/rover/0/0/0?mpre=https%3A%2F%2Fwww.ebay.com%2Fulk%2Fitm%2F254607554609</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Arcade 1up tmolding?</TITLE>
+    <DATE>2020-06-14 09:56:16</DATE>
+    <TEXT>Hey everyone! I saw someone here had posted an area 51 can build here recently, just curious if anyone knew where to get green t molding for control panels ? What size is it for the standard arcade 1up trim?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Modded my Marvel SE cab with pi4. At 1750 and 620 area 51 playability is perfect.</TITLE>
+    <DATE>2020-07-05 14:55:18</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-05 15:12:49</DATE>
+    <TEXT>im waiting for the sinden lightgun, however right now im testing out a dolphin mayflash bar with a wii remote with a black wii gun. Seems to be working pretty good. I wont be doing this one as a shooter but im doing an area 51 cab with both a pi4 and a wii for house of the dead/a51+ others. Im doing it on a tmnt cab because of the green trim. Ill post pics when its completed</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-05 15:36:56</DATE>
+    <TEXT>yeah you sure can. Its my 2nd one. They make them at DIY arcade its like 21 bucks with shipping. And there are options if you want speakers. This time i did logitech speakers with a subwoofer/amp so i went that route. Or you could just use a 30mm holesaw bit on a drill</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-05 17:24:33</DATE>
+    <TEXT>yeah i did 2 with recoil. with as popular as they are we probably wouldnt even get them for at least a year otherwise</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-05 18:08:51</DATE>
+    <TEXT>the power and volume switch you could probably get pinned to the pi but you have to write script to get those to work. Im working to get my power switch wired to a switching power brick, so itll turn everything back on after shutdown. You can actually reuse all your old buttons, however youll run into problems with the joystick because its a 2 piece cable essentially. Youll either need a different 5 pin ribbon cable or switch the joystick so itll work with the encoders. I used a pi image already made. It has 2 games i wanted. mvc2 and area 51/max force. Im building an a51 cab, so ill be looking for a lightgun image</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-05 19:08:17</DATE>
+    <TEXT>it is!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-05 19:16:12</DATE>
+    <TEXT>Appreciate it! I just wanted to to match the oem theme</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-06 01:03:34</DATE>
+    <TEXT>sure thing! I learned a lot from my previous build, anytime</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-06 02:38:16</DATE>
+    <TEXT>thats pretty cool i didnt even know house of the dead 2 could play on pi4. Im building a cab with a wii and wii pistols just for that game</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-06 09:27:53</DATE>
+    <TEXT>check out youtube, someone just posted mvc2 sweet spot #s and did frame rate comparisons. I think he had arm 1950, core 750, overvolt 4, v3d 750</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-06 09:29:45</DATE>
+    <TEXT>I did notice the slight dip, ill probably play with the numbers a bit until I get it right</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-06 12:22:57</DATE>
+    <TEXT>naomi</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-06 13:49:13</DATE>
+    <TEXT>I dont know if the pi4 pinout is the same as the pi3, i went a different route. I wired my switch to a power brick with a relay so when i power down the pi switch it off and everything goes with it. I tried wiring up a pi3 to make everything work, to me adding the script was more of a pain than it was worth.To each their own but I wanted to keep it simple. Some people have even wired a standalone switch to a regular power strip and had good success with that.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-06 13:53:24</DATE>
+    <TEXT>Those coin buttons are awesome!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-06 13:57:31</DATE>
+    <TEXT>Good luck! Its not as bad as you think it is just to get rolling.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-06 16:14:31</DATE>
+    <TEXT>yeah i can take some, its still a rats nest fyi lol</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-06 16:56:45</DATE>
+    <TEXT>easy. Heres what you need https://www.bc-robotics.com/shop/iot-power-relay/ Plug your strip into that, wire your switch in, obviously youll need to extend your wires, or depends on where you mount it. Theres a youtube video on it demonstrating it</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-06 17:08:50</DATE>
+    <TEXT>yeah ill post it after work</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-07 10:10:53</DATE>
+    <TEXT>https://youtu.be/O1EkuwaNOJ0</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-07 10:13:09</DATE>
+    <TEXT>This is the best video ive found on it. You can run wire from your switch to it, and plug in your power strip to it.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-07 10:27:01</DATE>
+    <TEXT>When I modded mine I got a kit that included sanwya sticks. They were a bolt in deal no drilling or modding required. If you reuse your original sticks you will need to find a 5 pin cable to be able to pin it to an encoder if you go the pi route. The only other thing I did was went with a pi4, so Just ordered buttons, joysticks, encoders, wiring, and video converter</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-07 10:31:20</DATE>
+    <TEXT>https://www.reddit.com/r/Arcade1Up/comments/hlnwij/modded_my_marvel_se_cab_with_pi4_at_1750_and_620/?utm_medium=android_app amp;utm_source=share this is mine</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-08 09:23:32</DATE>
+    <TEXT>https://www.diyretroarcade.com/products/speaker-grill-panel-for-arcade1up-for-two-4-inch-speakers-with-2-extra-holes</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-08 09:28:47</DATE>
+    <TEXT>https://www.bonanza.com/listings/Arcade1up-Mod-kit/814404284 This seller is great. You can ask for most combination of buttons, has the lcd controller, amp, all wiring, joysticks etc. You can get the top kit that has a pi 3+, i decided to go with a pi4 so I had to do the pi seperate</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-08 10:22:49</DATE>
+    <TEXT>Dystlovs Pass!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-08 21:43:33</DATE>
+    <TEXT>My wifes Aunt lives there, they got hit pretty hard, alot of their population is elderly and most who got it died. Its pretty sad</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-16 12:47:56</DATE>
+    <TEXT>Check out my post I just modded my Marvel cab. The config you need to have a controller plugged in to get to the config screen. Then select your up down left etc. The power button there is a solution without plugging things in tonyour pi or writting script. Wire your Switch to a switching power supply. See my post for info</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-16 22:25:47</DATE>
+    <TEXT>what are you runnning? pi?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-01 22:29:43</DATE>
+    <TEXT>they make a 5 pin cable for that, youll need to do some research on it. This is the problem I had with my marvel, so i swapped to sanwas with the correct cable. You can order them online and its the same joystick, just different config. I reused the sleeve and black joystick bats to make it look original ( except for the led buttons)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-13 23:24:32</DATE>
+    <TEXT>Im building one with a wii, consider that as an option</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-13 23:25:20</DATE>
+    <TEXT>or consider a pi4/mayflash dolphin bar/ wii remote</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-17 13:32:22</DATE>
+    <TEXT>I have both on my pi4. Overclock to 1750, runs decent. flawless at 1950hz. and depending on the image it will have both the naomi and dreamcast versions (mvc2)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-17 21:23:39</DATE>
+    <TEXT>Overclocking is easy on the pi4, that was my initial concern. In the menu, you can actually select overclock and choose your parameters. My case has a fan so im comfortable running 1750hz. dependingnon the image you can go as high as 2000, but run a good fan. I chose the icetower fan, its like 20 bucks and you wont have to worry about overheat. I set mine at 1750 and its been played nonstop for 7 months, no problems</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-17 21:25:20</DATE>
+    <TEXT>no keyboard or anything to type in, easy peasy. If you want to mess with the overvoltage parameters then you might, but im not concerned about it starving.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-18 13:17:48</DATE>
+    <TEXT>Some nfl blitz versions work on it better than others, playstation version is fine, n64 versions a little glitchy. I read somewhere the arcade rom of it actually plays really well. Im not sure what the image is, it was in a kit aquired on ebay. It probably is an arcade punks image. Do some research, but are saying great things about the wolfanoz image, i actually want get one because of the lightgun options.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>House of the Dead 2 mod</TITLE>
+    <DATE>2020-08-20 14:42:31</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-20 14:44:30</DATE>
+    <TEXT>Its got the 20 inch tulsa monitor, wii with house of the dead 2, working on gun holsters</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-20 14:54:11</DATE>
+    <TEXT>thank you!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-20 15:30:23</DATE>
+    <TEXT>lol could be</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-20 15:31:19</DATE>
+    <TEXT>means a lot, really appreciate that!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-20 17:02:36</DATE>
+    <TEXT>thank you!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-20 17:03:18</DATE>
+    <TEXT>yeah i was thinking about it actually, the pi4 image isnt bad at all</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-20 17:04:00</DATE>
+    <TEXT>look up sinden light gun, its coming!!!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-20 17:05:44</DATE>
+    <TEXT>its not bad, def reccomend xacto when cutting the vinyl. makes it easy</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-20 17:07:26</DATE>
+    <TEXT>im pretty sure one of these are timecrisis is very doable, just need sinden to start shipping. the vinyl would be awesome</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-20 17:22:19</DATE>
+    <TEXT>appreciate that</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-20 19:19:47</DATE>
+    <TEXT>aimtraks work ok with pi?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-20 19:54:16</DATE>
+    <TEXT>hows calibration on it?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-20 20:00:37</DATE>
+    <TEXT>top below the marquee where the green trim is ( i added it after the pic)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-20 20:07:36</DATE>
+    <TEXT>my thoughts exactly, what you think red or black ones?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-20 21:22:50</DATE>
+    <TEXT>thank you! i rolled with the t molding because of the zombie blood ( and it was a tmnt cab, so all i needed to add was a blank control panel.) I might sell it in the future, who knows! part sourcing was the biggest hassle</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-20 21:24:00</DATE>
+    <TEXT>haha not a bad idea, not sure on another sega game, any suggestions? I pi4d my marvel se cab specifically for naomi ( mvc2)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-20 21:33:45</DATE>
+    <TEXT>I probably will build something for the lady next year, she wants... guitar hero  #128518;</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-24 22:18:08</DATE>
+    <TEXT>no it works great, its mounted right underneath the marquee, right above the screen. i can take a pic and post it. its actually reccomended by nintendo to put it there on top of the screen. I also have a wireless one, someday ill play around with position.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-04 23:54:21</DATE>
+    <TEXT>I have a pi4 and i ran both, naomi runs better in my opinion. you try overclocking it to see if it was running slow,?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-05 01:56:51</DATE>
+    <TEXT>all overclocking is is increasing the clock rate on a cpu beyond factory spec. Factory i wanna say is 1600hz, mines set at 1750. Try the naomi version and see how it goes. itll play ok enough at factory settings, but to get those frames per second working flawless youll want to do that.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-07 02:38:57</DATE>
+    <TEXT>did you drill out your speaker panel or did you get it from somewhere? Check out my HOTD i did mine with green trim</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-07 02:41:53</DATE>
+    <TEXT>Does it work any better mounted down below? nintendo has a post reccomending it above the screen</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-07 14:44:38</DATE>
+    <TEXT>appreciate it!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-10 22:30:41</DATE>
+    <TEXT>is that tekknoparrot version?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-11 18:20:20</DATE>
+    <TEXT>solder them on, or buy car speakers, they have the wiring the prongs on them. Heres a hint : no lead free solder, its junk lol</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-15 21:49:56</DATE>
+    <TEXT>I modded a Mk2 cab with a 3b+, and a marvel superheroes with a pi4. Trust me when i say this go with the 4, itll run a lot more demanding games. as far as the control deck, you have 2 options. either drill out the holes with what i believe is a 30mm hole saw, or some people will mod it for you. 80 or 90 bucks to have someone drill it and install the buttons. since both are 2 player, they both had the 6 button layout so no worries. all i did was buy a slide in j panel that has cuts for coin buttons and 4 inch speakers</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-15 21:51:00</DATE>
+    <TEXT>fyi overclocked pi4 back in jan, still plays great, just get a case with a fan and your good</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-15 22:22:55</DATE>
+    <TEXT>sure thing let me find the link</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-15 22:25:31</DATE>
+    <TEXT>https://www.diyretroarcade.com/products/speaker-grill-panel-for-arcade1up-for-two-4-inch-speakers-with-2-extra-holes?_pos=2 amp;_sid=b9e002e96 amp;_ss=r</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-16 12:36:15</DATE>
+    <TEXT>awesome!!! how did you do the trim?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-16 16:16:01</DATE>
+    <TEXT>i meant where? is it vinyl tape?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-18 03:25:17</DATE>
+    <TEXT>i dont think widescreen works right as a rule of thumb, anyone want to add in? I picked the dell 2007fps with the tulsa arcade mount kit for mine</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-18 04:07:08</DATE>
+    <TEXT>does it have dvi/hdmi?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-19 14:05:52</DATE>
+    <TEXT>how do you get the image?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-20 00:53:41</DATE>
+    <TEXT>because the input from the raspberry 3 requires an hdmi, i dont think it really matters if you run it through vga or dvi, you have to have converter. dvi to hdmi is like 7 bucks</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-20 00:54:34</DATE>
+    <TEXT>use the dell 2007 fpd with tulsa arcade, have it in my house of the dead cab and it works great</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-20 02:10:03</DATE>
+    <TEXT>raw thrills jurassic park.... awesome!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-20 14:24:51</DATE>
+    <TEXT>look like you missed 2 things, decent size wood lags and a stud finder</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-20 14:28:16</DATE>
+    <TEXT>matttt. daemon...</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-20 14:28:49</DATE>
+    <TEXT>mattt... daemon...</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-20 23:52:22</DATE>
+    <TEXT>lol no, check out my posts, i built one similiar to hos with green trim</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-22 22:30:56</DATE>
+    <TEXT>area 51</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-23 01:08:20</DATE>
+    <TEXT>use a casefan, to get the fps perfect you need to overclock it</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-23 01:08:46</DATE>
+    <TEXT>dreamcast version might be a bit better stock</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-23 01:27:24</DATE>
+    <TEXT>damn nice job</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-23 01:29:28</DATE>
+    <TEXT>2nd on that pandoras box</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-23 05:10:04</DATE>
+    <TEXT>there has been a few youtube videos on it, one guy had it dialed in at 1950hz, 750mhz, vram 320 and overvolt... 6? Me personally I set it 1750hz and it seems to be the most reliable. Coming up close to.. 8 months of consistent playing with zero issues. I tried at 2000hz, but because my fan wasnt good enough, it kept freezing. Id reccomended an ice tower, its like 15 bucks i think</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-23 05:35:29</DATE>
+    <TEXT>thats interesting i would maybe email them about it. I have a different image, menu overclock works just fine</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-23 05:36:45</DATE>
+    <TEXT>theres also cases with a regular fan on it, not sure if it uses the same pins</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-24 20:03:08</DATE>
+    <TEXT>tulsa does have a19inch kit, as long as its a nonwide and has 4:3 ratio it might be ok</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-24 20:06:04</DATE>
+    <TEXT>ok, there us a video on youtube where someone stuffed a 19inch into the original wood bezel, look it up.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-24 21:34:22</DATE>
+    <TEXT>60 in 1 kit is a bit cheaper, and limits you to 60 classic games. A raspberry pi will give you 7 to 8000 games, the 3b is a solid cheaper choice. If you want more demanding games, try a pi 4</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-24 22:26:18</DATE>
+    <TEXT>damn good price!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-24 22:29:36</DATE>
+    <TEXT>Plans are pretty good! I did the tulsa mod with the dell, it works great and does auto sleep when not in use</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-25 01:26:18</DATE>
+    <TEXT>i think itll be alright, they partnered with sinden do the tech will be accurate</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-25 01:31:12</DATE>
+    <TEXT>your gonna have to detail this build.. awesome</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-25 05:31:58</DATE>
+    <TEXT>My son does the same, chucke cheese and pizza ranch</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-25 14:21:59</DATE>
+    <TEXT>mostly pizza place with pizza ideas you wouldnt normally see, worth a go. most dont have arcades but for whatever reason this one does</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-29 00:55:10</DATE>
+    <TEXT>.... idiot</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-30 20:04:48</DATE>
+    <TEXT>I agree, and whats stupid out of nowhere they announced the infinity table. Maybe spend that effort on the pinball right?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-01 15:09:41</DATE>
+    <TEXT>pinball.... machines.... when</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-01 16:49:09</DATE>
+    <TEXT>say goodbye to the wifi option</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-01 18:30:46</DATE>
+    <TEXT>Well said</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-01 18:45:20</DATE>
+    <TEXT>ive seen a video of the leader, looks like young kernel sanders. He just encourages violence and spreads hate</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-01 20:11:23</DATE>
+    <TEXT>if thats what you want to do then great! I have a 2 player marvel modded with a pi4, you wont regret it. About 8000 games, depending on the image you get</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-02 19:30:18</DATE>
+    <TEXT>yes great price</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-03 00:56:29</DATE>
+    <TEXT>its an ok price for the cab. id say go for it</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-03 01:07:33</DATE>
+    <TEXT>karma</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-03 17:16:13</DATE>
+    <TEXT>super nice, yellow stripe makes it pop</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-03 21:30:23</DATE>
+    <TEXT>max of 4 on a pi, better 2 player and 2 guns</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-03 23:50:01</DATE>
+    <TEXT>you could try a split, however youd run into issues when assigning the buttons. otherwise youd have to reconfigure everytime you switched</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-07 00:03:52</DATE>
+    <TEXT>Mine are modded, but the marvel super heroes se with a pi4 i play the most. Least played Hotd cab. I built it for my kid, he wants nothing to do with it and most of the time im busy. on the marvel cab my favorite is mvc 1/2</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-09 04:51:49</DATE>
+    <TEXT>I agree also on the TMNT, least played one I had, thought my son would play it more. Turned it into a House of the dead Cabinet</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-09 22:55:12</DATE>
+    <TEXT>if it wont save your scores its potentially a pcb issue, common problem on these. Type it in on the thread</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-09 23:10:22</DATE>
+    <TEXT>do a search</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-09 23:10:55</DATE>
+    <TEXT>i agree, i had one until i made it into a hotd cab. my son just didnt play it enough</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-09 23:11:40</DATE>
+    <TEXT>not necessarily, did you make a ticket with arcade 1 up?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-09 23:36:56</DATE>
+    <TEXT>? ok</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-10 04:14:19</DATE>
+    <TEXT>thats awesome, bartop? sweet</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-10 17:46:27</DATE>
+    <TEXT>check out pinside.com, their are 2 preorder spots for sale</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-11 18:13:52</DATE>
+    <TEXT>pc build. Its really one of the few options to be able to run it correctly, or just get the actual arcade</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-12 00:45:38</DATE>
+    <TEXT>where did you hear that?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-12 11:34:07</DATE>
+    <TEXT>it doesnt really matter as long as the sf2 is in good shape. Ripping it all out anyway right? Both have the right layout perfect for a pi setup.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-12 11:53:40</DATE>
+    <TEXT>The monitors are different, and some of the gen 1 build qualities werent as good that ive seen. I had a mk2 that i pi3d, and i have a marvel pi4d. The marvel was better quality in my opinion. They also make a neat little kit on etsy that changes the trim to look like an se model.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-13 00:37:11</DATE>
+    <TEXT>nice pacman!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-13 01:29:16</DATE>
+    <TEXT>id also be interested in knowing this</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-13 04:07:58</DATE>
+    <TEXT>thats a keeper!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-13 20:14:40</DATE>
+    <TEXT>yeah im on board, i bought the tmnt, honestly too much space and when you going to have 4 people over to play? if the were smart theyd do 2 player versions, especially with everything going on</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-13 20:15:25</DATE>
+    <TEXT>it does! i have one in my tmnt, although i turned it into a hotd cab. but yes it does fit</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-13 22:12:05</DATE>
+    <TEXT>Glad it works for you</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-13 23:02:50</DATE>
+    <TEXT>just look on the back on the monitor, theres a black bar with a serial #.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-14 01:00:19</DATE>
+    <TEXT>whered u find it</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-14 06:30:41</DATE>
+    <TEXT>whered you get the kickplate graphics? their great!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-14 11:54:53</DATE>
+    <TEXT>just buy one online if they dont come through, plenty on ebay</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-14 12:01:41</DATE>
+    <TEXT>Im saying if they dont come through with a replacement. I had similiar issues with my mortal kombat, so I pi4d it. Hopefully you can get it resolved</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-14 19:14:23</DATE>
+    <TEXT>you want a really good option try bonanza. all buttons, encoders, amp, wiring, lcd board + pi3. i think it was 220.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-14 21:05:02</DATE>
+    <TEXT>after looking closely i see your riser is not matching.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-15 00:37:19</DATE>
+    <TEXT>what are you using? pi3? if so the on off switch can be wired to pins 5 and 6, then you will have to add script to accept a command from it. Or, just install an on off arcade switch on the back and dont worry about the switches</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-15 00:40:10</DATE>
+    <TEXT>you using mayflash and wiimote on pi4?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-15 00:45:59</DATE>
+    <TEXT>other than your current issue hows the setup for it? im interested in doing something similiar</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-15 00:47:07</DATE>
+    <TEXT>youtube it. eta prime has a video on it ( its on off to pi)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-15 01:25:26</DATE>
+    <TEXT>i like the button choice, nice !</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-15 03:08:25</DATE>
+    <TEXT>marvel, ive done both, the layout is just better all around for modding</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-16 11:19:45</DATE>
+    <TEXT>Nice work! its awesome</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-18 17:04:16</DATE>
+    <TEXT>You have a few options, you could do a 60 in 1 if all you want is classic games, you could do a pi3, which is a decent route and you can get the whole thing in s kit, or go with a pi4 which will handle more demanding games. Id also reccomend a 3/4 that has a horizontal screen, makes it easier. let us know if you have any questions</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-18 17:06:06</DATE>
+    <TEXT>try a marvel or street fighter cab, they already have all the holes you need for buttons. just need to add coin buttions. you can change out a kickplate to have holes for thst as well as a way to mount speakers</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-18 17:27:27</DATE>
+    <TEXT>this is true a 60 in 1 works well with vertical, however it can be a hassle with a pi sometimes. a horizontal monitor works well with all 3.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-18 18:22:57</DATE>
+    <TEXT>stand corrected this is true</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-18 19:38:30</DATE>
+    <TEXT>the worlds got serious education problem, with the US being some of the dumbest</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-18 20:28:06</DATE>
+    <TEXT>no you would not. vertical games do work on horizontal monitors with a pi3/pi4, and thats personal experience with both. A pi3 kit with everything you need is like 220 i believe, or you could piece it together yourself. ill turn on millipede/centipede in a bit and see if it works with a joystick</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-18 20:37:46</DATE>
+    <TEXT>they both work with a joystick</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-18 22:04:44</DATE>
+    <TEXT>try a marvel then, same easy layout</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Looking for a trade</TITLE>
+    <DATE>2020-10-19 10:39:49</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  </INDIVIDUAL>

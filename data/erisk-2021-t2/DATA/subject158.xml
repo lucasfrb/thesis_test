@@ -1,0 +1,231 @@
+<INDIVIDUAL>
+  <ID>subject158</ID>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-28 11:11:14</DATE>
+    <TEXT>I'd use a dictionary. ```python englishWords: str japaneseWords: str study_session = { 1: (englishWords1, japaneseWords1), 2: (englishwords2, japaneseWords2) } englishWords, japaneseWords = study_session[ int(intput("what session are you studying?...)) ] ```</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>python CLI tool similar to dotnet</TITLE>
+    <DATE>2020-09-07 09:51:53</DATE>
+    <TEXT>I'm building a CLI tool similar to that of dotnet's. I think it would be awesome to be able to use commands such as `create new console` or `create new webapp` for python and have the project layout made for you. I've just barely gotten started, and for now I only have a bash-script in place that produces a project-folder and some files. If you think this project sound interesting then I would love feedback and/or contributions. Let me know what you think of the concept. [Here's the repo](https://github.com/kentaasvang/python_create)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-07 10:19:47</DATE>
+    <TEXT>Although I could probably achieve what I want with a cookiecutter template, I think that cookiecutter in general makes too many assumptions on what I will need. Most of the time I end up deleting heaps of files/folders, switching out what is used for testing/databases etc. I want this CLI to give me just what I need, and nothing more. I.e \`create new test-suite\`, \`create new package\` etc. I want it to be intuitive enough so that I can use it throughout my projects without thinking too much about it.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-07 10:36:36</DATE>
+    <TEXT>I might do that, but there is a lot more utilities that will go into this CLI than just creating a project. Like I said, I'm trying to build something like dotnet's CLI for python, so it should have a much more intimate connection with the python-language than cookiecutter has.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-07 10:41:59</DATE>
+    <TEXT>run tests, build dist-files, publish to PYPI and things like that</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-07 11:44:48</DATE>
+    <TEXT>Yes, you can handle that with poetry.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-07 17:06:13</DATE>
+    <TEXT>That was a very interesting API. Might take some inspiration from there</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-09 09:08:50</DATE>
+    <TEXT>I might end up doing that. I have to admit that I'm mostly building this to learn to manage an open-source project. So I'll probably move the project in any direction that seems interesting.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-09 16:18:41</DATE>
+    <TEXT>For quick proof-of-concepts I use [peewee](http://docs.peewee-orm.com/en/latest/#), it's super fast and easy to setup. On the rare occasion where I make VERY fast POC's I use php and raw SQL for bigger projects I use the django-orm because of the tooling that comes with it</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-09 18:50:07</DATE>
+    <TEXT>In the big picture it #8217;s not that important, as in I could create CRUD-apps without knowing SQL. However, like most things, your CRUD app will probably be better if you have some understanding of SQL Yes I would concider that. How would that differ from the conventional ORM?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-10 06:06:04</DATE>
+    <TEXT>Yeah, whey a project gets big the ORM's generally don't have good compensation for optimization, so eventually you start building sql-queries yourself. Is this a project your working on that I can check out somewhere?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-11 07:05:54</DATE>
+    <TEXT>Tutorials make way to many assumptions and teach you alot more than you need to know. All you need to know to start building stuff in python is: - python-lists. Super powerful and flexible data structure. Know how to create and manipulate it - how to assign values to variables `numbers = [1, 2, 3, 4]` - basic looping `for number in numbers: print(number)` - and how to make decisions `if number  gt; 2: print("number is bigger than 2")` Everything else you can learn as you go on a need-to-know basis. That's my opinion anyway, just find something you want to build and start.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-11 09:37:17</DATE>
+    <TEXT>I don't agree that higher verbosity makes it easier to read.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-11 11:23:24</DATE>
+    <TEXT>I don't have to read Clean Code. The readability that comes from verbosity is only readable to people who are not programmers. Once you know that " gt; gt;" and " lt; lt;" is a symbol for information flow it is incredibly easy to read. C# doesn't like to be to verbose either. Thats why they use ":" for inheritance rather than java's "implements". Which one of those do you think are the easiest to read? The reason C# is so verbose in the example given by the OP is because they maintain such a strong type-system, but that is a whole other discussion.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-11 12:14:40</DATE>
+    <TEXT>Yes, I agree with that part.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-14 09:08:28</DATE>
+    <TEXT>5 days is very little time to prepare, what will benefit you the most is 8+ hours of sleep and a good diet full of healthy carbs. This way you'll atleast have energy on the day. I would also do 30-50min of easy runs every day. Remember to take the "easy" part seriously. Finish of every run with 4-10x 10s strides. Not full out sprint, but as fast as you can without breaking good running form. The last day before the half-marathon I would do only 20 minutes + strides. Since you ran 10k in about 1 hour, you'll be running for 2hours, which mean your body will loose alot of salt and water. Sometimes they have refreshments along the course, but if they don't you'd be very well of if you got your hands on a sportdrink with some sugar and salts in it. Also an energy-bar or two would benefit you alot to eat during the run, or a banana. on race-day make sure you are well hydrated before you start, and eat high-energy healthy carbohydrate based food 2+hours before the run. Oatmeal, pb amp;j and starchy fruits like banana would be good choices here. If you want to eat something closer to race-start you should keep it very light. Yoghurts, energy-bars and sportsdrinks only. Anyway, good luck with your half-marathon! It's quite an achievement :D</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-14 09:25:46</DATE>
+    <TEXT>That shouldn't be a problem. Also heart-rate stuff are highly inaccurate, so I wouldn't worry to much about it. A better indicator for running-stress than heart-rate is your breathing. Approximately 70-80% of your runs should be easy conversation-pace. Which means that for every 5 runs, you can do 2 tempo-runs where you runs fast enough to breath heavy and get into oxygen-dept, 2 short easy runs, and 1 long easy run. I realize you didn't ask about this, but I've been worrying about stressing my body too much since I started running, and this seems to be a very healthy and reliable recipe :)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-14 09:35:54</DATE>
+    <TEXT>wordpress is slow-ish, django not so much. Especially since they moved to ASGI</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-21 07:41:01</DATE>
+    <TEXT>If you want to run half-marathons, then you run half-marathons! I started out training for the half marathon, but the race got cancelled due to covid. During my training I found that I liked the shorter/faster distances more. Now I train exclusively to get a fast time on 5k. After I reach my goal I will probably try to extend that pace to 10k and 21k, but I doubt I will ever run a full marathon. The reason for that is that I don't think it's comfortable to run over 2 hours, but anything under that 2-hour range feels awesome</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-21 10:06:37</DATE>
+    <TEXT>I started running in may this year, my first run was very close to yours. I'm 32 and weighed 106kg's at that run. Now I can do 10k in 46minutes and 25-30k runs aren't too difficult anymore. I also weigh about 20kgs less. Since you are younger you can probably expect faster improvements. Starting to run is one of the best decisions I have made in my life</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-21 10:19:01</DATE>
+    <TEXT>Congrats! I'm training for the same goal, but with a slightly different training program. I just run whatever I feel like, but I try to do atleast one tempo run and one longrun each week, but my most typical week looks like this: \- monday: rest \- tuesday: slow run 40min-1hour \- wednesday: tempo intervalls at threshold pace \- thursdag: slow run 40min-1hour \-friday: speed workout, 8x400m and stuff like that saturday: slow run 20min or rest sunday: 1.5-2hours longrun.  #8203; Hoping to get sub 20 before snowfall</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-21 10:21:40</DATE>
+    <TEXT>I still use `hello_world = "hello, %s" % "world"`</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-21 12:41:02</DATE>
+    <TEXT>I don't like verbosity so if I can get away with `%` I will use that. It's a lot faster than `str.format`, but slightly slower than **f-strings**, although **f-strings** comes with a little bit of liability so I generally won't use those</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-21 13:21:38</DATE>
+    <TEXT>Thank you :) I started out following a training plan, but I didn't like it. There were too many days where I wanted to do a tempo run, but the training plan said "long run" or "easy run" or "rest day". I felt that my motivation was wasted, so I just started doing whatever I wanted to instead. Staying motivated and making running fun has been essential for me. The only thing I try to achieve is one tempo run and one long run each week, but I still end up doing 7 easy days in a row sometimes, Or a long run every other day.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-21 15:53:19</DATE>
+    <TEXT>Hm, I #8217;d be surprised if it #8217;s the slowest, but I haven #8217;t tested it on 3.8 so I can #8217;t say that you are wrong  #128513;</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-22 09:17:44</DATE>
+    <TEXT>4km in 24 minutes means your ran 1km per 6minutes. Running 5km in 20 minutes means that you'd have to run 1km per 4 minutes. Which means that you must run every kilometer 2minutes faster than you did on your 4km run. That would be very difficult to achieve. If we extrapolate a bit, we can say that you are currently able to run a 5k in 6min/km pace. I would aim to run run the 5k in 5:20min/km after six weeks, and around 5:00min/km after 12 weeks. That would equal a time of  lt; 25minutes for a 5k, which is a fantastic milestone to break :)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Sweating</TITLE>
+    <DATE>2020-09-22 09:36:52</DATE>
+    <TEXT>Searching the web got me all kinds of confusing results so I wanted to see what people on this subreddit is experiencing. I don't normally sweat, but when I start to exercise I sweat incredibly much. After an hour of running I'm completely drenched and my hole face is covered in salt. Is anyone else experiencing this? It doesn't really bother me, but I do of course wonder sometimes if it is a condition or not. And if I had a choice I would probably rather -not- sweat this much when I run.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-22 11:30:49</DATE>
+    <TEXT>Yeah, I use a towel in the gym as well.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-22 11:31:23</DATE>
+    <TEXT>I think I will try the same</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-22 13:10:06</DATE>
+    <TEXT>I will definitively try to measure how much I sweat, thanks for the advice!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-22 13:11:04</DATE>
+    <TEXT>I have actually been noticing that I almost faint when I stand up. Haven't given it much thought though, but seems logical that the two are connected</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-23 07:56:49</DATE>
+    <TEXT>The first thing I would do is to just try and run the scripts with the pypy-interpreter, most likely that would be enough to make a huge difference. Second step would be to analyze the runtime with a profiler to find the slow parts. A lot of the time it's just a single function that can be refactored or some work done that an optimized library can take care of. Of course, if you feel like you want to write something in c/c++ than you should most definitely do that, it's a good learning experience.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-23 07:59:14</DATE>
+    <TEXT>I used to struggle with the same thing, I was very bored on runs. The thing that made running fun for me was to _not_ listen to music. I guess listening to music stopped me from thinking about things</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-28 12:36:59</DATE>
+    <TEXT>A great rule of thumb is the 80/20 rule. 80% of your runs should be easy, 20% should be tempo. If your aim is to run almost half-marathon trail runs then a great place to start would be to build up your milage. Don't overthing it, the devil is not in the details. Start with 10k a week divided up in however many runs you want, all easy runs, and gradually increase it week after week. When you hit 25-30km/week you should go by the 10% rule just to stay free of injury. (increase weekly milage no more than 10% 3 times in a row, then go back 10% for the fourth week. Then repeat) What milage you want to run is not that important, but since you want to run 16k trail runs I would work up enough milage to atleast be able to do a 16-20k Slow long run each week, but also have enough milage left so that you can include som tempo run and short slow runs. About 40k a week should do. Adhering to the 80/20 rule that would mean 8k tempo and the rest slow. I spent way too much time thinking about how to train in the beginning, when there really isn't much to gain by optimizing your training program. I don't think people appreciate the fact that doing what motivates you can give greater returns than any training program will. Now-a-days I have a lot of different training variations and routes in my bag, and each day I try to do what I'm most motivated to do. Your body -- if you listen to it -- will tell you when you have taken one to many tempo runs and should do a rest-day or slow day. Strictly following a program might have you do a temporun when your body just aint ready for it.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-30 06:51:23</DATE>
+    <TEXT>Very well done! I got into running in the exact same way. Started to train for a half-marathon, but it got cancelled. So I ran my own and immediately started training for a fast 5k. The reason to train for a fast 5k is to gain some muscle and running economics to run faster with less effort. It's a lot harder to increase your speed than to increase your distance. Maybe that could be an idea for you too. Anyway, very well done and continue running :D</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-03 07:38:14</DATE>
+    <TEXT>You're body knows how to signal overtraining. As long as you don't ignore the signals you are not in any particular danger, especially in distance running.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-09 06:04:41</DATE>
+    <TEXT>Of course the code quality and performance will get better with experience, but I don't really think it is the best indicator for what level you're at in regards to programming. It has more to do with coding with confidence and being able to locate where you might run into problems.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-09 06:08:47</DATE>
+    <TEXT>I started running on March 2020, today I can do 5:30min/km pace for 21k without feeling like I'm going to die or struggle all the way. I am able to run 21k at sub 5:00-pace, but that does NOT feel easy At the beginning my threshold were at such a slow pace that I couldn't run any distance at all without getting winded and running into oxygen depth, but as soon as my threshold pace passed 6:00-5:30min/km I was able to run at that pace for as long as I wanted. Only then did it become "easy" to cover 21k for example. But of course, If I run at or above threshold pace 3k is still pretty damn hard.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  </INDIVIDUAL>

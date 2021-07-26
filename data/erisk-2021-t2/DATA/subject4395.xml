@@ -1,0 +1,495 @@
+<INDIVIDUAL>
+  <ID>subject4395</ID>
+  <WRITING>
+    <TITLE>This emblem was created about a year ago. Today I decided to share it with the community.</TITLE>
+    <DATE>2017-04-05 18:21:07</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-06-03 19:58:04</DATE>
+    <TEXT>Speed cuber's cubes are usually sold without stickers, or with unpasted stickers. So you can buy custom set. As for me, who has deuteranopia, it's not a problem, however I prefer moderate speed of solving.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-06-24 06:07:44</DATE>
+    <TEXT>The shell must be poisoned.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Please take few my emblems</TITLE>
+    <DATE>2017-06-24 20:25:01</DATE>
+    <TEXT>First of all: these emblems were created by me, you'll not find it anywhere else (apart from "Keep calm" poster, which I've shared before). So [emblem #1](https://emblem.battlefield.com/6EZJdJAofE), [preview](http://imgur.com/24ZUTt8). [Emblem #2](https://emblem.battlefield.com/3201qLKofE), [preview](http://imgur.com/ngzcb5x). [Emblem #3](https://emblem.battlefield.com/vGNWZDQofE), [preview](http://imgur.com/ZkNrzPF). I wish there are more PTFO players. Especially in my team. Especially in my squad. [Emblem #4](https://emblem.battlefield.com/hzav2pUofE), [preview](http://imgur.com/5jkOaXc). This should look awesome on a plane.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-06-24 20:41:38</DATE>
+    <TEXT>Because of recent netcode changes game experience on servers that aren't in your region became a pain.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>A couple of emblems you might like</TITLE>
+    <DATE>2017-06-25 20:41:11</DATE>
+    <TEXT>These emblems were created today. I hope you'll like them: * [Fried eggs](https://emblem.battlefield.com/8Qm2XsU4gE), [preview](http://imgur.com/qk48Oe7). * [Kukri](https://emblem.battlefield.com/zpqSOhY4gE), [preview](http://imgur.com/OOUvRmG) (IMO the Kukri is the coolest looking melee).</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>New emblem for tea lovers</TITLE>
+    <DATE>2017-06-26 17:54:42</DATE>
+    <TEXT>[Emblem](https://emblem.battlefield.com/6dbjSXcyiE), [preview](http://imgur.com/5MOXiPe).</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>I love flanking!</TITLE>
+    <DATE>2017-06-27 23:06:22</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-06-27 23:37:10</DATE>
+    <TEXT>Are you sure you've got more than 50 kills with bolt action rifles? If so you need to wait till 10 of July.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>M1911 emblem</TITLE>
+    <DATE>2017-06-30 17:47:56</DATE>
+    <TEXT>Browning model 1911 pistol emblem. [Emblem](https://emblem.battlefield.com/HRGGP9lbpE), [preview](http://imgur.com/RoalvoC).</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-06-30 18:09:06</DATE>
+    <TEXT>Try change skin in game. I have same issue with Lebel rifle.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>New emblem.</TITLE>
+    <DATE>2017-07-08 22:33:17</DATE>
+    <TEXT>[Emblem](https://emblem.battlefield.com/SmU443XMCE), [preview](http://imgur.com/Lsu0kq1). Attention! Noobs ahead!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Battlefield 1 I'll save you. No matter what.</TITLE>
+    <DATE>2017-07-16 09:37:12</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Is he a French spy?</TITLE>
+    <DATE>2017-07-21 20:52:45</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-07-21 21:16:19</DATE>
+    <TEXT>Squad XP boost will be given between 23 and 30 July (you need to log in during this time frame), dog tag will be available on 31st. https://www.battlefield.com/en-gb/news/article/join-the-summer-missions</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Plane? Quickly get into the building!</TITLE>
+    <DATE>2017-08-17 19:33:14</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-08-25 05:31:18</DATE>
+    <TEXT>As a driver you jumped out of a tank to repair it, but your teammate hijacked it. You has joined Operations on attacking team side, fighting 1st sector, when you have 5 tickets left of last battalion.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-08-26 06:52:56</DATE>
+    <TEXT>It is called a cast of type. Your url.openConnection() returns a reference of type URLConnection, whereas you want to assign it to the HttpURLConnection variable, a subtype of URLConnection. Since subtype can have additional methods, that are not declared in supertype, you need to cast supertype to a particular subtype. But be careful with casting, you need to be sure that reference you want to cast has correct type. You can check this with instanceof operator. Overall I'd suggest you to limit usage of type casts, to avoid runtime exceptions.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Question about ammunition</TITLE>
+    <DATE>2017-08-27 07:12:58</DATE>
+    <TEXT>Mosin-Nagant rifle, Russian 1895 and the obrez use same cartridge, the 7,62x54R. Why do they have separate ammo stacks? In theory having 30 rounds in rifle + 30 in obrez should give us 60 for both. Or it should be 30 rounds for both. Maybe Dice should make it 40-45 cartridges for both weapons?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Game settings synchronization</TITLE>
+    <DATE>2017-09-12 10:38:58</DATE>
+    <TEXT>It would be great to have settings synchronization for a profile among different titles (bf4, bfhl, bf1, bf1-cte). Game engine is essentially the same when it comes to the game mechanics settings (sensitivity, USA, keyboard/gamepad layout etc.). Having single settings profile will benefit players that play multiple battlefield titles, and make changes in settings from time to time. E.g. when BF1 was launched I had stick sensitivity = 50, then I've upped it to 60 in BF1, but my old BF4 profile still had 50. When I've started testing CTE it was a default 20, so i had to update it (along with tonnes of others), which was annoying.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Full house!</TITLE>
+    <DATE>2017-09-15 06:01:24</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-10-18 05:46:51</DATE>
+    <TEXT>You could also remember, that german scout and british medic have perfect, no accent voices too. I would like DICE rerecord them too (we know technically it is possible to have different voicing for different classes). But I bet DICE will not add new voice assets, cause it's an additional cost.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-10-19 13:37:36</DATE>
+    <TEXT>Maybe some of your bullets hit another enemy? Then overall you're dealing say 45 dmg to both, but for you it's shown as 90 dmg. Then one of them is killed and you're getting a kill assist.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-12-29 19:35:51</DATE>
+    <TEXT>The most 'funny' thing here is the match making. It is often tries to 'balance' the matches you've described by adding new players to the losing team, rather than move people from the winning team to the losing. So new joiner wants to have a good play experience but gets a lot of frustration and quits after 3-5 deaths without impact on a balance.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>New melee weapon proposition</TITLE>
+    <DATE>2017-12-29 19:57:45</DATE>
+    <TEXT>There are a lot of primary weapons in Battlefield 1 that have bayonet lug (in fact the majority apart from support, the Hellriegel and maybe a couple of others). During the Great War many of the bayonets were designed to be also hand held when not mounted on the firearm (maybe apart from spike bayonets). My question is why we still don't have a bayonet as a melee weapon? I think it would look cool.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-12-29 20:34:38</DATE>
+    <TEXT>Sure, but arditi dagger is short. What about a long bayonet like M1898 for Gewehr 98? I'm pretty sure soldiers preferred to use them detached, cause on the rifle they were too long to be any sort of a dangerous.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-04-05 15:50:33</DATE>
+    <TEXT>I've completed 300 codices out of 301. The only left is to get 10 freaking kills with this freaking axe.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Armored car controls</TITLE>
+    <DATE>2018-04-13 06:10:39</DATE>
+    <TEXT>**Platform** Confirmed of PS4, other platforms might be affected too. **Summary** Armored car controls are not affected by vehicle/transport settings in options menu. **Description** Yesterday I was playing on the shooting range testing different classes/vehicles. I'm using custom keybinding for vehicles, based on the Veteran preset (where L2/R2 are used to move backward/forward). For tanks it works perfectly, however Armored vehicle is not using these settings. I've tried to change Transport vehicle settings too, but it didn't help. After a while I found that the car use the same setting as Soldier. **Steps To Reproduce** 1. Login to the shooting range. 2. Change vehicle/transport/soldier control settings 3. Spawn in an armored vehicle **Link To Images Or Videos** No images/videos, as it's easy to reproduce.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-04-15 07:58:47</DATE>
+    <TEXT>Had the same issue last night. Ranked matchmaking.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Class balance/variation</TITLE>
+    <DATE>2018-04-15 19:31:09</DATE>
+    <TEXT>The majority of the times the choice of the kits people make is Raid Leader + Battle Mechanic + Trench Surgeon + 2 other kits. It makes sense from the team's strength to have one vehicle operator who can self repair, one reviver and one who can deploy portable spawns. However it means that 7 other classes have only two slots and overall variability is poor. To solve that it might be good to rethink class' balance, add new vehicles/leader/reviver classes.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-04-15 20:58:25</DATE>
+    <TEXT>Not sure about my rank, I've just started to play on PS4. In my personal observation 90% of the time both teams have the three classes I've mentioned before. Maybe it's just coincidental and real distribution is different. Anyway I think DICE has all the stats about kits popularity so they can tweak balance if needed.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Ace King emblems</TITLE>
+    <DATE>2018-04-17 22:27:13</DATE>
+    <TEXT>Hi all! I wanna share with you few of my emblems: * [AK Spades](https://emblem.battlefield.com/HLxkT02tcM), [Preview](https://i.imgur.com/51R6hIu.png). * [AK Hearts](https://emblem.battlefield.com/TyBMP66tcM), [Preview](https://i.imgur.com/G9zNZqr.png). * [AK Clubs](https://emblem.battlefield.com/dEzPjU9tcM), [Preview](https://i.imgur.com/XRLcgIN.png). * [AK Diamonds](https://emblem.battlefield.com/HvjwZCcucM), [Preview](https://i.imgur.com/zVB42aW.png).</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Bullet hit distribution looks biased to the edge of the spread cone.</TITLE>
+    <DATE>2018-05-01 12:53:16</DATE>
+    <TEXT>**Platform** Playstation 4 **Summary** Bullet hit distribution looks biased to the edge of the spread cone. **Description** From what i know the spread cone has the size of the inner tips of the crosshair. Also according to the symthic.com the distribution of the hits inside this cone is uniform for non-shotgun weapons. However I've collected an evidence of big bias towards the edge of the cone. Please look at the clip (link below). In the first part I shoot at enemy's head. I've chosen the distance that way that his head takes the majority of the inner crosshair area. Note I'm using playstation zoom feature (square + PS button) to precisely position the crosshair. Sometimes I miss four shots in a row before hitting the head. On the second part I shoot the wall in single fire mode with delays to restore the aim position. The points of impact tend to the edge of the inner crosshair area. On the last series of shooting i even got a circular pattern, not even hitting the center area once. I've raised a ticket on the bug tracker already: https://www.bftracker.com/view.php?id=5259 **Steps To Reproduce** Shoot wall in a single shot mode multiple times and see the pattern. **Link To Images Or Videos** https://youtu.be/TWrpfRMLWK8</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>DICE please... NO!</TITLE>
+    <DATE>2018-05-02 15:57:38</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-05-20 06:00:05</DATE>
+    <TEXT>I tried BF4, and realized I can't play, cause the deadzone on sticks are huge and cannot be adjusted(on BF1 I set them low). So I hope the deadzone sliders gonna make it into BFV.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Let's enjoy the Battlefield V Reveal Trailer again!</TITLE>
+    <DATE>2018-05-24 20:33:49</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-06-29 10:57:07</DATE>
+    <TEXT>Oddly satisfying</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-07-03 05:59:34</DATE>
+    <TEXT>Thanks! Now tell me how to deal with the friendly heavy bomber.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Question about M1911 Codex</TITLE>
+    <DATE>2018-07-07 19:22:51</DATE>
+    <TEXT>There are several variants of the M1911 handgun, namely M1911, the Hellfighter, the Doughboy, M1911A1, M1911 Silenced, M1911 Extended. What variants count to progress to M1911 Elite Codex?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-07-19 19:21:19</DATE>
+    <TEXT>Jeden to arb #243;z, a kilka - arbozowie.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-07-25 08:30:31</DATE>
+    <TEXT>Interesting, why is that? What the pitfalls are? Doesn't look like the hard to implement logic.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Curing the campcancer with the Kolibri</TITLE>
+    <DATE>2018-08-15 07:49:11</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-08-15 12:03:30</DATE>
+    <TEXT>You can't even imagine how much frustration was left behind the scenes.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-08-15 14:49:37</DATE>
+    <TEXT>Good to know, thanks. The reason I'm using dynamite is that's require 3~5 kolibri shots to explode, when AT mine needs about 2 mags.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-08-15 18:21:40</DATE>
+    <TEXT>Kolibri is too weak to detonate the AT mine, it requires 2\~3 mags, whereas the dynamite needs 3\~5 shots to explode.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Sniper's tactical awareness at its best</TITLE>
+    <DATE>2018-08-19 16:29:21</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-08-24 09:32:53</DATE>
+    <TEXT>If you think you're good at something, there's already an asian, who do it better.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-08-29 13:25:32</DATE>
+    <TEXT>Try to raise a request on https://help.ea.com/en/contact-us/?product=battlefield-1 amp;platform=ps4 . They are usually fix that kind of issues quite fast.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-08-29 16:24:14</DATE>
+    <TEXT>Well, that sucks. I hope you will have your dud club at the end of the day.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>What do you call when someone eats oriental food on the tennis court?</TITLE>
+    <DATE>2018-08-29 16:27:55</DATE>
+    <TEXT>Thai break.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-09-10 13:05:24</DATE>
+    <TEXT>I have color blindness (deuteranopia), the orange bar over grey circle is quite hard to see for me, so yeah, would be great to have numbers too.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-09-10 17:29:36</DATE>
+    <TEXT>Thanks, but there's no news for me. In fact I use custom color scheme, but it affects only ingame player icons.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-09-12 10:09:45</DATE>
+    <TEXT>I don't think it can be easily achieved. It all depends on the server tick rate. Now it is about 48~60 hz. Having that big maps like in battlefield with 64 players, vehicles, destructible environment and bullet ballistics requires lots of data to be transferred both ways. Increasing the tick rate will not only increase the amount of data exchanged with the server, but also the load on your PC/console and server.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-09-22 15:10:19</DATE>
+    <TEXT>Saw yesterday Ravic shoot thru the sand bags with bolt action</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-10-01 08:03:18</DATE>
+    <TEXT>OO looks like Trump</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-10-05 09:48:57</DATE>
+    <TEXT>Each walkthrough is always different.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-10-25 12:48:08</DATE>
+    <TEXT>Flying tanks is no joke</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>106 DMG dealt, 10 HP left</TITLE>
+    <DATE>2018-11-02 19:58:40</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-11-03 06:30:07</DATE>
+    <TEXT>There's recorder built in in ps4. It records last 15 min of gameplay.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>ISO 8601 World Distribution</TITLE>
+    <DATE>2018-11-11 18:10:51</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-11-11 19:20:00</DATE>
+    <TEXT>No, it's not!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-11-18 22:15:39</DATE>
+    <TEXT>Defective pikachu</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-12-15 11:15:50</DATE>
+    <TEXT>Also going prone and trying to shoot enemies, but instead shooting dirt/rocks slightly below your point of aim. Also going prone instead of vaulting over. Also spawning on your flag in the middle of the group of enemies and getting insta killed. Also not being able to build fortification due to being 1cm too far or whatever the reason is.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Tides of War matchmaking is inconsistent</TITLE>
+    <DATE>2018-12-25 09:05:05</DATE>
+    <TEXT>Imagine I'm going to do the ToW challenge related to the planes. I go to the ToW menu, select the challenge (say Air superiority) and press play. Half of the times game connects me to the maps without airplanes like Rotterdam. Why? Isn't it enough for the game to understand that if I pick airplane related challenge I would like to get to the appropriate server? Same applies to the land vehicle challenges. Same was the case through the previous week challenges. Could it be addressed?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Why can't we choose/setup vehicles when they are not available?</TITLE>
+    <DATE>2018-12-28 18:30:46</DATE>
+    <TEXT>In BF1 it was quite disappointing when you was able to choose vehicle and it's package only when it becomes available on the spawn, cause you literally didn't have enough time to select what you want before someone simply *steals* it. Then DICE fixed this and let us to select vehicle loadout whenever we want. Now BFV is live and we are starting from the scratch. Why DICE often change things that were good already (usually making them worse)? Could we even expect this will be addressed?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-12-31 10:07:02</DATE>
+    <TEXT>Yeah, sure. Let's make visibility even bigger of a problem, than it is now.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-01-01 20:23:25</DATE>
+    <TEXT>RTX on</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-01-14 16:09:41</DATE>
+    <TEXT>Technically, the plot of parametric equation can give curve that goes backwards, but this is definitely not the case here</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-01-16 18:47:50</DATE>
+    <TEXT>Would snowflake punch you right in the face?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-01-24 16:47:14</DATE>
+    <TEXT>It's a fractal swan.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-02-12 12:07:04</DATE>
+    <TEXT>Despite all the bugs, I like Battlefield V.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-02-17 10:56:15</DATE>
+    <TEXT>Please tell me there's a petition to fix that</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-02-25 13:50:32</DATE>
+    <TEXT>Mg 15 na suppressive, and I get 10~20 kills before the behemoth is down.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>A treasure map we drew with my son three years ago</TITLE>
+    <DATE>2019-03-11 18:30:29</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>A treasure map we drew with my son three years ago</TITLE>
+    <DATE>2019-03-12 06:06:54</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-22 19:22:11</DATE>
+    <TEXT> #1047; #1072; #1087; #1086; #1084; #1085; #1080; #1090; #1100; (zapomnit) to zapamienta #263;.  #1054; #1074; #1086; #1097; #1080; (owosi) to warzywa.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-22 20:03:11</DATE>
+    <TEXT>Hot swap</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-26 20:53:23</DATE>
+    <TEXT>You should really stand behind it with laptop/phone with photo of the MP40 hysteria and say "Look guys what I have".</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-28 06:06:10</DATE>
+    <TEXT>Sent request too. Psn: subject4395</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Volume of commodity circulation between Belarus and Austria</TITLE>
+    <DATE>2019-03-30 08:22:25</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-30 08:26:01</DATE>
+    <TEXT>Credits to telegram channel @belamova</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-04-06 15:35:41</DATE>
+    <TEXT>According to belamova channel, they deleted old video with that barplot, and uploaded correct one.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  </INDIVIDUAL>

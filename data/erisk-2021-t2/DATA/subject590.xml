@@ -1,0 +1,688 @@
+<INDIVIDUAL>
+  <ID>subject590</ID>
+  <WRITING>
+    <TITLE>Novel ideas to improve tournaments</TITLE>
+    <DATE>2018-07-12 00:45:13</DATE>
+    <TEXT>Hi all, I'm running a local tournament in a few weeks and looking for some good novel ideas. This is our 7th year running, so we've got all the basics running smoothly. Mostly interested in some cool/memorable/interesting things we could do differently on top of the standard stuff. If you've ever thought wouldn't it be cool to have ... at a tournament, or why don't they ... at tournaments, etc.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-07-20 07:10:56</DATE>
+    <TEXT>Although it's self directed, I tend to think it's a bad look. Specifically in relation to SOTG, it comes under bad spirit in the category of self control and positive attitude (source http://wfdf.org/sotg/spirit-rules-a-scoring).</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-08-03 08:24:08</DATE>
+    <TEXT>Yes, this is definitely legal under WFDF rules. You can't intentionally mac to yourself as you can unfairly gain yards. I can't see an obvious reason why you would want to though, unless you practised a lot and got very good at it ;)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-08-24 02:52:24</DATE>
+    <TEXT>One of my favorites: https://www.youtube.com/watch?v=B-0Z0W6bgZo Talented players, exciting plays, and great production quality</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-09-26 03:51:19</DATE>
+    <TEXT>It will be very beneficial to have an honest chat with some of the women that you play with regularly. Ask them how they feel about how you play and behave. If you are looking for articles, try and read from female authors. From reading the previous replies on this thread, it seems that they are male voices (apologies if my assumptions are incorrect). There are some great points, but they all seem to be missing a component of perspective. I (a male player) have improved my understanding of the mixed game from listening and empathising to female players on the teams I have played with.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-10-23 06:16:51</DATE>
+    <TEXT>Really enjoying the podcasts :) They're great. There's a small typo on your Patreon page: the links to your website are r/https://emacscas.org.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-11-04 23:44:20</DATE>
+    <TEXT>You may find `Latexmk` interesting. It is a perl script that compiles latex. If you spin up a separate terminal and use the command: latexmk -pdf -pv example.tex it will compile your document into a pdf. Pretty handy, but, if you use: latexmk -pdf -pvc example.tex it will watch your tex file and every time it is updated (saved) it will recompile. This means that you can use vim to edit, and the document will recompile on each save. Just have to make sure your pdf reader can automatically update. [Latexmk docs](https://mg.readthedocs.io/latexmk.html)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-11-11 01:49:11</DATE>
+    <TEXT>All you have to do is add the `ybar` option to the axis. See code below. I have assumed the `trial` column of your data is non-numeric. If it is just numbers, there is no need to include the `symbolic x coords` or `xticklabels` options. Just included them as a demonstration. \documentclass[border=12pt]{standalone} \usepackage{pgfplots} \usepackage{tikz} \usepackage{filecontents} \begin{document} \begin{filecontents}{procdata.txt} trial molburn a 10 b 13 c 8 d 12 e 9 \end{filecontents} \begin{figure} \centering \begin{tikzpicture} \begin{axis}[ xlabel={Trials}, ylabel=Moles ethanol burned, legend pos=north east, legend entries={Concrete}, %% v Add this code v ---------------------------------------- ybar, ymin=0, symbolic x coords={a,b,c,d,e}, xticklabels={trial,Trial a,Trial b,Trial c,Trial d,Trial e}, %% ^ Add this code ^ ---------------------------------------- ] \addplot table [x=trial,y=molburn] {procdata.txt}; \end{axis} \end{tikzpicture} \end{figure} \end{document}</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-11-25 23:16:06</DATE>
+    <TEXT>Wrapping it in curly brackets should work: author = {{University of Leeds}},</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-11-26 01:50:18</DATE>
+    <TEXT>As ernesthutinson said, you are trying to add an Integer to a String which will cause an error. You can convert to a string using str(), use the format method (example below) or if you're using Python  gt;=3.6 f-strings. It is also common in Python to use a `with` block for writing/reading files. This takes care of closing the file and can help with readablility. year = 2016 while year  gt; 2012: filename = 'Year' + str(year) with open(filename, 'w') as f: f.write('This is a test. The year is {}'.format(year)) year -= 1</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-12-10 02:58:24</DATE>
+    <TEXT>Here is a talk on running emacs in a VM on Windows. The speaker uses Arch linux and shares important folders from the Windows host. I've also given the link to his repository. Video: https://www.youtube.com/watch?v=RDrG-_kapaQ Repo: https://github.com/abrochard/spartan-arch Edit: formatting</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-12-12 00:23:05</DATE>
+    <TEXT>Within your axes environment, you can add the line (adding after line 123 of your example code): \addplot[red,domain=1:4,samples=2] {-0.01675*x + 0.472875}; The domain values give you the xmin and xmax of the line. The regression line doesn't seem to match the plot in your example though...</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-12-13 00:31:01</DATE>
+    <TEXT>[https://lmgtfy.com/?s=d amp;q=install+debian+without+gui](https://lmgtfy.com/?s=d amp;q=install+debian+without+gui)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-01-18 01:03:44</DATE>
+    <TEXT>The answer to this question is available on the README of the [org-bullets](https://github.com/sabof/org-bullets) package. You should add this line to your init file: (add-hook 'org-mode-hook (lambda () (org-bullets-mode 1)))</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-01-25 22:52:54</DATE>
+    <TEXT>There's a talk about creating spacemacs style keybindings here: https://www.youtube.com/watch?v=6INMXmsCCC8</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-01-31 03:22:49</DATE>
+    <TEXT>I use Emacs on windows for writing LaTeX and am quite happy with it. I don't use auctex. I do use reftex, helm-bibtex and a custom elisp function that uses latexmk to create a live preview (on save) which I view in SumatraPDF. I could never install it, but what is the benefit of auctex?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-02-08 02:00:48</DATE>
+    <TEXT>You might be interested in this video: [https://www.youtube.com/watch?v=UCEXY46t3OA amp;t=433s](https://www.youtube.com/watch?v=UCEXY46t3OA amp;t=433s) It's not specific to emacs, but it would probably be very easy to implement in helm/ivy.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-02-12 06:18:27</DATE>
+    <TEXT> gt;What are some good ways to eliminate this behaviour As you did, you have every right to tell the handler they are being double teamed so that they can call it themselves (at least under WFDF rule-set). Additionally, if it happens more than once and it is clearly intentional, I would bring it up with the player between points as it is in violation of the spirit of the game (WFDF 1.2 - It is trusted that no player will intentionally break the rules). Because of the way the SOTG is implemented, there are many rules which can be broken with no significant consequences. Therefore the best way to stop poor spirited play is to engage them in a calm discussion and hope they're not a complete jerk.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-02-15 01:53:03</DATE>
+    <TEXT>Manly Summer Series 2 is on 3rd March. [http://manly.ultimatecentral.com/e/2019-manly-summer-series-2](http://manly.ultimatecentral.com/e/2019-manly-summer-series-2) No need to bid, you can just register, although I don't think it will be USAU sanctioned.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-02-15 11:43:46</DATE>
+    <TEXT>I'm not really sure how to get Emacs to find the subsystem programs, but maybe this will help: you can actually run a wsl command on the cmd/ps prompt by prefixing with wsl. Eg: wsl ls | wsl wc -l Another solution, which I use, is to install the native ports of gnu programs. I use scoop.io and have grep, gawk, sed, coreutils, etc installed. Works fine with Emacs. Edit: fixed typo</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-04 01:08:25</DATE>
+    <TEXT>scintillating</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-28 01:22:49</DATE>
+    <TEXT>`evil-mode-line-tag` should work. Here is a minimal example that works for me: (setq-default mode-line-format '(:eval (format-mode-line (list evil-mode-line-tag ; evil state indicator " %b" ; filename " (%m)" ; major mode )))) Without seeing your code, perhaps you've forgotten the `:eval` wrapper?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-04-04 05:07:30</DATE>
+    <TEXT>I prefer to have better control over the text, so usually don't opt for any auto-running indentation package. Instead if I want emacs to automatically apply indentation I use `evil-indent` which is bound to `=` (vanilla emacs with evil-mode, but I assume it's the same for spacemacs).  #8203; It works as a verb, so `=ip` auto-indents in the paragraph, `=G` and `=gg` indents to the bottom and top of the buffer respectively. `==` indents the current line.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-04-04 23:30:15</DATE>
+    <TEXT>The documentation for `evil-indent` is in emacs (`C-h k =`, then click on `evil-commands.el`). It acts as an operator/verb. The `ip`, `G` and `gg` are vim motions. Perhaps the vim documentation is the best place to read about this (there are plenty of blog posts as well).</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-04-26 01:01:03</DATE>
+    <TEXT>I had this problem a while ago. It was solved by a stack overflow user here: [https://emacs.stackexchange.com/questions/38596/make-evil-paragraphs-behave-like-vim-paragraphs](https://emacs.stackexchange.com/questions/38596/make-evil-paragraphs-behave-like-vim-paragraphs)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-05-01 01:52:37</DATE>
+    <TEXT>Your suggestion is not very empathetic to the person that commits the crime. I believe that, in general, we don't have "criminals"/"bad people" that commit crimes unless deterred. Rather we have people that are forced into crime by the combination of the culture they are surrounded by and their circumstances which often leave them vulnerable and desperate.  #8203; With this view in mind, it seems reasonable that we can try to rehabilitate the people that have fallen into crime, rather than making them more fearful, desperate, and helpless. There is of course another type of criminal that arises from mental health issues, where again I think that rehabilitation and proper mental health support is a better solution than just locking them up forever.  #8203; I don't know if you've looked into the effectiveness of your solution. I'm sure there are countries that currently have harsher laws that you could do research on. I would be very surprised if this was effective. I am aware that countries with very successful prison systems (ie. Norway) treat prisoners very compassionately. [https://www.businessinsider.com.au/why-norways-prison-system-is-so-successful-2014-12?r=US amp;IR=T](https://www.businessinsider.com.au/why-norways-prison-system-is-so-successful-2014-12?r=US amp;IR=T)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-05-04 07:37:02</DATE>
+    <TEXT>Never tried it, but have you looked at nEXT browser? https://github.com/atlas-engineer/next</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-05-29 10:50:29</DATE>
+    <TEXT>Very sad to hear this :( I've been playing with the Ultimate crew in Wollongong for a few years and this doesn't reflect my experience. There's recently been a bunch of new players come in through UOW Ultimate who train every Monday night at the uni. The uni guys and girls are pretty good with bringing in beginners so it would be a great time to join. Don't need to be enrolled at uni to come to trainings. Check out the UOW Ultimate Frisbee facebook page if you want to get in touch.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-06-13 06:31:48</DATE>
+    <TEXT>To me it looks like it is not an issue with orgmode, but with the line numbers (it is adding extra padding on the left of the line numbers). I don't get the same issue. I'm using: (display-line-numbers-mode) (setq display-line-numbers 'relative) This will only work for emacs version  gt;= 26.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-18 07:16:38</DATE>
+    <TEXT>Emacs has a different naming system for windows and buffers than other popular programs. Your question should translate to: "when I have a frame with 3 windows open" (you want to switch between windows, not buffers). You might find ace-window solves this problem: [https://github.com/abo-abo/ace-window](https://github.com/abo-abo/ace-window)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-08-06 04:19:12</DATE>
+    <TEXT>Two things you should try: 1. You need to choose a document class with `\documentclass{XXX}` 2. You should use curly braces `{}` not parenthesis `()` in your begin/end lines Try this: \documentclass{article} \begin{document} Test \end{document} Edit: formatting</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-08-13 05:28:50</DATE>
+    <TEXT>For WFDF rules here is the decision diagram: [https://rules.wfdf.org/images/Diagrams/Pick%202017.jpg](https://rules.wfdf.org/images/Diagrams/Pick%202017.jpg) For scenario 1: if the disc was thrown or the thrower was in the throwing motion when the pick was called, play should continue to establish possession. Hence turnover. If the disc was thrown after the call then it would go back as the receiver left it, which affected the outcome. (Follow the branch of: \[disc thrown\] - \[completed: no\] - \[pick called during/after throw\]) For scenario 2: The disc will go back to the thrower if the pick affected possesion. If not (ie. the defender thinks the O would still have the disc, but they should be closer) then they catch up but the O player keeps the disc. (Follow the branch of: \[disc thrown\] - \[completed: yes\] - \[pick affected possession: yes/no\]</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-08-15 03:52:54</DATE>
+    <TEXT>In emacs this is a mode called `global-hl-line-mode` You can either use `M-x global-hl-line-mode` or execute `(global-hl-line-mode 0)` (if you want to pop it in your config)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-08-16 06:04:26</DATE>
+    <TEXT>The rules don't seem to explicitly address this situation, but here is my interpretation: Relevant rule:  gt;**13.4.** If a fast count occurs in such a manner that the offence does not have a reasonable opportunity to call fast count before a stall-out, the play is treated as a contested stall-out ([9.5.3](https://rules.wfdf.org/rules/2017/15-9-stall-count#953)).  gt;  gt;13.4.1. If the thrower contests a stall-out but also attempts a pass, and the pass is incomplete, then the turnover stands and play restarts with a check. In your case, 13.4.1 is invokes as the thrower throws the disc, however, as it is completed, the play stops the thrower marker should resolve the stall-out call. I think that the second pass occurs after the stoppage of play, so it has no effect. When you say:  gt;if players agree the stall out call did not affect the subsequent passes (no one heard the stall) I think only affects the first 'pass', not 'passes' The rule set can be found here: [https://rules.wfdf.org/rules/2017/19-13-turnovers](https://rules.wfdf.org/rules/2017/19-13-turnovers)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-08-26 23:09:22</DATE>
+    <TEXT>Nah  gt;**14.1.** A goal is scored if an in-bounds player catches a legal pass and all of their first simultaneous points of contact after catching the disc are entirely within their attacking end zone (note [12.1, 12.2](https://rules.wfdf.org/rules/2017/18-12-receivers-and-positioning)). where a catch is defined as:  gt;**12.1.** A player  #8220;catches #8221; the disc by demonstrating sustained control of a non-spinning disc. He may have stopped the spin, but didn't sustain control ;) Would take a party pooper to call it down, but that party pooper would be justified.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-08-27 04:02:32</DATE>
+    <TEXT>Unless I'm mistaken, this clip is from the EUCR in the UK so I would assume WFDF rules. That means that there are no "trained officials" that have the power to make calls. It is up to the players to decide. I don't think the strip call analogy is relevant here, as in that case a player is prevented from demonstrating sustained possession by being fouled. The absence of clear time duration is a good point, but I don't think that the split second the disc was stopped in their hands was enough time to demonstrate sustained possession (keyword being "demonstrate"). That said, I wouldn't be challenging the goal if I was there. It's just fun to nitpick the rules a bit, and I'm not a fan of showboating ;)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-09-12 04:25:44</DATE>
+    <TEXT> gt; give me errors such as "invalid function: "C-c a". Seems like the issue might be your keybindings not working. What if you try changing: (global-set-key "\C-ca" 'org-agenda) to: (global-set-key (kbd "C-c a") 'org-agenda)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-09-17 05:00:59</DATE>
+    <TEXT>Duct tape around the top of the compression shorts?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-09-23 01:44:41</DATE>
+    <TEXT>Here's a start. Still need to adjust quotation mark postioning and row heights, but I've run out of time. \documentclass[11pt]{article} \begin{document} Thus \emph{e.g.} \hspace{15mm}`` \begin{tabular}{ c | c | c } p  amp; q  amp; \\ \hline\hline T  amp; T  amp; T \\ \hline F  amp; T  amp; T \\ \hline T  amp; F  amp; \\ \hline F  amp; F  amp; T \\ \hline \end{tabular} '' \hspace{40mm} is a propositional sign \end{document}</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-02 05:14:46</DATE>
+    <TEXT>If you search "emacs linum mode" the first result (emacswiki) gives you the answer: [https://www.emacswiki.org/emacs/LineNumbers](https://www.emacswiki.org/emacs/LineNumbers) You should set the linum format like so: (setq linum-format "%d ") ;; Integer followed by space (setq linum-format " %d ") ;; Space followed by integer, followed by space By the way, if you are using emacs version  gt;=26 you should look at using the built in `display-line-numbers-mode` rather than `linum-mode`</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-08 23:14:53</DATE>
+    <TEXT>Yes - gt; [https://melpa.org/#/helm-posframe](https://melpa.org/#/helm-posframe)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-15 21:49:24</DATE>
+    <TEXT>AFDA (Australia) recently switched the title from "Open" to "Men's", but still allow women to play in the Men's division.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-18 03:00:42</DATE>
+    <TEXT>While I was in the South Island (couple years ago), the main communities were in Christchurch, Neslon Bay and Dunedin. There's a stunning disc golf course in Queenstown, but not sure if there's much of an ultimate community. Might be worth trying r/KiwiUltimate though.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-20 23:56:03</DATE>
+    <TEXT>I'd suggest having a look at a few man pages. Type `man rm` to see how to use the `rm` command. For your first case `-rf` does not mean "remove files". It means run rm with the OPTIONS `-r` and `-f` (they are described in the man page). `*` is the FILE(s). To understand the `*`, look up globing (Wikipedia has a fairly simple description). Edit: Might help to know that you can scroll within a man page using Up/Down arrows (or j/k keys)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-11-01 02:50:34</DATE>
+    <TEXT>This question doesn't really have anything to do with LaTeX... It looks like you are having trouble using vim. I'd suggest watching some vim beginner tutorials on youtube and/or use vimtutor. (Step 5). "i" puts you in insert mode, so you can start typing text into the buffer. You actually want to give vim a command, so after starting vim press ":" then type "e newfile.tex" (it should show up on the bottom row). If you're just transitioning from overleaf to local latex compilation, I'd probably suggest using something like Atom or VSCode rather than vim. vim is very different from any other text editors you may have used before; although once you do learn it, it's very useful.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-11-06 21:15:15</DATE>
+    <TEXT>Pandas `to_latex` converts DataFrames to latex tables. Combined with `load_csv` one could replicate OCs package in a few lines. [https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to\_latex.html](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_latex.html)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-11-07 04:14:24</DATE>
+    <TEXT>You could create a `.projectile` file ([https://www.projectile.mx/en/latest/projects/#ignoring-files](https://www.projectile.mx/en/latest/projects/#ignoring-files)) with `!*.pdf`</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-11-12 02:14:03</DATE>
+    <TEXT>\documentclass[border=6pt]{standalone} \usepackage{tikz} \usepackage{pgfplots} \begin{document} \begin{tikzpicture} \begin{axis}[ width=16cm, height=5cm, xmin=0, xmax=10.2, ymin=-1.3, ymax=1.3, axis lines = left, ] \addplot [domain=0:9.2,samples=700,blue] {sin(deg(x))} node[right] {$\sin{(x)}$}; \addplot [domain=0:9.2,samples=700,blue] {cos(deg(x))} node[right] {$\cos{(x)}$}; \addplot [domain=0:9.2,samples=700,blue,dashed] {sin(deg(2*x))} node[right] {$\sin{(2x)}$}; \addplot [domain=0:9.2,samples=700,blue,dashed] {cos(deg(2*x))} node[right] {$\cos{(2x)}$}; \end{axis} \end{tikzpicture} \end{document}</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-11-13 03:21:14</DATE>
+    <TEXT>Don't know about best way, but here's an example from the [Spacemacs beginner tutorial](https://raw.githubusercontent.com/syl20bnr/spacemacs/master/doc/BEGINNERS_TUTORIAL.org). If you search for the the Getting Started section, you can see they surround the sequences in tildes (i.e. `~C-c C-f~`)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-11-15 01:14:05</DATE>
+    <TEXT>You can use the package `titling` to define a custom `\maketitle` command. Here's a basic example: \documentclass{article} \usepackage{titling} \title{Example title} \author{John Doe} \date{\today} \renewcommand{\maketitle}{ {\centering {\Large \textbf{\thetitle}} \vspace{4pt} \emph{By \theauthor, \thedate} \vspace{10pt}} } \begin{document} \maketitle First paragraph of text\ldots \end{document}</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-11-15 02:23:54</DATE>
+    <TEXT>Not really sure what the best way is, but a simple search like "latex suppress citation reference" brings up a few options. Here's a hacky way that might work: [https://brianbuccola.com/how-to-cite-in-latex-without-the-citation-appearing-in-the-bibliography/](https://brianbuccola.com/how-to-cite-in-latex-without-the-citation-appearing-in-the-bibliography/) Otherwise, since it's only 4 pages, you can just replace \\cite{citekey} manually with the citation (Author 2019).</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-11-19 00:45:54</DATE>
+    <TEXT>Here's a snippet modified from my init file to suit your needs. It doesn't use counsel-compile. Instead it saves the current file, creates a buffer \*Python output\*, runs the file in python, then prints the output to the \*Python output\* buffer. (defun my-run-with-python () (interactive) (let ($fname $cmd-str $outputbuffer) (when (not (buffer-file-name)) (save-buffer)) (when (buffer-modified-p) (save-buffer)) (setq $fname (buffer-file-name)) (setq $cmd-str (concat "python \"" $fname "\"")) (setq $outputbuffer (concat "*Python output*")) (message (concat $cmd-str ": executed." )) (async-shell-command $cmd-str $outputbuffer))) I should give credit to Xah: [http://ergoemacs.org/emacs/elisp\_run\_current\_file.html](http://ergoemacs.org/emacs/elisp_run_current_file.html) which is where I took the idea from.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-11-19 23:34:04</DATE>
+    <TEXT>Thanks for the tips :)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-11-25 10:03:18</DATE>
+    <TEXT>http://swcarpentry.github.io/git-novice/ Try the software carpentry tutorial to learn git. You can probably try follow along in magit.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-11-28 05:19:33</DATE>
+    <TEXT>I use #1 but install a bunch of linux tools using scoop ([https://scoop.sh/](https://scoop.sh/)). scoop install ack coreutils curl emacs gawk git grep sed touch wget Should get you most of the way to what you're after.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-03 06:01:54</DATE>
+    <TEXT>It's an ELPA package called minimap ([https://www.emacswiki.org/emacs/MiniMap](https://www.emacswiki.org/emacs/MiniMap))</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-03 06:06:53</DATE>
+    <TEXT>org-bullets will give you unicode symbols to replace the asterisks. which-key will give you key-chord hints.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-09 06:10:53</DATE>
+    <TEXT>This works fine: \documentclass{article} \usepackage{tikz} \begin{document} \begin{figure} \centering \begin{tikzpicture} \draw (0,0) rectangle (1,1); \draw (0,0) -- (1,1); \end{tikzpicture} \caption{This is the caption} \label{fig:figure} \end{figure} \end{document} There must be some other problem. I'd suggest looking through your .log file (search for 'error') to try and see what's gone wrong.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-10 00:14:06</DATE>
+    <TEXT>`C-x 4 b` runs the command `switch-to-buffer-other-window`, so you can change the "auxiliary" buffer from the "main" buffer. It does move the point to the new buffer, so might not be exactly what you're after. You can also `C-x 4 f` to find file in the other buffer.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-10 00:20:22</DATE>
+    <TEXT>How would this differ from something like markdown- gt;latex via pandoc or org-mode- gt;latex via emacs?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-11 05:37:44</DATE>
+    <TEXT>Without being able to see the compiled document, I will assume that the figure is on a page by itself and at the bottom. If this is the case, you should change this line: \begin{figure}[hbt!] the `hbt!` means that it tries to put the figure here, bottom, top, (can't remember what the ! is for) - in that order. If there is no space to put the figure 'here', it would move it to the next page and put it at the bottom. You can change it to `htb!`, or just remove everything in (and including) the squares braces to use the default figure placement.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-11 06:44:13</DATE>
+    <TEXT>Yes, OP can replace: First paragraph text. \\ \\ \noindent Next paragraph test with: \usepackage{parskip} % Put this in the preamble First paragraph text. Next paragraph test</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-12 00:42:11</DATE>
+    <TEXT>Maybe a bit convoluted, but it works: \documentclass[border=1cm]{standalone} \usepackage{tikz} \pgfdeclarelayer{back} \pgfsetlayers{back,main} \begin{document} \newcommand{\squarefills}[3]{ \ifnum #2=#3 { \filldraw[fill=black!50, draw=none] (#1) rectangle +(1,1); }\fi } \newcommand{\squareoutline}[2]{ \filldraw[fill=none, draw=black] (#1,#2) rectangle +(1,1); } \newcommand{\squares}[1]{ \foreach \x/\y in {1/2,0/1,2/1,1/0,4/0,4/2}{ \begin{pgfonlayer}{back} \foreach \n in {#1} { \squarefills{1,2}{0}{\n} \squarefills{0,1}{1}{\n} \squarefills{2,1}{2}{\n} \squarefills{1,0}{3}{\n} \squarefills{4,0}{4}{\n} \squarefills{4,2}{5}{\n} } \end{pgfonlayer} \squareoutline{\x}{\y} } } \begin{tikzpicture}[scale=0.5] \squares{1,2,5} \end{tikzpicture} \end{document}</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-13 04:19:14</DATE>
+    <TEXT>The way that it works it by separating the drawing of the outline and the drawing of the "fill" since each square needs an outline regardless of whether it is filled or not. Hopefully I can explain it here: Loops over each x/y coordinates: Loops over each of the inputs to \squares (1, 2, 5 in this case): If the second and third args are equal, it draws the fill of that square (no outline) eg. for \n = 1 \squarefills{0,1}{1}{\n} has second and third args equal, so it draws the fill. Same for 2 and 5. Now we have three black(gray) fills and no outlines, so we draw the outline for every square with \squareoutline{\x}{\y} You can certainly use if/thens inside tikz. I just put them in the commands to avoid repetition. My solution is a bit ugly. My problem was that the computer doesn't know that (1,2) is the 0th square, (0,1) is the 1st, etc. If there was something similar to Python's enumerate in tikz the innermost loop could be reduced to one line of code and would be more intuitive (I think). The pgfonlayer allows us to ensure the filled squares are on a layer behind the outlined squares. For me the fills always ended up in front which didn't look good.  #8203; The problem becomes much easier if you are happy to draw outlines multiple times, but in my pdf viewer that resulted in bad looking lines</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-13 06:03:49</DATE>
+    <TEXT>Happy to help. Your solution looks good, I didn't know that \[count=...\] existed. One problem with it is that it will redraw squares on top of each other, but if that doesn't bother you then it's perfect.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-15 09:34:33</DATE>
+    <TEXT>\foreach \n in {#1}{ \foreach \x/\y [count=\j] in {1/2,0/1,2/1,1/0,4/2,4/0}{ \ifnum \n=\j \filldraw[fill=black!50, draw=black] (\x,\y) rectangle +(1,1); \else \filldraw[fill=none, draw=black] (\x,\y) rectangle +(1,1); \fi } } Yep, for the code above, let's say you call \\squares{2,3,6}. You'll get: \- For \\n = 2: foreach coordinate \\x/\\y a square, all unfilled except n=2 which is filled \- For \\n = 3: foreach coordinate \\x/\\y a square, all unfilled except n=3 which is filled \- Same for \\n = 6 You'll have 18 squares, with three at each coordinate. Might not make a difference to you, so if not go for it. For me, it appears as if the line thicknesses are wrong (but that is probably just my pdf viewer since in theory the squares on top of each other shouldn't make any visual difference).</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-18 01:48:45</DATE>
+    <TEXT>This doesn't answer the question you asked, but might make it irrelevant: since it seems like you are using doom, a better way to open files would be to use `SPC f f`, which will open a completion package that is much nicer than the vim `:e` interface. (I think that `SPC f f` is correct, but it might be `SPC f .`, either way, if you press `SPC f` and wait a sec it should show you the key combos available)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>HTML export theme with collapsible headings</TITLE>
+    <DATE>2019-12-23 00:02:29</DATE>
+    <TEXT>Wondering if anyone has made, or seen, a theme for orgmode html exports that has collapsible headings. The idea is that is would act the same as orgmode in Emacs where you can tab to expand/collapse the headings, but you would click the html heading to expand/collapse the content after the heading. I've looked into writing my own CSS/JavaScript using tutorials about accordions, but I'm way out of my depth.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-23 22:31:07</DATE>
+    <TEXT>Exactly what I was after, thanks :)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-01-07 20:58:22</DATE>
+    <TEXT>* USA WJUC U20 Roster</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-01-07 23:02:08</DATE>
+    <TEXT>If you assume USA is the only team attending the tournament, then yes.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-01-25 11:51:25</DATE>
+    <TEXT>What's the reason for the changes in 4 men, 4 women and stoppage? Seems that it could lead to confusion for a while?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-01-25 21:01:34</DATE>
+    <TEXT>Check out scoop (https://scoop.sh/).</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-01-26 06:45:31</DATE>
+    <TEXT>Not sure what ezwinports gives you, but you mentioned it was a pack of Unix apps. Scoop has a bunch of Unix apps (coreutils, grep, awk, sed, etc...)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-02-23 21:15:45</DATE>
+    <TEXT>What kind of oil are they going to use to save them now?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-03-05 03:32:56</DATE>
+    <TEXT>Looks like your main problem is with namespaces. You can't modify a global variable within a function (you can, but it's probably not the best way to do it). In your `grid_text()` function you are trying to modify the `grid` variable, but it won't change it outside of the function. My suggestion would be: 1. Move the grid variable on line 7-... into your `grid_text()` function. You can abbreviate it to `[[0]*9]*9` so that it fits nicely on one line (although looses readability)(I assume the 8 in the grid is a typo). 2. Rather than making the solve function work on the global variable grid, pass in the variable grid (change the `def solve():` line to `def solve(grid):`). Since you're using recursion, also make sure to pass grid into the `solve()` function call within the solve function definition. 3. Change the last two lines to `solve(grid_text())`. 4. If you remove the `time.sleep(2)` line your program will run 2 seconds faster. PS. looks like you've seen the computerphile video. Pretty good one if anyone else is interested in learning about recursion. PPS. looks like a cool application, but I can't condone using it to beat other human players on a soduko app...</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-03-05 23:35:19</DATE>
+    <TEXT>Tried to replicate the style here: main.tex - [https://pastebin.com/zEwraJDt](https://pastebin.com/zEwraJDt) preamble.tex - [https://pastebin.com/zwAi7kvU](https://pastebin.com/zwAi7kvU) Still could do with a bit of tidying up, but it's probably 85% there.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-03-12 05:46:54</DATE>
+    <TEXT>def lenumerate2(s, flip=False): words = s.split(' ') if flip: x = [[len(word), word] for word in words] else: x = [[word, len(word)] for word in words] return x print(lenumerate2('But the of', flip=False)) Edit: removed typo</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>ox-beamer setting different page style for title frame</TITLE>
+    <DATE>2020-03-30 06:13:10</DATE>
+    <TEXT>TLDR: I want to know how to set a plain frame style to the first ox-beamer slide (title slide) from org-mode I'm writing a presentation in orgmode using the beamer export for the first time (I've used Latex beamer plenty before). My previous presentations written in latex have the first slide as: \begin{frame}[plain] \maketitle \end{frame} in order to remove the bottom bar that has the `author | title | date, pagenum`. When using org-beamer-export-to-latex I simply get: \maketitle which puts the bottom bar on the title page resulting in duplication of information on the slide. My question is: Is there any way to get the plain frame/page style for the title frame only in org-mode? Here is a MWE of the org file: #+TITLE: Title #+SUBTITLE: The subtitle #+AUTHOR: Author name #+BEAMER_HEADER: \institute[]{University of Example} * Beamer settings :noexport: #+OPTIONS: H:2 toc:nil num:t #+LATEX_CLASS: beamer #+BEAMER_THEME: Boadilla #+BEAMER_HEADER: \beamertemplatenavigationsymbolsempty * Introduction ** First frame This is the first frame - The bottom bar on this page looks good here - I do not want the bottom bar on the title page</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>ox-beamer setting different page style for title frame</TITLE>
+    <DATE>2020-03-30 20:50:09</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-03-31 01:51:02</DATE>
+    <TEXT>Thank you! This works well. I had hoped there was something I could put in the org file, rather than messing with the backend, but I'm happy with this solution for now.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-03-31 10:53:28</DATE>
+    <TEXT>Short answer: use vc (=C-x v v= or =vc-next-action=) Long answer: Protesilaos just released a video on vc here https://youtu.be/SQ3Beqn2CEc Definately worth a watch</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-03-31 20:27:42</DATE>
+    <TEXT>Ah, yes. I think I read your question too fast and missed the details</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Toggle evil-mode</TITLE>
+    <DATE>2020-04-08 03:32:54</DATE>
+    <TEXT>Background: I typically use evil-mode, but sometimes like to disable it to use emacs keybindings. To do this, I'm trying to remap `"C-z"` to `'evil-mode`, but when in evil-mode, `"C-z"` is mapped to `'evil-emacs-state` despite my best efforts. The problem with `'evil-emacs-state` is that it is buffer local, but I want to turn off evil-mode globally. My efforts: I've created a MWE init.el file to try and solve the issue. Here is what I have, but it results in the problem above ;; init.el (require 'package) (add-to-list 'package-archives '("melpa" . "https://melpa.org/packages/")) (package-initialize) ;; Bootstrap 'use-package' (unless (package-installed-p 'use-package) (package-refresh-contents) (package-install 'use-package)) ;; Load evil package and try to bind C-z to toggle mode on/off (use-package evil :demand :ensure t :bind (("C-z" . evil-mode))) After loading, I've also tried evaluating `(global-set-key (kbd "C-z") 'evil-mode)`, but the problem remains. Any advice would be much appreciated as I'm out of ideas.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-08 07:51:38</DATE>
+    <TEXT>As I mentioned, I've tried using the :bind macro from use-package and I've tried `global-set-key`. With evil-mode disabled the binding works, but with evil-mode enabled it goes back to `'evil-emacs-state`. I didn't know about unbinding keys. I tried `(global-unset-key "C-z")` but get an error: `(error "Key sequence C - z starts with non-prefix key C")` Edit: didn't see your edit. That works. I've also defined "C-z" in insert state. Thanks</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-08 11:05:57</DATE>
+    <TEXT>Thanks for your explanation. I was aware of the different keymaps, but I thought the global map overode the other maps, rather than being shadowed.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-16 21:44:26</DATE>
+    <TEXT>We should be able to help you if you provide some additional information: 1. Which operating system are you using? 2. Where did you put your init.el? 3. What are the contents of the init.el? Assuming linux, the init.el can be placed here: ~/.emacs.d/init.el One thing to be careful of is that sometimes emacs will auto create ~/.emacs which takes precedence, so make sure to delete that (and any of the other methods you've tried). Next, to install a theme you'll need to download the package (probably from the MELPA repo) and load it. These days most people seem to use use-package for this, so a good starting point for your ~/.emacs.d/init.el file will be: ;; Call package manager (require 'package) (add-to-list 'package-archives '("melpa" . "https://melpa.org/packages/")) (package-initialize) ;; Bootstrap 'use-package' (unless (package-installed-p 'use-package) (package-refresh-contents) (package-install 'use-package)) (eval-when-compile (require 'use-package)) ;; Use use-package to download and load theme (use-package dracula-theme :ensure t :config (load-theme 'dracula t))</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-17 21:57:20</DATE>
+    <TEXT>I don't think there's any changing your mind on points 1 and 3, since they apply to you individually only. Regarding the environmental impact, you may find this article interesting: https://www.bbc.com/news/science-environment-46654042 Yes, almond milk uses the most water but it uses the least land and causes the least emissions compared to the other 3 plant milks. The question of which is the worst for the environment is more complicated than just water usage. Also, reading the other comments I get the impression that people think almond milk is very bad for the environment. Consider that most people using plant milks are using it as an alternative to cow's milk. In that case, all 4 of the plant milks look pretty good.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-02 02:16:55</DATE>
+    <TEXT>Try darkroom. There's also lightroom, but I've had no experience with it.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-02 22:00:24</DATE>
+    <TEXT>If you're looking for a free/libre alternative to scrivener, you might consider the emacs text editor. It has a feature called org-mode which, among other things, is great for long form writing. Org-mode documents can also be exported to latex through emacs with very nice results. Here's a talk from a writer that uses org-mode as a scrivener replacement: https://youtu.be/FtieBc3KptU I should warn you that it won't be as user friendly as scrivener. It might take a bit of time to learn/tinker, but it will be very rewarding.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-02 22:19:19</DATE>
+    <TEXT>I have nothing to add about multiple cursors, but you can achieve an interactive search/replace using the anzu package (anzu-query-replace). There's a demo here: https://github.com/emacsorphanage/anzu/blob/master/image/anzu-replace-demo.gif</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-03 01:16:39</DATE>
+    <TEXT>No one is an "emacs fan boy" before they start using emacs. It seems that people who are fans of emacs have tried it out and appreciated it. You might be surprised how little you have to learn to use emacs. You can just open it, load a file and start clicking and typing. You can even use the built in cua-mode to use Ctrl-C, Ctrl-V type keybindings. That's one of the nice things about it. You can go through the emacs tutorial in about 30mins and be competent enough to use it as a replacement for something like notepad++. From there, if you're content that's great. If not, you can keep learning and you have access to probably the most powerful text editing program around. The OP also mentioned:  gt; The learning curve is not an impediment to use any of these programs.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-06 10:06:07</DATE>
+    <TEXT>Does `shell-command-to-string` do what you're asking for? You can use `split-string` on the output to get a list.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-06 23:18:27</DATE>
+    <TEXT>Your question might be a bit broad to get a direct answer. To address the two cases you've just asked about: 1. If you want to pass the results of a shell command into another, you can just do it within the `shell-command` argument: `(shell-command-to-string "ls | grep *.csv")` 2. To use emacs to complete an intermediate step you could: `(shell-command (concat "echo " (completing-read (split-string (shell-command-to-string "ls") "\n"))))` (On mobile so haven't tested these. Hopefully I haven't made any mistakes)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-09 10:43:47</DATE>
+    <TEXT>As mentioned, there's not really much information in your question. But here are some guesses: 1. Make sure .emacs.d is in your home directory. Unless you're using windows, in which case you either need to set a HOME environment variable or put it in the Appdata location (see https://www.gnu.org/software/emacs/manual/html_node/emacs/Init-File.html, for windows: https://www.gnu.org/software/emacs/manual/html_node/efaq-w32/Location-of-init-file.html) 2. If you have a file called .emacs in the home dir, delete it. Sometimes emacs creates it automatically.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-20 01:13:51</DATE>
+    <TEXT>I use hunspell, which you can download here: [https://sourceforge.net/projects/ezwinports/files/](https://sourceforge.net/projects/ezwinports/files/) Here is the config I use: (use-package ispell :defer t :if (eq system-type 'windows-nt) :custom ((ispell-program-name "hunspell") (ispell-personal-dictionary "~/.emacs.d/hunspell_en_GB") (ispell-local-dictionary "en_GB") (ispell-local-dictionary-alist '(("en_GB" "[[:alpha:]]" "[^[:alpha:]]" "[']" nil ("-d" "en_GB") nil utf-8))))) The activate with `flyspell-mode` (Note: I use the GB spelling, rather than the default US, which is downloaded separately. Can't remember where I got it from) Edit, you can find other dictionaries here: https://cgit.freedesktop.org/libreoffice/dictionaries/tree/ Just download the .aff and .dic file and add it to your hunspell directory under share/hunspell/</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-26 00:36:36</DATE>
+    <TEXT>Don't know any way to go directly from `.xls` or `.xlsx`, but your spreadsheet software (excel, libreoffice calc, etc) should have an option to export to `.csv` (save as `.csv`). CSV files are easy to plot in latex. Here is an example file I've named `data.csv`: x,a,b 0,0,0 1,2,1 2,4,4 3,6,9 4,8,16 5,10,25 6,12,36 7,14,49 8,16,64 9,18,81 10,20,100 And here is a latex document with a plot of both `a` and `b` cols: \documentclass{article} \usepackage{pgfplots} \begin{document} \begin{tikzpicture} \begin{axis}[ xlabel={x}, ylabel={y}, ] \addplot table[x=x,y=a,col sep=comma] {data.csv}; \addplot table[x=x,y=b,col sep=comma] {data.csv}; \end{axis} \end{tikzpicture} \end{document}</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Ivy/completing-read interface to Deft</TITLE>
+    <DATE>2020-06-01 04:11:58</DATE>
+    <TEXT>I've been using deft for some time now, and find it really nice. The one gripe I have is the Deft buffer. Rather than using the deft buffer to search my notes, I want to have an Ivy/completing-read interface. Does anyone know of a good way to go about this? \--- **The workflow I want to achieve** is this: 1. From anywhere, invoke `my-ivy-deft` function which brings up the same completion candidates I would get in the deft buffer 2. Interactively narrow by typing into the ivy prompt 3. Pressing enter should do the same thing as in the deft buffer (if match is highlighted, visit the file, else, create a new note with the prompt as the title) \--- **Here is what I have considered/tried** before:  gt;Using ivy-read or completing-read as a wrapper to the deft functions My elisp is not good enough to do this. I've read through the deft source, but find it hard to understand what's going on. It seems to me that the deft functions are too tightly integrated with the deft buffer to be useful, but I might be completely wrong about this.  gt;Reimplementing the Deft package to suit my needs Again, I think my elisp skills let me down here. I'm trying to populate the completing-read candidates by reading file contents in my notes directory which is very slow. This led me to the next idea:  gt;Using counsel-rg This solves the speed problem, but I get tripped up on step 3 of the above workflow. Pressing enter on the match doesn't visit the file if I'm not in my notes directory. Additionally, the candidates aren't as pretty as in the deft buffer (although that's not a deal breaker, just a bonus). What I have so far: (let ((ivy-more-chars-alist '((t . 1))) (notes-dir "~/Dropbox/org/notes/")) (counsel-rg nil notes-dir nil "Notes: "))</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-01 07:10:57</DATE>
+    <TEXT>Update: I've had another try. Turns out that the counsel-rg code I posted does work... Not sure why I thought it didn't. The advantage is that it is fast, but the disadvantage is that it shows a candidate for all matches in a file, while deft only shows one candidate per file (which I prefer) Here's my attempt at rolling my own solution that doesn't require deft: (require 's) (defvar my-notes-dir "~/Dropbox/org/notes/") (defun my-note-summary (fname) (let* ((lines (with-temp-buffer (insert-file-contents fname) (split-string (buffer-string) "\n"))) (title (s-pad-right 30 " " (s-replace-regexp ".*TITLE: " "" (car lines)))) (contents (reduce 'concat (cdr lines)))) (concat title "| " contents))) (defun my-note-alist (fname) (cons (my-note-summary fname) fname)) (defun my-deft () (interactive) (let* ((notes-alist (mapcar 'my-note-alist (directory-files my-notes-dir t ".org")))) (find-file (cdr (assoc (completing-read "Notes: " notes-alist) notes-alist))))) Currently it works. The only thing not implemented is creating a new file if no match is found. I can live without this. I'll probably just make a `my-create-note` function or org capture template for this purpose). Since it is using the whole file as the candidate I'm worried that this is not a scalable solution. I have about 20 notes and the files are relatively short, but for much longer files or more notes I'm worried I'll start to see big slowdowns. Any ideas for improvement?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-01 07:40:17</DATE>
+    <TEXT>Thanks. I haven't tried `org-roam`, since I don't think I'll personally get much benefit out of it's functionality. Looks like `org-roam-find-file` is similar to `deft-find-file`. Unfortunately I am after full text search. `helm-org-rifle` is actually almost exactly what I want. Might have a look through the code and see if I can implement a baby version that uses ivy instead of helm.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-01 22:11:43</DATE>
+    <TEXT>For anyone interested in my final solution, I figured that since the one above works for my current notes directory I'll use it. If in the future it becomes too slow for the number/size of new notes I will switch over to helm-org-rifle. The refined version I am using is here: (require 's) (defcustom my-notes-dir "~/Dropbox/org/notes/" "Directory containing org notes") (defcustom my-notes-format-titlesize 30 "Spaces used to pad out candidate titles during completion") (defcustom my-notes-format-delimiter " " "Spaces used to pad out candidate titles during completion") (defun my-notes-completion-candidate (fname) (let* ((lines (with-temp-buffer (insert-file-contents fname) (split-string (buffer-string) "\n"))) (title (s-pad-right my-notes-format-titlesize " " (s-replace-regexp ".*TITLE: " "" (car lines)))) (contents (s-join " " (cdr lines)))) (concat (propertize title 'face 'font-lock-function-name-face) (propertize my-notes-format-delimiter 'face 'font-lock-comment-face) (propertize contents 'face 'font-lock-comment-face)))) (defun my-notes-completion-alist (fname) (cons (my-notes-completion-candidate fname) fname)) (defun my-notes-search () (interactive) (let* ((notes-alist (mapcar 'my-notes-completion-alist (directory-files my-notes-dir t ".org")))) (find-file (cdr (assoc (completing-read "Notes: " notes-alist) notes-alist))))) (defun my-notes-title-to-fname (title) (concat (s-downcase (s-replace-regexp "[ /]" "-" title)) ".org")) (defun my-notes-create () (interactive) (let* ((title (read-string "Title: ")) (fname (concat my-notes-dir (my-notes-title-to-fname title))) (already-existsp (file-exists-p fname))) (find-file fname) (unless already-existsp (insert "#+TITLE: ") (insert title) (insert "\n\n")))) (provide 'my-notes) I then call it from my `init.el` with: (use-package my-notes :load-path "mypkgs/" :custom (my-notes-dir "~/Dropbox/org/notes/") :bind (("C-c n s" . my-notes-search) ("C-c n c" . my-notes-create)))</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-07 22:35:16</DATE>
+    <TEXT>There is already `python-mode` built in to emacs which will give you syntax highlighting. On top of that what I would recommend is a simple function to run the current file in python and display the output. Something like this: (defun my-py-eval-buffer () (interactive) (let ((fname (file-name-nondirectory (buffer-file-name))) (ftype (file-name-extension (buffer-file-name)))) (when (string-equal ftype "py") ; check current buffer is .py file (save-buffer) ; save to ensure what is currently displayed is run (message "Buffer executed") ; give user feedback ;; Run file with python, display output in buffer *Output: python* (async-shell-command (concat "python " fname) "*Output: python*")))) You can map it to something like `C-c e` (remembered as C-c execute) or `C-c r` (C-c run). This is more than enough for 99% of the python files I create, and as you say you're just learning I think it will work well for you too. Once you start working on larger projects (multi-files) the two popular python packages are [elpy](https://github.com/jorgenschaefer/elpy) or [lsp-mode](https://github.com/emacs-lsp/lsp-mode).</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-07 22:42:33</DATE>
+    <TEXT>The above function can also be extended to work for multiple languages. The version I use looks like: ```elisp (defun my-runbuffer ( amp;optional arg) (interactive) (let* (($fname (file-name-nondirectory (buffer-file-name))) ($suffix (file-name-extension (buffer-file-name))) ($run (cond ((string-equal $suffix "py") (if (eq system-type 'gnu/linux) (concat "python3 " $fname) (concat "python " $fname))) ((string-equal $suffix "tcl") (concat "opensees " $fname)) ((string-equal $suffix "jl") (concat "julia " $fname)) ((string-equal $suffix "tex") (concat "latexmk -bibtex -pdf -pvc -quiet " $fname)) ((string-equal $suffix "sh") (concat "bash " $fname)) ((string-equal $suffix "rs") (concat "rustc " $fname "  amp; amp; " (file-name-sans-extension $fname) ".exe")) ((string-equal $suffix "lua") (concat "lua " $fname)) (t nil)))) (if (null $run) (message "No preconfigured settings found for .%s files" $suffix) (progn (when (or (buffer-modified-p) (not (buffer-file-name))) (save-buffer)) (message (concat "Executed: " $run)) (async-shell-command $run (concat "Output: " (car (split-string $run " ")))))))) ``` One of my favorites is the latexmk one which will give a "latex refresh on save"/live preview.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-07 23:48:14</DATE>
+    <TEXT>I've never really thought of using compile. I don't really understand how it should work with python. For example, if I create a file with the contents: ```python text = "Hello" print(text) ``` and use M-x compile, changing the prompt from `make -k` to `python`, It pulls up a buffer with a blank python repl that I can't interact with. My function opens a buffer with the text `Hello`. Then if I edit the buffer to: ```python text = "Hello2" print(text) ``` The output buffer now says `Hello2`. Python shell solution works fine, but I prefer to have a blank buffer displaying only the output (doesn't show prompts, old eval results, etc.). I guess the main reason is that the function does exactly what I want in a cleaner (that's probably subjective to me) way.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Looking for solutions to export resume.org to both pdf and html</TITLE>
+    <DATE>2020-06-09 05:54:22</DATE>
+    <TEXT>I've been maintaining my resume in orgmode for some time now, with export to pdf. I just decided it would be nice to also export to html which has uncovered a problem. I'm using headings to list my previous jobs, with a macro that puts a date range on the same line, but right aligned. The macro uses latex to do the magic, which you can see below. I've also looked at replacing the macro with a tag, but tags don't seem to allow spaces or dashes. Wanted to see if anyone here has any smart tricks for the org file so that it will export to both pdf and html nicely. Here's a MWE of my resume org file: #+OPTIONS: toc:nil num:nil #+MACRO: date \hfill\normalfont{\small $1} * Job 1 {{{date(July 2019 -- Dec 2019)}}} /Description of job/ - This is the macro solution I am currently using. It doesn't export to html very nicely... * Job 2 :Jul2019Dec2019: /Description of second job/ - Here I am using a tag for the date - Problem is that I can't put spaces or dashes in the tag... Here's the pdf output: [https://imgur.com/9syixz3](https://imgur.com/9syixz3) Here's the html output: [https://imgur.com/1rRgPY5](https://imgur.com/1rRgPY5)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-11 00:16:14</DATE>
+    <TEXT>Ended up getting a good answer on stack exchange: https://emacs.stackexchange.com/questions/59007/export-resume-org-to-both-pdf-and-html Answer is using: #+MACRO: date @@latex: \hfill\normalfont{\small $1} @@ @@html: 
+    span class="dates"$1/span@@</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-18 00:51:38</DATE>
+    <TEXT>I had a crack at learning it a while back, but found the amount of options a bit overwhelming. I've moved back to latex because its limitations make me spend less time on tinkering, which suits me better. That said, one of my favourite resources was this blog series: https://dave.autonoma.ca/blog/2019/05/22/typesetting-markdown-part-1/ Gives you a good feel for some things that are possible in ConTeXt</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-18 04:03:20</DATE>
+    <TEXT>[https://github.com/baskerville/vim-sxhkdrc](https://github.com/baskerville/vim-sxhkdrc) Just a typo in the sxhkd part of the url. You can easily websearch it.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Monitor toggling and different resolutions</TITLE>
+    <DATE>2020-06-26 02:49:10</DATE>
+    <TEXT>Hi all, Wondering if anyone is able to help me with a little problem. I'm running bspwm on a laptop, but want to plug it in to a monitor and have the ability to toggle from one monitor to the next. Here is my script to toggle monitors using xrandr (eDP1 is laptop screen, DP1-8 is external monitor): #!/bin/bash displaptop() { xrandr --output eDP1 --auto  amp; amp; xrandr --output DP1-8 --off } dispdesk() { xrandr --output DP1-8 --auto  amp; amp; xrandr --output eDP1 --off } current=$(xrandr --listactivemonitors | grep -v Monitors | grep -Eo '[^ ]+$') nmonitors=$(xrandr -q | grep " connected " | wc -l) if [ $current == "eDP1" ]  amp; amp; [ $nmonitors == 2 ] then dispdesk else displaptop fi I have two problems: 1. ~~BSPWM still sees the monitor that xrandr has turned off, so the desktops seem to spread between the two. I want a bpsc command that will just move all desktops to a given monitor and ignore the other.~~ When I plug in the external monitor and run the xrandr command a new desktop is created which messes with my keybindings (super+{1-9} no longer goes to desktop {1-9}, it goes to desktop {Desktop,1-8}). 2. My monitors are different resolutions (eDP1 = 1920x1080, DP1-8 = 2560x1440). When I switch to the DP1-8 monitor, the nodes only take up the space within a 1080p box in the top left of the larger monitor. Here I want to "refresh" or "realign" the nodes so they fill up the whole screen (not sure if this is relevant but the polybar automatically resizes to fill the extra width). I feel like these two problems are easy to solve for a bspc guru, but I'm having trouble understanding the bspc man page terminology. Also haven't been able to find any examples of people toggling monitors this way, most multi monitor examples seem to be geared to using both at the same time. Edit: Another clue I just discovered. An extra desktop is being created at some point. Not sure why. If I unplug the external monitor, reboot, open a terminal and run: $ bspc query -D --names 1 2 3 4 5 6 7 8 9 Then, plugging in the external monitor and running these commands gives: $ xrandr --output DP1-8 --auto $ bspc query -D --names Desktop 1 2 3 4 5 6 7 8 9 There's an extra desktop created called "Desktop"... I've updated my first question to reflect this</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-26 04:24:51</DATE>
+    <TEXT>Not sure exactly what you mean. They turn on one screen and off the other (given that I'm plugged in). I think bspwm doesn't work as I expect since, although the screen is off its still available to bspc (ie. bspc query -M --names returns both monitors)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-26 04:28:21</DATE>
+    <TEXT>Yes, using bspc wm -r doesn't seem to have any effect.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-27 00:21:47</DATE>
+    <TEXT>Amazing, thanks for that. Managed to get it working exactly how I wanted. For the sake of documenting the solution, this snippet is in my bspwmrc: bspc config remove_disabled_monitors true bspc config remove_unplugged_monitors true bspc config merge_overlapping_monitors true bspc monitor -d 1 2 3 4 5 6 7 8 9 and the script I use to toggle monitors is: #!/bin/bash # Only do stuff if using bspwm pgrep bspwm  gt; /dev/null || exit 0 displaptop() { xrandr --output eDP1 --primary --auto --output DP1-8 --off } dispdesk() { xrandr --output DP1-8 --primary --auto --output eDP1 --off } current=$(xrandr --listactivemonitors | grep -v Monitors | grep -Eo '[^ ]+$') nmonitors=$(xrandr -q | grep " connected " | wc -l) if [ $current == "eDP1" ]  amp; amp; [ $nmonitors == 2 ] then dispdesk else displaptop fi I have the script bound to `super + p` in my sxhkd.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-28 22:24:56</DATE>
+    <TEXT>This might not be what you want, but a couple of weeks ago I rewrote my resume template with orgmode in emacs. The way I've done it satisfies all of your points:  gt;Have a template that I can  #8220;hydrate #8221; with content from a text file (or group of text files) using the command line. Yep, the template is the orgmode file (plain text file)  gt;Specify which elements to include in the build, e.g. include an Experience section but not a Projects section. Experience/Projects sections are in the form of a top level heading. They can be removed from the export using a :noexport: tag  gt;Specify which subelements to include in the build, e.g. include work experience A and B but not C. Subelements are second level headings which can also be tagged with :noexport:  gt;From the .tex file, build not only a pdf but a plain text version as well. The .org file can be exported as pdf (via pdflatex), html, plain text, odt, and many more formats. Just need to setup the templates (I have the a latex template and a html template) Regarding your additional points, no experience with basictex, but the template can be changed to only use packages available.  gt;I prefer working out of the command line. These days it seems most people opt for the gui emacs, but it can easily be run in the terminal. If you're not interested in emacs, you could set up a shell script to run emacs in batch mode just to perform the export. Then you could edit the org file in any editor you want and ignore emacs. ~~Might as well put it up on Github for anyone that's interested. Check back in half and hour or so for the link.~~ Edit: Link to template is here: [https://github.com/jamesmaguire/org-resume-template.git](https://github.com/jamesmaguire/org-resume-template.git)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-01 03:57:31</DATE>
+    <TEXT>I've done exactly that using the general.el (https://github.com/noctuid/general.el) package. Here is the relevant snippet: ```elisp (general-define-key :keymaps '(normal) "," (general-simulate-key "C-c"))) ``` Clearly, I'm using comma as the leader key. Then just bind "C-c x y".</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  </INDIVIDUAL>

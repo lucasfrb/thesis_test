@@ -1,0 +1,609 @@
+<INDIVIDUAL>
+  <ID>subject2618</ID>
+  <WRITING>
+    <TITLE>[Differential Equation] What is wrong with the solution? I try to find the Inverse Laplace Transform of f(s) = 4/[(s^2)(s-2)] using convolution method, yet the answer is different from the book which is e^2t - 2t - 1. My solution was provided on the picture below. Any help is appreciated. Thank You.</TITLE>
+    <DATE>2020-03-26 13:39:01</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-03-27 04:30:45</DATE>
+    <TEXT>I see. I haven't noticed the factor of 4 on the second integral and the factor of 1/2 from the integral of e^[(2)(tau)]. I try to solve the problem again and I finally arrived on the same answer from the book. Thank You.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Partial Derivative] How to get rid the partial differential operators? I try to solve the 'alpha' using the given conditions on the problem, yet the answer has a partial differential operators along with the constants. Any help is appreciated. Thank You.</TITLE>
+    <DATE>2020-03-27 05:55:21</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-03-27 13:13:41</DATE>
+    <TEXT>Nope. That's from a chemical equation. Maybe I will just leave the equation of alpha that way it is even though there is a a partial differentiation operator. Thank You for the recommendations.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-03-27 13:34:24</DATE>
+    <TEXT>Just switch the x axis and y axis for your data. For example, if you want to use a scatter plot, you can the change the data for both axes by the 'select data' when you right click your graph. Instead of putting the data of the independent variable on the x axis, you will put it on the y axis.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-03-27 13:50:28</DATE>
+    <TEXT>SEARS AND ZEMANSKY'S UNIVERSITY PHYSICS WITH MODERN PHYSICS (12TH EDITION)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Question] Is it possible that a black hole to exist on Earth?</TITLE>
+    <DATE>2020-03-27 14:18:10</DATE>
+    <TEXT>I am curious whether a black hole can exist here on Earth or not. If it is possible to exist, what are the conditions for a black hole to exist and how long it will take before it disappears due to the Hawking Radiation? Thank You.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-03-27 17:38:43</DATE>
+    <TEXT>How long will it last before it disappears?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-03-27 18:17:35</DATE>
+    <TEXT>I hope that in the near future there will be a lot of researches and experiments about black holes. Thank You for the information.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Differential Equation] What is wrong with the solution? I try to find the Inverse Laplace Transform of a convolutive type integral, yet the answer is different compare to book which is 1 + (1/2)t^2. My solution was provided on the picture below. Any help is appreciated. Thank You, Reddit.</TITLE>
+    <DATE>2020-03-28 14:42:42</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-03-29 02:42:59</DATE>
+    <TEXT>Let u =  #8730;x and v = (2 #8730;x - 1) f(x) = u/v The function is intended to be solved using quotient rule, but you can manipulate the variable 'v' if you want to solve it using product rule. Since 1/v = v^(-1) then f(x) = u  #215; v^(-1) You can solve the v^(-1) using chain rule the proceed to product rule. You can solve the function using either product rule or quotient rule, but it is more tedious to use a product rule because you will need to use the chain rule before using the product rule itself.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-03-29 03:27:11</DATE>
+    <TEXT>You can use this guide from the Massachusetts Institute of Technology which discuss how to properly construct a clear outline of your mathematical research paper. (https://www.researchgate.net/publication/248477911_Writing_a_Math_Phase_Two_Paper)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-03-29 03:43:59</DATE>
+    <TEXT>The cos(2x) was not distributed. The integral was solve using u substitution where u = sin(2x) and du = 2cos(2x) dx. The du will replace the cos(2x) dx of the integral.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-03-29 09:05:42</DATE>
+    <TEXT>volume = width  #215; length  #215; height</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-03-29 13:12:45</DATE>
+    <TEXT>Thank You for the correction. Anyway, what areas of mathematics were focused on your research papers?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>TIL It took one month for the creator of Rubik's Cube, Ern #243; Rubik, to solve the puzzle after he created a wooden prototype in 1974.</TITLE>
+    <DATE>2020-03-30 01:56:58</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-03-30 03:04:39</DATE>
+    <TEXT>The fastest record for the 'single' category is 3.47 seconds by Yusheng Du, while the fastest record for the 'average' category is 5.53 seconds by Felix Zemdegs.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-03-30 03:07:45</DATE>
+    <TEXT>It's fine. Atleast, you're able to solve it. :D</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Question] Why do most of the names of chemical elements end with 'ium'?</TITLE>
+    <DATE>2020-03-30 04:42:38</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>TIL In Russia, it is allowed for a chess player to move the queen same as the knight. The combination of queen and knight is known as the Amazon.</TITLE>
+    <DATE>2020-03-30 05:50:32</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-03-30 12:11:48</DATE>
+    <TEXT>The 'single' category describes the recorded time of a speedcuber to solve the puzzle on a single attempt, while the 'average' category describes the average recorded time of a speedcuber to the puzzle on consecutive attempts.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Question] Can the hydroxychloroquine be a potential treatment for the COVID-19?</TITLE>
+    <DATE>2020-03-30 12:19:01</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-03-30 13:09:32</DATE>
+    <TEXT>Thank You. But, isn't the Inverse Laplace Transform of s^-3 should be t^2?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-03-30 13:12:50</DATE>
+    <TEXT>There is a different rule to follow for the convolutive type integral. Thank You for allotting your time on checking the solution. :)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>TIL The Mesopotamian Empire and the Babylonian Empire were the first civilizations to introduce the use of sanitary sewerage system.</TITLE>
+    <DATE>2020-03-30 14:16:11</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-03-30 14:25:22</DATE>
+    <TEXT>Yes. It needs to undergo a lot of experiments and research. But, hydroxychloroquine has a great potential as a treatment since there are cases where the patients are treated using antibiotics along with hydroxychloroquine.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-03-30 17:01:51</DATE>
+    <TEXT>It has something to do with the electrons. Since the London Dispersion Force is a temporary attraction between the electrons of two atoms, the increase of the molar mass that is directly proportional to the atomic number which is same to the number of electrons for neutral atom will affect the strength of the London Dispersion Force.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-03-31 00:40:14</DATE>
+    <TEXT>Their treatment of the wastes on their civilization is also considered as a sanitary action, since all of their wastes are dumped on a cesspool whether a house-to-house cesspool or a large single cesspool, instead of dumping their wastes elsewhere. How they use the water of their rivers if already contaminated by their wastes? They build an irrigation system that will clean the water as much as possible.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Calculus] How to prove that the limit of (1+1/n)^n as n approaches to infinity is equal to e?</TITLE>
+    <DATE>2020-03-31 14:55:23</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Question] What is the importance of imaginary numbers in the real world?</TITLE>
+    <DATE>2020-04-01 01:57:24</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-01 03:09:22</DATE>
+    <TEXT>It's true. There were lot of accounts of other ancient mathematicians from different places which claimed the famous theorem. But the point is that Pythagoras was not the one who discovered the theorem, he was the one who popularized it.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>TIL The illumination of the Eiffel Tower was an original visual creation protected by copyright mandated by the French government.</TITLE>
+    <DATE>2020-04-01 06:00:29</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Geometry] Graph of a triangle on a coordinate plane.</TITLE>
+    <DATE>2020-04-01 09:31:23</DATE>
+    <TEXT>How to graph a triangle on a coordinate plane when the given variables are the lengths of the side instead of the points? Thank You, Reddit.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-01 14:04:38</DATE>
+    <TEXT>Does this also work on a scalene triangle?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>TIL The French Emperor, Napoleon, was poisoned using Arsenic during his final years on St. Helena.</TITLE>
+    <DATE>2020-04-03 14:51:58</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>TIL The Killer Lake, Lake Nyos, suddenly killed people and livestock due to the release of immense amount of carbon dioxide.</TITLE>
+    <DATE>2020-04-03 15:11:03</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-03 15:30:30</DATE>
+    <TEXT>Based on the chemical analysis done on different researches regarding the death of Napoleon, Arsenic was the chemical responsible for his death, yet it's not clear whether it's intentional or accidental.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>TIL The blood of the human body is maintained at about pH of 7.40 by several buffer systems.</TITLE>
+    <DATE>2020-04-04 03:10:56</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Question] Is it possible that there is no excess reagent that is left at the end of a chemical reaction?</TITLE>
+    <DATE>2020-04-04 13:49:32</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-04 14:02:09</DATE>
+    <TEXT>Does it also mean that the percentage yield of the chemical reaction is 100%? Thank You.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-04 14:13:58</DATE>
+    <TEXT>Therefore, is it safe to assume that a reaction yield of 100% is not possible to achieve?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Question] Does the temperature and duration during oven drying will affect the chemical properties and the quality of the chitosan that will be yield after deacetylation?</TITLE>
+    <DATE>2020-04-04 15:55:59</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Question] Why H+ and H3O+ are interchangeable for the notation of a hydrated proton?</TITLE>
+    <DATE>2020-04-06 02:56:53</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-06 04:35:26</DATE>
+    <TEXT>There is no difference between the hydrochloric acid used on pools and hydrochloric acid used for concrete work if both were diluted to the same molarity. Both can be use for experiment purposes, since most of the experiments done at school requires small volume of hydrochloric acid. However, if the experiment requires a high purity hydrochloric acid for precise and accurate results, analytical grade should be use.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-06 04:46:19</DATE>
+    <TEXT>7-chloro-1-methyl-5-phenyl-2,3-dihydro-1H-1,4-benzodiazepin-2-one (Diazepam). Commonly known in the market as Valium.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-06 09:15:52</DATE>
+    <TEXT>It's logical to use H3O^+ rather than H^+ ?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Question] How to solve the coordinate of a point using the distance formula?</TITLE>
+    <DATE>2020-04-06 10:32:46</DATE>
+    <TEXT>I have this mathematical problem where the value of coordinate of another point and the angle of the line with respect to x axis is not given, only the length of the line is given. I try to solve the problem using distance formula. For example: d = 9 x_1, y_1 = (0, 0) x_2, y_2 = (x_2, y_2) d =  #8730;(x_2 - x_1)^2 + (y_2 - y_1)^2 9 =  #8730;(x_2 - 0)^2 + (y_2 - 0)^2 9 =  #8730;(x_2 )^2 + (y_2)^2 81 = (x_2 )^2 + (y_2)^2 The equation is an equation of a circle. 81 = (x_2 )^2 + (y_2)^2 r^2 = x^2 + y^2 where r = 9 Conversion of polar to rectangular: x = 9cos( #952;) y = 9sin( #952;) cos( #952;) = x/9 sin( #952;) = y/9  #952; = cos^-1 (x/9)  #952; = sin^-1 (y/9) However, I was not able to solve this part because the angle is not given. Any help is highly appreciated. Thank You, Reddit.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Question] Does the autoionization of water affects its pH?</TITLE>
+    <DATE>2020-04-06 13:41:05</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-06 13:43:22</DATE>
+    <TEXT>Is there other methods which can be use to solve the problem instead of using distance formula?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-06 15:02:26</DATE>
+    <TEXT>Also known as pentagramane.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Question] Why it is necessary for a water to have a low temperature when it reacts with an alkaline earth metals to displace a hydrogen?</TITLE>
+    <DATE>2020-04-07 05:52:03</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Question] Why does the pH of the water turns into basic when it is exposed to air?</TITLE>
+    <DATE>2020-04-07 09:23:38</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-07 10:18:23</DATE>
+    <TEXT>Yes. I have a setup where both red litmus paper and blue litmus paper soaked into water that is exposed to air for 24 hours, then the blue litmus doesn't change while the red litmus turns into blue which indicates that the pH of water turns into basic.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-07 16:39:51</DATE>
+    <TEXT>I soaked another red litmus and blue litmus into the same water sample when it turns into basic, yet both litmus papers did not change color.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Question] Why do hydrogen, nitrogen, oxygen, fluorine, and chlorine exist as gaseous diatomic molecules under normal atmospheric conditons?</TITLE>
+    <DATE>2020-04-08 16:04:17</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Question] How to extract copper ions from a copper wire?</TITLE>
+    <DATE>2020-04-11 05:28:50</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-11 10:34:12</DATE>
+    <TEXT>Does the reaction between copper wire and concentrated nitric acid will yield large amount of copper ions?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-11 14:31:14</DATE>
+    <TEXT>The consumption of zinc citrate that are synthesized at home are not recommended since the correct procedure might not be properly observed.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-12 04:47:07</DATE>
+    <TEXT>The ionic product constant is a product of H^+ and OH^- , while the acid or base dissociation constant is a ratio of the equilibrium constants.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-12 05:13:04</DATE>
+    <TEXT>SN1 AND SN2 REACTIONS OF HALOALKANES 1. If the type of haloalkane is methyl then SN1 will not occur since the methyl cation is unstable; SN2 is favored on this type of haloalkane. 2. If the type of haloalkane is primary then SN1 will not occur since the primary carbocations are unstable; SN2 is favored on this type of haloalkane. 3. If the type of haloalkane is secondary then both the substitution reactions are will occur. SN1 will occur in protic solvents with poor nucleophiles, while SN2 will occur in aprotic solvents with good nucleophiles. 4. If the type of haloalkane is tertiary then SN2 will not occur because of the steric hindrance around the substitution center; SN1 will occur due to the ease of formation of tertiary carbocations. E1 AND E2 REACTIONS OF HALOALKANES 1. If the type of haloalkane is primary then E1 will not occur since the primary carbocations are unstable, E2 is favored on this type of haloalkane. 2. If the type of haloalkane is secondary then both elimination reactions will occur. If the reaction has weak bases such as H2O and ROH then E1 will occur; if the reaction had strong bases such as OH^- and OR^- then E2 will occur. 2. If the type of haloalkane is tertiary then both elimination reactions will occur. If the reaction has weak bases such as H2O and ROH then E1 will occur; if the reaction had strong bases such as OH^- and OR^- then E2 will occur.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Question] How betadine solution is made?</TITLE>
+    <DATE>2020-04-12 11:30:10</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Question] Why does phosphorus pentoxide is used in gravimetric analysis as an absorbent of water?</TITLE>
+    <DATE>2020-04-12 14:14:19</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-13 01:43:05</DATE>
+    <TEXT>I think you misinterpret the question. I mean, is there anything special on phosphorus pentoxide compare to other compounds, that's why it is used as an absorbent of water during gravimetric analysis?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Question] Why does the definition of atomic radius is defined as the distance between the two nuclei in two adjacent atoms?</TITLE>
+    <DATE>2020-04-23 04:57:26</DATE>
+    <TEXT>According to the General Chemistry 9th Edition by Raymond Chang, the atomic radius is defined as one half of the distance between the two nuclei in two adjacent metal atoms or in a diatomic molecule. Why does the definition of atomic radius is defined that way and not defined as the distance between the valence shell and the nucleus? Thank You.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Question] Why do the O-H bonds in water molecules have different bond enthalpies?</TITLE>
+    <DATE>2020-04-24 07:01:46</DATE>
+    <TEXT>The first O-H bond has  #8710;H #176; = 502 KJ/mol, while the second O-H bond had  #8710;H #176; = 427 KJ/mol. Why do the O-H bonds in water molecules have different bond enthalpies? Is it due to the change in the chemical environment during the break of the first O-H bond which affect the chemical characteristics of the second O-H bond? Thank You.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Question] Why does 'lone pair vs lone pair' repulsion has a greater repulsive force than 'bonding pair vs bonding pair' repulsion?</TITLE>
+    <DATE>2020-04-24 14:02:43</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Question] Does an octahedral molecule have no dipole moment?</TITLE>
+    <DATE>2020-04-25 09:15:35</DATE>
+    <TEXT>An octahedral molecule has a symmetrical shape and does not have axes and equators since all the angles between atoms are 90 degrees, does it mean that an octahedral molecule have no dipole moment? Thank You.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Question] What affects the energy of a molecular orbital bonding of homonuclear diatomic molecules of second period elements?</TITLE>
+    <DATE>2020-04-29 16:43:34</DATE>
+    <TEXT>For example, the pi bonding of py and pz orbitals of B2 and C2 have lower energies compare to the sigma bonding of px. On the other hand, the pi bonding of py and pz orbitals of F2 and O2 have greater energies compare to the sigma bonding of px. Does the interaction of 2s orbital and 2p orbital and the electronegativity of an atom affects the energy of a molecular orbital bonding? Thank You.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Question] How to extract metal oxides from a colored glass?</TITLE>
+    <DATE>2020-04-30 10:11:55</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Question] Should I add the spectator ions, K+ and Na+, back to their respective anions, C2O4 2- and Cr2O7 2-, in the net reaction?</TITLE>
+    <DATE>2020-05-19 04:25:51</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Question] Why does cerium trichloride (CeCl3) enhances the amount of addition for hindered substrates?</TITLE>
+    <DATE>2020-05-21 00:54:13</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Question] What happen to Na+ and Cl- on a brine solution when it is boiled?</TITLE>
+    <DATE>2020-05-30 15:19:14</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Calculus] Is dy =  #8730;dx a differential equation?</TITLE>
+    <DATE>2020-06-08 17:53:09</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Question] Is it possible to have multiple doctoral degrees on the field of Chemistry?</TITLE>
+    <DATE>2020-06-09 11:49:53</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Question] What is the difference between the usage of Lewis Acid-Base and Br #248;nsted-Lowry Acid-Base?</TITLE>
+    <DATE>2020-06-14 02:58:47</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Question] What causes the cleavage of the pi bond of an alkene when it is attached on the surface of the metal catalyst during Catalytic Hydrogenation?</TITLE>
+    <DATE>2020-06-25 06:52:07</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Question] What is the difference between enantiomerically pure compound and enantiomerically enriched compound?</TITLE>
+    <DATE>2020-06-25 11:43:24</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Question] Why symmetric bonds do not absorb infrared radiation?</TITLE>
+    <DATE>2020-06-28 15:00:07</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Question] Why does hydrogen bonded to a triply bonded carbon atom of a terminal alkyne is sufficiently acidic?</TITLE>
+    <DATE>2020-07-01 02:08:34</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Question] Why does the addition of chlorine to an alkyne is less stereoselective than the addition of bromine to an alkyne?</TITLE>
+    <DATE>2020-07-02 01:54:46</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Question] Why does sp hybridized vinylic carbocation intermediate formed from an alkyne is less stable than sp #178; hybridized alkyl carbocation formed from an alkene?</TITLE>
+    <DATE>2020-07-02 05:02:17</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Question] How to determine COH peaks if they are usually overlap by CH3 peaks on the infrared spectrum?</TITLE>
+    <DATE>2020-07-05 06:44:32</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-06 04:32:43</DATE>
+    <TEXT>Yes, the hydrogen bonded OH band is a broad peak at 3400 per centimeter to 3300 per centimeter which is totally easy to observe on the infrared spectrum. On the other hand, COH bending appears as a broad and weak peak at 1440 per centimeter to 1220 per centimeter which is often overlapped by the CH3 bending. It is the reason that I am curious on how to determine the COH peaks produced by alcohols and phenols if they are usually overlap by CH3 peaks on the infrared spectrum. Thank You.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Question] Is the size of CMOS battery the same for different models of desktop computer and laptop?</TITLE>
+    <DATE>2020-07-13 13:05:01</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Question] Why do the repulsive forces increase the molar volume of a gas, while the attractive forces decrease the molar volume of gas relative to that of a perfect gas?</TITLE>
+    <DATE>2020-07-14 02:15:52</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Question] Why does bromination is regioselective than chlorination?</TITLE>
+    <DATE>2020-07-17 14:32:35</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Question] What are the effects of brine solution on the human skin?</TITLE>
+    <DATE>2020-07-19 06:48:05</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Question] What might be the cause of the change of laptop screen's color from bright white to dull yellow?</TITLE>
+    <DATE>2020-07-19 12:21:13</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-19 12:53:02</DATE>
+    <TEXT>No. However, when I restart the device, the screen will return to normal bright white, then after a while it will change again to dull yellow.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Question] Why does an allyl radical is stable than a tertiary radical?</TITLE>
+    <DATE>2020-07-21 14:48:27</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Question] What are the significant differences between differential scanning calorimetry (DSC) and isothermal titration calorimetry (ITC)?</TITLE>
+    <DATE>2020-07-22 03:07:11</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Question] Why does radical reactivity of an allyl radical occurs at 1st C and 3rd C but not at the 2nd C?</TITLE>
+    <DATE>2020-07-22 04:22:32</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Question] How does non-acidic Vitamin C is being prepared?</TITLE>
+    <DATE>2020-07-23 04:38:10</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-23 13:54:53</DATE>
+    <TEXT>In cases where a visual indicator is unavailable, potentiometric indication of the end point can often be used. Potentiometric titrations are among the most accurate known because the potential follows the actual change in activity and, therefore, the end point will often coincide directly with the equivalence point. Potentiometric titrations are straightforward. They involve measurement of an indicating electrode potential against a convenient reference electrode and plotting the change of this potential difference against volume of titrant. The indicating electrode in precipitation titrations is used to follow the change in pM or pA, where M is the cation of the precipitate and A is the anion. A glass pH electrode is used to follow acid-base titrations, silver electrode is used to follow titrations with silver ion, and inert electrode (platinum) is used to follow redox titrations. Reference: Christian, G. D., Dasgupta, P. K.,  amp; Schug, K. A. (2014). Analytical Chemistry (7th Ed.). Wiley.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Question] How to identify the baseline of a infrared spectrum?</TITLE>
+    <DATE>2020-07-26 12:56:50</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>How do  #8710;U is equal to Cv #8710;T?</TITLE>
+    <DATE>2020-07-30 01:16:38</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Question] Why does trans double bonds predominate over cis double bonds in the products of an E2 reaction?</TITLE>
+    <DATE>2020-07-30 09:03:53</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Question] Is time travelling from present to past a violation of the Second Law of Thermodynamics?</TITLE>
+    <DATE>2020-08-03 02:11:30</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Question] Why do alcohols are flammable?</TITLE>
+    <DATE>2020-08-05 07:04:06</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Question] How long is the shelf life of a chitosan extracted from shellfish?</TITLE>
+    <DATE>2020-08-12 16:07:38</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Question] What is the weight of pure alum salt, KAl(SO #8324;) #8322; #183;12H #8322;O, if it contains 4.00 grams of Sulfur?</TITLE>
+    <DATE>2020-09-09 02:03:19</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  </INDIVIDUAL>

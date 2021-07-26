@@ -1,0 +1,1227 @@
+<INDIVIDUAL>
+  <ID>subject2651</ID>
+  <WRITING>
+    <TITLE>An late evening/night relax after whole "day" of racing...</TITLE>
+    <DATE>2019-06-26 15:22:04</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-01 21:08:42</DATE>
+    <TEXT>What is your PSU, could happen that it couldn't keep up</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-01 21:19:12</DATE>
+    <TEXT>That's not a bad one. How are the temperatures?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-01 21:40:38</DATE>
+    <TEXT>That's idle temps right? Try to check gaming temps, if there's some throttling. Btw, you have to set XMP profile in BIOS for your RAM currently running on 2133 MHz instead of 3200MHz (sorry new here, so it takes a while between replies)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-02 10:15:24</DATE>
+    <TEXT>Yeah, no problem. Try it with the rams if it gets better (it probably should since Ryzen likes RAM with high frequency) and monitor the temperatures of your components while gaming. I am usually satisfied when keeping my CPU max around 65 #176;C and GPU max around 75 #176;C</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-02 10:24:57</DATE>
+    <TEXT>I've read sometimes even when the cables has same connectors, it could make a huge mess when you mix them, could be the culprit...</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-02 10:37:53</DATE>
+    <TEXT>I have to agree, it's a great car. Yesterday I've done Trial challenge with that car. I was the only one in an S1 car, the rest ofc S2 cars. In 3 races (from 4) I end up 2nd in my team and in top 5 in whole race... You won't be fast in straights, but you can drive through corners much better and faster, and that's what you want to enjoy a drive/race What about the fourth you ask? Well, I lost a battle with an AI and missed a checkpoint  #128517;</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-02 14:56:31</DATE>
+    <TEXT>Have you swapped the old cables with cx650m cables? What do you mean "same shit", the cooler is spinning for a sec or using the paperclip test failed?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-02 15:30:58</DATE>
+    <TEXT>I can only suspect fried MoBo in this scenario then, you would be extremely unlucky if both CX650M unit were faulty... Have you tried paperclip test WITH a fan connected just to be sure about the PSU? . I've read somewhere, some PSU won't turn on if there's no load (never tested myself, can't confirm, nor deny)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-02 15:41:47</DATE>
+    <TEXT>There's none afaik, you'll have to get some adapter or risk a bit and connect your HDD (but if the PSU is okay, nothing should happen except spinning HDD) Then we have to check each component after component, because I'm unsure as well... After we solve your PSU and Mobo</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-02 22:03:07</DATE>
+    <TEXT>Are you sure that it's the motherboard, not the CPU with iGPU? Usually iGPU are part of the CPU, not MoBo</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-02 22:06:30</DATE>
+    <TEXT>Depends on the fans, if their total draw is under 1A, it should work. If it's over 1A, a fan hub is recommended (then you can connect up to 10 fans (depending on hub size), but they have to be all pwm</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-02 22:12:31</DATE>
+    <TEXT>No, usually motherboards doesn't have any graphics, that's why you have to get CPUs with integrated graphics (Ryzen 5 2400G for example, notice the G for graphics in the end) if you don't have a dedicated GPU</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-03 05:45:28</DATE>
+    <TEXT>It's usually on the sticker on the back side of the fan. Or if you know the fan model, you can look it up on the manufacturers website</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-03 06:40:07</DATE>
+    <TEXT>Yeah, that's fine. Btw, do you have only 3 intake fans or you have some exhaust fans as well?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-03 06:58:13</DATE>
+    <TEXT>That's the thin metal sheet with holes which comes with your motherboard, don't forget to mount it on your case</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-03 09:11:24</DATE>
+    <TEXT>That should be fine. First monitor your temps, and if they are okay, then no need for additional fans</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-03 09:29:04</DATE>
+    <TEXT>No problem, glad to help, you too. Cheers</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-04 14:21:32</DATE>
+    <TEXT>That will surprise you, but he has done lot of races, challenges and events  #128513;</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-04 19:20:06</DATE>
+    <TEXT>Do you have CPU cooler installed? What is that for a cooler? Have you applied the thermal paste? Did you fasten the cooler? Have you connected the cooler fan/s?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-04 19:22:15</DATE>
+    <TEXT>Try to reset CMOS</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-04 19:25:48</DATE>
+    <TEXT>Then such temps shouldn't happen. Try to download app called HWinfo and check the temps with that app</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-04 21:39:00</DATE>
+    <TEXT>You get a small star with a number next to your name as well</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-04 23:30:05</DATE>
+    <TEXT>I think it's both. For the EAT i needed two runs to get 3 stars. You have to find yourself the right path to follow (don't ask me, I was just driving directly to the destination somehow) What was the second challenge you've meant? I don't remember the names</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-04 23:41:39</DATE>
+    <TEXT>Ahh, that was easy, just try to drifting around at the big grass fields all the time, don't crash and keep the streak the whole time (at least that's how I've done it)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-09 05:56:51</DATE>
+    <TEXT>Depending what are you doing with your PC. If it's just an office PC, one fan is enough, because stuff don't get so warm. If it's a gaming rig, then 3 fans are mandatory, more is recommended. If you have only one fan, it's better to have it at the back as exhaust. In case of 3, two intake fans in front and one exhaust in the back. How many fan headers your mobo have? The fan which comes with the case is 3- or 4-pin? Your budget is per fan or all fans?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-09 06:31:23</DATE>
+    <TEXT>What's your (future) mobo? No that isn't a fan header. RGB header is for controlling RGB lighting (obviously). I've checked it up, it's just a 3-pin one. But first we need to know how many fan headers you have to determine if you can use it or not.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-09 08:23:53</DATE>
+    <TEXT>Your Mobo has 3 chassis fans, so you're good to go. Put the stock fan to the back and put two new in the front. From the budget here, you could probably grab some Noctuas (which are one of the best fans you can get) otherwise personally I use (or used) be quiet! Pure Wings 2 PWM (a decent one) and Arctic F12 PWM (very budget friendly, good performance for the price )</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-09 08:28:55</DATE>
+    <TEXT>I personally recommend more intake than exhaust... If your intakes are well filtered, it'll reduce the speed of dust buildup in your case. I currently have 4 intakes and 2 exhaust for reference</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-09 14:13:16</DATE>
+    <TEXT>Well, it's your choice. Arctic is good fan for good price. be quiet is... well, quieter, looks and feels more premium. Otherwise, performancewise are they similiar IMO. If you buy the PMW PST Pack, you can connect all 5 and throw the stock one (your case supports only 2 front, 2 top and one rear). The PWM PST Arctic Fans allow you to chain up to 4 fans on one header, so you can have two front chained, two top chained and the rear one separate. Connect them all and you should be good to go, because all of them are 4-pin ones. If you buy be quiet PW2 fans, you'll connect each fan to each header and you're done, but possibly you have to check out the settings in BIOS, since the stock one is 3-pin one, PW2 is 4-pin as I am aware. And it would be just a bit complicated in the future if you'll get overheating issues, cos you won't have any headers and you'll need a splitter. About thermals, I honestly don't know. I'm not sure how good airflow is in your case after you built it. I don't know how much warmth your components will produce, but IMO it should be fine...</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-09 17:49:20</DATE>
+    <TEXT>Go to house in Mainland, enter it, set it as home (Button Y as I am aware, check the input hints at the bottom)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-09 17:56:30</DATE>
+    <TEXT>I seems like a connector for a floppy disc, you probably don't need that. Motherboard requires 2 cables from PSU, a CPU power (usually 8pin) and Mobo power (24pin)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-09 18:36:01</DATE>
+    <TEXT>Probably CD drive? In worst case, simply read the Mobo manual, it'll guide you what you have to connect in which place</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-09 19:59:56</DATE>
+    <TEXT>Then that would be a SATA on your CD/BR drive What's your PSU model, I'll try to check out what is that for a cable Side note, are you a Czech guy?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-09 20:18:05</DATE>
+    <TEXT>No, I meant the connector to your CD Drive is SATA.I just looked up your PSU (Seasonic X Series, right?) and the small one is a floppy one. You don't need that.The bigger one with 4 holes is Molex one, usually it's used to power stuff, like case fans, fan controllers or some PCIe devices. Ahh, cool. I'm from West Bohemia, hehe :)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-09 21:18:38</DATE>
+    <TEXT>No problem. Well, if it still works fine, why not to continue to use it, right? I think yea, dunno. I don't even have a CD/DVD drive haha. So you could disconnect from the PSU so it'll be easier (and prettier) with cable management R #225;do se stalo!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-16 15:09:43</DATE>
+    <TEXT>A GPU I guess</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-17 16:29:43</DATE>
+    <TEXT>Nice</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-17 17:01:18</DATE>
+    <TEXT>You have to do a single trap with 3 stars...</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-17 17:12:56</DATE>
+    <TEXT>If you're a true Asian, you cook everything with chopsticks  #128556;</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-17 17:41:15</DATE>
+    <TEXT>Yeah. But you should be able to do it with tuned truck without the expensive engine swap (I just got myself some turbos for the stock engine and it was fine, got 143 from 140 required at Astmoor)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-17 21:53:20</DATE>
+    <TEXT>Because on usual car meets you talk with ppl. You know, about your cars, driving and other stuff. With the 4 quick chats you won't be able to do much of a chat there... So meetings are makes sense just amongst friends, where you cat on some different platform... That's my opinion tho...</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-18 15:29:06</DATE>
+    <TEXT>I think he mean that he'll buy another stick of 3200MHz RAM with Ryzen 5 3600 Otherwise yes, it'll work if you're lucky</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-18 15:40:18</DATE>
+    <TEXT>Why not R7 3733 which will be working only if you couple it with 3733MHz RAM  #128556;</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-18 15:44:36</DATE>
+    <TEXT>Mostly they do, why you don't buy a kit? Then you'll get 100% compatibility</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-18 16:06:21</DATE>
+    <TEXT>Yeah then get it. It's worth the risk... And usually it'll work. It just could happen, you'll get different chips, so it'll be more complicated to overclock, but on base clock you should be fine</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-21 07:14:04</DATE>
+    <TEXT>Dude seriously? I only see sarcasm</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-21 21:27:53</DATE>
+    <TEXT>I'm not 100% sure, but afaik you should have only one cable connected (USB with Cooler master app or RGB with Aura)... Does Windows recognise the cooler in device manager?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-21 21:34:14</DATE>
+    <TEXT>The CM app should provide you more control than Aura. Try to unplug the RGB header and use the CM app. Check if the cables aren't loose</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-21 21:42:36</DATE>
+    <TEXT>Oh dear, that's quite a lot. What are the temps in idle? You could possibly messed up mounting the cooler (only possibly). About the fan speed, you can set up a fan curve in BIOS so it won't suddenly ramp up.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-21 21:44:23</DATE>
+    <TEXT>Some specs pls?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-21 21:53:39</DATE>
+    <TEXT>That's a bit high (especially 57). First I would check if there's some app which cause high CPU usage. Then I would check the fan curve if it's okay. If it's all okay, then I would try to reseat the cooler with a new thermal paste (DO NOT reuse the old paste, you can reseat it when you get the paste). What are your ambient temperatures anyway?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-21 21:59:48</DATE>
+    <TEXT>No problem, cheers</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-21 22:05:22</DATE>
+    <TEXT>Well, i got similar temps, but my CPU (R5 2600) stays around 35-40 in idle (web browsing, writing documents etc). I would definitely reseat the cooler.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-21 22:15:27</DATE>
+    <TEXT>I would say, something is wrong with your Mobo or PSU... Have you upgraded something recently? Are you OC'ed?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-21 22:18:59</DATE>
+    <TEXT>Good question... I have no clue how I mounted my cooler and I'm not planning to remove it to check out how tight they are... But I think there was some point you'll feel that if you'll try harder, you'll damage the threads, then there's the time to stop. And I'm using aftermarket thermal paste as well...</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-21 22:22:18</DATE>
+    <TEXT>To your first question: No, it's an Intel Mobo To your second question: Should be fine</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-21 22:28:05</DATE>
+    <TEXT>I got similar spec (R5 2600 + RX580 8GB)...I've got extremely annoying coil whine under load with my Corsair CX550M PSU... Then I treated myself with a Seasonic Focus Plus 650 Gold... Coil whine is gone... And I'm not OC'ed... So yeah, grab yourself a 600+ Gold (or better) rated PSU... Then investition is worthy...</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-21 22:35:38</DATE>
+    <TEXT>The cassettes will stay through all 3 events/timelines/whateveritscalled. But after that, no one knows...</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-21 22:49:19</DATE>
+    <TEXT>That's a good benchmark... That's my GPU temperature... My CPU never gets over 65 #176;C... Ehm, alright, sometimes it creeps up to 66 #176;C,but that's it... (yes, I do play FH4 as well)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-22 06:31:37</DATE>
+    <TEXT>No, but it says about the efficiency of the unit, and better efficiency means better quality parts and better quality parts means lower chance of coil whine... Or at least for few ppl I know, it went better when getting a better PSU</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Avoiding morning rush hour</TITLE>
+    <DATE>2019-07-22 22:15:12</DATE>
+    <TEXT> #8203; https://preview.redd.it/c4sz4xs2jxb31.jpg?width=1920 amp;format=pjpg amp;auto=webp amp;s=b2234777b895dc3a55f3358f712eddc8069bfc82 Did I just get a Golf VI from a Wheelspin? Yes Am I a VW Fanboi? A bit :D Do I want to share with the community my try of some decent pic? Yes</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-22 22:39:08</DATE>
+    <TEXT>You need only the Sata for power, the smaller connect with a sata cable which comes with your Mobo and ignore the 4 pin</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-23 06:24:03</DATE>
+    <TEXT>Interesting to know. It should be mainly a car for cruising around the map, but thank you for your input</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-23 10:50:59</DATE>
+    <TEXT>Haha, not bad, must be interesting... For throwing big boxes around the map, I got my Transit  #128514; I've got a B tuned Scirocco R for some recent season event, S1 Golf VII for free roam craziness, and Fousts Beetle for some Playground in the past and that's all cars I use... The rest is parking in the garage stock</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-25 15:46:12</DATE>
+    <TEXT>Accidentally sent to North Pole. Don't want to pay for shipping from North Pole Ask Santa to do it instead...</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-25 15:54:16</DATE>
+    <TEXT>Depends on which quality you want and how many FPS</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-25 16:08:49</DATE>
+    <TEXT>Then no, my RX580 8GB is keeping up at 80-90% utilisation when playing Forza Horizon 4 at 1080p 60fps ultra settings... You'll need something beefier</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-25 18:17:13</DATE>
+    <TEXT>You'll be lucky if your GPU will continue to work, there are cases where the GPU (and/or another components) got fried because someone was lazy to change cables as well (no, I don't want to say you're lazy, the other person who fried his components was lazy)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-25 18:19:47</DATE>
+    <TEXT>Then you're one of the lucky ones. Always use the cable which comes with your PSU (no matter if they look same or not)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-26 22:03:29</DATE>
+    <TEXT>I've moved to a controller at 20 (yayy, you're not as that late as I was). I got myself a Dualshock 4. Since then, I'm not able to play racing games on keyboard anymore... The precision how you can control your car (steering, gas/brakes) completely change the game experience... But yeah, it depends on, what kind of games you play  #175;\_( #12484;)_/ #175;</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-27 09:47:21</DATE>
+    <TEXT>If I ignore the fact that the AMD logo is upside down, not bad at all</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-27 09:57:24</DATE>
+    <TEXT>You get more cash when not using rewind (turning it completely off) When I use rewind: Seasonal races, because when you mess the first badly (especially at Street scene races, where AIs spawning right at the exit of a corner), you can finish the whole championship (and some of them are loooonggg) and start again... Not very fancy about that. And by Danger zones (or how's called) and speed traps when I mess up the entry (or when suddenly an AI spawned right in front of my face</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-27 10:05:25</DATE>
+    <TEXT>That means you'll get first car (the Agera RS for example) for free, if you want to buy yourself a second Agera RS you'll have to pay for it.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-27 10:08:32</DATE>
+    <TEXT>Dunno, that was just an example. Some ppl like to have 2 same cars with different setups</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-27 10:12:45</DATE>
+    <TEXT>Ahh, yes, you can... I didn't know that as well, but once I won a car in a wheelspin, use that car to play a seasonal championship and to win the same car and I've got 2 of them  #175;\_( #12484;)_/ #175;</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-27 10:40:07</DATE>
+    <TEXT>Yeah, I sold it as well... One is enough for me</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-27 10:43:08</DATE>
+    <TEXT>Ya, the EAT and Track-Tor as well</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-27 10:46:53</DATE>
+    <TEXT>I have no idea, but I'm not willing to sell mine  #128513; Why you won't just finish the Top Gear story? Takes like 1,5-2h to finish</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-27 11:00:46</DATE>
+    <TEXT>Ahh hahah, tbh, no clue</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-27 18:46:23</DATE>
+    <TEXT>You sure it's the right house? You shouldn't be able to travel anywhere, just any road. Unfortunately I can't tell if it'll work when you haven't smashed all boards, because I bought the house after I smashed all of them</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-28 20:12:12</DATE>
+    <TEXT>Dumb question, have you connected the HDMI/DP/whateverelse to the GPU?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-28 20:14:30</DATE>
+    <TEXT>Haha, good. And the GPU is connected to PSU as well I suppose... What did you get when you turn on the PC? Any fans or something moving?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-28 20:27:31</DATE>
+    <TEXT>As someone mentioned here, check the monitor input. Check the cables if they aren't loose. Otherwise probably try to update the bios... Another dumb question, is the monitor on? A friend of mine had quite headaches because he forgot to turn his monitor on  #128517;</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-28 20:42:01</DATE>
+    <TEXT>Okay, good luck</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-28 21:30:18</DATE>
+    <TEXT>This makes me want to buy it for my Ryzen  #128513;</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-29 09:10:55</DATE>
+    <TEXT>You can't RMA stuff in your country? As you said, they are just 2 weeks/months old. I would check RAMs as well (with MemTest for example). But the best way is, if some of your friends could lend you their RAM sticks to test them (or test yours on their system) to determine if they are defective or not. I had got lot of my headaches with BSODs with my build too, swapped RAMs, baaamm, no BSOD anymore.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-29 21:59:27</DATE>
+    <TEXT>Lower the difficulty?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-29 22:00:29</DATE>
+    <TEXT>Hahaha, lower car Tier then?  #128513;</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-29 22:03:02</DATE>
+    <TEXT>Train the jump then... Abuse... Ehm, I mean, use rewind  #128556;</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-08-01 18:52:13</DATE>
+    <TEXT>Seems I've been the lucky one who got his fan out. Try to get a better screwdriver which will fit the screw perfectly Hopefully you're doing it while your case is lying on the side</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-08-09 07:16:14</DATE>
+    <TEXT>Ehm, turn on the monitor?  #129300;</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-08-09 15:06:53</DATE>
+    <TEXT>Press Alt+Enter or use settings in main menu</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-08-09 21:41:26</DATE>
+    <TEXT>I've got same issue. I solved it by turning off V-sync in AMD Wattman app (I use a AMD RX580 GPU)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-08-10 05:51:53</DATE>
+    <TEXT>Hard to say, I use DS4 connected using BT (I don't have the dongle), steam recognise it as DS4. Try to check NVIDIA settings if there are some V-sync enhancement for it. I've got v-sync off in RL but GPU driver/tool overrides that If that doesn't work, unfortunately I out of ideas, sorry</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-08-14 17:36:33</DATE>
+    <TEXT>Because it doesn't have enough wattage (around 10 W for a phone charger) but the Switch require 39 W charger. A Macbook require something around 45W. That's why the macbook charger is sufficient, but your phone charger is not</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-08-14 17:49:01</DATE>
+    <TEXT>What about not fully pushing the button and gently applying throttle like in real car? Would be helpful (but controller required)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-08-14 20:09:35</DATE>
+    <TEXT>Depends on your controller and functionality requirements... With most mainstream controllers Steam will be sufficient</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-08-27 20:15:33</DATE>
+    <TEXT>AFAIK some of the barn finds appears only on some seasons, be patient</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-08-30 11:20:49</DATE>
+    <TEXT>Yes, then you can charge the airpods using the case</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-09-03 15:23:46</DATE>
+    <TEXT>I think he has 2x8GB and wants to buy additional 2x8GB</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-09-03 15:30:25</DATE>
+    <TEXT>It's a bit about luck. I'm running 2 separately bought 1x8GB sticks and it works fine. I do not overclock or anything. Just 2 questions, according to the model number you should have 4x8gb,why you have only 2? Second question, do you really need 32GB?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-09-03 15:39:51</DATE>
+    <TEXT>There's just a hurricane destroying Bahamas, nothing significant</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-09-08 17:24:52</DATE>
+    <TEXT>Yes, these are Ryzen 3 and Ryzen 5 integrated GPU</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-09-08 19:37:15</DATE>
+    <TEXT>Why you won't put an intake fan to the front? It's better solution than top</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-09-08 19:47:13</DATE>
+    <TEXT>What case do you have that you don't have front slots?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-09-15 07:45:43</DATE>
+    <TEXT>I like how you're sneaking on him with your Hyundai back there</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-09-17 20:58:44</DATE>
+    <TEXT>50 degrees seems fine for both CPU and GPU when gaming (use HWinfo to provide temps of each components to be precise, most important are CPU and GPU temps) What are your specs? When gaming the PC gets louder, that's normal. Do you have some air exit openings covered by something?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-09-18 05:43:14</DATE>
+    <TEXT>50 degrees for 2600 while gaming is a good temperature. I usually have 60 degrees haha. Have you tried to monitor your temps using HWinfo? Btw, what's your PSU?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-09-18 05:45:51</DATE>
+    <TEXT>If you're not overclocking or so, there's nothing to worry about. Except your brother has issues with a bit noisy fan. Just remember to put 2-3 (better 3) case fans for some airflow</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-09-18 06:43:00</DATE>
+    <TEXT>Maker and model? More case fans could help, how many do you have rn and where are they located?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-09-18 10:53:10</DATE>
+    <TEXT>That's okay. What's your PSU maker an model? Can you try to find where the smell is coming from?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-09-18 10:54:09</DATE>
+    <TEXT>Np, cheers</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-09-18 12:22:51</DATE>
+    <TEXT>That's a good PSU, and it should work fine with your setup. Is your PC directly connected to wall outlet?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-09-18 13:41:19</DATE>
+    <TEXT>Can you try a different extension or plig it directly in the wall? And try to stress your PC if the smell will get worse or not + monitor the temps during testing. I personally use OCCT for CPU and PSU stressing, Unigine Valley for GPU stressing and HWinfo for monitoring temperatures</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-09-26 21:53:47</DATE>
+    <TEXT>Just drive, with the time you'll learn to feel when is the right time to shift down... Drive against one level easier drivatars to learn shifting on various tracks, when you feel you got it, increase the drivatar level back to your usual difficulty</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-09-26 21:55:49</DATE>
+    <TEXT>What does white light do? Like it's a mix all colours, so it should be cool, powerful and ecologic as well, right?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-03 20:36:16</DATE>
+    <TEXT>I've got the DS4 connected to a PCIe BT module. Works fine with Steam and Forza Horizon 4 (Input Mapper required for Forza). Just the headphone jack doesn't work (but it works when connected via USB cable)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-13 00:09:51</DATE>
+    <TEXT>Splitters or fan hub, depends, if you have 3 or 4 pin fans</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-13 08:31:39</DATE>
+    <TEXT>Go for a splitter, if you get a hub, you'll need 4-pin fans otherwise the (3-pin) fans will run full speed all the time</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-13 08:36:05</DATE>
+    <TEXT>And you'll get 2x cash from races</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Looking for a Pizza delivery service? Mr. Snail's Pizza is here for you, the fastest pizza in Edinburgh</TITLE>
+    <DATE>2019-10-20 20:36:11</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-21 06:46:42</DATE>
+    <TEXT>Hey I just got hard time climbing to the highest peak of the Arthur's Seat, let it rest a bit before the next delivery... Aaaand it's a Subaru, it's made to get dirty, not to be showcase car :P</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-29 17:40:46</DATE>
+    <TEXT>I would RMA the new RAM, seems to be defective. I had similar issue with my old RAM. After getting a replacement, it worked fine</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-11-24 21:21:52</DATE>
+    <TEXT>The Wraith cooler is fine (if you don't overclock). What I don't like is the thermal paste/glue on it. I recommend to change the paste</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-11-24 21:27:19</DATE>
+    <TEXT>You can control the outer ring by using the another cable connecting to the USB header (don't use the RGB cable anymore) and this app specially developed for Wraith Prism (that's the cooler coming with 2700X/3700X+) [https://landing.coolermaster.com/pages/amd-ryzen-wraith-prism-rgb-software/](https://landing.coolermaster.com/pages/amd-ryzen-wraith-prism-rgb-software/) You can control all 3 areas (Fan, Ring, Logo) independently</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-11-28 16:19:23</DATE>
+    <TEXT>X Class is actually good... for traps and zones... Aaand that's it</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-11-28 17:25:24</DATE>
+    <TEXT>Yeah, for racing I prefer B - S1. S2 is just for really fast tracks (like Goliath, almost no 90 degree curves)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-11-28 17:43:31</DATE>
+    <TEXT>I have more S2 cars, but these are stock S2... Except the Transit FE, that was tuned to S2 because sometimes you need to do crazy sh...ehm, stuff, haha... xD</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>I can see you, but you can't see me... Right?</TITLE>
+    <DATE>2019-12-02 20:37:44</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-02 20:44:19</DATE>
+    <TEXT>And GPU temps too... And specs won't harm as well</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Today I visited a toy shop to buy my younger brother a gift. I left the toy shop with this bad boy and a weird grin instead... And no gift xD</TITLE>
+    <DATE>2019-12-09 12:47:58</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-09 13:22:59</DATE>
+    <TEXT>Haha, I was searching for a blue or orange one for like last 8 months. Everytime I got in a store with toys or a toy shop, first I checked Hot wheels cars if I find one... Today I finally found one... Not blue or orange, but that doesn't matter much</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-09 13:23:51</DATE>
+    <TEXT>Yeah, I was searching for months, but today I finally got lucky</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-09 13:30:25</DATE>
+    <TEXT>Unfortunately I'm from Germany. I found for a regular price (1.99 #8364;) as well. Yeah, in the shop I was, the cars were hanging, so it was easier to find a small black edge with RL logo on it. I hate kind of shops which dumps whole box of cars on a pile.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-09 13:31:05</DATE>
+    <TEXT>Yeah, seems some 2020 series (at least according to the paperback)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-09 15:50:11</DATE>
+    <TEXT>Lucky you, this is my first Octane</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-09 17:04:20</DATE>
+    <TEXT>No, I'm in Germany unfortunately</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-09 17:05:54</DATE>
+    <TEXT>Of course my friend. Rofu Kinderland ist the store chain. Good luck</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-09 18:24:59</DATE>
+    <TEXT>Thank you for your offer, very kind of you, but I can live without them haha</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-14 21:05:05</DATE>
+    <TEXT>Wow nice, quite envy your collection haha... Cheers mate</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-14 21:10:19</DATE>
+    <TEXT>I'm curious if I'll ever find the other two... And recently I found out that my octane has misaligned print... Slightly out of luck then, hah</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-14 21:15:12</DATE>
+    <TEXT>Thank you very much for, but that's not necessary... I want to have the good feeling of finding it out myself, haha And idk where are you from, the shipping could add up so high it won't be worth it anyway.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-21 18:42:50</DATE>
+    <TEXT>PC... With DS4 Controller... Good mix I guess</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-21 18:44:05</DATE>
+    <TEXT>I didn't even know such amount existed... Congrats fellow Czech driver, hehe</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-23 18:59:13</DATE>
+    <TEXT>I've got working cop lights on Alfa 4C, M4 GTS, Aventador S, Merc SLS, Golf R 2014 and Insignia... The Dial is in HUD settings, you got analogue or digital tachometer</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-25 11:09:39</DATE>
+    <TEXT>No, you can have even 20 of them if you want hahah</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-25 11:44:37</DATE>
+    <TEXT>Haha, now you know :D</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-31 19:27:43</DATE>
+    <TEXT>Actually only 100 Credits... Just seen few days ago, forgot to post, haha [https://imgur.com/a/VqQN18t](https://imgur.com/a/VqQN18t)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-31 19:30:26</DATE>
+    <TEXT>UPDATE: Found the existing vinyl/painjob in RL, which is very similar, costs 100 Credits, but I think it's already gone, since I've seen it last Sunday [https://imgur.com/a/VqQN18t](https://imgur.com/a/VqQN18t)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-01-26 09:20:29</DATE>
+    <TEXT>You know you can play Forza (FM7 or FH4) on PC, right?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-01-26 10:01:14</DATE>
+    <TEXT>Ahh, yeah, laptops and Forza aren't very good friends (except when you got a very expensive one... And an eGPU)... Luckily for me, I got a old school builded PC</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Somehow it end up looking quite good, what do you think?</TITLE>
+    <DATE>2020-02-06 13:41:41</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-02-14 19:14:25</DATE>
+    <TEXT>There should be some option like search (Xbox View Button/Backspace/DS4 Share Button) and there should be a option to put code</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-02-15 00:07:37</DATE>
+    <TEXT>That's usual on FH4 as well... You putting some rally lights on your hood? Great choice, now your car is lighter</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>When you have to unclog a toilet at 8 but have a lowrider meeting at 9</TITLE>
+    <DATE>2020-02-28 06:54:12</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-02-28 06:56:06</DATE>
+    <TEXT>You mean your stuntman/doppelganger?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-02-28 06:59:27</DATE>
+    <TEXT>Got that as well sometimes, in the beginning I was like haha, my avatar is too afraid, so he needs a stuntman, now I just ignore it  #175;\\\_( #12484;)\_/ #175;</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>When you have to unclog a toilet at 8 but have a lowrider meeting at 9</TITLE>
+    <DATE>2020-02-28 07:10:30</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-02-28 08:06:09</DATE>
+    <TEXT>Just a regular B450 Tomahawk need a Bios flashed. MAX editions are already Ryzen 3xxx ready</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-02-28 09:22:10</DATE>
+    <TEXT>Naah, just testing the suspension, you can clearly see me behind the wheel Ngl, your comment got me xD</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-03-26 22:30:51</DATE>
+    <TEXT>There are ppl who say you should get cheaper motherboard or cheaper PSU. I'm not recommending that. I've bought myself a cheap motherboard, my VRMs are getting so hot it's throttling my CPU (R5 2600). Your Motherboard choice is great, you might go for MSI B450-A Pro Max, which is basically Tomahawk with less fancy look and no usb-c in order to save few bucks. Getting too cheap PSU you may put your components in danger. The eGPU, as many already mentioned, it's not a good idea. A friend of mine got an eGPU, which got more powerful GPU than I got, but I still have better performance Do you really need the H510i? The H500 should be cheaper and looks the same. It just missing the usb-c You might wait few more months and save some more cash to get one. Btw, in what resolution and fps you want to play?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-03-27 22:34:40</DATE>
+    <TEXT>Well, I can confirm that my RX580 8GB is working well with 1080p@75FPS. It's not always running on ultra, but for sure you can push at least high on it. You might save some money instead of grabbing the RX590. But for 1440p I would probably look somewhere else (aka even more expensive)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-03-27 22:39:25</DATE>
+    <TEXT>Looks solid, just the PSU seems only okay-ish. Do you have any other options in your price range?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-03-27 22:42:55</DATE>
+    <TEXT>Which one exactly? There are good ones and bad ones</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-03-27 23:08:14</DATE>
+    <TEXT>With the grey writing on the PSU, right? That's a good one (had in my other build). I would grab that if possible</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-03-27 23:13:10</DATE>
+    <TEXT>No problem, have fun with the build</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>I'm not very good at this, but this was intentional, I swear *wink wink*</TITLE>
+    <DATE>2020-04-01 11:39:03</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>I've heard lot of bad about this seasonal, got really scared. Seems I was one of the luckier to get a good team to win the trial on the first try. Thank you guys (we need some positive news about it as well, don't we?)</TITLE>
+    <DATE>2020-04-10 16:00:12</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-10 17:02:54</DATE>
+    <TEXT>I'm sorry for that, hope you'll soon find a good team. Seems there are many frustrated players who leave after the first race, which in my opinion was the toughest one</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-10 17:06:15</DATE>
+    <TEXT>Oh cool, congratulations. I've managed it with my Alumni with almost no tuning (just tire pressure and final gear ratio changes)... Yeah, the first round was tough one, our team lost it as well, but they didn't gave up, we made it up in next two, which were quite easy (in comparison to the first one) . My positions were 6-1-2, which says a lot about the first race</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-11 14:17:38</DATE>
+    <TEXT>Yeah, that's true. Idk why it's so hard to install few parts for 10-15K to max out in required class. It's not very hard make such money...</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-09 21:53:11</DATE>
+    <TEXT>Here you go... Just imagine it on the other side, heh [https://youtu.be/oFZMZXN4pZs](https://youtu.be/oFZMZXN4pZs)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-09 21:57:56</DATE>
+    <TEXT>No problem. Sometimes you have to rotate parts manually to make them fit</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-09 22:01:38</DATE>
+    <TEXT>No idea what hole do you mean, but hey, at least it works now</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Apparently this works as well</TITLE>
+    <DATE>2020-06-27 10:20:06</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-24 20:58:12</DATE>
+    <TEXT>Hello and welcome. Yes and no. It's the USB-C port on the top of the case. If you have devices using USB-C you might want to use it. If not, you won't need it (but then you'll have a non-functional port). In that case I recommend you the H500, which is the same case, but with regular USB-A for which the B450 Tomahawk does have a connector Cheers</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-07 17:35:25</DATE>
+    <TEXT>For my breakfast which require 4 slices of bread, this is just perfect  #175;\_( #12484;)_/ #175;</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-10 07:29:29</DATE>
+    <TEXT>Looks like the M8 GTE, that's only in Motorsport 7 so far</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-10 09:59:26</DATE>
+    <TEXT>I found out what the game is, and I would kill you for posting it here, you're just lucky I don't know who you are and where you live. Have a nice day</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-10 10:05:47</DATE>
+    <TEXT>I found it out listening to TimelessFM... Funny when he's boping to Vivaldi haha</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-10 11:21:25</DATE>
+    <TEXT>Modded GTA V</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-10 12:46:52</DATE>
+    <TEXT>I'm not sure what about others, but I like jokes. I just didn't understand your joke. And don't worry, won't kill you, it's just you wanted to be killed haha P.S.: The "Mansaug" got you... Literally first google result</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-10 18:05:41</DATE>
+    <TEXT>There's one at Lego World. Do you have that DLC?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-11 01:42:32</DATE>
+    <TEXT>No, that's the 16th. Maybe your last barn will appear on certain season. Are you sure your missing car is a winter one?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-11 14:24:58</DATE>
+    <TEXT>As I remember correctly, you'll get a barn find when you buy Bamburgh Castle. Edinburgh Castle won't give you a barn find. They are coming randomly. I've been waiting a long time for my last barn as well. What barn finds do you already have?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-12 14:58:18</DATE>
+    <TEXT>It's just cosmetics.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-13 21:09:46</DATE>
+    <TEXT>Maybe. Depends on how many amps your fans draw in total. Usually a fan header should be able to cope with 1A. Some motherboards even support 2A, but not all. If your total draw is under 1A, you're good to go. If the draw is higher and you're lucky, they just won't work. If you're unlucky, you'll need a new motherboard</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-13 21:15:20</DATE>
+    <TEXT>Maybe the rice police looks bit... Rice? Otherwise I'm out of explanations</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-14 22:12:08</DATE>
+    <TEXT>You need to plug it in the 8-pin first. In case you have a second EPS cable, then you can plug it in the 4 pin one.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-14 22:22:45</DATE>
+    <TEXT>Yes.. Or maybe stuck it somewhere so it will look tidy</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-15 15:31:28</DATE>
+    <TEXT>I can recommend the Arctic P12/14 series. They aren't very expensive, looks fine and the performance is on par with more expensive fans.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-15 21:36:51</DATE>
+    <TEXT>You can use your Xbox One controller using Bluetooth. A Bluetooth dongle shouldn't be too expensive</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-15 21:46:28</DATE>
+    <TEXT>Hey, welcome. First to your display issues. Have you tried different cables or/and different monitor? Try other GPU slot. Maybe it's the culprit. To your hot CPU, what's your temps? What is your case fan setup? If you hate your case, swap it if you can. It's the first thing you see when you go to your desk. Unfortunately I don't know much about RAID, so I'll let other people to help. I use my SSDs separately (System and Data). To your specs, they look fine to me</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-15 22:31:50</DATE>
+    <TEXT>Can you try to use HDMI with your MSI monitor for testing purposes? If your monitor doesn't have HDMI, try another DP port on your GPU. Or another DP cable if you have some lying around.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-17 07:45:08</DATE>
+    <TEXT>Very clean my friend. Great job</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-17 17:18:28</DATE>
+    <TEXT>I have to agree. I got two of them cheaply from a friend. They looked solid and high quality. A day later my budget Arctic P12 PWM were back in my case, because damn, too loud for my liking</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-18 14:57:40</DATE>
+    <TEXT>My bad, sorry</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-18 16:36:47</DATE>
+    <TEXT>Amd Wraith Stealth and Wraith Spire have two kinds of fans. 5 blade one is made by Cooler Master and 7 blade one is made by AVC</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-18 16:49:21</DATE>
+    <TEXT>Not sure tbh, I've been using the 5 fan one for a while before I got hands on the Wraith Prism, so it's just laying around in my drawer. But I guess they should have similar performance</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Hello good people, I'm planning my second PC Build. My first one I've done completely on my own, and it didn't went very well. This time I want to ask you for your opinion on my part choice. If there is something I should reconsider. Thank you</TITLE>
+    <DATE>2020-10-19 10:33:30</DATE>
+    <TEXT>###Build Help/Ready: **Have you read the sidebar and [rules](http://www.reddit.com/r/buildapc/wiki/rules)? (Please do)** Yes and I hope I understood it right. **What is your intended use for this build? The more details the better.** Gaming, ocassional light video editing (cutting, rotating, playback speed etc) and CAD Construction using Creo Parametrics Games to be played: Forza Horizon 4, Dirt Rally 2.0, Euro Truck Simulator 2, Rocket League, Trackmania 2020. Considering buying MS Flight Sim later on **If gaming, what kind of performance are you looking for? (Screen resolution, framerate, game settings)** In future 1440@60FPS high, right now 1080p@75FPS ultra, cos too low budget for a 1440 Monitor **What is your budget (ballpark is okay)?** Around 800-900 #8364; **In what country are you purchasing your parts?** Germany **Post a draft of your potential build here (specific parts please). [Consider formatting your parts list.](http://www.reddit.com/r/buildapc/wiki/pcpp) Don't ask to be spoonfed a build (read the rules!)**. https://de.pcpartpicker.com/list/Pk2M8J I will reuse the some parts from my current PC CPU Cooling: AMD Wraith Prism Case: be quiet! Pure Base 500 Windowed PSU: Seasonic Focus GX-650W Fully Modular SSD: Samsung 860 QVO 1TB</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-19 10:37:57</DATE>
+    <TEXT>From what I understood, the two red and black ports are managed by your chipset, and the three blue are managed by the CPU</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-19 11:15:11</DATE>
+    <TEXT>Thank you for your input. I'm sucker for the Gigabyte RAM's with dummies, so I'm going with them and I don't like the look of Corsairs much But I'll reconsider the GPU, so far every RTX2060 I've seen are over 300 #8364; I guess due to the two additional cores it's better in video editing, right?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-19 11:20:21</DATE>
+    <TEXT>Thank you for your input. Well, my 1TB SSD has around 200GB free in total, and I already have to put all my videos on my external HDD, so I think I'll need that extra space. I had previously a HDD, but that was the loudest part of my PC, so I'm going all SSD now</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  </INDIVIDUAL>

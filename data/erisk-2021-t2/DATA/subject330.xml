@@ -1,0 +1,1653 @@
+<INDIVIDUAL>
+  <ID>subject330</ID>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-05-02 17:46:55</DATE>
+    <TEXT>Where is Rendezvous with Rama?! Where!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-05-24 15:05:44</DATE>
+    <TEXT>Hahaha, Masayoshi Son really gave it all just to get rid of Sprint. Now U.S breaks its promise to Son to get rid of Sprint, and he pissed off China, SoftBank is done.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>2001 space odyssey question.</TITLE>
+    <DATE>2019-05-26 03:45:40</DATE>
+    <TEXT>Towards the end, how did Bowman transformed from baby to something without physical substance (the star child)?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-05-26 10:06:25</DATE>
+    <TEXT>Interesting, basically this part is skipped in the book? Strange, normally Arthur Clarke describes things in details so you can easily sketch them out. Maybe he couldn't think through this part neither.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-05-28 19:21:49</DATE>
+    <TEXT>This creeps me out. No more FedEx. Better alternative might be DHL.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-05-30 05:32:52</DATE>
+    <TEXT>Goodbye IEEE. Time for IET, Springer, Elsevier</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-05-30 05:35:02</DATE>
+    <TEXT>Also Nokia</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-05-30 05:39:23</DATE>
+    <TEXT>not one, many quit.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-06-05 06:19:26</DATE>
+    <TEXT>Don't like the trade war, but if China chooses to be more open and lifts its Great Firewall, it would be the winner after all. Seriously I'm sick of paying for 100 USD for a VPN for something I deserve for free, especially when the VPN isn't working 24/7.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-06-11 08:32:12</DATE>
+    <TEXT>Yes they can be made quite tough, but it is unable to resist once cracked. See here. [https://www.researchgate.net/post/Why\_ceramics\_have\_low\_fracture\_toughness](https://www.researchgate.net/post/Why_ceramics_have_low_fracture_toughness) Unless brakes don't experience much force or carbon is the 'ductile' element.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-06-11 09:14:14</DATE>
+    <TEXT>Good that I see your post before subscribing! Thanks!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-06-25 18:15:54</DATE>
+    <TEXT>yes, it's tagged. And it just happens to two particular GOs, others all work properly. For example, the old code public void MoveCameraToPreviewArea() { SetCamToParent(GameObject.Find("PreviewArea/CameraPosition").transform); GameObject.Find("AR Session Origin").transform.Find("AR Camera").gameObject.SetActive(false); //find cam itself by transform.find (because it can be disabled in scene) } The new code: public void MoveCameraToPreviewArea() { SetCamToParent(GameObject.Find("PreviewArea/CameraPosition").transform); GameObject.FindWithTag("ARCamera").SetActive(false); }</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-06-25 18:18:13</DATE>
+    <TEXT>Wait, can FindWithTag find inactive GO? let me check</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Is it possible to import a model from server then make it a PREFAB in Unity?</TITLE>
+    <DATE>2019-06-27 18:21:53</DATE>
+    <TEXT>I'm importing some models on runtime to my Unity project, I wonder is it possible to make them prefabs in runtime? Maybe save them to some database then make them prefabs?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-06-29 12:25:49</DATE>
+    <TEXT>Thanks.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-06 08:39:19</DATE>
+    <TEXT>updating to 20.0.5 didn't solve my problem, going back to CS6 extended solved it.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Work around for Blender .fbx export's force start/end keying?</TITLE>
+    <DATE>2019-07-08 16:00:40</DATE>
+    <TEXT>Hi I'm exporting a .gltf file from .blend. However since the gltf exporter isn't supporting exporting animations, we need to first export .fbx file from Blender, then re-import in Blender, then export .gltf. During the .fbx export, if I don't check force start/end keying, the actions would be exported differently; if I check it, there'll be some strange 90 degree rotation and scale won't work properly in the .gltf format. I wonder if there's any workaround for the force start/end keying? Appreciate it.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-09 13:33:52</DATE>
+    <TEXT>doesn't export properly</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-11 06:05:13</DATE>
+    <TEXT>yes, if you export to fbx then reimport it to blender then push down then export to gltf, the animations are correct. The only thing is the 90 degree rotation which is related to fbx's x axis rotation problem. I opened an issue under Khronos' repo a month ago, they say they fixed it and closed the issue, however the latest package still export animations incorrectly.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-12 03:42:58</DATE>
+    <TEXT>lol, ok I'll try. Thanks.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Button position in anchored parent GO for different screen sizes.</TITLE>
+    <DATE>2019-07-21 18:38:41</DATE>
+    <TEXT>Say I anchored a parent GO ( x 0.1-0.9, y 0.2-0.8) to make sure it fits in different screen sizes. Then create a child UI image (function as prompt window) with preserved ratio, and add a button as child, expecting the button to be in fixed position(percentage) inside the UI image for all screen sizes. However the button position changes along y axis (move in/out of the UI image) as the screen size changes. Any solution for this? https://reddit.com/link/cg2dz8/video/ml4yo90mptb31/player</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-22 09:27:25</DATE>
+    <TEXT>Thanks. Please see updated video. I think I did it right, not sure how to improve it tho.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-22 15:41:08</DATE>
+    <TEXT>Just found out the solution is to change UI image type from 'Simple' to 'Sliced'. And make sure the green border of the image is inside in sprite editor.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-08-12 05:10:44</DATE>
+    <TEXT>ah, it's from using namespace cv; thanks!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-08-12 05:14:38</DATE>
+    <TEXT>you're right, it's from another namespace cv::String. thanks.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-08-12 06:21:35</DATE>
+    <TEXT>The  amp; in' String  amp; model' is passing the model var by reference? What about the '| |' in 'const String keys = "{ @f face-cascade | | (required) path to the cascade model file for the face detector }"', shall we insert path such as "C:\\user\\xxx.jpg" in between?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-08-12 07:34:29</DATE>
+    <TEXT>:( but you can still read my comment? what's the point of the removal then.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-08-27 03:00:01</DATE>
+    <TEXT>ok, found this [answer](https://stackoverflow.com/questions/6392739/what-does-the-at-symbol-do-in-python) Strange that nothing shows up in the doc.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>How to register 3d model.</TITLE>
+    <DATE>2019-08-27 08:59:27</DATE>
+    <TEXT>Hello, compared to the flooded makeup tutorials, I found zero demo of registering a 3D model other than Matlab's point cloud registering/stitching. However it only plots the vertex locations, no coordinates of the triangles, materials, none all that. Here is a 1sec model tri.ply in Blender, and the plotted in Matlab through `ptCloud = pcread('tri.ply'); pcshow(ptCloud)` https://preview.redd.it/s5n94oz5gyi31.jpg?width=1912 amp;format=pjpg amp;auto=webp amp;s=710fd0be263993d23bd66362492b518e7a90e967 What I'm trying to achieve is to label my own dataset, similar to [BaselFaceModel](https://faces.dmi.unibas.ch/bfm/index.php?nav=1-0 amp;id=basel_face_model) , but not faces. If anyone knows how to achieve it, please let me know. Python preferred. Appreciate it. \----Update: Found a software called [Meshlab](http://www.meshlab.net/), try it out and see if it's able to label the data points. Also looks like I misunderstood the purpose of 'registration', which is to align two different models (why?).</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-08-28 03:35:32</DATE>
+    <TEXT>Thanks. Here's what I'm trying to do: 1. Perform some operations on different 3d models (also segment their regions. label features,etc), and get a 'base morphable model'(as a template). the morphable model should store all the info-- vertex\_num, (x,y,z), (x,y), segments, triangles, etc. 2. Align it's labeled 3d features to corresponding 2d images. As I understand, PCA is used to down-dimensionize data, ICP is for aligning 2 pointclouds. Say I have i.e 3d cat mesh A, B, C, and I perform ICP on A to B to C, it'll deform A to B to C, then get the transformations between them. But then how to get the base morphable model? Also it treats the 3d mesh as pointcloud, so where does the triangle info go? (please excuse me if I get anything wrong as it's real far from my expertise)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-08-28 13:05:05</DATE>
+    <TEXT>Thanks. 1. By annotating the model, you meant marking certain vertex or vertices as a feature point(s) or segmentation? Do you happen to know which tool is able to achieve it? 2. Basically the process for morphable model is to align the new input 3d mesh data against template such as SMPL or custom made template, to get the transformation parameters, then use these parameters to morph the template? I assume the alignment require both models to have same amount of vertices. What if it is impossible to make sure the models have same amount of verts? ( use some averaging methods? [https://www.researchgate.net/publication/4023044\_3D\_Model\_Retrieval\_With\_Morphing-Based\_Geometric\_and\_Topological\_Feature\_Maps](https://www.researchgate.net/publication/4023044_3D_Model_Retrieval_With_Morphing-Based_Geometric_and_Topological_Feature_Maps) ) If I remember correctly, voxel isn't able to produce high res reconstruction and computationally expensive. Again, appreciate your help!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-08-29 06:04:54</DATE>
+    <TEXT>Amazing, found a way to extract the landmarks/annotate the model in Blender! :)))))))))</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-08-29 14:46:01</DATE>
+    <TEXT>Compared to U.S, yes. Compared to other South Asia, no. The labor increased dramatically during the past years. Unless Google has a huge sales market in China, it has no reason to manufacture there in the first place.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-08-29 15:00:18</DATE>
+    <TEXT>What I meant was Google shouldn't have MANUFACTURED pixels in China when they DON'T have a market there. Or they could manufacture there and try to open up the market. There are two reasons you shall choose to manufacture oversea: 1. Significantly cheap labor. 2. Huge market oversea. Google has neither in China. However moving elsewhere is not going to help their sales neither.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-08-29 15:11:23</DATE>
+    <TEXT>$800/m in China? That's some huge gap compared to those who work in Huawei getting paid $300k+/y, $30k+ bonus.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-08-29 16:05:25</DATE>
+    <TEXT>GDP per capita is probably 1. Be dragged down by the population. If one makes less than $600/m, then he/she is eligible for government welfare. Average annual income per person in big cities is around $40k, could vary across cities. 2. The official income you find excludes the extra income other than salary from entity. For example, if you work for a company during the day, but make money from selling products or stocks, the latter aren't considered as your income. Therefore, the GDP per capita could be low.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Unable to drawnow</TITLE>
+    <DATE>2019-09-08 18:50:02</DATE>
+    <TEXT>Hi, what could be the reason that drawnow takes forever? Code below, target is a struct w 13652 vertices, 26470 faces. source is a struct w 7571 verts, 14788 faces. It's been stuck in the debugger before drawnow for 5 hours... if Options.plot == 1 clf; PlotTarget = rmfield(Target, 'normals'); p = patch(PlotTarget, 'facecolor', 'b', 'EdgeColor', 'none', ... 'FaceAlpha', 0.5); hold on; PlotSource = rmfield(Source, 'normals'); h = patch(PlotSource, 'facecolor', 'r', 'EdgeColor', 'none', ... 'FaceAlpha', 0.5); material dull; light; grid on; xlabel('x'); ylabel('y'); zlabel('z'); view([360,200]); axis equal; axis manual; legend('Target', 'Source', 'Location', 'best') disp('* draw it...'); drawnow; disp('* complete...'); end</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-09-09 02:12:58</DATE>
+    <TEXT>Just tried it, still the same. So strange.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[PCA] how to get eigenvalues using np.linalg.svd()</TITLE>
+    <DATE>2019-09-10 10:15:35</DATE>
+    <TEXT>Hello, I'm practicing on pca, but I don't quite know how to get the eigenvalues correctly using np.linalg.svd(). Code below and appreciate the help in advance: import numpy as np from sklearn.preprocessing import StandardScaler def compute_pca(data): #Input: m x n data matrix scaler = StandardScaler() scaler.fit(data) data=scaler.transform(data) mean = data.mean(axis=1)[:,np.newaxis] centered_matrix = data - data.mean(axis=1)[:,np.newaxis] cov = np.dot(centered_matrix, centered_matrix.T) [u,s,v] = np.linalg.svd(cov) pcs = [np.dot(centered_matrix.T, item) for item in u.T ] pcs = np.array([d / np.linalg.norm(d) for d in pcs]) pcs=pcs[:,:-1]</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-09-10 15:31:28</DATE>
+    <TEXT>np.linalg.eig() returns imaginary number on my data matrix.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-09-10 15:58:13</DATE>
+    <TEXT>sure, but **np.linalg.svd()** doesn't give me imaginary number.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-05 03:16:32</DATE>
+    <TEXT>What do you mean by loading time? Initial loading time or loading time for each session? The official Tensorflow serving installation doc only provided instruction for Debian system, but what about windows, should I install docker first?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Topology question</TITLE>
+    <DATE>2019-10-07 11:44:05</DATE>
+    <TEXT>Based on this [Cow-sphere transform](https://en.wikipedia.org/wiki/Topology#/media/File:Spot_the_cow.gif), can I understand it as any object that can be continuously deformed into a sphere share the same topology? If so, most of the objects, except for donut and 8 shape, share the same topology?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-07 12:57:15</DATE>
+    <TEXT>that makes sense. Thanks.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-07 13:07:08</DATE>
+    <TEXT>Saw [this paper](https://www.researchgate.net/publication/221000814_Feature-based_3D_morphing_based_on_geometrically_constrained_sphere_mapping_optimization) earlier, where it merges input and output into one topology on a sphere, so it could traverse back forth. Let me check the Alexander Horned Sphere.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-07 13:44:43</DATE>
+    <TEXT>cool, let me check. What's special about that Klein bottle tho?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-08 04:33:44</DATE>
+    <TEXT>lol</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>rotate vertices around a vector</TITLE>
+    <DATE>2019-10-11 12:26:40</DATE>
+    <TEXT>Hi, how do I rotate a vector(x,y,z) for certain angle around a vector? Been looking for a way to build a rotation matrix, misrouted to Quaternions, and still have no clue. Here's what I have: a = [ 4 5 6]; b = [17 8 9]; % target rotationAxis = cross(a,b); vectorAngle = vector_angle(a,b); % How to rotate around rotationAxis for certain angle? function [angle] = vector_angle(v1, v2) v1_u = v1 / norm(v1); %unit vector v2_u = v2 / norm(v2); tmp_dot = dot(v1_u, v2_u); tmp_dot(tmp_dot gt;1.0) = 1.0; tmp_dot(tmp_dot lt;-1.0) = -1.0; angle = acos(tmp_dot);</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-11 13:29:59</DATE>
+    <TEXT>oh nice, thank you!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>x = A\B outputs all NaN values</TITLE>
+    <DATE>2019-10-12 03:43:31</DATE>
+    <TEXT>I'm trying to solve `Ax = B`, where A is 59152 x 59152 sparse matrix, B is 59152 x 3 matrix. But `x = A\B` outputs all NaN values. Checked Nan values by find(isnan(A)), find(isnan(B)) and get ans = 0 #215;1 empty double column vector. What could be the reason that I'm getting all NaN values and how can I solve it in this case? Below is part of the matrices. A= (1,1) 60001 (2,1) 5674 (3,1) 1861 (4,1) 1 (1,2) 5674 (2,2) 32254276 .... B = 1.0e+04 * 0.0000 0.0001 0.0003 0.0418 0.5796 1.7638 0.0137 0.1901 0.5785 0.0000 0.0001 0.0003 0.1706 0.3302 0.0161 0.1699 0.3288 0.0161 ....</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-12 04:56:11</DATE>
+    <TEXT>A is n x n, B is n x 3, how is this not linear? I can solve another C\\D, where C is 30284 x 30284, D is 30284 x 3</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-12 05:21:53</DATE>
+    <TEXT> gt;x = A\\B(:,1) Why only use one column vector? Just tried x = bicgstabl(A,B) and it's requesting 'Right hand side must be a column vector of length 59152 to match the coefficient matrix.' Or are you suggesting at size like this, I shall calculate each column vector individually then append them? Edit: And it's not that I can't solve A\\B, it's that the values of A\\B are all 'NaN', which really confuses me. And when I do x = bicgstabl(A,B(:,1)), all the values I get are also 'NaN'</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-12 05:34:16</DATE>
+    <TEXT>Yes thanks, but I just tried x = bicgstabl(A,B(:,1)) , and all the values in x are still NaN.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-12 05:51:05</DATE>
+    <TEXT> gt;cond(A) I get 'ans = Inf'</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-12 06:12:24</DATE>
+    <TEXT>Oh no, it's not correct answer, some values are the same. hmmm</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-12 06:50:08</DATE>
+    <TEXT>Yes it's a generated matrix, I'm going through the previous steps . Thanks for pointing the directions.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-12 17:02:27</DATE>
+    <TEXT>I get 'out of memory', hmmm...</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-14 05:51:26</DATE>
+    <TEXT>is this bottle equivalent to a donut with a mobius trip twist?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>knnsearch(A,B) returns repetitive indices</TITLE>
+    <DATE>2019-10-14 07:23:04</DATE>
+    <TEXT>I'm using knnsearch(A, B) to find the nearest points' (x,y,z) indices from B in A. But it returns only two indices repetitively. What could be the cause of this? 6.8540000e+03 1.4142000e+04 1.4142000e+04 6.8540000e+03 6.8540000e+03 6.8540000e+03 1.4142000e+04 1.4142000e+04 ...</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Sparse matrix</TITLE>
+    <DATE>2019-10-15 10:48:48</DATE>
+    <TEXT>For a sparse matrix M #65292; each row is a triangle, each column is an edge that connects to two triangles, M(i,j) = 1 if triangle i is connected to edge j, otherwise M(i,j) = 0. How do I make one triangle that connects to edge j to be 1, and the other connected triangle to be -1? For example the full matrix shall look something like this(sum of each column is 2): 0 0 1 0 1 ....0 1 1 0 1 0 ....0 1 0 1 0 0 ....0 0 1 0 1 1 ....1 ... ..............1</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-15 11:55:56</DATE>
+    <TEXT>kind of. Not that big, more like 10\^5 x 10\^5. Each edge is only connected to two triangles, so only two non-zero elements in each column. Not tridiagonal. Edit #65306; You might understand it as InnerEdge-triangle adjacency matrix.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-15 13:04:44</DATE>
+    <TEXT>yes, one 1 should be 1, the other 1 should be -1.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-15 14:29:44</DATE>
+    <TEXT>Something like this? \[r, c\] = find(M); for i = 1:length(r) if rem(i,2)==0 edgePolygonAM(r(i),c(i))=1; else edgePolygonAM(r(i),c(i))=-1; end end</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-15 14:58:31</DATE>
+    <TEXT>what is I(2:2:end) doing?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-15 15:06:48</DATE>
+    <TEXT>Ic. it's taking the even numbers. thanks.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Is there a way to get the polygon list from an adjacency matrix?</TITLE>
+    <DATE>2019-10-18 13:27:23</DATE>
+    <TEXT>Is there a way to get the polygon list from an adjacency matrix? For example, given an adjacency matrix T: v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v1 1 1 v2 1 1 v3 1 1 v4 1 1 v5 1 1 1 v6 1 1 1 v7 1 1 v8 1 1 v9 1 1 v10 1 1 The polygon list is (Update: adjacency list) f 1 2 4 5 3 f 6 7 9 10 8</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-19 03:22:04</DATE>
+    <TEXT>Yes I think it should be using find. But what should I be finding? It works on triangulated mesh to find sum(output=2). But it won't work in such case where number of each polygon's sides is different.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-19 03:25:50</DATE>
+    <TEXT>Adjacency matrix A: each row is a vertex, each column is a vertex, if there's connection between vertex i and vertex j, A(i,j) = 1. Otherwise 0. I didn't add the 0s for visually simplification. The polygon list is using vertex indices to represent connections. For example, f 1 2 5 4 3 means vertex 1 2 5 4 3 are connected to form the 1st face/polygon Yes, directly from my answer and input, there's no correlation. But if you use a pen to draw out the adjacency matrix input- make a line to connect the two vertices when A(i,j)= 1, you can get the same answer. But I think there should be an automatic way to get it.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-19 03:35:28</DATE>
+    <TEXT>This might be a good short video. [https://www.youtube.com/watch?v=LUDNz2bIjWI](https://www.youtube.com/watch?v=LUDNz2bIjWI)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-19 07:33:05</DATE>
+    <TEXT>Think that can decide the components of the entire graph, but it can't get to the polygon connection list.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-19 16:37:21</DATE>
+    <TEXT>No, those are too far. I'm thinking about the connectivity list. It should do two things: 1. find the number of polygons in the graph. 2. find the members(vertex number) of each polygon. Components is a different thing. In my example, vertex 5 is connected to vertex 6, but it's only an edge, so the graph contains two polygons, both of 5 edges. But the graph only has one component because of the connection between vertex 5/6</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-19 16:55:11</DATE>
+    <TEXT>This is exactly what Im looking for [https://mathematica.stackexchange.com/questions/18514/finding-face-vertices-from-the-face-adjacency-graph](https://mathematica.stackexchange.com/questions/18514/finding-face-vertices-from-the-face-adjacency-graph) . Unfortunately I don't understand that language.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Iterative closest point - symmetry plane</TITLE>
+    <DATE>2019-10-21 02:54:52</DATE>
+    <TEXT>Hi, I have two point clouds both symmetrical over yz plane (z is up). The transformed source points using ICP however returned a little asymmetry over yz plane. Is there a way to specify the symmetry plane and constrain the points' symmetry over yz plane? Thanks.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-21 14:50:46</DATE>
+    <TEXT>I'm not sure if I understand it correctly. The symmetry yz plane is an imaginary plane, how do you transform it?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-23 13:22:51</DATE>
+    <TEXT>COMPLETE DISASTER!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Array index</TITLE>
+    <DATE>2019-10-27 08:59:19</DATE>
+    <TEXT>Say I have matrix A = \[2.0 0.5 0.8; 1.0 1.3 1.6; 2.0 2.1 0.3; 3.4 5.2 3.1; 1.2 0.1 3.5; 0.9 0.8 0.3\]; b=\[2 3 5 6\]; then make another matrix B = A(b,:), so B = \[1.0 1.3 1.6; 2.0 2.1 0.3; 1.2 0.1 3.5; 0.9 0.8 0.3\]; Now I have another matrix C = \[2 3 5; 3 5 6; 1 5 6\]. C(i,j) is referring to A(C(i,j),:). i.e C(1,1) refers to A(2,:) For each element in C, how can I get the index of A(C(i,j),:) in B? i.e the C(1,1) refers to A(2,:), and A(2,:) has index of 1 in B. the indices of referred element in B from C should be D = \[1 2 3; 2 3 4; 1 3 4\]</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-27 17:37:25</DATE>
+    <TEXT>OMG, yes! Why didn't I think of that. Many many thanks!!!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-30 08:54:11</DATE>
+    <TEXT>Yes I made a typo in C(3,1). Your code works well, thanks !</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-30 11:51:18</DATE>
+    <TEXT>Think  #8216;skeleton #8217; describes it better.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Untriangulate a triangulated mesh.</TITLE>
+    <DATE>2019-11-02 04:45:44</DATE>
+    <TEXT>Hi, anyone knows how to untriangulate(img on right) a triangulated mesh(left)? Say we have vertices list of xyz coordinates and edges list and faces list. https://preview.redd.it/rfybqjrz21w31.jpg?width=2817 amp;format=pjpg amp;auto=webp amp;s=d225ca67ca5bed2504a8316b6b0646af645f9b50</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-11-02 07:01:07</DATE>
+    <TEXT>I'd like to generalize it on any given triangulated mesh. Feel like it should involve walking the edges and finding the edge inside a quad then removing it.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-11-02 07:35:32</DATE>
+    <TEXT>not really. i.e. Removing the top edge of the triangle to the left-est will remove the triangle, leaving n-1 triangles and an extra edge. So only the right edge of this triangle can be removed. Also if more edges are removed, it'll leave ngons instead of quads.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-11-02 12:40:46</DATE>
+    <TEXT>And the vertices of two adjacent tris of the edge shall belong to the same plane. Thanks.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>How to find the duplicated elements and the repeated times?</TITLE>
+    <DATE>2019-11-11 13:51:22</DATE>
+    <TEXT>Hi, how can I find the duplicated elements and the repeated times for these elements in an array? i.e. A = \[1 2 3 2 5 3 3 5 2\] '2' '3' both have been repeated 3 times. '5' has been repeated 2 times.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-11-11 15:09:01</DATE>
+    <TEXT>Thanks. So basically we need to search the array twice, first to get the duplicated elements, then compare the values and use nnz() to get the repetitions?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>How do I add a value to each element of a cell array?</TITLE>
+    <DATE>2019-11-16 02:36:23</DATE>
+    <TEXT>How to add value 1 to each element of a cell array C= {\[1 2 3 4 5\], \[6 7\] } so I can get C = {\[2 3 4 5 6\], \[7 8\] }?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-11-16 14:22:59</DATE>
+    <TEXT>Thank you!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-11-27 16:52:38</DATE>
+    <TEXT>Oh nice, it does better than photoshop even on this particular image. I do wonder what algorithm is photoshop's 'find edge' using tho.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-11-28 08:36:26</DATE>
+    <TEXT>If you meant the edge detection, no. This has nothing to do with the edge detection, but the pixels next to the edge.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-11-29 06:23:01</DATE>
+    <TEXT>I think I can use connected-component algo to label the edges, then scan the neighboring pixels for each edge and store their locations and values. not sure how to scan the neighboring pixels.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-11-29 15:45:06</DATE>
+    <TEXT>How does intensity threshold return the dark and bright pixels coords neighboring the detected edge?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-11-29 17:00:35</DATE>
+    <TEXT>Something like this? BW = edge(img_grey,'Prewitt',0.1); edge_select = bwselect(BW,c,r,4); s = regionprops(edge_select,'PixelList'); what does threshold has anything to do with regionprops?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-11-30 03:16:37</DATE>
+    <TEXT>hmmm...It returns the pixel locations on the edge. Does it not take one connected component as input?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-02 20:32:04</DATE>
+    <TEXT>Not homework. And this won #8217;t work for the corner points where p has multiple l with perpendicular pl.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Closest connected edges to arbitrary graphical shape on 2D mesh?</TITLE>
+    <DATE>2019-12-03 11:42:51</DATE>
+    <TEXT>Hi, is there a way to find the closest connected edges to arbitrary graphical shape such as green line on a 2D mesh? Thanks in advance for pointing the directions.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-03 14:54:36</DATE>
+    <TEXT>Well no, circle is closed shape. For non-complex open shape such as an open curve, each point P should just have one symmetrically mirrored point over the edge curve.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-03 14:56:07</DATE>
+    <TEXT> gt; (sum over x_i for i =1:n) Thank you. You mean sum of x_i for i = 1:n ? And what is the '*' at the end of each equation? Also the equations are for straight lines, but what about curves?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-03 15:02:56</DATE>
+    <TEXT>I think if you scale the edge curve from its center to the location where P'L = PL, that's how you find the symmetrically mirrored point for the corner points.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-03 15:34:12</DATE>
+    <TEXT>Oh, so you're 'slicing' the continuous green curve into small lines and use that to match the edge in 2D mesh. Very interesting, let me play with it. thank you very much!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-03 15:53:10</DATE>
+    <TEXT>Voronoi diagram from the green points? why? I'm not quite getting it.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-04 01:30:48</DATE>
+    <TEXT>If you meant '1-2-3-4...' by linear, then yes.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-04 01:44:29</DATE>
+    <TEXT>I c, but what if the closest vertex form a jumpy connection or it doesn't belong to original topology?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-04 01:55:37</DATE>
+    <TEXT> gt;single covering path Could you please explain a bit more on this? thanks.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-04 06:19:10</DATE>
+    <TEXT>yes, a polyline.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-04 15:06:10</DATE>
+    <TEXT>Thanks, let me look into TSP. But how do you find the cell the green points belong besides using eyes?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-04 17:02:07</DATE>
+    <TEXT>In your example, each point connects to exactly two edges. i.e. P2 only connects to P1/P3, is there a reason for that? Why not also connect P2 to P4 or P6?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-07 06:32:00</DATE>
+    <TEXT>I wonder what's the difference between voronoi cell and knn?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-08 12:14:44</DATE>
+    <TEXT>thank you for the additional info:)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Append unknown number of elements to array inside loop</TITLE>
+    <DATE>2019-12-15 05:25:53</DATE>
+    <TEXT>Hi, I'd like to append unknown number of elements to array inside a loop, but somehow it won't work. cols= []; for iu = 1:length(piv) [~,col] = find(faces == piv(iu)); cols(end+1) = col; % col changes size in each iteration end Maybe I should use cols{end+1} instead? But how do I turn the cell array to a vector so i.e. cols = {\[1 2\], \[2 3 4\], \[3 5\]} can turn into cols = \[1 2 2 3 4 3 5\];</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-15 05:50:56</DATE>
+    <TEXT>Say cols = {\[1 2\], \[2 3 4\], \[3 5\]} `reshape(cols, [],1)` doesn't give me cols = \[1 2 2 3 4 3 5\];</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Pair triangles on both sides of shared edges.</TITLE>
+    <DATE>2019-12-15 10:44:21</DATE>
+    <TEXT>I have these classified triangles on each side along the same continuous edgeline and triangleId list . Is there a way to pair them up</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-15 17:04:39</DATE>
+    <TEXT>Updated the question. I think the addtional constraints should be minimum pairs.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-16 04:08:02</DATE>
+    <TEXT>Oh yes! Totally forgot.....</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Remove gmail account from chrome</TITLE>
+    <DATE>2019-12-16 15:29:57</DATE>
+    <TEXT>Hi for some reason Chrome is setting another account as my default and doesn't allow users to remove them. Everytime I try to use my gmail, it directs me to this gmail, so annoyting. I've tried everything to remove it but no luck. And I don't want to clear all saved information neither. https://preview.redd.it/t5lmpus0h0541.jpg?width=460 amp;format=pjpg amp;auto=webp amp;s=a57ce65cfb35d6dbbfcaa56a2e7468bd4abaeb16</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-16 16:39:53</DATE>
+    <TEXT>thanks, that worked finally. What a ux design.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Index in pixel list for selected point on image</TITLE>
+    <DATE>2019-12-17 10:52:33</DATE>
+    <TEXT>Hi, I have a list of white pixels ('edgePixels') and black pixels. I want to select some white pixel(s) in the plotted image and visualize/plot its index in the pixel list. Is there a way to do this? https://preview.redd.it/kwo0v6fwb6541.jpg?width=1920 amp;format=pjpg amp;auto=webp amp;s=b1da420b7cfc1e0ffbcdbc9bd2fa70f6bf4a901f</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-17 16:07:55</DATE>
+    <TEXT>Oh nice, it works! The only thing is that I can't zoom the image during ginput, needs a magnifier to be precise.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-18 04:58:48</DATE>
+    <TEXT>Right. It'll also be nice to highlight the input point during ginput for large number of points.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Find in sparse matrix</TITLE>
+    <DATE>2019-12-18 07:45:03</DATE>
+    <TEXT>Sparse matrix A of values 0 and 1. A = (2,1) 1 (3,1) 1 (6,1) 1 (1,2) 1 (5,2) 1 (6,2) 1 (11,2) 1 (1,3) 1 ... For given row number I'd like to find and get the column number that has value of 1 in this row. I can do b=[2 6 11] tmpVar = [] for i = 1:length(b) col = find(A(b(i),:)); tmpVar = [tmpVar col] end % tmpVar = [1 1 2 2] But is there an easier way to do this?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Anchor a moving point</TITLE>
+    <DATE>2019-12-18 09:37:17</DATE>
+    <TEXT>Hi, say I have this video of a moving boat, I'd like to circle this boat out through out the video. What's the best way to achieve it?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-18 12:34:30</DATE>
+    <TEXT>Thanks, I never used 3d camera tracker before. But just a quick try, I get 'no depth from a tripod pan solve' on points on the boat, and when I add a solid and camera, the track solid doesn't move. So does this tracker doesn't really work for 2d track? In my case, the camera doesn't move.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-18 14:20:04</DATE>
+    <TEXT>yup I realized it, forgot to update the question. But in general there's no other way to do this other then using find() then append right?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>How to get 3D coords from projected 2D points</TITLE>
+    <DATE>2019-12-18 16:05:15</DATE>
+    <TEXT> #8203;</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-19 02:12:22</DATE>
+    <TEXT>For some reason, mocha won't import my video clip.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-19 02:21:04</DATE>
+    <TEXT>Thanks. What is INV(PM) tho?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-19 04:28:07</DATE>
+    <TEXT>so 'model \* proj' is the '(...)' following 'INV(PM)'? One thing I don't get is that this math doesn't even use the triangulation of the model, so how does it know which surface any point belong to?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-19 14:36:33</DATE>
+    <TEXT>I'm using AE 2018, I guess that's why? Let me transcode it and try.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-20 16:24:09</DATE>
+    <TEXT>Quaternions determine the rotation of 3d object, we can calculate the 2d coords from 3d data and quaternion, but for unknown 2d points we need to know where they fall into right? Also what is winZ?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Subtract a number for each selected element in a column</TITLE>
+    <DATE>2019-12-22 07:41:12</DATE>
+    <TEXT>I want to subtract 1349 for each element in B2:B16 and fill B29:B43 with (1349-newNumbers). What's the easiest way to do that? https://preview.redd.it/d9ovps4425641.jpg?width=458 amp;format=pjpg amp;auto=webp amp;s=c264b07f621617b4907086c858316bd5f5b93100</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-23 09:55:25</DATE>
+    <TEXT>newNumbers are the subtracted numbers of B2:B16 by 1349, should be 192, 425, 469.....</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-24 06:03:38</DATE>
+    <TEXT>Thanks! It works well!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-24 06:09:23</DATE>
+    <TEXT>but you can only do this for one cell. Is there a way to generalize it so I only need one or two formulas? I'm thinking do C2 = B2-1349, C3 = B3 - 1349..... till C16. Then move C2:C16 to B29:B43 then sum D29 = B29+C29</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Recommendation on science fiction</TITLE>
+    <DATE>2020-01-14 11:48:45</DATE>
+    <TEXT>Hi, could anyone suggest me some good sci-fi books like the 2001: a Space Odessey and Childhood's End? So far I've read Dune, Three Body Problem, most of Robert Heinlein, most of Issac Asimov, some by Ursula Le Guin, most of Arthur Clarke. Not really a fan of Hitchhiker's Guide to the Galaxy or Neuromancer.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-01-27 12:45:24</DATE>
+    <TEXT>This is day 6 for me and my family staying home in Shanghai. We have another 6 days supply then we'll go out for grocery wearing N95 masks, gloves, goggles. It's like living the easy mode Resident Evil. All these thank to the useless lazy ass ignorant and arrogant Wuhan government officials who lied about the truth of the virus. It also thanks to the people who eat and trade wild dirty animals such as rats and bats. When all this is over, I hope the officials shall be questioned and sentenced by law and justice, and the whole wild animal trading is banned.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-01-31 04:15:05</DATE>
+    <TEXT>Just pay attention that Beijing, Shanghai, Guangzhou, Shenzhen have over 20 million people each, this is quite expected considering its population density.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-02-05 17:03:13</DATE>
+    <TEXT>Not true. 3973 confirmed, 3971 suspected cases nationwide. http://sa.sogou.com/new-weball/page/sgs/epidemic Also notice that couple days ago Huoshenshan(Fire Mount) hospital was built and started accepting patients, today Leishenshan(Thor Mount) hospital is built, starting accepting patients. Another shelter hospital -Fangcang, utilizing big open area such as stadiums is also built today and starting accepting patients. https://youtu.be/9ZgLqQjz8qE</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Help on restore permanently deleted files!</TITLE>
+    <DATE>2020-02-23 03:40:04</DATE>
+    <TEXT>Hi I accidentally deleted a very important folder of 40GB, it was permanently deleted because of size. Is there a way to get it back?!!! Thank you!!!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-02-23 04:22:09</DATE>
+    <TEXT>Just tried some, and they are not able to find all the files in the deleted folder. And what do you mean by 'don't try to write anything on computer'? Does it include downloading softwares?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-02-23 06:30:49</DATE>
+    <TEXT>Ok, that explains why the scanned deleted data size reduced as I tried different recovery softwares.... I downloaded/installed them to the same drive. T\_T. I did find most of my important files in the temp folder, but still lost the ones from Feb.1 to Feb. 13. I wonder if there's a way to find the old ones in the temp folder. Also a lesson learned to separate OS and data drive.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-03-14 07:56:58</DATE>
+    <TEXT>Just tried Quad Mesher and the result is quite good compared to others. I wonder what's the difference on their algorithms.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Phone verification problem</TITLE>
+    <DATE>2020-03-15 02:49:53</DATE>
+    <TEXT>Hi, I do not use the phone number on my paypal file anymore. Now I can't login or email or post question in community because it keeps directing me to receive a verification code on that phone number. Is there a way to get pass this other than calling customer service in hours of operation? In worst case, what's paypal's international toll free number?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-03-15 04:02:34</DATE>
+    <TEXT>My account and bank info and phone number are all from United States. So if I call the phone number in current country, how do they verify for me since I didn't use the info required by this country to create my account.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-03-15 04:06:22</DATE>
+    <TEXT>Even if I open another account in current country, it will not take a US bank account So</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-03-15 04:12:36</DATE>
+    <TEXT>So paypal doesn't work for people working oversea? Interesting, better just close the account I guess.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-03-15 04:22:00</DATE>
+    <TEXT>Expat for at least two years. Some company don't take ACH payment but they take paypal as alternative, need this feature. Hope it works out when I call.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Gunpowder yo boss in Don #8217;t starve together</TITLE>
+    <DATE>2020-04-10 05:36:59</DATE>
+    <TEXT>Just lit 41 gunpowder stack placed next to 6000 health sleeping Bearger in Don #8217;t starve together, followed by 3 blow darts. The bearger doesn #8217;t seem to be hurt at all. Is the gunpowder even working for boss chars? Edit: 40 gunpowder, not 41.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-10 07:42:49</DATE>
+    <TEXT>Sorry, not 41. I used 40 gunpowder stack together in one explosion on bearger, nothing happened, it keeps sleeping.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-10 08:56:03</DATE>
+    <TEXT>But it still doesn #8217;t make any sense. 40 gunpowder should do 200*40=8000 damage, bearger only has 6000 health. It should destroy it completely. Instead the bearger is sleeping like nothing happened! I #8217;m confused. Or are you suggesting using 30 gunpowder? Feel like 30 will be the same.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-10 09:16:04</DATE>
+    <TEXT>Omg, you #8217;re right. The placement looks close enough in one view but a bit far in another view. This is tricky. Now 29 gunpowder killed it.... thick fur is burned.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-10 10:02:43</DATE>
+    <TEXT>Does it respawn tho? I doubt dragonfly can be killed by gunpowder, so what are the other big bosses can be killed by it?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-10 16:54:21</DATE>
+    <TEXT>I'm not really good in kiting, get hit half the time....Last time I almost died kiting on Moose, a frog rain and hounds attack saved me. lol</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Kill Klaus in winter.</TITLE>
+    <DATE>2020-04-12 10:04:12</DATE>
+    <TEXT>I have 2 dark swords, 8 healing items, 8 log suit, 1 ice stuff, 29 gunpowder. My plan was to freeze it and lit the gunpowder to bring down half his health, then use dark sword to take him down. But for some reason, it's impossible to escape the overheat and freeze even when I kite away. I would kite away right when deer starts to hit, but still get overheat/freeze. Even worse, I need to be away 1 screen away to shake off the overheat, and need a campfire to escape the freeze. Also when the 2nd form Klaus is not under attack, he regains health by 25/sec, this is crazy!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-12 11:58:10</DATE>
+    <TEXT>Removing winter hat does help with overheat. Running behind Klaus requires a walking cane? It was taking me around his deer.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-26 02:02:24</DATE>
+    <TEXT>I think you mean np.hstack. It doesn't work in the for loop, data= np.append(data,points)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-26 02:11:21</DATE>
+    <TEXT>Thank you, the code is much cleaner. But data.shape is now (20,). Do you know how to write it into a .txt tho?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Scale and translation factor to match 3d points to projected 2d coordinates.</TITLE>
+    <DATE>2020-05-01 13:41:22</DATE>
+    <TEXT>I have some 2d data points (*data2d*, n by 2) projected from 3d data points (*data3d*, n by 3) in an ortho camera view (cam property *P*\- translation/rotation/scale) in Blender. In Matlab I would like to use the scale factor *s*, the translation vector *t*, to find Rotation matrix that matches the 3d data points to the projected 2d points. data2d = s * R * data3d + repmat(t, 1, size(data3d ,2)); Is there a way to find the ground truth scale factor *s* and translation vector *t*? I tried using Blender camera property's scale (1,1,1) and translation (6.97077, 0.096732, 0.891068), it doesn't seem to work.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-01 15:01:23</DATE>
+    <TEXT>Got it. What if I don't have the camera calibration matrix ?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-01 16:04:57</DATE>
+    <TEXT>Thank you. Rotation matrix R on camera is equivalent to -R on object?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-01 16:55:33</DATE>
+    <TEXT>Me neither, thanks tho.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-10 16:58:59</DATE>
+    <TEXT>Class A surfacing would be modeler/engineer. I'm looking for who can write code for it.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-10 17:12:26</DATE>
+    <TEXT>Well the Bezier-curve + Gx continuity math alone aren't complicated, but we need something more. You work for Autodesk or independent? If you work for Autodesk, it might be a bit conflicting?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-10 17:16:59</DATE>
+    <TEXT>Awesome.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-10 17:19:55</DATE>
+    <TEXT>Just messaged you through chat.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-10 18:48:47</DATE>
+    <TEXT>It should be a purely mathematical implementation.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-11 02:57:01</DATE>
+    <TEXT>Precise? The paper isn #8217;t really about the precision but the reduction of points and merging of adjacent curves with continuity constraints. Maybe NX can do this in software, but I intend to do this in code tho.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-12 02:23:12</DATE>
+    <TEXT> gt; why? There's no why, I just need to do this by code.  gt; any program can use said points/curves to create said geometry with accuracy better than you could physically produce it If so, then I want to know where to hire the programmers who wrote those part of the program. And tbh, I don't know any program that can do it with G3 continuity as good as the paper mentioned. They can mostly do G3 BRIDGE curve(meaning the given curves are not connected), but not RECONSTRUCT/MERGE existing curves G3(meaning the given curves are connected at a point)  gt; professional programmers Yes, I need to know where to hire such programmers, such expertise is quite rare.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-12 02:57:00</DATE>
+    <TEXT>Well that's what I did, contact original author, a professor who doesn't respond, and authors who wrote papers in the same field, only a handful of them. Most of them are/were professors at universities, some took on another job at software companies leaving their old emails hanging. They have expertise in computational geometry, topology...plain simple job title- software engineers. That's why I came to reddit hoping to find more info.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-12 04:14:34</DATE>
+    <TEXT>Yes let me call.  gt; ~100 people in the United States Uhh, the problem is most programmers are not comfortable working with 3D even tho the math behind is not that complicated. I'm trying to implement this myself too as a last resort...</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>What does this equation mean?</TITLE>
+    <DATE>2020-05-13 18:15:42</DATE>
+    <TEXT>I don't know how to type equations and since images are not allowed in this subreddit, here is the [link](https://imgur.com/a/CIg2J4a) The last equation confuses me, it doesn't look like a multiplication nor a matrix selection of the derivative of E over alpha2, what does it mean? Thanks in advance</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-13 19:07:53</DATE>
+    <TEXT>But the partial derivative of E w respect to alpha_2 isn #8217;t dependent on alpha_2, alpha_3, beta_2, beta_3... unless I #8217;m misunderstanding anything from the paper. Here #8217;s the link in case https://www.sciencedirect.com/science/article/pii/S0377042713005748 The equation is (5.10)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-14 03:07:07</DATE>
+    <TEXT>Right. b0_tilde will have a variable Rn^c from equation 5.8 dependent on alpha_2, alpha_3, beta_2, beta_3 from equation 4.1 and 2.8-2.13. So I just need to make those scaler paras to be 0, then Rn^c will be known and so is the b0_tilde.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>How to calculate length of 3D bezier curve of degree n</TITLE>
+    <DATE>2020-05-14 09:00:54</DATE>
+    <TEXT>How to calculate length of 3D bezier curve of degree n. Here's where I am n = size(vertices,2)-1;% vertices: 3x(n+1). curve P(t) t=0:0.001:1; x=[];y=[];z=[]; x=(1-t).^(n)*vertices(1,1); y=(1-t).^(n)*vertices(2,1); z=(1-t).^(n)*vertices(3,1); for j=1:n w=factorial(n)/(factorial(j)*factorial(n-j))*(1-t).^(n-j).*t.^(j); x=x+w*vertices(1,j+1);y=y+w*vertices(2,j+1);z=z+w*vertices(3,j+1); end [This](https://imgur.com/a/UYZ2uuN) is what I'm trying to do</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-14 12:32:49</DATE>
+    <TEXT>analytical solution. Yes I figured there're two terms(?) i and t in the function, not sure how can I do definite integral on two. But how do you convert it to monomial? There's a javascript implementation seems to be able to do it, but I'm not a programmer to understand it. https://github.com/Pomax/bezierjs/blob/master/lib/utils.js</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-14 14:11:28</DATE>
+    <TEXT>So I have two adjacent bezier curves of degree n1( gt;=4) and n2( gt;=4), I need to find the joint vertex's position lamda relative to the two curves so I can use it in de casteljau algorithm. I'm not sure if how slow the speed can be if we choose the most accurate approach.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-14 15:29:06</DATE>
+    <TEXT>woops, *joint, not *join. Both.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-14 15:35:52</DATE>
+    <TEXT>joint vertex meaning the point where the two curves meet/connected/joined together/</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-14 16:06:12</DATE>
+    <TEXT>Thanks for the answer but I don #8217;t need to find the intersection point, I already have it in input. Imagine you combine the two curves into one, I'd like to compute the relative position(between 0-1) of that joint point on this new curve. That #8217;s why arc length is necessary here.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-14 17:05:53</DATE>
+    <TEXT>joint point is the end point of c1 and start point of c2.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-14 17:22:30</DATE>
+    <TEXT>hours or even days? I can't believe it could take that long to compute curve length. I'd say 5 min is maximum I can take, because I need to compute multiple ( gt;10000) curves of a 3d mesh.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-14 17:47:47</DATE>
+    <TEXT>I'm thinking, since I'm already computing 1000 steps in between each control point, why not just calculate their distances and add them together. Won't that be more accurate and faster?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-14 17:55:50</DATE>
+    <TEXT> gt; the Pomax quadrature Could you let me know which lines tho? Or is the entire script about length computation?  gt; Won't be more accurate In the case that two control points are quite far, and 1001 steps are still too large for each?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-15 02:08:29</DATE>
+    <TEXT>I can read python! Do you have a link to your BeBOT library if it #8217;s available for public? For 3D points I can just do def fn2(t): return np.sqrt(c2.diff().x(t)**2 + c2.diff().y(t)**2, c2.diff().z(t)**2) The quad() should be similar to Matlab #8217;s int(). Edit: think I found it. https://github.com/caslabuiowa/BeBOT/blob/master/polynomial/bernstein.py</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-15 05:23:55</DATE>
+    <TEXT>Have couple questions, https://github.com/caslabuiowa/BeBOT/blob/master/polynomial/bernstein.py#L391 what is Bernstein.diffMatCache[self.deg][self.tf-self.t0] ? Edit: the actual length should be sqrt(arclength_c1(0)^2 + arclength_c1(1)^2 ) ?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-15 12:24:49</DATE>
+    <TEXT>something like this? Dm = (c1.diff().x(t), c1.diff().y(t), c1.diff().z(t)) \* Dm a bit lost... Edit: quad(fn1,0,1) should be Integral sqrt(dx2 + dy2), but it should return a single value instead of two. Right now print(arclength\_c1) is (9.28608545402421, 3.50769534757596e-12) Edit: omg, that second value is error. I'm so stupid. Thanks for all the help!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-16 17:52:36</DATE>
+    <TEXT>Next US would be banning Huawei from using English in their products as it is a threat to the West.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-16 17:54:17</DATE>
+    <TEXT>No! Don't do that to Apple! Do whatever they want to Boeing or Qualcomm</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-17 01:11:24</DATE>
+    <TEXT>Pick two vanishing points, draw tons of perspective lines, and draw the car within those lines. Some practice over this will get you used to drawing correct perspective.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Assign values to matrix</TITLE>
+    <DATE>2020-05-17 12:25:23</DATE>
+    <TEXT>Each v\_i is a n by m matrix(in my case it's 3 by 1 vector), I can initialize M = zeros(4n,4m), but how do I assign those v\_i to M later? Thanks in advance. https://preview.redd.it/ob97on2thbz41.jpg?width=572 amp;format=pjpg amp;auto=webp amp;s=07383b79f9624ec35f2164c4b6bda21c80ca5a67</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-17 13:10:41</DATE>
+    <TEXT>Yes, I can do this, was just wondering if there's a simpler approach.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-17 13:11:17</DATE>
+    <TEXT>This will assign all the values from v1 to the corresponding M starting from M(2,2)?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-17 13:18:26</DATE>
+    <TEXT>so I guess this is the only way... thought there might be an easier approach.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-17 15:06:09</DATE>
+    <TEXT>this wont work because those 0 in the equation are matrix, not a value.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-17 16:39:17</DATE>
+    <TEXT>Oh yes! I could do this</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-17 18:48:24</DATE>
+    <TEXT>Hi, shall the code for b\_0 be different from the equation tho? I passed alpha2,alpha3, beta2, beta3 = 0 , and alpha1 to get A (8 by 3) and v0\_tild (1 by 3) v0 = zeros(1,3); b0\_tild = 2\*A \*(\[0 \*v0, 0 \*v0, (n-2)\*v1\_tild, v0\_tild, 0 \*v0, 0 \*v0, 0 \*v0, 0 \*v0\])'; I must be doing something wrong here as b\_0 is supposed to be a single value.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-22 13:01:03</DATE>
+    <TEXT>Nope, the first and last row/column of control points has 2 control points less than the rebuilt curve, one towards one end, other towards other end. https://imgur.com/NbUev0U</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>N-sided surface</TITLE>
+    <DATE>2020-05-23 13:28:01</DATE>
+    <TEXT>Say this is the original surface patches. https://preview.redd.it/3u3lt7e4ni051.jpg?width=702 amp;format=pjpg amp;auto=webp amp;s=9712880111332ffed51e76801ff16b632f8a1fbc When I build fillets between the surfaces at 1-5, (i.e remove boundary cv hulls at 1-5 and rebuild them) it'll end up with an n-sided surface in the middle. Anyone knows how to not to end up with a 5-sided surface when rebuilding the joint surfaces, or is this inevitable unless I fix the topology? https://preview.redd.it/duosgha6ni051.jpg?width=702 amp;format=pjpg amp;auto=webp amp;s=59388ba234a3cb1e4617a690f56e5df6306e26d2</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-23 14:08:32</DATE>
+    <TEXT>Interesting, most Chinese are quite happy about this as they think it's a compliment that those entities entered the list.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-23 14:41:25</DATE>
+    <TEXT>Just tried it, still not quite getting it. Say you build edge 1(Surface 12, Surface 15 ) first, you'll end up with fillet 1, then you build edge 2 using fillet 1 and Surface 12/ surface 23? If so, it'll most likely end up with some un-buildable fillet at edge 2. Or do you mean something else?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-23 14:45:04</DATE>
+    <TEXT> gt;that is what you are getting that you do not want? Correct, I'm getting image 3 but I don't want that.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-23 14:54:40</DATE>
+    <TEXT>I read lots of comments from their popular social media discussing this issue.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-23 15:12:03</DATE>
+    <TEXT>I cut back all the surface and blend the surfaces and ended up with image 3. Maybe I should only cut back a few... let me try.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-23 15:20:53</DATE>
+    <TEXT>I haven't filled that ngon yet, right now it's a hole. I do want to ensure G3 continuity at this ngon boundaries, so if I fill the ngon then do subdivision, it won't constrain G3 continuity.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-24 01:16:24</DATE>
+    <TEXT>Autodesk Alias</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-24 03:03:19</DATE>
+    <TEXT>Not coplanar, they're all concave. But it shouldn't matter tho, should it? I want all quads.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-24 03:22:24</DATE>
+    <TEXT>Brep. I tried to cut back S12 and S23 at 1/2/3 then build fillet f2, cut back S45 and S15 at 1/4/5 then build fillet f5. Cut back S34 at 3 then blend S34' to S23' and f2, which ends up with f32 and f33. Then blend S45' to S34', blend f5 to f32, blend S15' to S12'. This way I'll end up with two quads in the center. However I'm not sure if this is a generalization for n-sided surface or it only works for this particular case.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-24 03:56:10</DATE>
+    <TEXT> gt;develop an algorithm to solve similar intersections of an arbitrary number of edges Ultimately this, but generalized algorithm is just solutions for all possible cases. So if this particular case can represent 5-sided case, then I just need to find solution for 3-sided case,... n-sided face.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-24 07:00:30</DATE>
+    <TEXT>it's gotta be quads only.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-08 16:03:03</DATE>
+    <TEXT>netcarshow.com</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-08 16:28:25</DATE>
+    <TEXT>[192.168.1.1](https://192.168.1.1) I don't know what's wrong with it, sometimes I can open the page for a minute or so then the connection drops.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-08 16:44:50</DATE>
+    <TEXT>Changed it, still unable to connect to it. It's very strange, it only happens to that particular site!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Understanding manifolds</TITLE>
+    <DATE>2020-06-17 17:30:06</DATE>
+    <TEXT>I understand manifolds as group of patches/charts with mapping between each other in lower dimension. The coordinates for points could be computed but only in the local space. However, global coordinates of points cannot be recovered? In this paper, https://www.researchgate.net/publication/228566346_Construction_of_C_Surfaces_from_Triangular_Meshes_Using_Parametric_Pseudo-Manifolds , it uses a parametric psuedomanifold to construct a triangular mesh to C(infinite) continuity. I #8217;m wondering can the points #8217; global coordinates on the surface be computed?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-18 04:32:41</DATE>
+    <TEXT>Akin to global coordinates, so basically manifolds don #8217;t have the properties for manufacture compared to B-spline surfaces?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Should I extend my Dell Hardware Warranty?</TITLE>
+    <DATE>2020-06-25 12:34:38</DATE>
+    <TEXT>My 3-year Dell Hardware Warranty is about to expire, should I extend it for another 2 years? I'm having a Precision 5520 w 32G RAM. Since it's a workstation and the build is quite thin, a technician told me it often suffers from overheating which could potentially cause motherboard malfunction. But I've also heard people saying that modern tech parts will present problems in the first couple years if they do; if it didn't have problems, it probably won't have problems.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-25 13:34:09</DATE>
+    <TEXT>The workstation is $1900, I #8217;m not considering to upgrade it in two years. The warranty extension for 2 years is $330.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-25 15:55:52</DATE>
+    <TEXT>I tried, $330 is the best I can get. A bit shaky on gambling tho...</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>How to reinstall Windows over Ubuntu (Dell PC)</TITLE>
+    <DATE>2020-08-06 04:23:13</DATE>
+    <TEXT>Hello, I accidentally wiped out my entire Windows when trying to install Ubuntu from live USB. Right now I want to get my Windows back. Dell support sent me a link https://www.dell.com/support/home/en-us/drivers/osiso/recoverytool/wt64a to download Windows OS ISO and Dell Recovery Tool, then install the recovery tool and use it to create a bootable USB recovery drive. But the DellOSRecoveryTool is .msi format, i can #8217;t open it in Ubuntu. Should I be doing something different?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-06 05:31:49</DATE>
+    <TEXT>I have backed up everything. Right now there #8217;s only Ubuntu on my Dell pc, so I #8217;d like to do a clean reinstall of Win10. But I can #8217;t open DellOSRecoveryTool.msi from Ubuntu using the installation guide provided by my Dell support.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-06 07:55:05</DATE>
+    <TEXT>What is DD command ? I have no idea how to use Ubuntu at all, can #8217;t even have my wireless mouse connected. Also the only other pc I have is a Mac, which I don #8217;t think I can use it here. The etcher is the one in Balena.com/etcher ?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-06 09:00:33</DATE>
+    <TEXT>I #8217;m using Etcher, should be similar to WoeUSB right? I can #8217;t flash the .iso image to my USB. It says  #8216;Missing partition table. It looks like this is not a bootable image. The image does not appear to contain a partition table, and might not be recognized or bootable by your device #8217;. Let me try woeusb.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-06 09:23:26</DATE>
+    <TEXT>Yes, I #8217;m using WoeUSB now, having it run its course, so far so good. After this, can I use it on the same device? In the tutorial, it says  #8216; once done you can close the app, eject the usb and use it to install Windows 10 on a different device #8217;</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-06 09:33:08</DATE>
+    <TEXT>I changed BIOS sequence (unchecked  #8216;diskette Drive #8217; and let the  #8216;internal HDD #8217; be the first), should I change it back so  #8216;diskette drive #8217; is checked and be the first? Update: I restored all the BIOS sequence(legacy and UEFI), and got into windows installer and chose  #8216;custom: install Windows only(advanced). There #8217;re two partitions on my internal HDD(drive 0 partition 1  amp; drive 0 partition2), but my USB isn #8217;t listed here. So I should just delete both partitions right? Update2: after I deleted drive 0 partition0, it became  #8216; Drive 0 Unallocated Space #8217; and it still says  #8216;Windows can #8217;t be installed on this drive. Windows cannot be installed to this disk, the selected disk had an MBR partition table. On EFI system, Windows can only be installed to GTP disks.  #8216; Update3: I removed both partition and warnings are gone, i got to proceed to windows setup and complete the setup, which automatically restarts after finishing. I leave the USB connected and press F12 upon seeing logo,, then it #8217;ll take me to boot selection where I can see 4 selections. (Legacy boot: )internal HDD, USB Storage Device. (UEFI Boot: )UEFI: Hard Drive, Partition 2. UEFI: SanDisk, partition 1. Which one should I choose?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-06 10:32:01</DATE>
+    <TEXT>After completing windows setup, I leave the USB connected and press F12 upon seeing logo, then it #8217;ll take me to boot selection where I can see 4 selections. (Legacy boot: )internal HDD, USB Storage Device. (UEFI Boot: )UEFI: Hard Drive, Partition 2. UEFI: SanDisk, partition 1. Which one should I choose?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-06 11:44:22</DATE>
+    <TEXT>If I remove USB it #8217;ll briefly install Windows then restart and enter a black screen that says  #8216; No boot device found. Press any key to continue #8217; and repeat this message if I press any key. So I have to connect the USB stick and press f12 every time it restarts. (Oh the 3rd boot option changed from  #8220;(UEFI Boot:) UEFI: Hard drive #8221; to  #8220;(UEFI Boot:) Windows Boot Manager #8221; after the 2nd restart). Anyway the installation completed and I can finally use Win10 now. Do you know where can I set the boot option to be Windows Boot Manager as the default/first choice ?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-06 14:35:35</DATE>
+    <TEXT>I think you meant  #8216;Boot sequence #8217;, they are: Diskette Drive, internal HDD, USB storage Device, CD/DVD/CD-RW Drive, Onboard NIC. Which one should be first?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-06 17:19:23</DATE>
+    <TEXT>Yes! I moved internal HDD to be first and select UEFI, now I can boot into Windows without USB stick! Thank you so much!!!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE> #8216;The directory name is invalid #8217; when plug in USB stick.</TITLE>
+    <DATE>2020-08-07 05:47:50</DATE>
+    <TEXT>When I plug in my USB stick, windows says  #8216;The directory name is invalid #8217;. When I click on the drive, it says  #8216; please insert a disk into USB drive(E:) #8217;. No space/capacity is displayed in drive properties, the Error Checking under Tools tab shows error  #8216;the disk check could not be performed because windows can #8217;t access the disk #8217;. Windows isn #8217;t able to format it neither. What I think went wrong is I formatted the USB in Ubuntu and Ubuntu is crazy. How do I save my USB? (it #8217;s my favorite USB with a flipped credit card design and Van Gogh portrait printed on it, also this make is discontinued)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-07 07:42:19</DATE>
+    <TEXT>Yeah, I tried it on my Mac, erased it and it works now! Thank you!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Intel Optane(tm) Memory Pinning: unable to load DLL  #8216;iaSatirAfsServiceApi.dll #8217;</TITLE>
+    <DATE>2020-08-08 05:38:07</DATE>
+    <TEXT>After I reinstalled Win10, I kept getting an error: Intel Optane(tm) Memory Pinning: unable to load DLL  #8216;iaSatirAfsServiceApi.dll #8217;: the specifies module could not be found(exception from RESULT: 0x8... #8217; I was advised to reinstall Windows following this tutorial. https://www.dell.com/support/article/en-sg/sln309663/how-to-install-windows-10-when-intel-optane-is-installed-on-a-dell-pc?lang=en Instead I chose to repair the Intel Optane program from Control Panel/Programs/ since it #8217;s easier, and the error is gone. However a software I #8217;m using - Autodesk Alias isn #8217;t quite functioning properly. By that I mean it often freezes at the start of the software, sometimes I can use it after a few minutes, sometimes it remains dead, which never happened before. So my question is: is this problem a result of the Intel Optane although the error is gone? If so is there really no easy way around but to reinstall Windows completely?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Rowing for beginners.</TITLE>
+    <DATE>2020-08-11 12:32:15</DATE>
+    <TEXT>My gym just got a Concept 2 rowing machine and I #8217;d like to get onto it. 1st round I did 4 minutes 150 stokes(level 5). 4 min later I did 2nd round for 1.5 minute 50 strokes. 3rd round I did 1.75 min for 75 strokes. Last round I did 5 minutes 180 strokes, then I #8217;m dead. I feel like I was doing it a bit too fast that exhausted me that much, but it #8217;s a little difficult to manage the pace to around 25 strokes/min when you gotta pull fast to make sure it works well. Also some articles say you gotta keep on it for like 30-40 min, but I can #8217;t really imagine anybody can be on it for 30min. What #8217;s the best plan to build it up eventually? Update: Just found two blisters on my right palm near the fingers, I actually was wearing gloves...</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-11 15:37:32</DATE>
+    <TEXT>Thanks for the video. The guy releases quite slow, maybe just beginner advice. Also his arms move in a triangle from side view(dip when releases), where mine was almost straight line.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-11 15:40:30</DATE>
+    <TEXT>My cardiovascular endurance is terrible, that #8217;s why I need to build this up.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-11 15:46:10</DATE>
+    <TEXT>Thanks for the great advice. Let me look for the /500m next time, didn #8217;t know what it means. There was another number on top right, something like s/m. Was that important? It #8217;ll be nice if it has something to monitor the strokes too.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-11 16:41:15</DATE>
+    <TEXT>Ohhh! For some reason I thought it meant sec/min which doesn #8217;t make any sense.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-12 02:50:12</DATE>
+    <TEXT>Feel the hamstring first when leaning forward then bend knees?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-12 13:11:10</DATE>
+    <TEXT>Basically you gotta use butt, legs(hamstring/calves), lats to push away. What about the percentage of strength you gotta put on the different muscles? I can feel my lats and butt, not much on calves and hamstring. And I #8217;m certainly using too much of biceps. Also what #8217;s the difference between quads and hamstring, thought they were the same thing? And yes the front of feet are shifting away from the plate, definite need to correct my form.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-12 13:16:35</DATE>
+    <TEXT>I #8217;m trying to build up cardiovascular endurance, a healthier and stronger body, no need to lose weight or build muscles. But my knees are bad and I can #8217;t swim, which eliminates lots of options for me.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-13 12:47:21</DATE>
+    <TEXT>The best split time I can keep at is 2.45min, which muscles are the bottleneck here?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-22 14:08:24</DATE>
+    <TEXT>It's a brand new SanDisk Ultra Flair 128G. Is it possible that something bad happened during writing persistent data with Rufus?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-22 14:10:08</DATE>
+    <TEXT>The USB ports are fine, I can transfer data to WD drives. If I remove and re-plugin the live USB and reboot my laptop, occasionally I'll get lucky and be able to boot into Ubuntu.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Persistent live USB vs. Installed Ubuntu on USB drive - Graphic Cards</TITLE>
+    <DATE>2020-08-23 14:11:39</DATE>
+    <TEXT>My laptop(Win 10) has an Nvidia Quadro M1200 and a built-in Intel HD 630. In a Ubuntu persistent live USB session, System Setting/Details lists my graphic card as `Intel #174; HD Graphics 630 (Kaby Lake GT2)` but I can choose '`Use Nvidia binary driver version 384.130 from nvidia 384 (proprietary, tested)`' in Software  amp; Updates/Additional Drivers. Considering that I intend to install tensorflow-gpu later to use my Nvidia graphic card, I'd like to know what's the difference between persistent live usb and a full install regarding the graphic cards and which one is the best fit for me?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-24 03:50:50</DATE>
+    <TEXT>A noticeable drop in performance regarding storage? You mean live usb is faster cuz it's on RAM, and full install is slower ? But if I use a SSD as full install USB, it'll be fast too? 128G liveUSB vs. a 32G full install on USB stick, will the latter be a lot slower ?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-24 08:35:37</DATE>
+    <TEXT>What if I work with the files from SSD, will liveUSB(normal USB) and full install (normal USB) be different ?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-24 08:52:07</DATE>
+    <TEXT>I see, so the bottleneck here is the USB drive. Thanks!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-24 11:17:47</DATE>
+    <TEXT>Thanks, do you happen to know how to install Cuda and Mkl on Ubunto USB?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-24 11:33:36</DATE>
+    <TEXT>Ok, let me look into it.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>How to install Ubuntu on USB from Windows.</TITLE>
+    <DATE>2020-08-27 08:05:50</DATE>
+    <TEXT>I'm trying to create a full Ubuntu install on a USB from Windows following this tutorial [https://ubuntu.com/tutorials/create-a-usb-stick-on-windows](https://ubuntu.com/tutorials/create-a-usb-stick-on-windows) After the USB is created, I boot into the USB and see couple options. 1. Try Ubuntu without install 2. Install Ubuntu. 3...4... Should I choose option 2? And in the following Ubuntu install GUI, there're couple options: 1. install with Windows Boot Manager 2. erase disk and install Ubuntu 3...4...5. Something else... Should I choose option 1 or 5 here?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-27 09:38:15</DATE>
+    <TEXT>I installed following this guide, http://ubuntuhandbook.org/index.php/2014/11/install-real-ubuntu-os-usb-drive/ I think it's the same thing. But when I plug the USB to my PC and boot into it, I can't access my internal SSD. It says unable to mount or something.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-27 10:00:49</DATE>
+    <TEXT>Btw, when you manually create the partitions, how to choose the partition type? What's the partition type for Fat32 and what's for ext4?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Can I make an ISO image of my Ubuntu installed on external USB and burn it to another USB?</TITLE>
+    <DATE>2020-09-11 17:00:19</DATE>
+    <TEXT>I have Ubuntu installed on an external USB along with bunch of software. Today I get a new SSD and I'm wondering if I can make an ISO image of Ubuntu on USB and burn it to my SSD to save me some installation time ?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-11 17:28:45</DATE>
+    <TEXT>Cool, let me check out. Thanks.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-12 13:55:11</DATE>
+    <TEXT>In my case, I have an Ubuntu USB, and I need a second USB to burn i.e. Clonezilla image to, then I'll unplug Ubuntu USB, plug in Clonezilla USB and enter Clonezilla live, then plug in Ubuntu USB and my external SSD (target) to my pc, choose Ubuntu USB as source, SSD as target to finish the clone?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-12 14:01:39</DATE>
+    <TEXT>So if my Ubuntu USB is 128G, and my destination SSD is 250G, I'll only end up with 128G on Ubuntu SSD ?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-12 15:17:04</DATE>
+    <TEXT>Do you have a link to article/tutorial on how to do this? Something like this [https://www.howtogeek.com/114503/how-to-resize-your-ubuntu-partitions/](https://www.howtogeek.com/114503/how-to-resize-your-ubuntu-partitions/) ? Will the rest of the space be unallocated? If so I can just add partitions to it?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-14 11:12:50</DATE>
+    <TEXT>I cloned it, but it keeps saying  #8216; No boot device found, press any key to reboot the machine #8217; when I reboot....and I can #8217;t find the file system in bios setup neither. Any idea what #8217;s going on? Should I format the ssd to fat32 first?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-14 11:42:35</DATE>
+    <TEXT>I #8217;m using this. https://youtu.be/XvIEuANr_1E Basically make a clonezilla liveusb, boot to it, clone from source USB to target SSD. I don #8217;t see how this can be wrong.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-14 12:28:55</DATE>
+    <TEXT>Yes, I tried again following the exact steps from the link you posted, still the same. There #8217;re something different running in the background than the tutorial shows tho, something like there #8217;s another boot loader and no grub so skipping grub. I don #8217;t know what #8217;s the problem. Here #8217;re some screenshots. https://ibb.co/5GhPznb https://ibb.co/0XdzL4x https://ibb.co/tXm3T8w Yes, after clone is finished, I unplugged other drives and only leave one connected.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-14 13:49:51</DATE>
+    <TEXT>EFI/legacy should have no problem. I #8217;m consistent there on EFI. What #8217;s even stranger is that the SSD doesn #8217;t even show up at the bios when I reboot.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>M.2 NVMe SSD not recognized by BIOS</TITLE>
+    <DATE>2020-09-15 09:48:24</DATE>
+    <TEXT>Hello, I installed Ubuntu system on a brand new M.2 NVMe SSD(with an enclosure) using [this tutorial](http://ubuntuhandbook.org/index.php/2014/11/install-real-ubuntu-os-usb-drive/) from my Dell (Precision 5520 Quadra M1200, installed with Win10). Then I connect the SSD (w enclosure) to type-c port of my dell pc, reboot the machine to BIOS, but SSD doesn #8217;t show at BIOS UEFI. I #8217;ve tried so many different methods including changing SATA Operation from RAID to AHCI, changing Boot sequence, etc. Nothing works. All I know is that the machine can recognize the SSD since I can install Ubuntu onto it from Dell pc, but the BIOS can #8217;t. Does anyone know what #8217;s going on and may help me out here? Appreciate it.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>M.2 NVMe SSD not detected by BIOS</TITLE>
+    <DATE>2020-09-15 11:33:38</DATE>
+    <TEXT>Hello, I installed Ubuntu system on a brand new M.2 NVMe SSD(with an enclosure) using [this tutorial](http://ubuntuhandbook.org/index.php/2014/11/install-real-ubuntu-os-usb-drive/) from my Dell (Precision 5520 Quadra M1200, installed with Win10). Then I connect the SSD (w enclosure) to type-c port of my dell pc, reboot the machine to BIOS, but SSD doesn #8217;t show at BIOS UEFI. I #8217;ve tried so many different methods including changing SATA Operation from RAID to AHCI, changing Boot sequence, etc. Nothing works. All I know is that the machine can recognize the SSD since I can install Ubuntu onto it from Dell pc, but the BIOS can #8217;t. Does anyone know what #8217;s going on and may help out here? Appreciate it.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-15 12:06:07</DATE>
+    <TEXT>No I didn #8217;t change to legacy. I installed Ubuntu in uefi and boot in uefi.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-15 12:14:35</DATE>
+    <TEXT>Legacy options Roms is enabled.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-15 12:15:37</DATE>
+    <TEXT>No I don #8217;t see the device.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-15 12:46:31</DATE>
+    <TEXT>Believe it or not, I #8217;ve tried it already, it #8217;s the same. Ubuntu isn #8217;t the problem here. I think the only suspects left are BIOS and type-c. Something is stoping BIOS from detecting name ssd, or typec isn #8217;t good for bootable disk.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>M.2 NVMe SSD isn #8217;t detected by BIOS</TITLE>
+    <DATE>2020-09-15 15:55:07</DATE>
+    <TEXT>Has anyone encountered a problem that M.2 NVMe SSD isn #8217;t detected by BIOS although the machine recognizes it? My machine is installed with Win10 on SATA drive, I have Ubuntu OS on NVMe ssd, I #8217;d like to choose which OS to boot to in BIOS when I connect NVMe ssd (w enclosure) to my machine, but it just won #8217;t show up. When I boot to Win10 and open disk management, the NVMe ssd disk is there along with all the correct partitions. I #8217;ve been trying to figure this out for a day, right now I have no clue. The BIOS UEFI mode is consistent to how the OS was made, legacy Option ROMs is enabled, update BIOS, if I reinstall the OS and it #8217;ll end up with the same problem, etc. What else can be the problem?!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-15 16:54:24</DATE>
+    <TEXT>Press F12 will enter BIOS, the NVMe ssd isn #8217;t visible. I #8217;ve been trying everything, it #8217;s just not visible.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-16 03:06:27</DATE>
+    <TEXT>Probably you need to remove SATA to initialize first, well your m.2 at least show up at BIOS to choose from.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-16 16:00:09</DATE>
+    <TEXT>I doubt it. But let me try after I get my screwdriver kit.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>How to open c4d files from older versions?</TITLE>
+    <DATE>2020-10-07 13:10:18</DATE>
+    <TEXT>I #8217;ve got some c4d files from older version(R19-) that my R23 won #8217;t open. There #8217;re no available free downloads for R19. Anyone knows how top go around this?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-07 15:52:05</DATE>
+    <TEXT>Two.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Service to render on other computers.</TITLE>
+    <DATE>2020-10-13 10:08:07</DATE>
+    <TEXT>I have a project coming up that requires me to render 15 million images, and I need to install pip and opencv first. It #8217;ll take 350 days to complete the 15 mil renderings assume it takes 2 sec to render one image (2sec/image on my own pc with Nvidia Quadro M1200 +i7) Is there any service out there that can allow me to lease their computers and install Blender/3rd party python modules. I #8217;ve reached out to Renderstreet, but their customer service told me I can #8217;t install any software there.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-13 10:14:39</DATE>
+    <TEXT>Just checked it out. Rendering stations meaning it uses all the available computers to render only my project?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-13 10:43:30</DATE>
+    <TEXT>Yes, that #8217;s the problem. Suppose you can get all the computers to render only my project, then technically Ill have to install the 3rd party python module on each computer, how do I do that...</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Directory hierarchies</TITLE>
+    <DATE>2020-10-14 11:03:56</DATE>
+    <TEXT>import os import pandas as pd rootdir = "hashfolders" HASHES_TXT = "MD5Hash_1k.txt" if __name__ == '__main__': hashes = pd.read_csv(HASHES_TXT).values.flatten().tolist() name2hash = {} dirs2hash = {} counter = 0 # find directories until no subdirectories print("scanning for unique directories (innermost) names") for dirname, subdirnames, filenames in os.walk(rootdir): if len(subdirnames) == 0: splitted_name = os.path.split(dirname) innermost_dirname = os.path.split(dirname)[-1] # if the name is already mapped to a key, use it, otherwise hash it with the next key if innermost_dirname not in name2hash: name2hash[innermost_dirname] = hashes[counter] counter += 1 hash_output = ( splitted_name[0], name2hash[innermost_dirname] ) dirs2hash[dirname] = os.path.join(hash_output[0], hash_output[1]) for old_name, new_name in dirs2hash.items(): print("renaming {} to {}".format(old_name, new_name)) os.rename(old_name, new_name) I wrote the above script to rename all the innermost subfolder names to md5 hashed names. However, there're two directory hierarchies 1. hashfolders/cat\_id/obj\_id/ 2. hashfolders/cat\_id/obj\_id/var\_id/ For the 2nd hierarchy, I want it to hash the /var\_id/ folders but move them one level/directory above and remove the /obj\_id/ folder. For example, `hashfolders/cat_id/obj_id_01/var_id_01/` is renamed to `hashfolders/cat_id/0a7645498b7d895e1f0988b01524622f/` Any idea how can I do this in my code?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-14 12:04:18</DATE>
+    <TEXT>Hmm, getting an error: dir_hashes[var_id] = cat_id / name_hashes[var_id.name] TypeError: unsupported operand type(s) for /: 'str' and 'str'</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-14 12:24:07</DATE>
+    <TEXT>Yup, thanks. But now it's getting a 'FileExistsError' when it uses a same md5 name for a different folder. The idea is to assign a unique md5 name to each.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  </INDIVIDUAL>

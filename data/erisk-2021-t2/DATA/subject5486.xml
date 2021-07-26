@@ -1,0 +1,1646 @@
+<INDIVIDUAL>
+  <ID>subject5486</ID>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-02-24 17:55:42</DATE>
+    <TEXT>Fwiw, there already is a related [thread](https://www.reddit.com/r/Amd/comments/55hb0u/lets_get_integer_nearest_neighbor_gpu_scaling/) here on Reddit.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-04-15 13:01:46</DATE>
+    <TEXT>Fwiw, here is a web-based [nonblurry integer-ratio scaling demo](http://tanalin.com/_experimentz/demos/non-blurry-scaling/).</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-04-15 15:00:59</DATE>
+    <TEXT>FHD looks great on 24-inch 4K monitor (e.g. [Dell P2415Q](http://tanalin.com/en/blog/2015/05/dell-p2415q-review/)) when scaled with no blur  #8212; with each image pixel displayed as a group of 2 #215;2 identical physical pixels. Image pixel is so small in this case that it #8217;s almost indistinguishable, so blur just _decreases sharpness_ while not adding any useful  #8220;smoothing #8221;.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-04-15 15:12:36</DATE>
+    <TEXT>The point of nonblurry integer-ratio scaling by pixel duplication is that it #8217;s _lossless_ and makes sense _exactly_ (and in fact _only_) at integer ratios. So the requested mode should basically just substitute the existing  #8220;Centered #8221; mode with filling the rest screen space with black. The result is technically the same as using nearest-neighbour interpolation as long as the physical resolution is a multiple of signal resolution, but the concept is not the same.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-04-15 15:22:55</DATE>
+    <TEXT>Sounds interesting. Is it going to support simple nearest-neighbour interpolation? What #8217;s its compatibility with games? E.g. GeDoSaTo works with _some_ DX9 games, but doesn #8217;t work with other (including modern) games, so it #8217;s more a limited workaround than an ultimate solution.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-04-15 19:28:21</DATE>
+    <TEXT>Nope. While a single logical pixel is _almost_ indistinguishable in full-screen games at Full HD _logical_ resolution and 4K _physical_ resolution, higher pixel density still makes true 4K much more _sharp and clear_ than Full HD. That #8217;s even more important for _text_ where atomic elements (characters and lines they consist of) are _much smaller_ than typical elements in games, and text on a 4K monitor is much more smooth and clear than on a Full HD one. Needless to say, when playing a game, we can move away from monitor while when working with text, we can sit closer. Also, the _extremely_ important factor at least for me is [crystal inversion](http://www.techmind.org/lcd/#inversion) that causes horrible flickering which is _much less_ noticeable on a 4K monitor compared with a monitor with physical Full HD resolution (just because of this, I would even buy a 4K monitor if the maximum available resolution was [properly scaled] Full HD). Finally, there is such thing as interpixel grid which is annoyingly noticeable on Full HD monitors while absolutely unnoticeable on 4K monitors of the same size.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-04-30 02:10:24</DATE>
+    <TEXT>I #8217;ve published the  #8220;[Nonblurry integer-ratio scaling](http://tanalin.com/en/articles/lossless-scaling/) #8221; article  #8212; an attempt to collect and summarize all the important relevant information about the blur issue and nonblurry integer-ratio scaling by pixel duplication as a solution.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-04-30 02:39:02</DATE>
+    <TEXT>Could you provide the exact _model_ of your Sony 4K TV that provides the nonblurry-scaling feature? Thanks.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-11-28 16:31:38</DATE>
+    <TEXT>The ability to switch to _nearest-neighbour_ scaling is already available in nVidia driver for Linux, Solaris, and FreeBSD since version [384.47](https://devtalk.nvidia.com/default/topic/1016125) (2017-06-29). Unfortunately, the feature is [unusable](https://devtalk.nvidia.com/default/topic/1019141) in many _games_ that incorrectly interpret data received from RandR and are blurrily upscaled and then _cropped_ instead of being properly upscaled using nearest-neighbour interpolation. Such problematic games are e.g. [Limbo](http://playdead.com/games/limbo/), [Syder Arcade](https://www.syderarcade.com/), [Trine Enchanted Edition](http://www.frozenbyte.com/games/trine-enchanted-edition). Some important resources related to the blurry-scaling issue: *  #8220;[Nonblurry integer-ratio scaling](http://tanalin.com/en/articles/lossless-scaling/) #8221; article  #8212; an attempt to explain the blur issue and collect and summarize all the important relevant info about the issue and nonblurry integer-ratio scaling by pixel duplication as a solution. * [Demo](http://tanalin.com/_experimentz/demos/non-blurry-scaling/) (web-based) that shows how proper nonblurry scaling should work. * [Petition](https://www.change.org/p/nvidia-amd-nvidia-we-need-integer-scaling-via-graphics-driver) (Change.org) for adding proper upscaling to graphics drivers. * [GeForce thread](https://forums.geforce.com/default/topic/844905)  #8212; a 46-pages thread about the issue on the official nVidia GeForce forum. * [AMD Thread](https://community.amd.com/thread/209107)  #8212; a thread about the issue on the official AMD forum.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-07-09 15:10:59</DATE>
+    <TEXT>MicroLED displays have a deal-breaker drawback: tremendously small aperture ratio of just about 10%.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-07-09 15:14:26</DATE>
+    <TEXT>That just means that OS developers should adapt their UI so that there were no static toolbars. Such toolbars could be automatically hidden after a few seconds.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-07-09 15:21:26</DATE>
+    <TEXT>The feature is actually [implemented](http://tanalin.com/en/articles/lossless-scaling/#h-progress-nvidia-linux) via Transform Filters in nVidia Linux driver 384.47+ for Linux, but unfortunately limited to windowed and pseudo-fullscreen applications and has compatibility issues with many games: 1. many games (e.g.  #8220;GRID Autosport #8221;) are *cropped* with Transform Filter enabled: e.g. with 1920x1080 (Full HD) as ViewPortIn and 3840x2160 (4K) as ViewPortOut, only the bottom-left or top-left (depending on game) 1/4 is visible; 2. it does NOT work with TRUE full-screen games like  #8220;Euro Truck Simulator 2 #8221; and  #8220;Rogue Stormers #8221; which output video signal DIRECTLY to monitor, bypassing transform filter, so we have the monitor #8217;s own blur as a result; 3. in some games such as  #8220;Portal #8221;, in-game controls do not react to mouse cursor.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-07-09 15:30:23</DATE>
+    <TEXT>The petition exists just for a year.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-07-09 15:56:37</DATE>
+    <TEXT>That #8217;s a way for all applications to change, not just OS. New displays, new UI paradigm.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-07-09 20:31:14</DATE>
+    <TEXT>* [MicroLED-Info](https://www.microled-info.com/digitimes-micro-leds-low-aperture-ratio-makes-them-competitive-smart-displays) * [Digitimes](https://www.digitimes.com/news/a20170927PD203.html)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-07-09 20:43:02</DATE>
+    <TEXT> gt;Image retention is actually a bigger problem than burn in. In OLED displays, burn-in is the reason of image retention.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-07-09 22:13:40</DATE>
+    <TEXT>With OLED, any image retention is actually permanent. It may get *less noticeable* as the whole display is burning-in further, but it actually never goes away. The longer OLED emits light, the less light is emitted  #8212; that #8217;s that essense of OLED burn-in, regardless whether we are talking about image retention, or decreasing overall brightness, or color shift over time.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-07-09 23:45:00</DATE>
+    <TEXT>Thanks for the interesting link. To be clear, I like the OLED technology (I have an OLED smartphone and an OLED tablet), I #8217;m *eagerly awaiting for OLED monitors*, and I believe OLED burn-in is often overestimated. I #8217;m just also convinced that OLED burn-in and image retention are *directly related* and cannot be considered as separate independent things.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-07-13 00:09:30</DATE>
+    <TEXT>Afaik, previous petitions had manyfold less votes. This one has 1776 votes for now. The more popular 4K monitors get, the more people care about upscaling quality.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-09-10 18:13:13</DATE>
+    <TEXT>Fwiw, this is exactly how Windows 10 scales old applications with no HiDPI support: blurry at fractional ratios, and nonblurry at integer ratios. This does not help with full-screen applications like games, but shows that even Microsoft figured out that nonblurry scaling is the best and smartest approach at integer ratios.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-09-10 18:23:49</DATE>
+    <TEXT>Most (all) of monitors add blur when scaling. It may be not as horrible as added by GPU (e.g. Dell P2415Q #8217;s scaling is more crisp than scaling via GTX 650 Ti Boost), but it is still inevitably there. If you have a proof that specific 4K-monitor models support nonblurry integer-ratio scaling, please provide more specific information about them.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-09-10 18:26:34</DATE>
+    <TEXT>This does not help at least with 3D games. The only way to play 3D games with no blur is using Windows Magnifier, but it has its own drawbacks: bad usability, some stuttering, and works solely with windowed games.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-09-10 22:38:21</DATE>
+    <TEXT> gt;It wasn't a 4k monitor, it was an Eve V tablet Monitors and tablets are different things.  gt;so I set a custom resolution which was smaller by half... and boom, perfectly clear image. Maybe this was not really nonblurry, but just clear *enough* for *you*.  gt;people keep focusing on blaming Nvidia for this, but they overlook the fact that the monitor is equally or more to blame. The point is not to blame, but to get a solution. A monitor cannot be fixed once produced and purchased, but graphics driver can be updated like any software.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-09-11 01:01:43</DATE>
+    <TEXT>Just tried WindowedBorderlessGaming\_2.1.0.1 from WesTech. It indeed allows to upscale some games with no blur at least under Windows 10. But it #8217;s tricky/impossible to make it work for specific games, and looks like performance is somewhat worse (e.g. in case of the  #8220;Project Cars #8221; game) compared with using Windows Magnifier in conjunction with the game #8217;s regular windowed mode. Thanks for the info anyway.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-09-11 11:42:46</DATE>
+    <TEXT>Unlike lower resolutions or bigger monitors, with FHD on 24" 4K monitor image pixels are *small enough* to be almost *indistinguishable* at least as long as the image is antialiased. With 4K resolution on 8K monitors, this will be even more true even without AA. With HD and lower resolutions on 24" 4K monitor, image pixels are big enough to be visible indeed, but there are also pixel-art games and their fans who like the pixelated nature of pixel-art. Finally, that #8217;s a false dichotomy in the first place: whether to blur during scaling should be an *option*, so that nonblurry scaling could be used by those who understand what it is and really want to use it, while those who like blurry image or don #8217;t understand what is the point could continue using the current scaling algorithm. It #8217;s about freedom of choice.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-09-11 11:50:43</DATE>
+    <TEXT>[More than nearest neighbour](http://tanalin.com/en/articles/lossless-scaling/#h-nearest)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-09-11 14:29:04</DATE>
+    <TEXT>Yes, it is a special case. It #8217;s just important to understand the *key difference*: at *fractional* ratios nearest neighbour leads to *distortion*, while at *integer* ratios scaling is *lossless* and resulting image consists of perfect square groups of same-color physical pixels such as 2 #215;2, 3 #215;3.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-09-11 20:32:09</DATE>
+    <TEXT>Theory does not help when what user sees looks worse than what they could see instead: e.g. sharp lines and edges instead of blurry ones; white lines instead of gray lines. When image pixels are small enough (as when displaying FHD on 24" 4K monitor), any blur (even if called smoothing) just *unreasonably* decreases sharpness without adding anything useful.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-09-11 23:55:49</DATE>
+    <TEXT>Your theoretical purity is starting to effectively look like trolling.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-10-12 23:13:08</DATE>
+    <TEXT>**Lossless in-game music** I would LOVE to see a  #8220;Red Alert #8221; remake with high-quality stereo music (preferably LOSSLESS). The original game had low-quality (mono, 22 KHz, ADPCM) music.  #8203; **Complete lossless soundtrack with  #8220;Face the Enemy 1 #8221;** Also, would love to finally be able to purchase COMPLETE  #8220;Red Alert #8221; soundtrack in a LOSSLESS format such as FLAC. The original soundtrack Audio-CD lacked several tracks included in the game. Namely, I #8217;m INCREDIBLY interested in the  #8220;Face the Enemy 1 #8221; track. For me,  #8220;Face the Enemy 1 #8221; is the best musical track in the game (of course besides "Hell March" that had its own charm). The soundtrack Audio CD did contain  #8220;Face the Enemy 2 #8221; (not 1) listed as just "Face the Enemy" with no number. The  #8220;Face the Enemy 1 #8221; track is available on the Frank Klepacki #8217;s site in the  #8220;Listen #8221; section and ironically listed as  #8220;Face the Enemy 2 #8221;, here is its direct URL for clarity (unfortunately it is in the lossy MP3 format with a low bitrate of just 128 Kbps, so it is far from lossless quality): [https://s3.amazonaws.com/files.podsnack.net/playlists/tracks/30686fe812e0ef68d7b24b3i19052643](https://s3.amazonaws.com/files.podsnack.net/playlists/tracks/30686fe812e0ef68d7b24b3i19052643)  #8203; **High-resolution 2D graphics and 16:9 support** Higher-resolution graphics and 16:9 aspect-ratio support in the remake would be nice too. Preferably 4K-ready, but still based on sprites, just rerendered with higher pixel density. After remaking  #8220;Red Alert #8221;, remakes of other 2D-based C amp;C classic games, such as  #8220;Tiberian Dawn #8221; and  #8220;Tiberian Sun #8221; would be nice too. Thanks.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-12-11 13:37:06</DATE>
+    <TEXT> gt; Some monitors have an option to change the image scaling algorithm they use. I believe this is a myth. All 4K *monitors* add blur during upscaling. I would *love* to know the exact 4K-monitor model supporting the feature if it existed though. Some 4K *TVs* reportedly indeed [have](http://tanalin.com/en/articles/lossless-scaling/#h-partial-misc) an option to disable blur for Full HD resolution, but, Afaik, *only* for this one resolution. Those TVs are namely Panasonic TX-55CX802B and Sony X900E. I don #8217;t own any of them though, so can #8217;t confirm. Viewing images and videos with no blur with some limitations is [possible](http://tanalin.com/en/articles/lossless-scaling/#h-partial-viewers) on PC using XnView and MPC-HC correspondingly.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-12-12 19:51:35</DATE>
+    <TEXT>I #8217;m not aware of 4K TVs of monitor-small sizes capable of nonblurry FHD-to-4K scaling. Note that, unlike real monitors, such small TVs are typically oriented to be used in kitchen and based on low-quality panels (probably TN+Film) with bad color reproduction and narrow viewing angles. Also, some of TVs advertised as 4K are not true 4K in terms of color reproduction due to using PenTile-like [RGBW](https://www.hdtvtest.co.uk/news/rgbw-201510084189.htm) pixel pattern with white subpixel shared between adjacent pixels.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-12-14 16:29:18</DATE>
+    <TEXT>nVidia control panel has an option to choose what scaling should be done with: * GPU; * Display. AMD control panel likely provides a similar option (looks like it is  #8220;[GPU Scaling](https://www.amd.com/en/support/kb/faq/dh-019): On/Off #8221;). So when GPU is selected as scaling device, the monitor always receives signal in its _native_ (physical) resolution (e.g. 4K), while scaling is done by graphics card _before_ sending already-scaled image to monitor.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-12-14 16:31:20</DATE>
+    <TEXT>Why?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-12-14 16:34:44</DATE>
+    <TEXT>nVidia driver, not Linux itself, and solely for windowed and pseudo-fullscreen (actually windowed) applications  #8212; Windows Magnifier has a similar limitation. True full-screen games (e.g. Euro Truck Simulator 2) output their signal _directly_ to monitor and therefore blurrily scaled by the monitor itself.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-12-14 16:37:33</DATE>
+    <TEXT> gt; this will break modern anti-aliasing techniques Look like a false dichotomy. Nonblurry scaling can be used _in conjunction_ with antialiasing. Blur is not antialiasing.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-12-14 17:11:56</DATE>
+    <TEXT> gt; if its something they could make a toggle... Sure, nonblurry scaling should be _optional_ so that everyone could be happy in every use case. Though user-interface-wise, an explicit option exactly for blur would probably be unneeded if nonblurry scaling was implemented as a natural _replacement_ for the existing  #8220;Center #8221; scaling mode. The  #8220;Center #8221; mode as is would probably get [unneeded](https://www.reddit.com/r/Amd/comments/55hb0u/lets_get_integer_nearest_neighbor_gpu_scaling/) once we have nonblurry scaling implemented because the current  #8220;Center #8221; mode is basically exactly what nonblurry scaling is, just with the ratio forced to be 1x (100%). For example, someone would unlikely want to have 640 #215;480 centered on the 3840 #215;2160 screen (with **96%** of the screen filled with black) if they could get _exactly_ the same image, but 4x larger  #8212; with each pixel represented as a square group of 4 #215;4 physical same-color pixels. So  #8220;Preserve aspect ratio #8221; would provide blurry image as currently, while  #8220;Center #8221; would enable nonblurry scaling  #8212; with integer-ratio scaling transparently applied to fill the screen as fully as possible with minimal black margins. Fwiw, Windows 10 uses nonblurry scaling for non-DPI-aware applications at integer ratios (e.g. 2x = 200%) with no option to enable blur.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-12-14 17:30:25</DATE>
+    <TEXT>Reusing an existing UI element can be somewhat easier for developers than adding a new one. For example, a  #8220;No blur #8221; checkbox would be forced to be conditionally available depending of what scaling mode is chosen, otherwise the checkbox could be considered somewhat confusing given that it would naturally have no effect in conjunction with e.g. the  #8220;Center #8221; mode. On the other hand, an additional _item_ like  #8220;Maximum integer ratio with no blur #8221; in the _existing_  #8220;Scaling mode #8221; list would probably be as easy to implement as reusing the existing  #8220;Center #8221; item: * Preserve aspect ratio * Full panel * Center * **Maximum integer ratio with no blur**</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-12-14 17:51:17</DATE>
+    <TEXT>At FHD resolution on a 24 #8243; 4K monitor like [Dell P2415Q](http://tanalin.com/en/blog/2015/05/dell-p2415q-review/), image pixel is almost indistinguishable, so antialiased games look great. Blur in this case just decreases perceived sharpness without adding anything useful. AA works and is not broken in any way.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-12-16 20:57:28</DATE>
+    <TEXT>Dealing with a lossless image is better than trying to enhance an already irreversibly corrupted image. Just like FLAC/APE/WAV is always better than MP3 with any enhancements.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-12-17 01:17:40</DATE>
+    <TEXT>Multiple unsupported allegations. You are probably speaking as an owner of a low-resolution FHD-grade monitor with physical pixels easily distinguishable, while I #8217;m speaking as someone who owns a 4K monitor for almost 4 years and certainly knows what he wants and seen that many times and used when possible, for example for images in Firefox everyday thanks to his own author #8217;s [SmartUpscale](https://addons.mozilla.org/en-US/firefox/addon/smart-upscale/) extension. And actually, you are free not to use features you _personally_ don #8217;t like. The feature would be perfectly optional.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-12-17 17:39:41</DATE>
+    <TEXT> gt; Does it mean that Firefox can't possibly have better conventional scaling? This means that I clearly understand what I want and am talking about. Browsers themselves are irrelevant here.  gt; You'll get better results with a higher rendering resolution Sure, as long as the game uses vectorial graphics, GPU performance is enough **and** the game #8217;s UI elements don #8217;t get proportionally smaller like in Cities XL Platinum. This is **not** just about performance. You can read about this and other important points in detail in the  #8220;[Powerful GPU is not a solution](http://tanalin.com/en/articles/lossless-scaling/#h-performance) #8221; section of my article.  gt; Many modern games already have resolution scale sliders Which I intentionally never use exactly because scaling with fractional ratios (and currently with any ratio) results in blur. Sharpening is **not** an acceptable solution for me. My monitor has a sharpness setting, but I never use it. And even if I wanted to use sharpening, I would prefer to apply it to uncorrupted image instead of artificially-blurry mess. Just [compare](http://tanalin.com/_experimentz/reddit/nonblurry-vs-sharpened.png) the clean image upscaled nonblurrily by pixel duplication with the image upscaled using blurry bilinear interpolation and then sharpened.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-12-17 17:59:34</DATE>
+    <TEXT> gt; it's definitely more flexible than a fixed resolution - 1080p. Integer-ratio upscaling is **not** just about scaling FHD to 4K. **Any** resolution could be upscaled on **any** monitor as long as logical (signal) resolution fits entirely in physical resolution with a ratio of 2 or greater. For example, a 640 #215;480 image could be displayed on a 1920 #215;1080 screen with a ratio of 2 and horizontal black margins of 320+320 pixels and vertical margins of 60+60 pixels.  gt; windowed, borderless, fullscreen, VSR, games changing resolution Looks like you have a lack of basic technical knowledge regarding the topic you are talking about. Scaler knows (and should know) **nothing** about high-level software abstractions like windows  #8212; regardless whether regular or borderless (a borderless window is a window too, just with no border). Scaler gets entire drawn screen as a **monolithic** image, scales it, and returns the scaled result as a new monolithic image. In case of DSR/VSR, the rendered image #8217;s resolution is larger than physical monitor #8217;s resolution, so scaler **down**scales the drawn image, which is the opposite to **up**scaling. For upscaling lower-than-physical resolutions, the nonblurry-scaling algorithm is [trivial](http://tanalin.com/en/articles/lossless-scaling/#h-algorithm).</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-12-20 22:31:09</DATE>
+    <TEXT> gt; it's blurry after TAA anyway, even without resolution scaling. There is no such thing as  #8220;just blur #8221; as an opposite to absence of blur. Blur may be _less_ strong or _more_ strong. For example, blur added by nVidia-driver scaler is noticeably stronger than blur added by P2415Q monitor #8217;s scaler. If we have _two_ sources of image-quality decrease, their _total_ impact is _higher_ than impact of each of them _separately_. And while temporal antialiasing has a concrete useful purpose, using bilinear interpolation for integer-ratio upscaling just _unreasonably_ makes image worse than without its _extra_ blur. And actually antialiasing is even not blur. TAA _resembles_ blur, but strictly speaking it #8217;s not  #8212; Afaik, TAA basically works by mixing adjacent frames.  gt; So the only way out is sharpening. I #8217;m fine with TAA as is. In conjunction with nonblurry upscaling by pixel duplication. ;-)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-12-21 17:38:10</DATE>
+    <TEXT>Sure, if user has enough horse power, it is possible to switch to a higher resolution like QHD instead of FHD and get somewhat better detail. Using a resolution which is just _slightly_ higher (e.g. 2000 #215;1125 instead of 1920 #215;1080) would probably not make much sense, only a considerably higher resolution would make real quality difference. But if the user wants to use exactly FHD (or a lower one) on a 4K monitor, they should be free to do this with no unreasonable quality loss. FHD on 4K monitor should not look worse than on FHD monitor. Pixel-art should not become blurry mess. Games like Cities XL Platinum should be playable.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-12-21 18:34:47</DATE>
+    <TEXT>I am the only who knows what I need. And I need being free of unreasonable quality loss. And looks like you tend to ignore arguments not related to scaling in modern 3D games.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-12-21 20:09:49</DATE>
+    <TEXT> gt;And you are the only one who knows what is unreasonable, right? :) False logic. I am the only who knows what **I** need.  gt; Old games tend to have more and more compatibility issues, and get more and more outdated. The ones that are still relevant tend to get remasters. Oh, that #8217;s a dead-end approach I can #8217;t help you with.  gt; One guy even made an app for integer scaling in games. That app is based on Windows Magnification API with all its drawbacks and basically works like the existing Magnifier built into Windows with no support for full-screen games and no support for working at lower resolution with OS itself.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-12-21 20:15:28</DATE>
+    <TEXT>The [MagSetFullscreenTransform()](https://docs.microsoft.com/en-us/windows/desktop/api/magnification/nf-magnification-magsetfullscreentransform) function from the Windows Magnification API is available in Windows 8+ only.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-12-21 20:22:25</DATE>
+    <TEXT>We #8217;re just going different ways with different issues and goals. That #8217;s fine.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-12-21 21:22:05</DATE>
+    <TEXT>Nearest-neighbour interpolation results in image _distortion_ at _fractional_ ratios. The point of [nonblurry integer-ratio scaling](http://tanalin.com/en/articles/lossless-scaling/) (a.k.a. integer scaling) is that it uses _integer_ scaling ratios (2, 3, etc.) and so is _lossless_.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-12-21 21:27:24</DATE>
+    <TEXT>Windows Magnification API does not involve injecting external code into application process. It just magnifies a specific screen area regardless of what that area contains.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-12-21 21:29:37</DATE>
+    <TEXT>For FreeSync to work, the game should probably operate in true full-screen mode instead of windowed mode. Same probably applies to G-Sync.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-12-21 22:49:14</DATE>
+    <TEXT>Does  #8220;blacked out #8221; mean  #8220;showing black image #8221; (with backlight still turned on) or  #8220;turned off #8221; (with backlight turned off)?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-12-22 01:13:25</DATE>
+    <TEXT>It makes sense to turn such monitors off instead  #8212; to prevent overheat due to backlight continuing to work while entirely black LCD panel not allowing emitted light and heat to leave the monitor.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-12-22 14:27:38</DATE>
+    <TEXT>A borderless window is a regular window, just with no border, regardless of size of the window. But if for FreeSync to work, FreeSync-capable game #8217;s window should be on top of any other windows, then it #8217;s probably impossible in conjunction with magnification since magnification application #8217;s window is on top, not the game #8217;s one.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-01-03 01:58:27</DATE>
+    <TEXT>It #8217;s not about image size, but about image _quality_. All monitors and graphics drivers add _blur_ even if scaling ratio is integer.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-01-08 03:58:25</DATE>
+    <TEXT>Nonblurry integer-ratio full-screen scaling by pixel duplication with no blur and no inter-pixel diffusion whatsoever. For example FHD-to-4K with each logical pixel represented as a square group of 2 #215;2 same-color physical pixels. Thanks.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Free IntegerScaler app for blur-free upscaling of windowed games</TITLE>
+    <DATE>2019-01-09 01:34:38</DATE>
+    <TEXT>[**IntegerScaler**](http://tanalin.com/en/projects/integer-scaler/) is a free Windows 7+ utility for upscaling games with an integer ratio and with _no blur_. Such scaling is known as _integer (integral) scaling_ and _pixel doubling_. The app is compatible with _all_ games that support _windowed_ mode. ## FHD #8594;4K scaling This allows playing games e. #8201;g. at Full-HD (1920 #215;1080) resolution on 4K (3840 #215;2160) monitors with no quality loss, unlike ever-blurry bilinear full-screen scaling used by displays and graphics drivers. ## Old and pixel-art games Scaling with no blur may also be useful for old games and pixel-art games. See e. #8201;g. a [screenshot](http://tanalin.com/_x/reddit/integer-scaler/simcity-2000/) (172 KB) showing the SymCity 2000 game (1993) (640 #215;480 native resolution) upscaled with IntegerScaler to 4K resolution. ## Advantages Compared with Windows Magnifier, IntegerScaler _automatically_ precisely positions the area to scale and fills with _black_ the rest screen space around the scaled window. Unlike the previously announced commercial Windows #160;8+ app, IntegerScaler is free and supports Windows #160;7+. ## How to use Just press `Alt+F11` while the game window is active. For games that suppress third-party keyboard shortcuts (e.g.  #8220;GRID Autosport #8221;), use delayed scaling via `Ctrl+Alt+F11` (note the added `Ctrl`). The app also has a _systray icon with a menu_. ## Requirements 2.0: Windows 7+ (1.x was Windows 8+). Both 64-bit and 32-bit versions of the app are provided. ## Reporting bugs Bugs are possible, feel free to report. Please note that potentially blacked-out secondary displays and possible lack of support for variable-refresh-rate (VRR) technologies like FreeSync/G-Sync are the known issues of the whole Windows #8217; magnification mechanism and _cannot_ be fixed on the application level. ## On the blur issue Hardware scalers (both of GPUs and monitors) blindly use blurry bilinear interpolation _regardless_ of whether scaling ratio is _fractional_ or _integer_. With _fractional_ ratios like 1.75 (175%) or 2.5 (250%), either blur or distortion are indeed _inevitable_. But with _integer_ ratios like 2 (200%) or 3 (300%), image can be upscaled with _no quality loss_: each image pixel can be represented as a square group of integer number of _same-color_ physical pixels. E.g. 2 #215;2 at 200%, and 3 #215;3 at 300%. ## Related links * [Live web-demo](http://tanalin.com/_experimentz/demos/non-blurry-scaling/) of what integer-ratio scaling is. * [Nonblurry integer-ratio scaling](http://tanalin.com/en/articles/lossless-scaling/)  #8212; article about the blur issue, solutions, progress, and more. * [Petition](https://www.change.org/p/nvidia-amd-nvidia-we-need-integer-scaling-via-graphics-driver) (2000+ votes) for adding nonblurry scaling to graphics drivers. * [Request](https://forums.geforce.com/default/topic/844905) for adding nonblurry integer-ratio upscaling to nVidia graphics driver (65-pages thread).</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-01-09 17:11:59</DATE>
+    <TEXT> gt; I'm not really seeing that much difference Make sure the game is in DPI-aware mode. The criterion is simple: the game-window size in physical pixels should correspond to in-game resolution. For example, window of a game running at FHD resolution should occupy about 1/4 (1/2 horizontally and 1/2 vertically) of 4K screen at 200% OS-level zoom, not entire screen. Games that are not DPI-aware require disabling DPI virtualization (DPI scaling) in executable #8217;s properties, to have proper window size with no blurry scaling automatically applied by Windows to non-DPI-aware applications. To disable DPI virtualization for a specific game, right click on the game #8217;s executable, then choose:  #8220;Properties #8221; item  #8594;  #8220;Compatibility #8221; tab  #8594;  #8220;Settings #8221; section  #8594;  #8220;Change high DPI settings #8221; button  #8594;  #8220;High DPI scaling override #8221; section  #8594;  #8220;Override high DPI scaling behavior. Scaling performed by #8221; checkbox  #8594;  #8220;Application #8221; dropdown item. Or in older builds of Windows 10:  #8220;Properties #8221; item  #8594;  #8220;Compatibility #8221; tab  #8594;  #8220;Settings #8221; section  #8594;  #8220;Override high DPI scaling behavior. Scaling performed by #8221; checkbox  #8594;  #8220;Application #8221; dropdown item.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-01-09 17:21:55</DATE>
+    <TEXT>Yes, as I said in the  #8220;Requirements #8221; and  #8220;Reporting bugs #8221; sections of my starting message, the app uses the Windows #8217; built-in magnification mechanism and is likely affected by its limitations. Did not test multi-monitor setup yet myself though, but you can easily test it on your own since it #8217;s free and just 174 KB to download.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-01-09 17:28:33</DATE>
+    <TEXT>Performance impact is basically the same as with the Windows Magnifier: some jerkiness and a lag are potentially possible, but typically unnoticeable. I experienced a sort of jerkiness with the  #8220;WRC 6 #8221; game with Windows Magnifier under Windows 7, but full-screen-output magnification in W7 is implemented differently than in W8+ (not available via API unlike W8+), so this may be W7-specific.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-01-09 17:36:16</DATE>
+    <TEXT>IntegerScaler is solely intended to do integer-ratio scaling  #8212; that #8217;s its whole point. If it somehow uses fractional ratios like 2.5 in some cases, please provide more details. Maybe the game you experience this with does not resize its window according to the ingame resolution. IntegerScaler upscales game window _as is_, so the game-window size _must_ correspond to ingame resolution to have scaled result with no blur or distortion.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-01-09 17:40:19</DATE>
+    <TEXT>Should work fine in your case as long as you are able to switch the game to a resolution corresponding to a scaling ratio of 2 or higher. For example, for perfect 2x scaling with no black bars, your ingame resolution should be 1720 #215;720 (1720 = 3440 / 2; 720 = 1440 / 2).</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-01-09 17:45:44</DATE>
+    <TEXT>Well, there is a huge difference between a theoretical technical possibility to _restore_ original data when using certain upscaling algorithms and loss of quality/sharpness inevitably _perceived_ by user in practice when looking at the scaled _nonrestored_ blurrily upscaled image as is.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-01-09 18:44:48</DATE>
+    <TEXT>I wouldn #8217;t be against the hybrid first-integer/then-bilinear scaling approach, but solely as long as it was an **option** besides the totally nonblurry pure integer-ratio scaling with black bars around the image scaled with a largest integer ratio.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-01-09 22:00:23</DATE>
+    <TEXT>Thanks. It probably actually scales, but can #8217;t change position of the game window to guarantee that there is enough space for black bars around the game window. Then running IntegerScaler as administrator should help.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-01-10 00:39:18</DATE>
+    <TEXT>Online again now. It was probably some quick maintenance: it #8217;s night in Moscow, and my hosting provider tends to do maintenance at night instead of day.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-01-10 00:47:54</DATE>
+    <TEXT>Visual quality of nearest neighbour at integer ratios for _antialiased_ 3D and photo content depends on combination of display size, physical resolution, and viewing distance. For example, with 24 #8243; 4K monitor like [Dell P2415Q](http://tanalin.com/en/blog/2015/05/dell-p2415q-review/) at arm #8217;s length, logical pixels are almost indistinguishable at Full HD (1920 #215;1080) resolution, but get quite distinguishable (though still usable/playable) at HD (1280 #215;720) resolution.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-01-10 01:16:28</DATE>
+    <TEXT>Fwiw, IntegerScaler uses exactly nearest neighbour algorithm. Make sure size of your game window (game-rendering area) is equal to ingame resolution. If it #8217;s not, either your game is not DPI-aware (then disable DPI scaling in exe #8217;s properties as I [described](https://www.reddit.com/r/pcgaming/comments/ae1mfz/free_integerscaler_app_for_blurfree_upscaling_of/edn9opk/) above) or the game window has wrong size (due to e.g. manual resizing) (try to switch to a different resolution in game settings and then switch back to the desired resolution again  #8212; maybe the game will resize its window accordingly).</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-01-10 02:20:40</DATE>
+    <TEXT> gt; Faster Than Light. That game is 720p. You can't do integer scaling with that game whatsoever unless your monitor is exactly 1440p. You can use integer ratio with this game with a monitor of any resolution. The [key advantage](http://tanalin.com/en/articles/lossless-scaling/#h-nearest) of nonblurry integer-ratio scaling over regular nearest-neighbour scaling is that ratio is _always_ integer  #8212; _regardless_ of ratio of physical and logical resolutions. The rest screen space is just filled with black. It works like the  #8220;Centered #8221; mode, just with 2 #215;2, 3 #215;3, etc. physical pixels instead of 1 #215;1 physical pixel per logical pixel. For example, 1280 #215;1024 image can be displayed on a 3840 #215;2160 screen with a ratio of 2 by displaying each image pixel as a group of 2 #215;2 physical pixels with black margins of 56 physical pixels above and below, and 640 pixels  #8212; leftward and rightward. Specifically 1280 #215;720 is perfectly (with no black bars) upscaled to 3840 #215;2160 (4K) with a ratio of 3 where each logical pixel is represented as a square of 3 #215;3 same-color physical pixels.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-01-10 02:58:33</DATE>
+    <TEXT>Integer-ratio scaling makes sense with a physical/logical ratio of 2+. It #8217;s unclear why FTL #8217;s authors decided to use 1280 #215;720 resolution instead of the mainstream 1920 #215;1080 or its quarter 960 #215;540. Nearest neighbour at fractional ratios results in image distortion, especially at small ratios below 2. Whether it still looks better than bilinear is a matter of taste. For me, such distortion is unacceptable (for example, lines originally having same width get twice-different width when scaled with a ratio like 1.5 using nearest neighbour) and direct opposite to the IntegerScaler #8217;s purpose.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-01-12 18:30:52</DATE>
+    <TEXT>There is now a freeware alternative  #8212; [IntegerScaler](http://tanalin.com/en/projects/integer-scaler/). [Reddit announcement](https://www.reddit.com/r/pcgaming/comments/ae1mfz/)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-01-13 03:52:14</DATE>
+    <TEXT>[IntegerScaler](http://tanalin.com/en/projects/integer-scaler/) is a free alternative ([Reddit announcement](https://www.reddit.com/r/pcgaming/comments/ae1mfz/)). Note that both apps are mainly aimed at games and simulate full-screen by adding black background around the scaled image when it does not exactly fit the screen. But looks like there is something special in apps like Edge that makes them appearing blurry when magnifying. This takes place regardless whether the built-in Windows Magnifier is used or a third-party application using the same underlying magnification mechanism. There is a probability this is a bug that should be reported to Microsoft.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-01-13 04:20:25</DATE>
+    <TEXT>Consider using a different web browser. For example, [Firefox](https://firefox.com/) and [Opera](https://www.opera.com/) are zoomed by Windows Magnifier with no blur.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-01-13 04:26:17</DATE>
+    <TEXT>You are welcome. Yeah, ratio is calculated automatically just like it would be in proper graphics-driver-level scaling if it was implemented.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-01-13 13:00:21</DATE>
+    <TEXT>I see. Microsoft is going to [switch](https://blogs.windows.com/windowsexperience/2018/12/06/microsoft-edge-making-the-web-better-through-more-open-source-collaboration/) Edge to the Chromium engine in a year or so, so Netflix will probably be forced to change approach to broadcasting accordingly as long as this Netflix limitation is purely technical and not artificial or accidental.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-01-18 17:57:25</DATE>
+    <TEXT>Added this DPI-awareness info to the IntegerScaler webpage too.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-01-18 18:32:20</DATE>
+    <TEXT>Multiple minor improvements. Exact list depends on what your current version is. Compared with the initial 1.0.2, basically these: * fixed possible white line above scaled image in some games at some resolutions; * added higher-resolution icons; * disabled ability to apply scaling to the  #8220;About #8221; window of IntegerScaler itself; * a human-friendly message is now displayed instead of the default system one when trying to run IntegerScaler under unsupported Windows 7 or Vista.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-01-24 16:37:51</DATE>
+    <TEXT>I wonder if this is vapourware like all monitor-size OLED panels were so far.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-02-05 17:45:49</DATE>
+    <TEXT>If the game supports windowed mode, consider using [IntegerScaler](http://tanalin.com/en/projects/integer-scaler/) for scaling FHD to 4K with no blur (freeware, Windows 7+).</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>IntegerScaler 2.0 supports Windows 7</TITLE>
+    <DATE>2019-02-11 03:47:39</DATE>
+    <TEXT>[**IntegerScaler**](http://tanalin.com/en/projects/integer-scaler/) is a #160;_free_ app for upscaling games with _integer ratio_ and _no #160;blur_. Useful for playing modern games at #160;FHD resolution on #160;4K monitors for higher performance, as #160;well as for pixel-art games and retro gaming. Previously ([1.x](https://www.reddit.com/r/pcgaming/comments/ae1mfz/)), only Windows #160;8+ were supported. **Update:** Version 2.4 fixes the #160;bug that caused system mouse pointer (cursor) under Windows #160;7 to #160;be invisible when scaling was turned #160;on. ## What is integer-ratio scaling? Integer-ratio scaling uses _integer_ ratios and allows to #160;play e.g. at #160;FHD resolution on a #160;4K monitor with _no #160;quality loss_, by representing each logical pixel as a #160;square group of #160;2 #215;2 physical pixels of the #160;_same_ color with _no interpixel diffusion_. Such scaling is also known as _pixel-perfect scaling_ and _pixel doubling_. ## Related links * [Live web-demo](http://tanalin.com/_experimentz/demos/non-blurry-scaling/) of #160;what integer-ratio scaling is. * [Nonblurry integer-ratio scaling](http://tanalin.com/en/articles/lossless-scaling/) #160; #8212; article about the #160;blur issue, solutions, progress, and #160;more. * [Petition](https://www.change.org/p/nvidia-amd-nvidia-we-need-integer-scaling-via-graphics-driver) (2000+ votes) for #160;adding nonblurry scaling to #160;graphics drivers. * [Request](https://forums.geforce.com/default/topic/844905) for #160;adding nonblurry integer-ratio upscaling to #160;nVidia graphics driver (67-pages thread).</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-02-11 15:35:11</DATE>
+    <TEXT>For now that #8217;s the only way for the app to work under Windows 7. Could you provide specific examples of games (the more the better), so that I could test? Thanks.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-02-11 15:59:11</DATE>
+    <TEXT>What is the resolution of your monitor? The whole point of the [integer-ratio scaling](http://tanalin.com/en/articles/lossless-scaling/) is that it uses _integer_ ratios. The least integer ratio higher than 1 (100%) is 2 (200%). So the monitor #8217;s native resolution should be at least _twice_ higher than the resolution of the game to scale to take advantage of integer-ratio scaling. For example, with a 4K monitor, possible game resolutions include 1920 #215;1080 (Full HD) (200%) and 1280 #215;720 (HD) (300%).</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-02-11 16:20:17</DATE>
+    <TEXT>So the maximum resolution for integer scaling in your case is 960 #215;540 (qHD) (200%).</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-02-11 16:58:22</DATE>
+    <TEXT>Thanks, did you test IntegerScaler with any of them under Windows 7? I #8217;m able to test  #8220;Civilization 3 #8221; and  #8220;DOTA 2 #8221;. I #8217;m not sure what you mean by _hardware cursor_. Windows-rendered cursor is as _software_ as in-game-rendered one. **Mouse** itself as a hardware device **does** work (games react to it), just cursor (the on-screen arrow/hand/crosshair/etc. that moves when moving mouse) is hidden, and only if it is rendered by Windows and not by the game itself.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-02-11 18:08:27</DATE>
+    <TEXT>IntegerScaler is free.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-02-11 18:13:19</DATE>
+    <TEXT> gt; input lag (and high CPU usage on Windows 7) CPU usage of magnification in Windows 7 is similar to Windows 10. Lag is possible (depends on how Microsoft implemented magnification) but unnoticeable.  gt; "Hardware cursor" means the cursor is drawn every display refresh cycle on top of everything else by the GPU. This generally is invisible to the operating system. I #8217;m not sure we are talking about the same type of cursor. Will return after testing a couple of games. _Update:_ tested  #8220;Civilization III #8221; and  #8220;Dota 2 #8221;. C3 does not support windowed mode at all and so is not a subject for scaling. D2 indeed uses OS-rendered cursor. But looks like the whole cursor issue only takes place at OS-level zoom of lower than 200%, so I decided to enable cursor for OS-level zoom of 200% and higher in IntegerScaler #160;2.1.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-02-11 21:01:16</DATE>
+    <TEXT>Magnification does not involve injecting any code into specific application process. It just scales a specific _area_ of the screen regardless of what windows or their parts the area contains if any. IntegerScaler precisely positions the area-to-scale according to the game-window position, while not affecting the game itself other than centering its window to guarantee there is enough space for black background around the window. If something called EasyAntiCheat treats Windows #8217; built-in magnification as cheating, this is most likely just a bug that should be reported and fixed.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-02-13 19:35:46</DATE>
+    <TEXT>And after 5 years of the 4K monitor era, still no driver support for trivial pixel-perfect nonblurry [integer-ratio scaling](http://tanalin.com/en/articles/lossless-scaling/) (pixel doubling) that would work with ALL games with no need for each game to specifically support it.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-02-14 01:38:49</DATE>
+    <TEXT>I am aware of that app, and I am even the author of a _freeware_ analog  #8212; [IntegerScaler](http://tanalin.com/en/projects/integer-scaler/) which even [supports Windows #160;7](https://www.reddit.com/r/pcgaming/comments/apc6dg/) unlike the commercial one. But both are just stopgap workarounds that only help with games that support _windowed_ mode. Not to mention possible extra lag and issues like no multi-monitor and VRR (FreeSync, G-Sync) support and no ability to work with multiple-window applications with screen visible entirely.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-02-14 01:46:04</DATE>
+    <TEXT>I believe that #8217;s a wrong assumption. GPU vendors just _didn #8217;t care_ while pixel density was low and almost unchanged for many years. The more pixel density is, the better pixel doubling works. With 8K monitors, we will be able to use 4K with no sharpness loss as long as proper nonblurry scaling is implemented, and no one will say single image pixels are noticeable and Nearest Neighbour is bad. Even today with FHD on 24 #8243; 4K monitor, image pixels are almost indistinguishable in antialiased 3D games. Not to mention pixel-art games and retro gaming.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-02-21 03:33:09</DATE>
+    <TEXT>Fwiw, TN+Film-based LCD panels have poor(est) color reproduction compared with IPS and *VA.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-02-22 17:51:07</DATE>
+    <TEXT>Would be interesting if had proper [integer-ratio scaling](https://forums.geforce.com/default/topic/844905).</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-02-24 03:01:49</DATE>
+    <TEXT>Good code is self-documenting and doesn #8217;t typically need many comments. Self-documenting code basically means meaningful names for classes, functions and variables, and functions being relatively small, self-contained and serving a single clear specific purpose. Where to place comments when they are actually needed (e.g. when it #8217;s important to emphasis that an ambiguous operation is intentional) is a matter of taste.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-02-25 14:33:26</DATE>
+    <TEXT>Fwiw, the host seems inaccessible from Russia at least via some internet providers like MGTS.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-02-25 14:42:03</DATE>
+    <TEXT>Wave (`*.wav`) format is *lossless*, MP3 is *lossy* and uses a so called *psychoacoustic* algorithm that provides such huge compression ratio. Other popular *lossless* formats are [FLAC](https://xiph.org/flac/) (`*.flac`) and [Monkey #8217;s Audio](https://monkeysaudio.com/) (`*.ape`), but unlike Wave, they provide some compression (typically 40-70% depending on the material). SoundCloud re-encodes uploaded files anyway. Re-encoding lossy to lossy gives more quality degradation than encoding lossless to lossy, so uploading a lossless file could help increase quality of the SoundCloud-encoded file. Just make sure to disable direct download of the lossless file via track properties on SoundCloud if you don #8217;t intend to make it available for free.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-02-25 15:24:16</DATE>
+    <TEXT>Consider this simple math: 16 bit at 44 100 Hz in stereo (2 channels) gives us 16 * 44 100 * 2 bits per second  #8212; 1 411 200 bits/s = 176400 bytes/s = 10 584 000 bytes/min =~ 10 MB/min.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-02-25 15:30:40</DATE>
+    <TEXT>128-kbps MP3s encoded by SoundCloud have quite low quality with sometimes very noticeable distortions. That #8217;s why I usually upload 192-kbps MP3s and [recommend](https://soundcloud.com/marat-tanalin/curiosity) to listen to the 192-kbps download versions of my tracks instead of listening directly from SoundCloud. Some time ago, I asked SoundCloud #8217;s technical support why they re-encode even those MP3s that _already_ have exactly the same bitrate (128 kbps) they use for online playing, they answered that this allows them to ensure the file is playable in browser.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-01 19:22:37</DATE>
+    <TEXT>An [archived copy](https://web.archive.org/web/20190301191722/https://svartalf.info/posts/2019-03-01-exposing-ffi-from-the-rust-library/) available from Russia.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-02 19:34:46</DATE>
+    <TEXT>Fixed in IntegerScaler 2.4+.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-04 10:38:35</DATE>
+    <TEXT>That would be nice. Or at least a way to move the `.vs` folder to another location such as RAM drive, so that it wouldn #8217;t waste SSD space and wear SSD out.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-04 10:40:38</DATE>
+    <TEXT>Looks like you #8217;ve created two duplicate threads with a different content. [The second one](https://www.reddit.com/r/VisualStudio/comments/ax5jm0/).</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-12 18:59:18</DATE>
+    <TEXT>* [Live demo](http://tanalin.com/_experimentz/demos/non-blurry-scaling/) * [Explainer article](http://tanalin.com/en/articles/lossless-scaling/)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-12 19:00:29</DATE>
+    <TEXT>[Article](http://tanalin.com/en/articles/lossless-scaling/)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-13 17:53:14</DATE>
+    <TEXT> gt; Windows XP targeting will no longer be available for the latest C++ toolset. XP targeting with VS 2017-level MSVC compiler  amp; libraries is still supported and can be installed via "Individual components".</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-16 20:03:33</DATE>
+    <TEXT>Looks not that breaking except for the oversimplified (isn #8217;t the IDE for developers who are advanced users by nature?) [start window](https://developercommunity.visualstudio.com/idea/434456/start-page-please-give-it-back.html) that seems (based on the info in the article) to make it impossible to change e.g. the IDE settings without opening a project. Hopefully this is disableable without extensions. Another hope is that Visual Studio 2017 could be installed and working side by side with Visual Studio 2019, as opposed to the breakage happened with e.g. VS 2015 after installing VS 2017.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-17 03:46:15</DATE>
+    <TEXT> gt; There's a "Continue without code" link on the new start window. Thanks. Though can #8217;t see the  #8220;Continue without code #8221; link on the (cropped?) [screenshot](https://visualstudioaddins.files.wordpress.com/2019/03/start-window-2.png) from the article.  gt; You can run 2017  amp; 2019 side by side no problem. Nice, hopefully this will still be true for the upcoming final version of VS 2019.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-17 13:41:42</DATE>
+    <TEXT>My VS 2015 was broken when I installed VS 2017. Maybe this is specific to the Community Edition. Btw, how to install a previous-generation VS version when a new-generation one is released? For example, once VS 2019 is released, the web installer will most likely solely allow to install the latest VS 2019 and not the previous VS 2017.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-17 13:45:00</DATE>
+    <TEXT>Thanks. Too bad the  #8220;Continue without code #8221; button is pure-text and small, it would be more usable if it was bigger and more button-like  #8212; just like other buttons in the window. So now we have two usability issues: an extra click due to the start window itself, and the small button in it to open VS without code.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-18 18:20:36</DATE>
+    <TEXT>Great, thanks. The important detail is that access to older downloads is unavailable by default, and it #8217;s required first to log-in and join so called Visual Studio Dev Essentials by pressing a not-so-noticeable button at the top right of the  #8220;[Subscriptions](https://my.visualstudio.com/subscriptions) #8221; page. Then previous VS versions get available in two variants: a small (1 MB) exe file (apparently a web installer, selected by default) and a full-size DVD (*.iso) image (e.g. 7.1 GB for VS 2015 with Update 3).</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-19 20:28:08</DATE>
+    <TEXT>Fwiw, a 4K _OLED_ monitor  #8212; [Asus PQ22UC](https://www.asus.com/Monitors/PQ22UC/)  #8212; is going to hit the market this year if it #8217;s not vapourware. It #8217;s just 21.6 #8243;, but it #8217;s OLED.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-21 19:45:13</DATE>
+    <TEXT>The post could be more useful if you provided the exact actions you took and links to sources helped you with configuring Cemu. ;-)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-21 21:25:25</DATE>
+    <TEXT>It #8217;s up to you whether to provide specific details of your experience, but they would potentially be useful for many of Cemu users. I wouldn #8217;t expect that Cemu settings (except for obvious things like using a lower resolution and disabling AA) could result in a _considerable_ difference in performance, but who knows. ;-)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-22 01:00:39</DATE>
+    <TEXT>Nostalgia is a #160;great thing. Though while  #8220;Donkey Kong Country #8221; games on #160;Wii ( #8220;DKC Returns #8221;) and Wii #160;U ( #8220;DKC Returns Tropical Freeze #8221;) are fun in #160;general, their atmosphere is totally different from the atmosphere of the original atmosphere the #160;DKC series on #160;SNES #160;had. What I would love to #160;get is a #160;remastered version of the original  #8220;Donkey Kong Country #8221; (and probably  #8220;DKC #160;2 #8221;) with exactly the #160;same levels and exactly the #160;same music, just with higher-resolution graphics (preferably still prerendered sprite-based) and CD-quality music. That would be fantastic.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-22 01:05:04</DATE>
+    <TEXT>Not sure about C# in Visual Studio, but `Escape` usually helps to close the just-opened code-completion popup in other IDEs.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-23 15:39:41</DATE>
+    <TEXT>I #8217;m waiting for new 7-nm GPUs with TDP below 150 W (preferably below 100 W) and would buy one once integer-ratio (integer, pixel-perfect) scaling with no blur is implemented in the AMD graphics driver.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-23 19:50:57</DATE>
+    <TEXT>Does the new Intel Graphics Command Center support integer-ratio (pixel-perfect) scaling with no blur?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>nVidia: No plans to support integer-ratio scaling with no blur</TITLE>
+    <DATE>2019-03-25 16:08:41</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-25 16:13:25</DATE>
+    <TEXT>* [Live demo](http://tanalin.com/_experimentz/demos/non-blurry-scaling/) of integer-ratio scaling * [Explainer article](http://tanalin.com/en/articles/lossless-scaling/)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-25 16:34:16</DATE>
+    <TEXT>Not sure what #8217;s the subject of your exclamation. Could you be more specific?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-25 16:42:49</DATE>
+    <TEXT> gt; the blur, I dunno how to get rid of it from games and you propose they add more of it On the contrary, I propose to _get rid_ of blur when it #8217;s possible (at integer scaling ratios). So looks like both you and me want the same. What exactly was unclear to you?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-25 16:50:15</DATE>
+    <TEXT>Please see the  #8220;[Why it #8217;s important](http://tanalin.com/en/articles/lossless-scaling/#h-why) #8221; and  #8220;[Faster GPU is not a #160;solution](http://tanalin.com/en/articles/lossless-scaling/#h-performance) #8221; sections of the explainer article.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-25 17:24:20</DATE>
+    <TEXT>Then you are probably happier than those who sees the point and the difference. ;-) Are you a 4K-monitor owner?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-25 18:08:56</DATE>
+    <TEXT>Do you always play at your monitor #8217;s native resolution? What is the resolution of your monitor?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-25 18:39:16</DATE>
+    <TEXT>So feel free to continue playing all games at native resolution and please stop spamming the thread dedicated to the feature you don #8217;t care or have no clue about. Best regards.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-25 22:57:10</DATE>
+    <TEXT>There is a free analog based on exactly the same magnification mechanism  #8212; [IntegerScaler](http://tanalin.com/en/projects/integer-scaler/). I am the author of it. And unlike the commercial Windows #160;8+ app, it [supports Windows #160;7](https://www.reddit.com/r/pcgaming/comments/apc6dg/). Unfortunately the magnification approach is a stopgap anyway since it is limited to games supporting _windowed_ mode and also potentially introduces an extra lag. Some games may also be somewhat jerky when using magnification. Windows itself and multi-window applications cannot be used with no blur at all at lower-than-physical resolution.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-25 23:33:31</DATE>
+    <TEXT>Looks like these screenshots are from Cemu. Fortunately Cemu 1.15.2+ has built-in support for nearest-neighbour scaling: Options  #8594; General settings  #8594; Graphics  #8594; Upscale filter / Downscale filter  #8594; Nearest Neighbor. A custom resolution can be set on per-game basis via graphic packs: Options  #8594; Graphic packs. And given that Cemu is not DPI-aware, make sure to disable DPI scaling in its executable-file properties: * Windows #160;10:  #8220;Properties #8221;  #8594;  #8220;Compatibility #8221;  #8594;  #8220;Settings #8221;  #8594;  #8220;Change high DPI settings #8221;  #8594;  #8220;High DPI scaling override #8221;  #8594;  #8220;Override high DPI scaling behavior. Scaling performed by #8221;  #8594;  #8220;Application #8221;; * Windows #160;7:  #8220;Properties #8221;  #8594;  #8220;Compatibility #8221;  #8594;  #8220;Settings #8221;  #8594;  #8220;Disable display scaling on high DPI settings #8221;.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-26 04:27:07</DATE>
+    <TEXT>There are two main usecases when blur is undesirable: * FHD resolution on 4K monitor where single image pixel (2 #215;2 physical pixels) is almost indistinguishable (and 4K resolution on future 8K monitors where image pixel will be totally indistinguishable). Probably only owners of 4K monitors who use them at OS-level zoom of 200% are able to see and understand that; * pixel-art games where maintaining pixelated nature of the image as intended by the game authors is important. In other cases (e.g. non-pixel-art old games), some people could like blur while others could dislike it. It #8217;s OK as long as both user groups are free to choose what they want. I call it being _able_ instead of being _forced_. Currently we are _forced_ to have blur _always_  #8212; even when it could be avoided.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-26 15:48:25</DATE>
+    <TEXT>Afaik, it #8217;s still a rare feature even in TVs. Heard before about its [support](http://tanalin.com/en/articles/lossless-scaling/#h-partial-tv) in some of Panasonic and Sony 4K TV models. Do I understand correctly that your LG TV is 4K and it upscales with no blur not just FHD (1920 #215;1080, 2x), but also HD (1280 #215;720, 3x)? How does it upscale a lower, non-multiple and non-16:9 resolution like 640 #215;480  #8212; are there black bars to maintain integer scaling ratio, or is nonblurry scaling used just for the two specific resolutions (HD and FHD)? For example, with true integer-ratio scaling, at 640 #215;480 on a 4K display, black bars should be not just at the left/right, but also _above_ and _below_ the 4x upscaled image because `2160 / 480 = 4.5` which is fractional. Could you specify the exact model of your TV and the corresponding menu option to enable nonblurry upscaling? Thanks.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-26 21:03:38</DATE>
+    <TEXT>[IntegerScaler](http://tanalin.com/en/projects/integer-scaler/) is a free analog that supports Windows #160;7+. But both are solely for _windowed_ games and can #8217;t help with _full-screen_ games.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-26 21:09:07</DATE>
+    <TEXT>While nVidia is in fact _unable_ to implement the feature, AMD does _not doubt_ it #8217;s possible (otherwise they wouldn #8217;t include it in the poll) and are just trying to _prioritize_. It #8217;s a good and obvious opportunity for AMD to get a competitive advantage.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-26 21:44:46</DATE>
+    <TEXT>They later [said](https://forums.geforce.com/default/topic/1103382/-/-/post/6018036#6018036) they  #8220;have not found a way that won #8217;t require ongoing continuous support #8221;. Whatever that means, AMD would unlikely include in a poll a feature they chose not to implement or had difficulties with implementing. The different GPU vendor, the different hardware and driver architecture, the different possibilities.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-26 21:55:20</DATE>
+    <TEXT>If you mean Desktop Window Manager, I believe it has nothing to do with true (exclusive) full-screen scaling (not to confuse with so called _borderless_ pseudo-full-screen windowed mode) that full-screen-scaling feature on graphics-driver level is about.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-27 00:25:57</DATE>
+    <TEXT> gt; Sadder yet is that Nvidia on Linux actually does have this functionality Development versions of XRandR in Linux have a [GPU-independent support](http://tanalin.com/en/articles/lossless-scaling/#h-progress-linux) for nonblurry scaling via the `nearest` filter. Compatibility and limitations are basically the same as with the nVidia transform-filter feature though: only _windowed_ and _pseudo-full-screen_ (borderless) games and no true (exclusive) full-screen support.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-27 00:37:07</DATE>
+    <TEXT>The maximum ratio for QHD (2560 #215;1440) on a 4K monitor is 1x (100%) which is equivalent to the existing  #8220;Center #8221; ( #8220;No #160;scaling #8221;) mode with thick black bars around the image. On future 8K monitors, it could be possible to use with no blur any of typical resolutions: HD, FHD, QHD, 4K, as long as nonblurry scaling is implemented. The maximum resolution corresponding to an integer ratio (2x, 200%) on a 4K monitor is Full #160;HD (1920 #215;1080). And yes, proper scaling would allow to play 3D games at FHD resolution on 4K monitors with no quality loss compared with _physical_ FHD resolution.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-27 00:45:20</DATE>
+    <TEXT>nVidia-GPU upscaling is _blurrier_ than monitor-powered upscaling at least in case of the [Dell P2415Q](http://tanalin.com/en/blog/2015/05/dell-p2415q-review/#h-hardware-scaling) 4K monitor.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-27 03:39:29</DATE>
+    <TEXT> gt; Lol. How old are you? It #8217;s easy to determine how old I am. But  #8220;lol #8221; says enough about how old _you_ are. ;-) But let #8217;s not go this dead-end way here.  gt; Just so you know, they're saying that if they were to implement it. I have no idea how to interpret this sentence, it looks incomplete to me. (Fwiw, I #8217;m not a native English speaker.)  gt; They would have to make sure it works on every system, and fix any incompatibility issues with all software. Why should different type of full-screen scaling have any incompatibility with software if full-screen scaling is, by nature, _transparent_ to OS and applications  #8212; applications know nothing about whether they are scaled by GPU or by monitor, and what type of interpolation GPU uses if GPU scaling is enabled.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-27 03:43:42</DATE>
+    <TEXT>So (if I understand you correctly), as I expected, DWM has nothing to do with full-screen scaling. So your comment is probably for st0neh, not me.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-27 20:52:16</DATE>
+    <TEXT> gt; There's a better option out there than integer scaling, and it's games rendering at resolutions different to the display resolution. Keeps text pristine, and everything else both pretty and reasonably good despite scaling. If you mean that user interface is rendered at native resolution while the 3D scene below is rendered at a lower resolution, this is not actually a much better option than integer-ratio scaling because the main part of the game  #8212; 3D scene  #8212; is still blurry even at integer ratios.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-28 05:38:41</DATE>
+    <TEXT>Could you specify the exact model name of your LG TV? Thanks.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-28 17:05:57</DATE>
+    <TEXT>No problem. Do I understand correctly that your TV has _Full #160;HD_ (1920 #215;1080) physical resolution?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-29 11:40:36</DATE>
+    <TEXT>Looks like a nice emulator. There are two issues though after short testing of the Windows version: * Can #8217;t redefine gamepad buttons (e.g. for creating a SNES-like layout for MK3 so that high kick wouldn #8217;t be binded to left shift used to block on SNES). The  #8220;Key bindings #8221; settings section shows _keyboard_ keys instead of _gamepad_ buttons and does not react to pressing gamepad buttons when trying to redefine any of buttons. And the emulator even hanged and then closed itself (crashed?) after several seconds when I just pressed `Escape` to cancel redefining a button. It would also be nice to have a more Windows-like user interface resized more predictably and not cropped when resizing window. * Looks like there is no support for nonblurry [integer-ratio scaling](http://tanalin.com/en/articles/lossless-scaling/) unlike e.g. higan, bsnes, Snes9x and RetroArch. Do you plan to implement it? Thanks.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-29 12:46:57</DATE>
+    <TEXT>There is probably some incompatibility of Reaper with the WASAPI ASIO wrapper driver from FL Studio. Reaper has its own built-in analog: Preferences #160; #8594; Audio #160; #8594; Device #160; #8594; WASAPI. If you are unable even to start Reaper to change its settings, uninstaling FL Studio temporarily would probably reset Reaper #8217;s ASIO driver setting and allow you to start it and choose another ASIO driver (native ASIO driver of your sound card is recommended if the card has ASIO support).</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-30 01:55:46</DATE>
+    <TEXT>IntegerScaler is not just for 4K displays. It works with lower-resolution displays as well. What depends on native display resolution is how thick (if any) black bars around the scaled image are. For example, 320 #215;240 perfectly fits 4K height (`2160/240 = 9`), so there are no black bars above and below the scaled image, only at the left/right (just due to different aspect ratios of the image and the display). On a Full HD display, the highest integer ratio for the same 320 #215;240 image is 4 (`1080/240 = 4.5`), while the rest 0.5 (60+60 pixels above and below) is filled with black like in centered mode.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-30 20:09:19</DATE>
+    <TEXT> gt; Use the controllers section for binding gamepad buttons. When in the window  #8220;Settings #8221;  #8594;  #8220;Controller #8221;  #8594;  #8220;XInput Controller #8221;, I press a window button like  #8220;Pad A #8221; or  #8220;Pad X #8221;, another window opens where there are such sections as  #8220;Controller Buttons #8221;,  #8220;System Buttons #8221;, etc. Before, I thought nothing happened (I was just returned to previous screen) when I pressed the window buttons in the  #8220;Controller Buttons #8221; section, but now I figured out I should choose a my-gamepad button that should bind to a corresponding console button. But looks like this does not work either: e.g. I binded console-gamepad #8217;s `Y` and `X` buttons to my-gamepad #8217;s `RB` and `LB` buttons correspondingly, but in MK3 the `LB` button still does a high kick (instead of expected block) and `RB` does a low kick (instead of expected run), so the game is unplayable.  gt; I can't promise a more Windows-like UI, but you're right that the resizing is pretty janky right now. Even an emulator with highest emulation accuracy and quality cannot be used if it doesn #8217;t have a usable user interface. And given that I wasn #8217;t even able to rebind buttons, the current interface unfortunately looks like not quite intuitive. :-( But it could. ;-)  gt; If you instead mean an option to force only an integer ratio for the output video (i.e. only scale 4x for 1080p instead of 4.5) Exactly. Integer-ratio scaling is not just about pixelation (otherwise Nearest Neighbour would be enough, but it causes distortion at fractional ratios). When using integer-ratio scaling, each logical pixel is represented by a group of _integer_ number of pixels of the _same_ color with _no_ interpixel diffusion/blur, and the resulting scaled image is centered on the screen with filling the rest screen space with black. Resulting pixel groups are square in general (2 #215;2, 3 #215;3, etc.) and rectangular (e.g. 4 #215;5 in case of vertical stretching or 5:4 with horizontal stretching) if aspect-ratio correction is needed (e.g. DOS games with resolution of 320 #215;200 are usually stretched to 320 #215;240 to achieve the aspect ratio of 4:3). higan, bsnes, Snes9x and RetroArch do support integer-ratio scaling. If something is still unclear, please see my comprehensive [article](http://tanalin.com/en/articles/lossless-scaling/) about integer-ratio scaling. Fwiw, it is also available in [Russian](http://tanalin.com/articles/lossless-scaling/). Best regards.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-30 21:47:01</DATE>
+    <TEXT> gt; Now i #180;m using the realtek asio driver. Is this the right one? If your Behringer UMC22 had native ASIO support, it would make sense to use its ASIO driver. Native ASIO driver typically provides much lower latency (faster response) than any ASIO wrapper based on WASAPI (Windows Vista+) or Kernel Streaming (Windows #160;XP). But based on information in internet, looks like UMC22 is a low-end device with no ASIO support. So an ASIO wrapper is probably the only option in your case. So choose the  #8220;WASAPI #8221; in  #8220;Preferences  #8594; Audio  #8594; Device #8221;, and your audio output (probably UMC22 #8217;s one since it #8217;s probably more quality anyway than a motherboard-integrated Realtek one) in the  #8220;Output device #8221; dropdown in the same settings #8217; section.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-31 02:02:46</DATE>
+    <TEXT>I wonder whether it #8217;s truth that it #8217;ll output HD (1280 #215;720) like SNES Mini instead of #160;Full #160;HD (1920 #215;1080), so the image will be _blurry anyway_ even if blur will be _disabled_ via the console settings. Haven #8217;t found official specs. And 3-button gamepads are impressive. I bet Mortal Kombat games are not among those  #8220;40 legendary games #8221;. _Update:_ Looks like [Mega Drive Mini](https://sega.jp/mdmini/feature.html) (japanese) ([english translation](https://translate.google.com/translate?hl= amp;sl=ja amp;tl=en amp;u=https%3A%2F%2Fsega.jp%2Fmdmini%2Ffeature.html)), unlike Genesis Mini, will have 6-button gamepads.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-31 16:17:03</DATE>
+    <TEXT>`1080 / 720 = 1.5` `1920 / 1280 = 1.5`</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-31 16:29:40</DATE>
+    <TEXT>ASIO driver (required for DAW software for Windows) may be _native_ or _emulated_ via a so called _wrapper_ that actually works on top of the Windows standard low-latency (but not as low-latency as native ASIO) API called WASAPI (Vista+) or Kernel Streaming (KS). Native ASIO driver is typically available for professional or semiprofessional sound devices like `ESI Juli@`. ASIO wrappers are a better-than-nothing workaround for consumer devices with no native ASIO support  #8212; e.g. Realtek audio built into motherboard. I #8217;m not sure what the ASIO driver you are talking about is. I suspect it is a wrapper  #8212; either a third-party one like ASIO4ALL or the one built into Reaper that works over WASAPI or KS. Anyway, if the current ASIO driver works fine for you, no problem  #8212; just use it. Good luck.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-04-02 13:57:44</DATE>
+    <TEXT>Indeed, built-in scaling is more convenient than scaling via third-party tools. But games wouldn #8217;t be forced to implement nonblurry scaling if graphics drivers did support it. Consider signing the [petition](https://www.change.org/p/nvidia-amd-nvidia-we-need-integer-scaling-via-graphics-driver) to AMD and nVidia, and [voting](https://feedback.amd.com/se/5A1E27D211FADB79) for adding the  #8220;GPU Integer scaling support #8221; feature to AMD driver. For more info about the blur issue, partial solutions, and progress, see the  #8220;[Nonblurry integer-ratio scaling](http://tanalin.com/en/articles/lossless-scaling/) #8221; article.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-04-05 22:24:13</DATE>
+    <TEXT>I would also recommend to learn at least basics of web graphics formats, so that you didn #8217;t use JPEG for line-art images anymore. ;-)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-04-06 23:04:27</DATE>
+    <TEXT>Why should the TV be turned on during those breaks? Is duration of such breaks unpredictable?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-04-07 06:27:53</DATE>
+    <TEXT>Does this TV have a mode for pixel-perfect nonblurry upscaling of Full HD to 4K by representing FHD pixel as a square of 2 #215;2 same-color physical 4K pixels? Like the  #8220;1080p Pixel by #160;4 #160;pixels #8221; option in some of Panasonic 4K TVs. Thanks.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-04-07 19:42:11</DATE>
+    <TEXT>A pointless annoying requirement btw.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-04-09 23:54:13</DATE>
+    <TEXT>Thank you for HiDPI support. Much more usable with 4K monitor at 200% now. Fwiw, there is a small bug: contents of settings #8217; tabs are overlapping the tab bar ([screenshot](http://tanalin.com/_experimentz/bugs/bsnes/hidpi/107.1-settings-overlap.png)).</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-04-10 05:09:42</DATE>
+    <TEXT>Based on my experience, `GetDeviceCaps(hdc, LOGPIXELSX)` works (and should work like any Windows API function just thanks to backward compatibility) consistently across Windows Vista+ versions including Windows 10. What Windows 8.1+ adds is Per-Monitor DPI Awareness and corresponding things like the `WM_DPICHANGED` event and the `GetDpiForMonitor()` function, but those are optional and should not affect DPI-aware apps written for Windows 7-8. I #8217;m not sure what 40% increments you are talking about. Even Windows 7 allows to set any zoom up to at least 200% with a step of 1% (e.g. 189%). The issue is unlikely related to API difference. Maybe a rounding error. Note that declaring an application as Per-Monitor DPI-Aware (`
+    dpiAwareTrue/PM/dpiAware`) solely makes sense if the application _really handles_ the `WM_DPICHANGED` event and updates its GUI accordingly. If not, it #8217;s better to use the regular DPI-awareness declaration: `
+    dpiAwaretrue/dpiAware`. This would also rule out theoretically possible (though still unlikely) weirdness caused by Windows believing the app is really Per-Monitor DPI-Aware. Good luck.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-04-10 18:16:06</DATE>
+    <TEXT>There is the same overlapping in bsnes settings under Windows #160;7 too ([screenshot](http://tanalin.com/_experimentz/bugs/bsnes/hidpi/107.1-settings-overlap-w7.png)). The vertical shift is slightly smaller, but this is possible just due differences in visual styles between W7 (3D) and W8+ (flat). The bug is apparently _not_ specific to Windows #160;8.1+. I #8217;m still not sure what the scale the `GetScaleFactorForMonitor()` returns, but I believe it #8217;s **not** meant to be used for determining DPI when programming DPI-aware applications. Fwiw (irrespective to the bsnes overlapping bug), Windows 10 applies zoom immediately (Windows 7 did require log-off/log-on) and does this differently for regular DPI-aware apps (they are scaled as _bitmap image_ until log-off/log-on) and Per-Monitor DPI-aware apps (not scaled, but sent with the `WM_DPICHANGED` event so that the app could scale itself). If an app does not handle the `WM_DPICHANGED` event, it should not be declared as Per-Monitor DPI-aware and should be declared as regular DPI-aware (`
+    dpiAwaretrue/dpiAware`), otherwise its size will be incorrect until log-off/log-on.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-04-11 15:51:55</DATE>
+    <TEXT>nVidia, what about [integer-ratio scaling](http://tanalin.com/en/articles/lossless-scaling/) with no blur we #8217;re waiting for for [4 #160;years](https://forums.geforce.com/default/topic/844905) already? What #8217;s the exact reason why nVidia has [no plans](https://www.reddit.com/r/nvidia/comments/b5ck4p/) to implement it, more specific than  #8220;ongoing continuous support #8221;?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-04-11 18:36:48</DATE>
+    <TEXT>The thread is about the new driver where the feature is missing. That #8217;s an issue with this version. Or maybe the driver has the feature and I just missed it? How to enable it? Or how to enable DSR ratios below 1.0?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-04-13 21:59:33</DATE>
+    <TEXT> gt; 1080p scales to 4k by multiplying by 4. Unfortunately only in theory. In practice, all monitors currently add blur regardless of whether the scaling ratio is integer or fractional. So even FHD on a 4K monitor is blurry.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-04-13 22:06:57</DATE>
+    <TEXT>Computers and monitors are not just for games. 4K (as long as it #8217;s a HiDPI monitor used at OS-level zoom of 200%) is excellent for _text_-related work, including _programming_, _web development_ and _web surfing_. 4K monitors are also much less affected by a special type of flickering most likely caused by so called [crystal inversion](http://www.techmind.org/lcd/#inversion).</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-04-13 22:21:47</DATE>
+    <TEXT>I personally use [Dell P2415Q](http://tanalin.com/en/blog/2015/05/dell-p2415q-review/) for 4 #160;years, but when buying a #160;new modern monitor, I would be focused on monitors based on an IPS panel that provides good color reproduction (unlike *VA and moreover TN) and with support for FreeSync with a reasonably _wide range of refresh rates_. There are monitors that are _formally_ FreeSync-compatible, but actually support a _narrow_ refresh-rate range of e.g. 56 #8211;60 #160;Hz which is almost useless and pretty equivalent to lack of FreeSync support. It also makes sense to test the monitor when buying to make sure it has uniform backlighting, no dead pixels and no other possible defects.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-04-13 22:23:47</DATE>
+    <TEXT>Monitors and graphics drivers blindly apply bilinear filtering in all cases regardless of scaling ratio, trivial math, and common sense. Some relevant links: * [Explainer article](http://tanalin.com/en/articles/lossless-scaling/) * [Petition](https://www.change.org/p/nvidia-amd-nvidia-we-need-integer-scaling-via-graphics-driver) (2200 votes) * [GeForce thread](https://forums.geforce.com/default/topic/844905) (4 years, 80 pages, 1200 comments)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-04-14 21:49:50</DATE>
+    <TEXT>8K will cover even more typical resolutions as long as lossless integer-ratio scaling is available: HD (1280 #215;720, 6x), FHD (1920 #215;1080, 4x), QHD (2560 #215;1440, 3x), 4K (3840 #215;2160, 2x).</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-04-15 00:02:14</DATE>
+    <TEXT>On the contrary, exactly when pixel density is high enough (2x+) for individual image/signal pixels to #160;be indistinguishable, blur is unneeded and just decreases sharpness. And even if in the  #8220;4K #160;signal on a #160;8K monitor #8221; case (as long as the 8K monitor has 4x pixel density), sharpness decrease was not be too noticeable (though I believe it _will_ be noticeable enough, especially for perfectionists), the #160;cases with lower signal resolutions would still be important, and the number of typical resolutions that could be upscaled with no loss would be greater than with 4K monitors.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-04-15 17:14:10</DATE>
+    <TEXT>Streaming services typically provide lower bitrate and therefore lower quality than Blu-ray.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-04-15 19:33:08</DATE>
+    <TEXT>IIRC, Wii savestates (those saved at arbitrary moment, not legit in-game ones) in Dolphin were ~50 MB in size. I wonder why Wii U savestates should be that larger.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-04-15 23:34:19</DATE>
+    <TEXT>Good point. I #8217;m still surprised though, that graphics in Wii U #8217;s  #8220;DKCR Tropical Freeze #8221; is almost the same in general (except for probably higher resolution on the hardware console) as in Wii #8217;s  #8220;DKCR #8221;.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-04-23 15:38:09</DATE>
+    <TEXT> gt; Ctrl+C+V to duplicate the current line `Ctrl+D` works too and is also supported by other IDEs like those by JetBrains.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-04-23 18:07:50</DATE>
+    <TEXT>Related links: * [Explainer article](http://tanalin.com/en/articles/lossless-scaling/) * [Live demo](http://tanalin.com/_experimentz/demos/non-blurry-scaling/) * [Petition](https://www.change.org/p/nvidia-amd-nvidia-we-need-integer-scaling-via-graphics-driver) (2200+ votes)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-04-23 18:16:54</DATE>
+    <TEXT>Unfortunately **all computer monitors and GPUs** add blur regardless of whether upscaling ratio is integer or fractional. Most of 4K TVs add blur too. _Some_ of Panasonic 4K TVs support a single special case  #8212; FHD-to-4K  #8212; via the  #8220;1080p Pixel by #160;4 #160;pixels #8221; option. Some of Sony 4K TVs reportedly support a similar feature in the  #8220;Graphics #8221; mode (no exact info on what resolutions this is supported at, but most likely only FHD too).</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-04-23 18:26:17</DATE>
+    <TEXT>Because it #8217;s easier not to think than to think, and to blindly do the same thing in all cases than to do different things in different cases even if it would be trivial. Some programmers are too lazy to be smart enough. Even worse, scalers (scaler boards) are typically produced by third-party companies, not by monitor manufacturers themselves. This inevitably leads to some communication and coordination issues. I tried to contact Realtek twice (their scalers are used e.g. in BenQ monitors), they didn #8217;t even reply both times.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-04-23 18:32:43</DATE>
+    <TEXT>Unhelpful theoretical purity. Nonblurry integer-ratio scaling should be an _option_ anyway, so those who like blur (or in those cases where it #8217;s more appropriate) could keep using the current scaling algorithm.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-04-23 19:21:03</DATE>
+    <TEXT>Consider using Markdown instead of providing links as plain text. It #8217;s really simple: * just wrap the text-to-be-clickable in square brackets `[]` and put the URL between parentheses `()` right after the closing square bracket `]`: `[example link](https://example.com/)`; * bulleted list items are created by adding `*` to the beginning of each item. It #8217;s also important that the demo is _live_ and available immediately, not just a static image or something that would need to be downloaded before use.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-04-27 19:37:51</DATE>
+    <TEXT>Try to check your drive for file-system errors.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-04-29 11:16:26</DATE>
+    <TEXT>Fwiw, the poll options are _shuffled_ each time the poll page is loaded. A screenshot has been provided in a [comment](https://forums.geforce.com/default/topic/844905/-/-/post/6019070#6019070) in the nVidia thread about integer-ratio scaling.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-04-29 11:18:10</DATE>
+    <TEXT>That #8217;s a limitation of magnification in Windows. Windows doesn #8217;t have access to the displayed image in exclusive full-screen mode.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-05-06 19:10:25</DATE>
+    <TEXT>Make sure the resolution chosen in OS display settings is equal to the native (physical) resolution of your monitor.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-05-06 19:16:49</DATE>
+    <TEXT>That might depend on how resolution scaling is implemented in the specific game (e.g. Unreal Engine 4 supports nonblurry scaling, but most of UE4-based games don #8217;t use this feature), but typically there is [blur](http://tanalin.com/en/articles/lossless-scaling/) even if upscaling ratio is integer such as 2.0 in the FHD-to-4K case. And there is blur _always_ if a generic resolution setting is used instead of the resolution scaling feature built into some modern games. So FHD on a 4K monitor typically looks worse than on a native-FHD monitor. A software scaler like [IntegerScaler](http://tanalin.com/en/projects/integer-scaler/) may help with games that support windowed mode.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-05-08 21:58:52</DATE>
+    <TEXT>You can #8217;t style a _tag_. Tags (opening like `
+    p` and closing like `/p`) solely exist in HTML code, but not in the resulting DOM tree. What styles are applied to is an _element_. P.S. The only thing more sad than the number of those who don #8217;t know the truth is the number of those who don #8217;t even _want_ to know the truth. Good luck in **styling the closing `` tag**, friends. ;-)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-05-08 22:26:39</DATE>
+    <TEXT>What I mean is what I already said. ;-) [Further reading](https://www.456bereastreet.com/archive/200508/html_tags_vs_elements_vs_attributes/)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-05-16 15:47:01</DATE>
+    <TEXT> gt; some applications will be blurry when scaled But other apps are not, so higher DPI increases sharpness and readability in such apps. Also, some apps can be made looking almost DPI-aware using the  #8220;System (Enhanced) #8221; DPI-scaling mode available per application (via executable-file properties) in Windows 10. I would recommend a 4K monitor with 2x pixel density for use at OS-level zoom of 200%  #8212; e.g. 24 #8243; [Dell P2415Q](http://tanalin.com/en/blog/2015/05/dell-p2415q-review/). The integer scaling ratio results in nonblurry (pixelized) upscaling of even those apps that the  #8220;System (Enhanced) #8221; DPI-scaling mode can #8217;t help with.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-05-16 15:55:40</DATE>
+    <TEXT>Try to use lower bit depth and sample rate.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-05-16 17:48:46</DATE>
+    <TEXT>With DPI-aware apps, a higher-DPI monitor provides better clarity and higher sharpness. Regular low-resolution monitors like FHD@24 #8243; have horrible quality of text and curves. With non-DPI-aware apps, there are two options: *  #8220;System (Enhanced) #8221; DPI-scaling mode in Windows #160;10 for making the app almost DPI-aware; * _pixelized_ upscaling at _integer_ scaling ratios (2.0 in case of 4K at 200%) instead of _blurry_ upscaling at _fractional_ ratios like 1.25 (125%) for those apps the  #8220;System (Enhanced) #8221; option can #8217;t help with. Also, higher DPI in general makes [crystal-inversion](http://www.techmind.org/lcd/#inversion) flickering much less noticeable.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-05-16 23:32:34</DATE>
+    <TEXT>Yeah, I #8217;m somewhat [aware](http://tanalin.com/en/articles/lossless-scaling/). ;-) No monitors support integer-ratio scaling with no blur, and only some Panasonic and Sony 4K TVs support it for FHD-to-4K case. But we are talking here about scaling old _non-DPI-aware_ applications, not about full-screen games running at non-native resolution.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-05-17 14:31:36</DATE>
+    <TEXT>Some repositories provide ready-to-use distros in a tab like  #8220;5 releases #8221; in their navigation to the right of such tabs as  #8220;123 commits #8221; and  #8220;42 branches #8221;. For example, [Snes9x releases](https://github.com/snes9xgit/snes9x/releases).</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-05-17 18:02:25</DATE>
+    <TEXT>There is a [cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf) on Education.GitHub.com, but you have probably already seen it.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-06-02 19:21:12</DATE>
+    <TEXT>I #8217;m not sure what you mean. Could you rephrase and/or provide a screenshot? What is your browser? Do you use any extensions (addons) that modify webpages? Did you try with no addons? Did you try a different browser?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-06-02 20:05:56</DATE>
+    <TEXT>I suspect something inserts an element into the beginning of the page, so you see the result of the protection I use against proxies/anonymizers which typically insert a panel. A third-party element (typically advertisement) may also be inserted when using free internet access. So either use a different browser (e.g. if you are on Windows, a built-in browser like Internet Explorer or Edge is usually installed by default) or try with a non-free internet provider that does not modify HTML pages.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-06-02 20:27:39</DATE>
+    <TEXT>Note that the page contains information important for using IntegerScaler successfully. Fwiw, you can see the semantic page contents with default browser styling by temporarily disabling styles in your browser: e.g. in Firefox, via the  #8220;View #8221;  #8594;  #8220;Page style #8221;  #8594;  #8220;No style #8221; item in the main menu that can be temporarily shown by pressing the `Alt` key.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-06-11 19:45:33</DATE>
+    <TEXT>Can #8217;t understand the hype given that both monitors are not even 4K.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-06-12 00:00:36</DATE>
+    <TEXT>This response time and 4K resolution are probably not mutually exclusive. LG could have a similar 4K model in this product line.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-06-12 00:06:30</DATE>
+    <TEXT>4K monitors are capable of working at lower-than-native resolutions. Windowed games can even be played with no blur at integer ratios like 2.0 (at FHD) or 3.0 (HD) using a magnification app like [IntegerScaler](http://tanalin.com/en/projects/integer-scaler/). Games that support borderless mode can even be upscaled with no blur by Windows (10) itself by forcing their DPI mode to the  #8220;[System](http://tanalin.com/en/articles/lossless-scaling/#h-partial-windows-borderless) #8221; value.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-06-14 20:44:12</DATE>
+    <TEXT>The IntegerScaler #8217;s user interface is a system-tray icon with a menu + keyboard shortcuts (hotkeys).</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-06-16 05:33:04</DATE>
+    <TEXT>Does this 8K TV support non-destructive [pixel-perfect](http://tanalin.com/en/articles/lossless-scaling/) real-time lag-free upscaling with perfect-square single-color pixels? So that we could send it a signal with a lower (non-native) resolution at full frame rate, and that wouldn #8217;t look worse on the 8K display than on a display with the corresponding native resolution. For example: * 4K (3840 #215;2160) with 2 #215;2 pixels; * QHD (2560 #215;1440) with 3 #215;3 pixels; * FHD (1920 #215;1080) with 4 #215;4 pixels. Not to confuse with destructive video-oriented non-real-time upscaling that 4K+ TVs usually have.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-06-17 19:29:47</DATE>
+    <TEXT>Those complaining are most likely nVidia-GPU owners and probably nVidia fans in general.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-06-17 19:31:09</DATE>
+    <TEXT> gt; No flickering between 1-144hz What the flickering?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-06-17 20:08:11</DATE>
+    <TEXT>If redirects are not an issue, URLs can be shortened even more by removing the `www.` prefix. Fwiw, links don #8217;t have to be posted as long plain-text URLs and a meaningful text piece can be [linkified](https://www.reddit.com/comments/c1ocnv) instead.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-06-20 13:48:55</DATE>
+    <TEXT>Wow. Will the monitor support **pixel-perfect integer-ratio upscaling with no blur** by pixel duplication (doubling)? It is also known as **integer scaling**. The point of this upscaling method is that scaling ratio is always integer and there is **no quality loss** because each logical pixel is represented as a perfect **square** group of integer number of physical pixels such as 2 #215;2 or 3 #215;3 and there is no interpixel diffusion at all. For example: * 1280 #215;720 (16:9) to 2560 #215;1440 with 2 #215;2 pixels; * 640 #215;480 (4:3) to 1920 #215;1440 with 3 #215;3 pixels and 320+320 black bars to the left/right from the scaled image; * 800 #215;600 (4:3) to 1600 #215;1200 with 2 #215;2 pixels and 480+480 left/right bars and 120+120 top/bottom bars. This is important for: * getting higher performance in modern games; * preventing unreasonable quality loss when playing games that don #8217;t upscale their user interface, so a more performant GPU can #8217;t help; * maintaining the pixelated image nature in old and pixel-art games. All existing monitors and graphics drivers blindly use blurry bilinear upscaling regardless of whether scaling ratio is _integer_ (2.0, 3.0, etc.) or _fractional_ (1.75, 2.5, etc.), though blur is solely inevitable at fractional ratios. Thanks.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-06-20 14:29:26</DATE>
+    <TEXT>Thanks! Some relevant links: * [Nonblurry integer-ratio scaling](http://tanalin.com/en/articles/lossless-scaling/)  #8212; explainer article * [Live demo](http://tanalin.com/_experimentz/demos/non-blurry-scaling/)  #8212; shows how integer scaling works * [Petition](https://www.change.org/p/nvidia-amd-nvidia-we-need-integer-scaling-via-graphics-driver) to AMD and nVidia (2280+ votes)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-06-20 17:04:09</DATE>
+    <TEXT>Scaler does not have to be generic, there may be custom scalers for customs needs. For example, Asus uses custom scalers for some of their monitors. With a community-driven project, such custom things are even more possible.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-06-21 00:07:02</DATE>
+    <TEXT>Display-side and GPU-side scaling methods are _not mutually exclusive_. Both methods have their advantages and downsides. Both could _coexist and complement_ each other. Display-side scaling would most likely be done in hardware and so would have virtually _no extra lag_. But display-side scaling would be built into a _specific_ display model and couldn #8217;t help owners of other displays. Graphics-driver (GPU-side) scaling would universally work with any existing and future displays, but with such scaling, display always gets signal in its _native_ (physical) resolution, so effective _bandwidth is limited_  #8212; this will be especially important and noticeable with 8K displays where HFR #160;4K would be possible with display-side scaling while being impossible with graphics-driver scaling at least with currently available interfaces. Also, electromagnetic radiation from signal cable is much higher with GPU-side scaling (e.g. 4-times higher at the ratio of 2 e.g. in case of HD-to-QHD or FHD-to-4K scaling) than with display-side scaling when signal comes in its original resolution instead of display resolution. Electromagnetic radiation may affect electronics, e.g. add interference noise to sound speakers, and is potentially dangerous to health. Scaling via graphics driver would also potentially introduce an extra lag. Third-party scaling software for Windows is unfortunately limited to upscaling games running in _windowed_ mode, and potentially introduces an extra lag (at least that caused by using windowed mode itself). A universal solution (not tied unreliably to specific 3D APIs and their versions) for upscaling games running in _true (exclusive)_ full-screen mode in Windows is _technically impossible_. There are two scaling applications for Windows I #8217;m aware #160;of: a commercial one mentioned by #160;you, and the free [IntegerScaler](http://tanalin.com/en/projects/integer-scaler/) developed by #160;me. But such software scaling is obviously just a temporary workaround until a true solution comes.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-06-21 11:39:29</DATE>
+    <TEXT>Forgot to say: graphics-driver scaling also can #8217;t help when the signal source is _not a computer_  #8212; e.g. a game console or a Blu-ray player. Those need proper scaling built into display they are plugged to.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-06-22 13:47:14</DATE>
+    <TEXT>Unlike OLED, LCD is not affected by burn-in, it #8217;s just image retention that should go away after some time. But if image retention appears too quickly, that #8217;s an issue with the panel, and probably any unit of the same model is affected to the same extent. Fwiw, I don #8217;t notice any image retention with my [Dell P2415Q](http://tanalin.com/en/blog/2015/05/dell-p2415q-review/) though I often keep my desktop displayed for 30-60 minutes with no screensaver.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-06-24 20:57:33</DATE>
+    <TEXT>* [Nonblurry integer-ratio scaling](http://tanalin.com/en/articles/lossless-scaling/)  #8212; explainer article * [Live demo](http://tanalin.com/_experimentz/demos/non-blurry-scaling/)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-06-24 21:16:19</DATE>
+    <TEXT>[Direct link](https://forums.geforce.com/default/topic/844905/-/-/post/5353252#5353252) to the comment #808 for convenience.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-06-24 21:48:01</DATE>
+    <TEXT>* [Nonblurry integer-ratio scaling](http://tanalin.com/en/articles/lossless-scaling/)  #8212; explainer article * [Live demo](http://tanalin.com/_experimentz/demos/non-blurry-scaling/)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-06-24 22:36:29</DATE>
+    <TEXT>That #8217;s unhelpful theoretical purity. FHD on a 4K monitor looks worse than on a FHD monitor. That #8217;s a fact.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-06-24 22:38:37</DATE>
+    <TEXT>Now imagine an 8K 24 #8243; monitor used at 4K resolution. ;-)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-06-25 12:08:06</DATE>
+    <TEXT>Unfortunately magnification-based scaling (both LS and my own [free analog](http://tanalin.com/en/projects/integer-scaler/)) is limited to _windowed_ games and also potentially adds an extra lag at least due to the need for using windowed mode itself.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-06-25 12:12:20</DATE>
+    <TEXT>Could you be more specific? Does it work somehow universally (if PS4 supports resolutions different from FHD and 4K at all) or just for a special case (presumably solely FHD-to-4K)? How exactly can it be enabled (via what exact [settings](https://manuals.playstation.net/document/en/ps4/settings/guide.html))? Thanks.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-06-25 18:13:22</DATE>
+    <TEXT>So PS4 (Pro) does _not_ have integer scaling. ([Checkerboard rendering](https://www.neogaf.com/threads/checkerboard-rendering-standard-rendering-and-upscaling.1330505/) is a different feature.) Thanks.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-06-25 18:18:11</DATE>
+    <TEXT>A more specific anchor [link](http://tanalin.com/en/articles/lossless-scaling/#h-progress-linux) to the corresponding part of the article for convenience.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-06-26 01:54:38</DATE>
+    <TEXT>Unfortunately magnification-based scaling (both LS and my own free [IntegerScaler](http://tanalin.com/en/projects/integer-scaler/)) is limited to _windowed_ games and also potentially adds an extra lag at least due to the need for using windowed mode itself. We need graphics-driver-based integer-ratio scaling in _exclusive_ full-screen mode.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-06-26 03:49:24</DATE>
+    <TEXT>Fwiw, the link points to an explainer article, so it #8217;s unclear what you are talking about.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-06-27 18:19:56</DATE>
+    <TEXT> gt; Why this is suddenly moving into the GPU driver is beyond me. * Monitors don #8217;t support the feature. Some entry-level monitors don #8217;t even support aspect-ratio-maintaining upscaling. GPU scaling helps. * Even if new monitors did start supporting integer scaling, this wouldn #8217;t help all owners of existing monitors. GPU scaling would. * Windows does not have access to contents of the screen in exclusive full-screen mode. * Compositor/DWM in windowed mode potentially adds an extra lag compared with exclusive full-screen mode. So that #8217;s not _moving_ the feature into graphics driver, that #8217;s implementing it _for the first time ever_ (aside from some Panasonic and Sony 4K TVs capable of nonblurry upscaling for the FHD-to-4K special case). Monitor-side and GPU-side implementations of integer scaling are _not mutually exclusive_. Stating something else would be a false dichotomy. Integer scaling should be available in **both** monitors and graphics drivers  #8212; just like all other existing scaling modes are  #8212; to cover all usecases as fully as possible.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-06-27 19:03:55</DATE>
+    <TEXT>Unfortunately both implementations of the feature in Linux are far from being perfect: * limited to games that actually use a sort of _borderless_ mode instead of true (exclusive) full-screen mode  #8212; effectively the same limitation as with magnification in Windows  #8212; windowed-mode only; * have _limited compatibility_ even with borderless games (e.g. some games are _cropped_ instead of being scaled, e.g.  #8220;Trine Enchanted Edition #8221; and  #8220;Syder Arcade #8221;); * can #8217;t help at all with games that use _exclusive_ full-screen mode  #8212; e.g.  #8220;Euro Truck Simulator #160;2 #8221;. Fortunately, some games that use exclusive full-screen in Windows are borderless in Linux (including pure-Windows games running in Linux via Wine), so Linux at least gives some additional game coverage.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-06-27 19:11:45</DATE>
+    <TEXT>For integer scaling of QHD (2560 #215;1440) with the ratio of 2.0, a 5K (5120 #215;2880) display is needed. With a 4K display, the result would be identical to the existing  #8220;Center #8221; mode.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-06-28 02:19:44</DATE>
+    <TEXT> gt; there isn't actually a notion of exclusive full-screen on Linux, but it could be some native (especially older) games implement it somewhat differently to modern games Well, I #8217;m not a Linux guru, but e.g.  #8220;Euro Truck Simulator #160;2 #8221; (2012) when running under Linux (Ubuntu), switches the monitor to the resolution chosen in the game settings  #8212; e.g. 1920 #215;1080 while the native monitor (and Linux desktop) resolution is 3840 #215;2160 (4K). The current input resolution can be easily determined by opening monitor hardware settings  #8212; e.g. Dell monitors show the input resolution at the bottom of the settings #8217; ( #8220;Menu #8221;) window.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-06-29 03:57:30</DATE>
+    <TEXT>Do Wusik plugins support HiDPI (High DPI, Retina) / user-interface scaling at least up to 200%? And how many layers (unlimited?) does Wusik Station support? Thanks.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-06-29 17:26:48</DATE>
+    <TEXT> gt; unlimited layers. Great.  gt; you need to test the demo to check for the resolution. HiDPI support / user-interface scaling is something that should be explicitly implemented by developer. Such HiDPI support involves positioning and sizing UI elements according to OS-level zoom (and/or to zoom manually chosen by user via plugin settings), and using higher-resolution graphics at higher zooms levels. So as the developer (?) of the Wusik plugins, you should certainly know whether you implemented user-interface scaling in the plugins.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-06-29 23:59:36</DATE>
+    <TEXT>Not on a Sony mini system like MHC-551 where data tracks sounded just as silence unlike e.g. Aiwa where it indeed produced horrible distorted noise.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-06-30 22:40:57</DATE>
+    <TEXT>Those emulators are outdated and/or don #8217;t support [integer scaling](http://tanalin.com/en/articles/lossless-scaling/) while RetroArch does:  gt; Settings  #8594; Video  #8594; Integer Scale  #8594; On</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-01 02:39:50</DATE>
+    <TEXT>I miss _single-slot_ cards.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-04 16:55:45</DATE>
+    <TEXT>Did you double-check with the engineers? Thanks.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-04 20:32:34</DATE>
+    <TEXT>Really cool. Spectrum is going to be the **world #8217;s first** monitor with integer-scaling support. Keep up the good work. Are there implementation details? 1. Is the feature going to be done in hardware (a custom scaler or an FPGA) or software (firmware)? 2. Is the feature going to be lag-free compared with: (A) native-resolution mode and (B) regular blurry scaling? Thank you. P.S. Was  #8220;OST #8221; actually meant to be  #8220;OS**D** #8221; ( #8220;On-Screen Display #8221; menu  #8212; i.e. monitor settings available to user)?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-05 17:02:42</DATE>
+    <TEXT>Should work like current blurry scaling in all existing monitors (Windows sees a set of resolutions supported by the monitor, and user can choose any of those resolutions), just now with no blur.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-05 17:39:44</DATE>
+    <TEXT>I have no idea what 1.5 you are talking about. Integer scaling automatically uses the _maximum_ integer ratio possible with the specific combination of the input and native resolutions. So if the full ratio is 1.5 (though specifically with QHD monitor this would result in a weird input resolution of 1706,67 #215;960), the closest integer ratio is 1.0 (the rest 0.5 is filled with black), so the result is identical to the current  #8220;Center #8221; mode. Real-world examples specifically for the QHD monitor: * 1280 #215;720 (16:9) to 2560 #215;1440 with 2 #215;2 pixels (2560/1280 #160;= 1440/720 #160;= #160;2, perfect fit); * 640 #215;480 (4:3) to 1920 #215;1440 with 3 #215;3 pixels and added 320+320 black bars to the left/right from the scaled image (screen height is entirely occupied by the scaled image, black background is only needed at the left/right due to different aspect ratios  #8212; input 4:3 and native 16:9); * 800 #215;600 (4:3) to 1600 #215;1200 with 2 #215;2 pixels and added 480+480 left/right black bars and 120+120 top/bottom black bars (the native ratio is 1440/600 #160;= #160;2.4, the closest integer one is 2.0). For even more clarity, see also the [live demo](http://tanalin.com/_experimentz/demos/non-blurry-scaling/) and a complete set of [reference-rendering images](http://tanalin.com/en/articles/lossless-scaling/#h-algorithm-ref) in my article.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-05 18:35:46</DATE>
+    <TEXT> gt; for 1080p would you get black bars all round, or just not shown in the drop down menu in windows? Black bars like in the  #8220;Center #8221; mode. The set of monitor-supported resolutions should not depend on scaling type chosen via monitor settings. At least the set in the integer-scaling mode should contain the same resolutions as in the regular scaling mode.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-13 20:35:44</DATE>
+    <TEXT>**The good things:** * the article on the Intel website is a somewhat _more official_ information source than a Twitter post; * the Intel-GPU-driver team _clearly understands_ the difference between integer scaling and nearest neighbour; * _both_ integer scaling and nearest neighbour are going to be available in the Intel graphics driver; * using nonblurry scaling via Intel graphics driver _won #8217;t affect performance_. **The things I #8217;m worried about:** * they still incorrectly consider _pixel art_ as the main usecase for integer scaling, while getting higher performance when playing 3D games (e.g. racing games) at FHD on a 4K monitor is _at least as important_; * they mention some potential implementation issues related to _OS composition model of multi-plane overlay, cursor coordinate mapping and touch interaction_, though OS should actually have absolutely NO IDEA about the type of scaling used by the graphics driver and full-screen scaling should be 100% transparent for OS and applications. So what we #8217;ll get might not be exactly what we expect. Not to mention multiplane overlay support is only available in Windows 8.1+; * the specified _minimum resolution supported_ is 640 #215;480, though when using graphics driver for scaling, it should be possible to use ANY user-defined custom full-screen resolution because resolutions natively supported by the display _don #8217;t matter anymore_. For example, the typical resolution in DOS games is 320 #215;240 (aside from 320 #215;200 and aspect-ratio correction), and SNES/Genesis use 256 #215;224, and it would be nice to be able to use/add such full-screen resolutions even if they are not available by default; * they say that emulators can #8217;t use full-screen integer scaling via graphics driver. But in fact, many emulators _do support_ exclusive full-screen mode like regular non-emulated games while _not all_ of those emulators have built-in support for integer (or even nearest neighbour) scaling; * just curious what the  #8220;fixed function display engine #8221; is (mentioned in the  #8220;Will the system power or game #8217;s performance be impacted? #8221; section of the article).</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-13 22:07:02</DATE>
+    <TEXT>[Usecases](http://tanalin.com/en/articles/lossless-scaling/#h-usecases)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-13 22:08:39</DATE>
+    <TEXT>Integer scaling is about UPscaling (e.g. FHD-to-4K), not DOWNscaling (e.g. 4K-to-FHD).</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-13 22:17:06</DATE>
+    <TEXT>madVR is not necessary,  #8220;VMR-9 (renderless) #8221;,  #8220;EVR (CP) #8221;, and  #8220;Sync Renderer #8221; support Nearest neighbor via generic MPC-HC settings:  gt; View  #8594; Options  #8594; Playback  #8594; Output  #8594; Resizer  #8594; Nearest neighbor. But playing videos is just one of use cases for integer scaling.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-13 22:19:14</DATE>
+    <TEXT>My main usecase is playing 3D games (e.g. racing simulators) at FHD on a 4K monitor with _no unreasonable quality loss_ caused by blur. Integer scaling does not improve performance (using a lower-than-native resolution does), but prevents losing quality.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-13 22:25:27</DATE>
+    <TEXT>Bilinear-interpolation _blur_ has nothing to do with _antialiasing_. Integer scaling can (and should) actually be used _together_ with (true) antialiasing. You enable AA in the game, you disable upscaling blur in graphics driver, you get a Full #160;HD image on 4K monitor with the _same quality_ as on a monitor with native Full #160;HD resolution. See also an extensive [FAQ](http://tanalin.com/en/articles/lossless-scaling/#h-faq) in my article.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-13 23:09:50</DATE>
+    <TEXT>There is a crucial difference in _sharpness_. It might be not quite noticeable when comparing blurry and nonblurry images side by side, but it #8217;s obvious when _switching_ between them. You can check out the [live demo](http://tanalin.com/_experimentz/demos/non-blurry-scaling/) that allows to use a custom image and has a checkbox for enabling/disabling blur for comparison purpose.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-13 23:26:39</DATE>
+    <TEXT>From the answers to the FAQ questions  #8220;[But wouldn #8217;t pixels be noticeable without blur?](http://tanalin.com/en/articles/lossless-scaling/#h-faq-pixelation) #8221; and  #8220;[But I like blur!](http://tanalin.com/en/articles/lossless-scaling/#h-faq-optional) #8221;:  gt; Noticeability of pixels depends on a combination of the display resolution, the original-image resolution and the distance to the screen.  gt; Integer-ratio scaling is meant to be an enableable/disableable (optional) feature.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-13 23:51:48</DATE>
+    <TEXT>The sharpness decrease is probably 100% obvious only for owners of High-DPI displays such as a 24 #8243; 4K monitor like [Dell P2415Q](http://tanalin.com/en/blog/2015/05/dell-p2415q-review/). But it should be possible to see the difference on low-resolution monitors too. For example, you can simulate higher pixel density by moving away from your monitor. Did you try to switch fast between blurry and nonblurry images in the [demo](http://tanalin.com/_experimentz/demos/non-blurry-scaling/)? Fwiw, my knowledge about integer scaling is not just theoretical. I experience integer scaling every day when browsing the web with [SmartUpscale](http://tanalin.com/en/projects/smart-upscale/) extension for Firefox/Chrome, watching FHD videos with MPC-HC, and playing games like  #8220;GRID Autosport #8221; at FHD with [IntegerScaler](http://tanalin.com/en/projects/integer-scaler/).</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-14 00:04:17</DATE>
+    <TEXT>I suspect it #8217;s [Owlboy](http://owlboygame.com/).</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-14 00:33:09</DATE>
+    <TEXT>There is a probability that that #8217;s because Photoshop might add some blur due to specifics of its hardware-acceleration implementation (fwiw, I personally experienced such blur in Photoshop that made text looking quite differently from an exported version of the same image). Instead of viewing the images inside Photoshop itself, try to save those images in the lossless PNG-24 format (this is important  #8212; don #8217;t use JPEG because it #8217;s lossy and adds its own specific artifacts) and view them using a viewer like [XnView](https://www.xnview.com/en/xnview/) capable of displaying images at pixel-perfect 100% zoom (enabled by the numpad `*` key in XnView). Also, make sure you use your monitor at its native resolution.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-14 03:24:56</DATE>
+    <TEXT>Those things are not mutually exclusive.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-14 10:08:08</DATE>
+    <TEXT>An impressively helpful comment that adds a lot.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-14 10:09:26</DATE>
+    <TEXT>You probably mean [resolution scaling](http://tanalin.com/en/articles/lossless-scaling/#h-faq-resolution-scaling). It #8217;s blurry in most cases.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-14 10:18:47</DATE>
+    <TEXT>There was an  #8220;[Ask YOU Anything](https://www.reddit.com/r/hardware/comments/bg3guw/) #8221; session on on r/intel where a [request](https://www.reddit.com/r/hardware/comments/bg3guw/-/eli43hv/) for GPU integer scaling got almost 300 upvotes. The  #8220;why this is new #8221; question is unclear. It was not available for years, so it was almost impossible to use 4K monitors at FHD resolution with no forced blur. nVidia [ignores](https://forums.geforce.com/default/topic/1103382/-/-/post/6017688#6017688). AMD is [considering](https://feedback.amd.com/se/5A1E27D211FADB79). Now it #8217;s going to change thanks to Intel.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-14 14:08:04</DATE>
+    <TEXT> gt; they just launched 2 video cards with issues with 3D performance Using a #160;lower resolution (e.g. FHD on a #160;4K #160;monitor) allows to #160;improve performance.  gt; Their current sharpening tech is very good for 3d and I can #8217;t see how they would gain much from working on another sharpening method. Integer scaling has _nothing to #160;do_ with sharpening. Integer scaling _prevents_ quality loss caused by #160;blur, while sharpening tries to improve legibility of an already blurry image.  gt; No one will pay 350$ for a card to play 2d games. Integer scaling is not for 2D games. The major usecase is playing 3D games at a lower-than-native resolution (e.g. FHD on a #160;4K #160;monitor) for the purpose of performance boost with no unreasonable quality loss.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-14 14:35:06</DATE>
+    <TEXT> gt; I honestly can't see a big difference Whether the difference is big is rather subjective. The best way to see the difference, as I said earlier, is switching quickly between blurry and nonblurry images. And the [live demo](http://tanalin.com/_experimentz/demos/non-blurry-scaling/) allows that. Just switch your web browser to full-screen mode (typically with the `F11` key), load an FHD image into it (it will then be scaled to 4K with 2 #215;2 pixels if your desktop resolution is 4K), and toggle the  #8220;Enable blur #8221; checkbox (in the control panel at the right) multiple times sequentially (once you checked or unchecked the checkbox, you can conveniently do this with the `Space` key instead of mouse clicks).  gt; I cannot do any pixel-peeping because both screenshots and screen captures come out at 1080p When scaling with IntegerScaler, you can take screenshots with the `PrintScreen` key  #8212; that way you get a screenshot in the desktop resolution instead of the in-game resolution. (You should then paste the screenshot from clipboard to a graphics editor like Paint.)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-14 14:54:36</DATE>
+    <TEXT> gt; I have a 28" 4K display. Btw, based on the size, the monitor is most likely based on a TN panel (IPS 4K panels are usually 24 #8243; or 27 #8243;) which provides the lowest image quality possible compared with IPS or *VA. This itself might make the image-quality difference somewhat less noticeable.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-14 15:26:11</DATE>
+    <TEXT>According to the requirements for [Intel Graphics Command Center](https://www.microsoft.com/en-us/p/-/9plfnlnt3g5g), it #8217;s solely for Windows #160;10 of #160;version 1709+. Also Lisa Pearce [confirmed](https://twitter.com/gfxlisa/status/1150147468169924608) yesterday that Windows #160;7 is not supported by the whole modern Intel platform.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-14 15:34:02</DATE>
+    <TEXT>We should probably first somehow ask MS for a transparent and straightforward way to provide feedback.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-14 15:47:12</DATE>
+    <TEXT> gt; Printscreen: No, it didn't work with PrintScreen, I get the image resized within my main monitor. I #8217;m not sure what  #8220;image resized within monitor #8221; means. When IntegerScaler upscaling is enabled, PrintScreen should give an upscaled image, at least that happens for me. For example, if a game is running at FHD and upscaled with IntegerScaler to 4K, the resulting screenshot will have the 4K resolution with each FHD pixel represented by a square group of 2 #215;2 same-color pixels. Note that you should manually paste clipboard contents into a graphics editor instead of relying on third-party software that might intercept pressing the `PrintScreen` key and do other things such as e.g. taking a screenshot at in-game resolution.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-14 16:58:12</DATE>
+    <TEXT> gt; VSR is what they call the sharpening. DSR and VSR are supersampling antialiasing. Sharpening is a separate different thing. See also the corresponding [FAQ item](http://tanalin.com/en/articles/lossless-scaling/#h-faq-dsr-vsr) about the key difference between DSR/VSR DOWNscaling and integer-ratio UPscaling.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-15 11:16:41</DATE>
+    <TEXT> gt; anyone have suggested names for what we call the IS vs NN options Pure  #8220;Integer Scaling #8221;,  #8220;Pixel-perfect Scaling #8221; and  #8220;Nearest Neighbour #8221; names are probably indeed not quite intuitive. And while nonblurry scaling itself is a somewhat advanced feature, the user interface don #8217;t have to be obscure and only oriented to advanced users. **Update:** added the  #8220;[User interface](http://tanalin.com/en/articles/lossless-scaling/#h-ui) #8221; section to my article, intended to explore possible UI variants. **Update 2:** moved info to the article to be sure it #8217;s always up-to-date.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-15 11:28:31</DATE>
+    <TEXT>Thanks, that #8217;s more informative. Are you from the Intel team?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-15 11:33:03</DATE>
+    <TEXT>Thanks, Lisa, it #8217;s now more clear. Btw, has the hardware support for Nearest Neighbour been added to Intel GPU architecture **exactly** with integer scaling in mind, or was hardware NN support originally intended for something else and then **coincidentally** utilized for integer scaling?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-15 11:39:34</DATE>
+    <TEXT>DPI awareness and DPI scaling in Windows have no effect on **exclusive** full-screen applications, so it #8217;s unclear how the provided links are related to exclusive full-screen mode. Anyway, the main thing I worry about in this regard is whether the Intel implementaiton of nonblurry full-screen scaling will be compatible with **absolutely all** games working in the exclusive full-screen mode. Are possible issues solely related to **touch screens**?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-16 10:36:14</DATE>
+    <TEXT>28 #8243; 4K monitors are typically based on TN with the worst color reproduction possible. Consider looking at IPS-based ones that are usually either 27 #8243; or 32 #8243;.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-16 21:06:16</DATE>
+    <TEXT>Unfortunately all monitors and GPUs add blur when upscaling regardless of whether the ratio is integer or fractional. So Full #160;HD on 4K monitors looks worse than on monitors with native Full #160;HD resolution. The blur-free type of upscaling is usually called **integer scaling**. After 5 years of the 4K-monitor era, support for integer scaling has finally been recently announced for Intel graphics driver (unfortunately only for the upcoming GPU Gen11+). Hardware support is also planned for the EVE Spectrum community-assisted QHD monitor. Limited support is also available in Linux (via either XRandR or nVidia driver). For windowed games under Windows, it #8217;s possible to use integer scaling via magnification software like [IntegerScaler](http://tanalin.com/en/projects/integer-scaler/). See the  #8220;[Nonblurry integer-ratio scaling](http://tanalin.com/en/articles/lossless-scaling/) #8221; article for details on the blur issue, the integer-scaling solution, usecases, existing workarounds, potential solutions, algorithm description, FAQ, ways to get involved, and progress so far.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-17 00:47:33</DATE>
+    <TEXT>Not sure how your comment is relevant, but Windows applies DPI scaling (virtualization) to windowed apps (including 3D games) not declared as DPI-aware, so  #8220;DPI awareness does not affect 3D programs at all #8221; does not match reality.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-17 16:18:26</DATE>
+    <TEXT>I have no idea why you tell me that. I #8217;m aware of all that things.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Live demo</TITLE>
+    <DATE>2019-07-20 15:11:29</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Explainer article</TITLE>
+    <DATE>2019-07-20 15:14:48</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-22 13:00:47</DATE>
+    <TEXT>Does DOSBox-X support integer-ratio (integer) scaling with no blur? E.g. 320 #215;240 to 1280 #215;960 (aside from aspect-ratio correction) with each logical pixel as 4 #215;4 same-color physical pixels, centered on 1920 #215;1080 (Full HD) display with rest space filled with black.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-22 17:43:18</DATE>
+    <TEXT>The official DOSBox does _not_ support integer scaling. DOSBox ECE (that includes the pixel-perfect patch by Ant_222 you referred to) and DOSBox-pixel-perfect do, but my question is _specifically_ about DOSBox-X.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-22 17:48:29</DATE>
+    <TEXT>All current monitors and graphics drivers add blur when upscaling, this cannot be disabled. There is some [progress](http://tanalin.com/en/articles/lossless-scaling/#h-progress) after 5 years of the 4K-monitor era, but there is still no universal solution.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-23 08:18:34</DATE>
+    <TEXT>I #8217;m [aware](http://tanalin.com/en/articles/lossless-scaling/#h-progress-linux) of that, but xrandr implementation is limited (crops many games in full-screen mode) and not all Windows games can run under Linux. I was also unable to set xrandr up for handling cases with _nondivisible_ resolutions like 640 #215;480 to 1920 #215;1080 with the ratio of 2 and black borders (60+60 vertically and 320+320 horizontally) around the scaled image.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-23 17:47:35</DATE>
+    <TEXT>Uncompressed Wave unreasonably wastes drive space. FLAC provides the same quality (it #8217;s a _lossless_ compression format), but files are typically 30-40% smaller.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-23 17:54:36</DATE>
+    <TEXT>Does it support HiDPI (High-DPI, Retina)? In other words, is its user interface scalable/resizable up to at least 200% (e.g. for using with 4K monitors at OS-level zoom of 200% with no blur or pixelation)? Thanks.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-23 20:25:27</DATE>
+    <TEXT>Yeah, but with today #8217;s CPU performance, the FLAC-decoding performance hit can be considered negligible. For example, on my i7-3770T, playing a FLAC file (even 96KHz@24bit) with foobar2000 takes typically below 0.1% of CPU power. So playing 10 tracks would take less than 1%. Note also, that performance hit depends on FLAC compression level, so extreme levels should just not be used to keep performance hit low.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-23 23:42:52</DATE>
+    <TEXT>Dune: The Battle for Arrakis.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-24 10:11:03</DATE>
+    <TEXT>Nice. However HiDPI support needs not just higher-resolution graphics bundled. The app itself should _implement_ resizing and positioning UI elements depending on pixel density (DPI) at least under Windows. Could you provide a screenshot taken _specifically_ under Windows at OS-level zoom of 200%? And another question. The product [page](https://www.inphonik.com/products/rym2612-iconic-fm-synthesizer/) says that the instrument  #8220;genuinely reproduces the unique and characteristic sound of its hardware counterpart (digital saturation, huge feedback amount, natural distortion,  #8230;) #8221;. Is there a setting to disable emulation of such specifics and so get highest-quality-possible FM sound, just based on the _architecture_ of the original YM2612? Thanks. P.S. Looks like your site is unavailable from Russia with no workarounds.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-24 19:39:26</DATE>
+    <TEXT>Thanks. Unfortunately the Windows screenshot is apparently taken at 100% zoom at Full #160;HD resolution and does not allow to see how the instrument looks at **200%**  #8212; a popular HiDPI mode often used with 4K monitors like Dell P2415Q. Nice that the emulated sound specifics can be bypassed. As for the issue with access from Russia, the site apparently uses a CDN with multiple IPs used in random order. Some of them (e.g. 142.93.108.123) are available from Russia while others (e.g. 167.99.137.12) are not. All of them are apparently owned by DigitalOcean that suffers from many of their IPs blocked in Russia for the purpose of blocking Telegram.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-25 23:50:36</DATE>
+    <TEXT>Not sure about retroboot, but RetroArch has the options for disabling blur: * Settings #160; #8594; Video #160; #8594; Bilinear Filtering  #8594; Off  #8212; to disable blur; * Settings  #8594; Video  #8594; Integer Scale  #8594; On  #8212; to use integer ratios for pixel-perfect upscaling.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-28 20:15:55</DATE>
+    <TEXT>Hi, byuu. Are you aware that pages of your website lack the `title` element (`
+    titleExample/title`)? This leads e.g. to that all the tabs in browser have the same meaningless  #8220;title #8221; equal to the domain:  #8220;byuu.org #8221;. Could you fix that? Thanks. _Update:_ Looks like there is now a `title` element, but it #8217;s always the same and equal to the same  #8220;byuu.org #8221; domain. Also the pages lack the first-level heading element  #8212; `h1`, incorrectly using the `header` element instead. The `header` element has a totally different meaning than head**ing** elements like `h1`, `h2`, etc. So e.g. on the https://bsnes.byuu.org/ page: * the `title` element should contain the  #8220;bsnes #8221; string; * the  #8220;bsnes #8221; heading should be marked up as `h1`; * subheadings such as  #8220;Download (stable) #8221;,  #8220;Download (nightly) #8221;,  #8220;Development #8221; and  #8220;Supported Systems #8221; should be marked up as `h2`; * and  #8220;Primary: #8221; and  #8220;Secondary: #8221; (in the  #8220;Supported Systems #8221; section) should be marked up as `h3`.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  </INDIVIDUAL>

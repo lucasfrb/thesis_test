@@ -1,0 +1,63 @@
+<INDIVIDUAL>
+  <ID>subject1418</ID>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-28 10:43:44</DATE>
+    <TEXT>A possible way to tackle this might be to just go through other papers citing the paper you cite and the papers cited by the papers you have cited. I found some really good papers close to mine and have cited them where needed. This rather helps in providing more support to ones paper many-a-times.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-29 07:29:27</DATE>
+    <TEXT>Ok. Will go through it again. Thanks for replying.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-13 10:53:23</DATE>
+    <TEXT>Hope the conference is always conducted as a hybrid from now as many more people can access it.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-27 12:12:26</DATE>
+    <TEXT>Yeah... Let's try it with neural networks. Anyone ready to give it a shot?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Can playing with inequalities have applications?</TITLE>
+    <DATE>2020-10-14 12:56:19</DATE>
+    <TEXT>Inequalities seem to have interesting properties by which we can perform different set operations on them. Given 2 inequalities f(x, y) lt;=0 and g(x, y) lt;=0 we can approximate the intersection of the two using e^(af(x,y)) +e^(ag(x,y))  lt;=1. Similarly the Union becomes (e^(-af(x,y)) +e^(-ag(x,y))) ^-1  lt;=1. This can allow description of very complex functions and inequalities as union and intersection of much simpler functions. Link to detailed description: [Differentiable Set Operations ](https://arxiv.org/abs/1912.12181) (No promotion intended. Would sincerely like to know more about similar literature if available) Which field of mathematics/science would something like this belong to? What kind of applications will it have in various fields including and beyond mathematics? I am from a machine learning background so I am aware of applications of such ideas in my field of interest. In the form of log-sum-exp function, log-cosh loss, softplus activation. Link to detailed description: [Medium article on deriving above functions](https://www.google.com/url?sa=t amp;source=web amp;rct=j amp;url=https://towardsdatascience.com/from-circle-to-ml-via-batman-part-ii-699aa5de4a66 amp;ved=2ahUKEwiy2fqUkLTsAhX0wzgGHXjFBosQjjgwAHoECA4QAg amp;usg=AOvVaw0wCOasQ_t_O2C20gEBjChR) (No promotion intended. Would sincerely like to know more about similar literature if available) What are your ideas, observations or opinions on this??</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-14 15:30:55</DATE>
+    <TEXT>Very true... That is one great application. I am not aware of specific methods though. Are you aware of methods which use union and intersection of inequalities?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-14 18:47:19</DATE>
+    <TEXT>Yup. Will clarify it. I actually don't know which field it falls in. I am a computer science student. Do help if you have an idea. Nothing monetary here.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-15 20:56:02</DATE>
+    <TEXT>Thank you very much for suggesting. I haven't heard much about vixra. Exploring it.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Batman Returns! This time in colour, all real and continuous.</TITLE>
+    <DATE>2020-10-15 21:20:02</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Batman Inequality!</TITLE>
+    <DATE>2020-10-19 10:37:24</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  </INDIVIDUAL>

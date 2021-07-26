@@ -1,0 +1,315 @@
+<INDIVIDUAL>
+  <ID>subject9855</ID>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-07 21:26:47</DATE>
+    <TEXT>I #8217;ve done both. Depends on your academic background. Basically if you want to dive into programming and algorithms and if you don #8217;t have much experience with programming definitely start with mit course. Cs50 can be hard for start and it requires a lot of work and motivation to finish the course. Nevertheless after finishing Python course it #8217;s really good option to start cs50 or dive much more into python especially if you want to get into data science. CS50 will show you some crucial concepts from computer science which every graduate should know.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-10 14:30:11</DATE>
+    <TEXT>I guess its not a book You read from cover to cover but if You get most its good to move on</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Habit and productivity tracker</TITLE>
+    <DATE>2020-04-30 19:17:21</DATE>
+    <TEXT>Hi guys! So basically after realising that due to corona outbreak I'm gonna stay for the whole month at home I've made a decision to try and start get new habits. My main goal was to track all of the work (mostly learning programming cause I'm CS student) done during the month in pomodoro techniques (25min work 5 min break) and to see over the month how satisfied I am with the results. My other habits I tracked: * wake up at 8 or earlier * go to sleep before 24 * work out * read Here are the results. By this post I just really want to motivate you guys to track and achieve yours goals but also ask for advice. What do You think I should include in my tracker next month, which habits changed Your life? https://preview.redd.it/88qlq26690w41.png?width=1226 amp;format=png amp;auto=webp amp;s=fd3e651a908d48391a44b66242d51312c9a5bc13</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Habits and productivity tracker</TITLE>
+    <DATE>2020-04-30 19:18:14</DATE>
+    <TEXT>Hi guys! So basically after realising that due to corona outbreak I'm gonna stay for the whole month at home I've made a decision to try and start get new habits. My main goal was to track all of the work (mostly learning programming cause I'm CS student) done during the month in pomodoro techniques (25min work 5 min break) and to see over the month how satisfied I am with the results. My other habits I tracked: * wake up at 8 or earlier * go to sleep before 24 * work out * read Here are the [results](https://imgur.com/gallery/ttESzeq). By this post I just really want to motivate you guys to track and achieve yours goals but also ask for advice. What do You think I should include in my tracker next month, which habits changed Your life?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Connecting to linux desktop from Mac OS through SSH/VNC</TITLE>
+    <DATE>2020-05-12 09:57:02</DATE>
+    <TEXT>So you can laugh at me cause I'm a CS student, but I don't I'm noob at linux and ssh :d I want to connect from Mac OS to my Linux desktop so that I can process my neural nets remotely, cause sometimes it's just too much at once. So I've tried screen sharing using vnc and ssh, but I don't really get how this works. Can anyone explain how can I achieve the desired result or send some articles to learn about it? I'm not even sure whether I have to host a server for that and only then access it remotely?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-12 10:08:59</DATE>
+    <TEXT>Thanks for very fast answer For now the output is ssh: connect to host ["](https://83.9.216.32)IP Address" port 22: Connection refused But it's probably because I don't have the server you mentioned setup yet, so I'll try to setup server using open-ssh. I hope it's the right way to go :)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-12 10:21:55</DATE>
+    <TEXT>Okay so I successfully installed `sudo apt install openssh-server` Then after the command `sudo systemctl status ssh` `sudo ufw allow ssh` the status is active and I can connect to it but only using the terminal on Linux desktop (same machine). If I use ssh from Mac terminal it gives the same error as before EDIT: it worked only locally because I used local IP address (told You I'm Linux noob), it doesn't work with the public IP too, but I think I need to configure something with my router (not sure). But I try to connect using same internet connection, so I think I could use only local IP address</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Graphics card for 4k monitor recommendation</TITLE>
+    <DATE>2020-05-19 15:48:46</DATE>
+    <TEXT>Hi guys so I've just bought myself a new 4k resolution monitor. However my pc is quite old (10 years now and I only upgraded the disk to ssd) and my gpu is gtx460. I've just realised that I probably cannot use 4k resolution because it's incompatible with the GPU. Is this true? If it's not compatible I can get myself a new graphics card. My budget is around 150-200$. I'm a complete beginner in building pc, but if I buy a new GPU and probably twice as much RAM as I have now do I need a new charger as well? For now I have 650 W, so I hope it's fine. Here are some GPU that I've seen on the net that interested me: * Gigabyte GeForce GTX 1050 Ti D5 VR Ready * MSI GeForce GTX 1050Ti Gaming X 4GB GDDR5 (GTX 1050 Ti GAMING X 4G) * Gigabyte GeForce GTX 1650 SUPER Windforce OC 4GB GDDR6 (GV-N165SWF2OC-4GD) - the most expensive I play mostly Dota 2, but good gpu may be useful for me for some really big deepnets and rendering some graphics projects.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-19 15:58:24</DATE>
+    <TEXT>That #8217;s why I ask, better not to spend 300$ and then see that it #8217;s still not possible Btw i usually Linux cause i use a lot of terminal, but i guess if I buy new gpu I can switch back to Windows for better performance</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-19 16:04:05</DATE>
+    <TEXT>If it #8217;s needed price is not the issue</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-19 19:49:31</DATE>
+    <TEXT>How about AMD Radeon RX 5700 XT? Or Nvidia GeForce RTX 2070 Super? These cost though 400, 500 bucks respectively</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Proper PSU for build with RX5700XT | additional fans / cooling for Phanteks P300 mid tower</TITLE>
+    <DATE>2020-05-23 14:20:03</DATE>
+    <TEXT>Hi guys! So I've had my PC for 10 years now and recently bought myself a 4k monitor Philips 276E8VJSB. I've realised that I need a complete new build. Here is my list of what I want to buy. It's my first build and I'm really looking forward for any better suggestions for my build. The overall price around 1100$. Type|Item|Price :----|:----|:---- **CPU** | [AMD Ryzen 5 3600 3.6 GHz 6-Core Processor](https://pl.pcpartpicker.com/product/9nm323/amd-ryzen-5-3600-36-thz-6-core-processor-100-100000031box) | 815.00z #322; **Motherboard** | [MSI B450 TOMAHAWK MAX ATX AM4 Motherboard](https://pl.pcpartpicker.com/product/jcYQzy/msi-b450-tomahawk-max-atx-am4-motherboard-b450-tomahawk-max) | 550.00z #322; **Memory** | [Team T-FORCE VULCAN Z 16 GB (2 x 8 GB) DDR4-3200 Memory](https://pl.pcpartpicker.com/product/JmyV3C/team-t-force-vulcan-z-16-gb-2-x-8-gb-ddr4-3200-memory-tlzrd416g3200hc16cdc01) | 370.00z #322; **Storage** | [Crucial MX500 250 GB 2.5" Solid State Drive](https://pl.pcpartpicker.com/product/4mkj4D/crucial-mx500-250gb-25-solid-state-drive-ct250mx500ssd1) | Purchased For 0.00z #322; **Storage** | [Crucial P1 500 GB M.2-2280 NVME Solid State Drive](https://pl.pcpartpicker.com/product/xpYLrH/crucial-p1-500gb-m2-2280-solid-state-drive-ct500p1ssd8) | 315.00z #322; **Video Card** | [Sapphire Radeon RX 5700 XT 8 GB PULSE Video Card](https://pl.pcpartpicker.com/product/3YTzK8/sapphire-radeon-rx-5700-xt-8-gb-pulse-video-card-11293-01-20g) | 1900.00z #322; **Case** | [Phanteks P300 ATX Mid Tower Case](https://pl.pcpartpicker.com/product/FCs8TW/phanteks-eclipse-p300-tempered-glass-atx-mid-tower-case-ph-ec300ptgbk) | 300.00z #322; **Monitor** | [Philips 276E8VJSB 27.0" 3840x2160 60 Hz Monitor](https://pl.pcpartpicker.com/product/ctzkcf/philips-276e8vjsb-270-3840x2160-60-hz-monitor-276e8vjsb) | Purchased For 1100.00z #322; | *Prices include shipping, taxes, rebates, and discounts* | | **Total** | **5350.00z #322;** * **PSU**: I have a 10 year old PSU corsair TX 650W, however, I assume I have to buy a new one? **Do you have any suggestions**? Estimated Wattage on PCPartPicker is 410W * **Additional Fans / Cooling**: Do I actually need **any additional cooling**? I have found some affordable fans but aren't the prebuild fans not enough * **CPU fan**: I've heard that AMD Ryzen 5 3600 has already a fan so I don't need one Edit: link to pc part picker [PCPartPicker Part List](https://pl.pcpartpicker.com/list/ZbJGYH)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-23 14:31:49</DATE>
+    <TEXT>I've found 3 650W PSU: * Riotoro Enigma G2 * Corsair CXM 650W * Corsair RMx 650 W 80+ Gold Do I need care if it's Bronze / Gold, I don't even know what it means. ;') Edit: I have 4 fans space in the case. So if I understand correctly you suggest getting rid of the one fan included and mounting 2 fans Arctic PWM 140mm and 2 Arctic PWM 2 120mm right?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-23 15:38:06</DATE>
+    <TEXT> gt;PCPartPicker Part List I've chosen [**Fenix Whisper M 650 W 80+ Gold Certified Fully Modular ATX Power Supply**](https://pl.pcpartpicker.com/product/DQx9TW/bitfenix-whisper-m-650w-80-gold-certified-fully-modular-atx-power-supply-bp-wg650umag-7fm) The riotoro enigma seems to be out of stock pretty much everywhere. Thanks for help!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-23 15:50:33</DATE>
+    <TEXT>One more thing do You actually think that I should get an additional CPU cooler?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Radeon RX5700xt or RTX 2070 super GPU for deep learning / NLP</TITLE>
+    <DATE>2020-05-24 10:28:11</DATE>
+    <TEXT>Hi guys so I'm building a new PC for myself. I'm not sure if it's the right sub to ask, but I choose between two GPU's: one of the RTX 2070 super **and** Sapphire Radeon RX 5700 XT PULSE Recently a phd friend told me that if I really want to dive into deep learning and neural nets I need nvidia card for CUDA / CUNN. So considering I'm still a beginner in deep learning but want to dive into nn and nlp and probably build my own chess bot in the future do I need NVIDIA card? Here's my full build just for comparison [https://pl.pcpartpicker.com/list/qCkyrV](https://pl.pcpartpicker.com/list/qCkyrV)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-24 10:48:09</DATE>
+    <TEXT>thanks! will stick to rtx then ;')</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-24 10:50:02</DATE>
+    <TEXT>The prices are supposed to be around the same as 2070? It's going to be probably much more efficient. The question though is it that worth waiting ;d I've never actually worked with google colab. thanks for the tip.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-24 11:33:27</DATE>
+    <TEXT>What fans are these?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-24 11:36:01</DATE>
+    <TEXT>Looks great! Good work</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-24 12:09:21</DATE>
+    <TEXT>Okay I've finally decided to wait for RTX 3070. This is gonna be hard as hell cause I was really looking forward for the build. But considering all I've read about new technology and efficiency it's worth staying patient. For now my 10 year old gtx 460 or Mac Pro and google collabs will handle. Thanks for opening my eyes because I wasn't quite aware of the new release! :)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-26 18:02:20</DATE>
+    <TEXT>Without  #8222;c++ primer plus #8221; by Stephen Prata I wouldnt be able to pass object oriented programming. It #8217;s really long but a great resource to learn c++</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-27 09:23:39</DATE>
+    <TEXT>If grant and tobi acted same way...</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-28 16:35:06</DATE>
+    <TEXT>Again today, what the **** is wrong with these servers?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-28 23:47:15</DATE>
+    <TEXT>U think they solve it fast? Dunno if should wait for another one xdd These servers are killing us</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-29 00:04:22</DATE>
+    <TEXT>Fixed!!!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-29 00:08:13</DATE>
+    <TEXT>I guess Yeah, havent even noticed but matchmaking is back</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-05 21:37:06</DATE>
+    <TEXT>Nice I got exam in August from the subject. Thanks!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-09 20:23:51</DATE>
+    <TEXT>Thx, i thought they are admins or got some other privileges xd</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-16 22:28:45</DATE>
+    <TEXT>Third time today Unbelievable</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Coordinator down</TITLE>
+    <DATE>2020-07-16 22:36:51</DATE>
+    <TEXT>If today coordinator was down 4 times imagine whats gonna happen in the weekend But btw why is it down all the time? Its been an issue for years already</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Pandas learning resources online / book recommendation</TITLE>
+    <DATE>2020-07-24 20:40:07</DATE>
+    <TEXT>Hey so ive finally got my first IT internship and already the learning of python has already paid off. I #8217;m working with huge xlsx, csv files and wanted to learn bit more about pandas. Maybe You guys know some great resources to learn online or read some book?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-24 21:02:21</DATE>
+    <TEXT>Great ive watched some of his videos and they were very well made Thanks :)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-30 07:26:58</DATE>
+    <TEXT>You know that zeus is a god from greek mythology and Mars from Roman ?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-30 11:34:19</DATE>
+    <TEXT>Yeah, agreed</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Filling request with multifactor authentication</TITLE>
+    <DATE>2020-09-03 15:07:19</DATE>
+    <TEXT>Hi guys, So in work I got a job to fill in 300 manual requests. I wrote some python scripts before so I thought maybe its better to write a script for this and others to use. The problem though is that our systems have multifactor authentication and I don #8217;t know if this won #8217;t be a problem This is a huge global company, no idea why no one thought of automating this task before... Do you have any suggestions for libraries, readings?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-04 06:09:24</DATE>
+    <TEXT>Yes sure So the site has a lot of text boxes to fill in and there are some yes no questions There are around 12 boxes in total and i have the data I have the data in xls sheet</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Rtx 3080 difference after tuning</TITLE>
+    <DATE>2020-09-16 13:22:19</DATE>
+    <TEXT>Hi guys, I #8217;ll be trying to buy an rtx 3080 tomorrow and I #8217;m quite a rookie in the GPUs overall. What are the main benefits of getting this card after tuning from either of the companies msi, Asus, zotac etc.? Is it just better cooling, bit better performance and design? In Poland the cards after tuning will be available much later so I guess it #8217;s not worth waiting. Good luck to all of you that also have been waiting so long for these cards!!!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-17 18:47:50</DATE>
+    <TEXT>In Poland You can still buy - 6 hours after launch all available</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-17 18:50:29</DATE>
+    <TEXT>I accidentally bought two zotac rtx Still didnt pay for the second one, i can ship for normal price in Poland 3650 z #322; = 970$ So btw people who buy for 1000$ buy for sporo stock price in Europe ...</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-17 19:30:44</DATE>
+    <TEXT>It means in polish "made from gold" :D</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>B550 vs X570 motherboards</TITLE>
+    <DATE>2020-09-18 11:35:38</DATE>
+    <TEXT>Hey guys, I got zotac trinity rtx 3080 and I am planning to pair it with Ryzen 4 CPU. I don #8217;t know much about motherboards, but I know that both b550 vs X570. What key difference is there actually between those two types of boards, because I don #8217;t know how to decide for any of these?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-18 11:42:56</DATE>
+    <TEXT>In mind two models: Gigabyte B550 AORUS Elite ASUS Tuf Gaming X570-Plus</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Build with Zotac Rtx 3080 Trinity help</TITLE>
+    <DATE>2020-09-20 21:43:27</DATE>
+    <TEXT>Hey guys I'm trying to build my first PC and I'm really lucky cause I got the zotac rtx 3080 Should I get additional fans (I've heard phanteks has pretty good ones) Also is 500gb ssd enough? I guess maybe later on I add some hdd CPU - I wait for next gen Ryzen Any tips appreciated, thanks! [PCPartPicker Part List](https://pl.pcpartpicker.com/list/FnDPb8) Type|Item|Price :----|:----|:---- **CPU Cooler** | [ARCTIC Liquid Freezer II 280 72.8 CFM Liquid CPU Cooler](https://pl.pcpartpicker.com/product/smDkcf/arctic-liquid-freezer-ii-280-728-cfm-liquid-cpu-cooler-acfre00066a) | 400.00z #322; **Motherboard** | [Gigabyte B550 AORUS ELITE ATX AM4 Motherboard](https://pl.pcpartpicker.com/product/7HjNnQ/gigabyte-b550-aorus-elite-atx-am4-motherboard-b550-aorus-elite) | Purchased For 630.00z #322; **Memory** | [G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3600 CL18 Memory](https://pl.pcpartpicker.com/product/n6RgXL/gskill-ripjaws-v-16-gb-2-x-8-gb-ddr4-3600-memory-f4-3600c18d-16gvk) | Purchased For 305.00z #322; **Storage** | [Crucial MX500 250 GB 2.5" Solid State Drive](https://pl.pcpartpicker.com/product/4mkj4D/crucial-mx500-250gb-25-solid-state-drive-ct250mx500ssd1) | Purchased For 0.00z #322; **Storage** | [Gigabyte AORUS 500 GB M.2-2280 NVME Solid State Drive](https://pl.pcpartpicker.com/product/88YQzy/gigabyte-aorus-500-gb-m2-2280-nvme-solid-state-drive-gp-asm2ne6500gttd) | 510.00z #322; **Video Card** | [Zotac GeForce RTX 3080 10 GB GAMING Trinity Video Card](https://pl.pcpartpicker.com/product/g7NgXL/zotac-geforce-rtx-3080-10-gb-gaming-trinity-video-card-zt-a30800d-10p) | Purchased For 3629.00z #322; **Case** | [Phanteks Eclipse P500A D-RGB ATX Mid Tower Case](https://pl.pcpartpicker.com/product/LVQfrH/phanteks-eclipse-p500a-d-rgb-atx-mid-tower-case-ph-ec500atg_dbk01) | 550.00z #322; **Power Supply** | [EVGA SuperNOVA G3 850 W 80+ Gold Certified Fully Modular ATX Power Supply](https://pl.pcpartpicker.com/product/PvDzK8/evga-supernova-g3-850w-80-gold-certified-fully-modular-atx-power-supply-220-g3-0850) | 714.00z #322; **Monitor** | [Philips 276E8VJSB 27.0" 3840x2160 60 Hz Monitor](https://pl.pcpartpicker.com/product/ctzkcf/philips-276e8vjsb-270-3840x2160-60-hz-monitor-276e8vjsb) | Purchased For 1100.00z #322; | *Prices include shipping, taxes, rebates, and discounts* | | **Total** | **7838.00z #322;** | Generated by [PCPartPicker](https://pcpartpicker.com) 2020-09-20 23:46 CEST+0200 |</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-20 21:50:37</DATE>
+    <TEXT>Sorry, I wrongly edited the table and the question got erased. Should be fine now :)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-20 22:01:23</DATE>
+    <TEXT>I was thinking probably corresponding next gen model to ryzen 7 3700x or Ryzen 5 3600 Yeah the monitor was bought too much in a rush, 144hz would be much better, but fortunately i dont play that much fps and this Computer will be also used for deep learning.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-20 22:27:02</DATE>
+    <TEXT>Thats great to hear</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-18 17:22:56</DATE>
+    <TEXT>What do You guys think about MSI Gungnir 100 Atx mid? I havent seen many reviews with this case, but on pcpartpicker seemed as a pretty good choice</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-18 20:39:28</DATE>
+    <TEXT>I #8217;ll definitely swap the fans for arctic f/p 14 PWM, maybe even AIO cooling for the cpu. If I get good AIO and set it in front of the case there should already be good airflow from the front? E.g arctic liquid freezer II 280</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>New COVID rules in Switzerland</TITLE>
+    <DATE>2020-10-19 10:33:51</DATE>
+    <TEXT>Hi, I #8217;m an exchange student studying at EPFL. I #8217;m confused about the new covid rules. When traveling outdoors by bike to the university should I already carry on mask? Or just at the university?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>My cat is a real hunter</TITLE>
+    <DATE>2020-10-19 10:40:47</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-19 10:41:38</DATE>
+    <TEXT>Sorry for quality of the picture A question though: My cat the whole squirrel, is this normal?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  </INDIVIDUAL>

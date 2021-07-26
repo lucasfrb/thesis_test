@@ -1,0 +1,915 @@
+<INDIVIDUAL>
+  <ID>subject1025</ID>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-04-09 23:11:51</DATE>
+    <TEXT>Or a FunctionalInterface would be pretty bad aswell</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-04-11 21:29:04</DATE>
+    <TEXT>Did they bring out any form of documentation or tutorial out yet?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-04-11 21:36:54</DATE>
+    <TEXT>Was just wondering, i tried setting it up, didnt work though, no tutorial, documentation or anything to be found online. Went through some log files but couldnt get much out of them.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-04-11 21:40:38</DATE>
+    <TEXT>I havent tried it with PI back then (planned to in the future, but i couldnt even get it working on 2 windows computers</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-04-13 11:47:19</DATE>
+    <TEXT>I never worked with the old versions, but i was rather fond of the new one (even though i dont really like scripting languages). Theres a ton of stuff online to show you how to handle security properly (SQL Injection, Cross-site scripting and so on). Plus you have it up and running quite fast in comparison with other back end stuff i think.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-04-13 22:14:30</DATE>
+    <TEXT>Good bot!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-04-13 22:20:15</DATE>
+    <TEXT>You did though, 1000 Megabytes is 1 Gigabyte. 1024 Mebibyte are 1 Gibibyte</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Framework suggestions</TITLE>
+    <DATE>2018-04-14 10:22:14</DATE>
+    <TEXT>Hello javahelp, I got the chance to learn one or two java frameworks next week at work and building a small project with them. I was wondering wheter you guys had some good suggestions for a framework to learn and possible projects. I would like it to be a framework that is actually used in a productive environment (One that i might be able to use in a real job). So far I was thinking about setting up a website with JSF and a Database framework (JDBC or Hibernate). Other candidates would be JavaFX or maybe JOGL (OpenGL with Java). The problem with JavaFX or JOGL would be that I have no idea what project I should do with them. So my question is: What frameworks do you guys recommend that one should know and what projects (or kind of project) would you recommend for a good learning effect? Thanks a lot for the help!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-04-14 13:39:39</DATE>
+    <TEXT>Thank you very much for the answer, ill have a look at Spring as soon as i can, is there a big difference between Java SE and EE?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-04-16 21:50:04</DATE>
+    <TEXT>I am still new to arduino myself, so im not sure this is correct, but if you set c to be a char, it can't take the value "ON" or "OFF" since they are strings. However im not sure how the serial communication works, wheter you can read a whole string or you gotta get char after char (maybe saving them in a char buffer) and put them togheter. Maybe this helps: http://robotic-controls.com/learn/arduino/arduino-arduino-serial-communication Good luck!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-04-17 04:09:37</DATE>
+    <TEXT>Glad to hear it, no problem and good luck with your project!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-04-17 09:48:53</DATE>
+    <TEXT>Anyone else getting these python programmer ads on youtube (where the only code you see is HTML)?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-04-19 04:58:37</DATE>
+    <TEXT>I know this programis meant for education, but damn its cancerous and full of bugs...</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-04-21 07:42:23</DATE>
+    <TEXT>Never trust the user! The read input should be in a try-except (or catch?) block</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-04-27 04:53:09</DATE>
+    <TEXT>Well atleast not a native one. Also I dont mind people criticising my english, but you could at least point out the mistakes so one could learn from it.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-04-27 12:11:09</DATE>
+    <TEXT>Alright, i really didnt know that. Glad to learn something new there! Thanks alot.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-04-27 12:11:59</DATE>
+    <TEXT>Good bot</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-05-27 17:15:23</DATE>
+    <TEXT>Same but with pls... Gotta treat your OS nice</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-06-03 10:45:00</DATE>
+    <TEXT>I dont know what language this is, but in java a method like this would return a new Array object.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-06-03 19:24:56</DATE>
+    <TEXT>We had a similar school project, first make sure you know what processor you have exactly. Most of the relevant information about the GPIO pins can be found in the BCM documentation. If you are lucky you find the proper documentation for your processor you can take the adresses directly, if not you might have to use an older one and research some of the base adresses yourself. A good tutorial for me was: https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/ok01.html Also you will need some kind of program to compile your program, there are enough tutorials online for that. In the processor i used, there was a register to set GPIO pins as output (GPSET) and then there was a register to turn them on and one to turn them off.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-06-03 19:42:13</DATE>
+    <TEXT>Well do you have the exact same processor as they have in the tutorial? You can look that up here: https://en.m.wikipedia.org/wiki/Raspberry_Pi In the hardware section As far as i know the tutorial is for a rather old pi.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-06-03 19:48:23</DATE>
+    <TEXT>I didnt work with the Pi3B, so i cannot really help you. If you want to i can post the code I wrote for making the led blink an SOS signal. It is probably rather bad code since it was my first assembly code, but maybe it can help you</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-06-03 20:14:38</DATE>
+    <TEXT>Alrigth here is the link with comments (i used // here because i didnt know the proper comment symbol and didnt comment it before) https://www.paste.org/93508 Here is the version without the comment: https://www.paste.org/93509 I hope this helps a little bit EDIT: The Pi u used was 2.1b if i am right, the processor was based on the BCM2836 i think</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-06-10 11:41:32</DATE>
+    <TEXT>The lost "byte-sized" pun at the end hurts me a bit</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-06-10 13:11:00</DATE>
+    <TEXT>That is a bit too much for me...</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-06-26 18:06:12</DATE>
+    <TEXT>Because its for progamers</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-07-06 05:39:29</DATE>
+    <TEXT>Marked as duplicate then</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-07-07 21:37:13</DATE>
+    <TEXT>Neither is latex, or no?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-07-17 21:18:19</DATE>
+    <TEXT>good bot</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-07-20 16:40:35</DATE>
+    <TEXT>Well at +5 there is nothing but heroic left if im not mistaken... The problem is that shrowd and reza are baisically treated the same as other heroic behemoths. So you first should do the other heroic, get that max gear and then fight shrowd reza. I do agree though that players are not warned and maybe the shrowd and reza quest should only be there if you have armor and weapon of 400+</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-08-03 18:40:11</DATE>
+    <TEXT>Yeah means you dont have enough notes, go do some hunts or quests.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-08-05 14:00:58</DATE>
+    <TEXT>Well if you tried to use iTunes as an OS it would be pretty bad</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-08-05 14:09:18</DATE>
+    <TEXT>15 hours a day for 6 days a week? In my country this would more than twice the normal working hours a week. This is just madness.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-08-06 04:55:29</DATE>
+    <TEXT>Switzerland</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-08-14 19:28:49</DATE>
+    <TEXT>so she is the end of him?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-08-15 17:14:45</DATE>
+    <TEXT>isnt blade spin LLR? (not sure)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-08-19 11:28:33</DATE>
+    <TEXT>bad bot.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-12-24 22:38:20</DATE>
+    <TEXT>i wish you the best of luck and a merry christmas :)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>RE: Transmogs</TITLE>
+    <DATE>2018-12-25 18:25:57</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-12-25 18:51:49</DATE>
+    <TEXT>I think he just wants a drink as well</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-01-21 05:46:46</DATE>
+    <TEXT>[With Tragic Echo](https://www.dauntless-builder.com/b/8rCKouAiYBtgJuP7sRiaRtv7uWizAsJVcYiZyUQyhKi3cxrCxq) [Without Tragic Echo](https://www.dauntless-builder.com/b/n6CPmUBibPcNc3Oupi7ziApFYik7hx0sEi3rTo4i8iA2u1ycp7)  #8203; You can switch Energized for Conduit or AA if you want to, that's just personal preference.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-01-30 22:27:36</DATE>
+    <TEXT>Did you by any chance figure out what caused it? I have this problem too (with XBox One controller, XBox 360 Controller and Mouse and Keyboard). Even though i have enough stamina it does nothing or single blast most of the time.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Giving my 2 cents</TITLE>
+    <DATE>2019-01-31 19:16:59</DATE>
+    <TEXT>Yes, I know, yet another feedback post among many other here. However, I think right now is a crucial time for Dauntless and I wanted to share my 2 cents. This will be a longer post so there will be a TL;DR at the bottom:  #8203; To begin with, I wanted to express my disappointment in parts of the community. Dauntless is a game shaped by the feedback of our community; Therefore it is important to criticize things you do not like and voice your opinions. However, a few voices in this Subreddit are almost toxic and in no way constructive.This does not help anyone and is rude towards the developers that put so much work into the game. I am aware that this is a small part of the community, but those voices are (sadly) often the loudest.  #8203; # My longterm opinion about Dauntelss so far: I have had the pleasure to be part of the amazing journey of Dauntless since the first days of the closed beta. It immediately became one of my favorite games. Since then the game has changed much and most changes were for the better. Phoenix Labs engaged and listened to the community and made changes based on their feedback. This is awesome! There are a few persistent bugs and issues though: The lack of really challenging content in the end game, some bugs have been around for quite some time (e.g Tragic Echo) and do not seem to go away in the near future. I am convinced that Phoenix Labs is working on these issues and I am aware that these things can take time (Sometimes what seems like an easy fix can be a lot of work behind the scenes). Overall, I love the game and the way PL is developing it.  #8203; # My opinion on the last few patches: **Scorgestone Hellion:** Nice! A fun, balanced behemoth with good mechanics and which is a worthy rework of the classic Hellion. Less awesome was how overpowered the weapons and molten were; While I understand that there need to be slight balance changes from time to time I find it hard to understand how it was not obvious that molten is Overpowered (especially with the new Weapons and armor). A nerf to molten came 2 weeks later and now it is weaker than EF and Conduit (this is my just my opinion, feel free to change it). It almost seems like PL wanted to get players motivated to go get the new armor and cells and then just nerfed them so they are just average (I am not saying this is the case, I hope and think that PL would not do such a thing, I am just saying it looks like it and could get a few people upset).  #8203; **Bugs:** I understand it is a beta and there will be bugs (no such thing as bug free software), but there has to be a limit. It is hard to defend the release of some of the last bugs (e.g. Pangar lantern kills and being stuck on the hunt itself) as they were simply game breaking. These are the kind of bugs that have to be caught before being released. Small bugs are understandable and they often get fixed fast. PL releases a patch almost every week, which is fast, so small bugs I can understand. I do appreciate the quick fix they are deploying right now!  #8203; **Hunt pass:** Oh boy! Many people were not happy with this one. First to the plat: I can understand that the pass costs more than you can earn with it (otherwise, PL would likely make a onetime profit for the passes and that is it). The amount of plat that was reduced seems a bit extreme. When you compare the passes, I understand that some people feel baited into buying the Christmas pass only to then get less plat in this one. I doubt that was the intention of PL. Now to the content of the pass: Overall, I think it is acceptable, there are less skins than in the Christmas pass because there are some cool looking emotes. But it feels like there is less than in the Christmas pass when you put in **9** character titles (I mean with elite you get 3 on level one #8230; just why?) also I doubt that anyone is happy about aetherdust. Ace chips and transmog stones are awesome; Those are the consumabels I love to see! I understand however that there cannot be tons of them as they are one of the income sources for PL. If I am not mistaken then in the last pass many people were feeling upset for not getting anything for already completed weeklys, and now again you just get nothing for them? This once again feels like a punishment to active players that are still farming the weeklys every week. And that just feels bad.  #8203; **Epic game store:** This one is a hard one. I understand the desire to get Dauntless a bigger audience and that the Epic game store seems like the right place to do just that. Steam takes a 30% cut (if I am not mistaken) which is quite a lot. But a big part of the community does not seem happy with this choice for various reasons. This is a huge decision for PL and will effect Dauntless in a huge way, therefore this decision should not be made lightly. I don #8217;t think that PL really asked the community how they feel about it (I at least don #8217;t recall a survey or anything of the sorts, if I am wrong here then please do tell me!) and that feels bad. I #8217;m not a fan of the Epic Game Store personally for reasons which were mentioned multiple times in various discussions on this Subreddit. The game would greatly benefit from more players so I understand the desire to get Dauntless on a known platform like this, for parts of this community (and many founders) this change is a pretty tough one to swallow. Ultimatley PL will have to make this call and we can either follow or leave the game. This is a crucial decision point for Dauntless and making that call is hard. Whatever they ultimatley choose they will have to accept responsiblity for the outcome.  #8203; Still, so far PL has had our backs and i trust them to continue to do so. I think PL have some heavy decisions to make right now and i trust they will make the right ones. I personally am really looking forward to how the awesome journey of dauntless continues!  #8203; # TL;DR As a founder of Dauntless i love how PL developed the game so far. The last few patches were a bit of a letdown with some heavy bugs, balancing issures and a battlepass that feels lacking compared to the last one. The Epic Game Store seems to be seriously controversial and we will just have to trust PL to make the right call (whichever one this might be). Still i am looking forward to how Dauntless devolops and what awaits us in the future.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-02-01 15:17:52</DATE>
+    <TEXT>I agree, the cross platform argument is a really strong one. Plus as PL mentioned in their resent post, a lot of the worries that are around (giving data to epic games, worse support than now and so on) are not actually the case. The toughest thing to swallow is the forced name change some people are gonna have.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>D FFHS wesi mitem Modulplan konfrontiert wird</TITLE>
+    <DATE>2019-02-04 14:37:33</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>It be true like this sometimes</TITLE>
+    <DATE>2019-04-08 11:04:34</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>PlAgIaTe WeRdEn mIt EiNeR eInS bEnOtEt!</TITLE>
+    <DATE>2019-04-08 13:03:36</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Wennde am namitag i ungerricht chunnsch u nidemau me d h #228;ufti vor klass ume isch</TITLE>
+    <DATE>2019-04-15 12:23:31</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Gw #252;ssi FFHS Dozente wede uf Ufgabestellige oder Abgabedate im Moodle verwisisch.</TITLE>
+    <DATE>2019-05-06 09:04:10</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>FFHS be like</TITLE>
+    <DATE>2019-05-13 08:52:57</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>It do be like this sometimes!</TITLE>
+    <DATE>2019-05-13 09:35:25</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>"Papierloses Studium"</TITLE>
+    <DATE>2019-05-13 09:43:39</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>FFHS Moodle K #252;rs be like:</TITLE>
+    <DATE>2019-05-20 06:29:27</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>It be sad because it be true</TITLE>
+    <DATE>2019-05-27 08:43:30</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Di wahri katastrophe</TITLE>
+    <DATE>2019-06-03 08:26:27</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>"Machet eifach mau, mir luege de n #228;r"</TITLE>
+    <DATE>2019-06-11 07:15:14</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>80% vode online Bewertige</TITLE>
+    <DATE>2019-06-11 07:28:07</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Press F to pay respect!</TITLE>
+    <DATE>2019-06-11 07:40:38</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-06-11 07:43:50</DATE>
+    <TEXT>F</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>F #252;r die Koppelung des Studiums mit der Praxis!</TITLE>
+    <DATE>2019-06-11 08:02:57</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Deja vu!</TITLE>
+    <DATE>2019-06-11 08:35:19</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Might apply to other games as well</TITLE>
+    <DATE>2019-06-11 08:59:23</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>D h #228;ufti vor klass be like</TITLE>
+    <DATE>2019-06-11 09:36:52</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>"Praxisorientiert"</TITLE>
+    <DATE>2019-06-17 12:12:49</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Risitas approved the FFHS</TITLE>
+    <DATE>2019-06-17 14:06:38</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>FFHS: "Dir bech #246;met n #252;t weder d b #252;echer zr #252;g schicket." D Studente schicke B #252;echer nid zr #252;g. FFHS: *surprised pickachu*</TITLE>
+    <DATE>2019-08-19 09:25:19</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Once about every millennia, a miracle happens!</TITLE>
+    <DATE>2019-08-26 11:48:40</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>They did it, the absolute madlads!</TITLE>
+    <DATE>2019-08-26 12:15:39</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Wo w #228;re dann noch die Praxisorientierung, meine lieben Fussballfreunde?</TITLE>
+    <DATE>2019-08-26 12:22:57</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Gw #252;ssi Studis be like:</TITLE>
+    <DATE>2019-09-06 10:01:02</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>They be doing it sneaky beaky like</TITLE>
+    <DATE>2019-09-09 11:34:36</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Aber Palgiate werden mit einer Eins benotet!</TITLE>
+    <DATE>2019-09-09 13:35:28</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>They tricked us all brothers...</TITLE>
+    <DATE>2019-09-16 07:23:34</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>They both provide equal value!!!</TITLE>
+    <DATE>2019-09-16 07:41:15</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>They did it the mad lads!</TITLE>
+    <DATE>2019-09-16 09:16:04</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Oh yeah, it's all coming together!</TITLE>
+    <DATE>2019-09-20 08:51:42</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>it hurts because it's true...</TITLE>
+    <DATE>2019-09-23 10:55:26</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>FFHS hiring policies be like</TITLE>
+    <DATE>2019-09-30 06:58:29</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Reporting live now</TITLE>
+    <DATE>2019-09-30 07:34:42</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Wenn tats #228;chlech mau es gw #252;sses Niveau f #252;r d Ufgabe erwartet wird</TITLE>
+    <DATE>2019-10-07 12:39:46</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>They be sneaking up on you...</TITLE>
+    <DATE>2019-10-14 09:29:45</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-15 15:30:31</DATE>
+    <TEXT>Damn, those are some nice looking dice! well done!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Spooky Spooktober news: es geit nur no 2.5 Monat bis d Transferarbeite m #252;esse abg #228;h si</TITLE>
+    <DATE>2019-10-21 09:25:31</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>They may be rare, but there are heros among them!</TITLE>
+    <DATE>2019-10-21 09:32:20</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>It do be like that</TITLE>
+    <DATE>2019-10-28 08:00:30</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>One day late, but here is a halloween meme!</TITLE>
+    <DATE>2019-11-01 08:01:42</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-11-01 10:09:45</DATE>
+    <TEXT>Thank you very much sir, I appreciate the kind words!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>If only we had a hero like this...</TITLE>
+    <DATE>2019-11-04 12:08:40</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Das isch nid mis Meme, das isch  #252;ses Meme!</TITLE>
+    <DATE>2019-11-04 13:43:54</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Englisch?! I mim Informatikstudium?! Sicher nid!</TITLE>
+    <DATE>2019-11-04 13:48:44</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>D h #228;ufti vode Studis am zuelose, d h #228;ufti nid... Perfectly balanced... As all things should be...</TITLE>
+    <DATE>2019-11-04 13:54:28</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Nid verg #228;sse, geliebtli Fussballfreunde!</TITLE>
+    <DATE>2019-11-04 13:57:19</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Press F to pay respect</TITLE>
+    <DATE>2019-11-11 07:54:09</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Meme Monday is upon us my friends!</TITLE>
+    <DATE>2019-11-11 08:10:48</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Mondays be like</TITLE>
+    <DATE>2019-11-11 09:03:38</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>The truth can be quite disturbing!</TITLE>
+    <DATE>2019-11-11 09:10:18</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Erscht Tag ar FFHS be like</TITLE>
+    <DATE>2019-11-11 09:37:50</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Wenn d Farb vo dim Logo zur Farb vo dire Nase passt</TITLE>
+    <DATE>2019-11-18 08:38:34</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Es isch s #228;ute, aber es gits!</TITLE>
+    <DATE>2019-11-18 08:55:21</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Listen to uncle Iroh, make your desicions wisley!</TITLE>
+    <DATE>2019-11-25 10:12:42</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Iroh is bae and you know it!</TITLE>
+    <DATE>2019-11-25 10:39:54</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Maybe there is till hope out there</TITLE>
+    <DATE>2019-12-02 09:33:52</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>It's big brain time meine geehrten Fussball-Freunde!</TITLE>
+    <DATE>2019-12-09 07:29:10</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Release them from their captivity!</TITLE>
+    <DATE>2019-12-09 08:00:58</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>I need my 360 #176; surround sound to listen for creepers!</TITLE>
+    <DATE>2019-12-09 08:07:04</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>It's treason then</TITLE>
+    <DATE>2019-12-09 08:20:59</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>TAs are love, TAs are life!</TITLE>
+    <DATE>2019-12-09 08:21:51</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>"Mir flicke de uf dr Produktion" - Die wo das dumme Portau gmacht hei</TITLE>
+    <DATE>2020-01-06 11:39:07</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Was d Welle 7 Mitarbeiter am M #228;ntig Morge gh #246;re wenn d Ferie vor FFHS d #252;re si</TITLE>
+    <DATE>2020-02-03 14:21:14</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>I ha im Studium glehrt miner Priorit #228;te zsetze</TITLE>
+    <DATE>2020-02-07 07:54:05</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>it do be like that sometimes, lads</TITLE>
+    <DATE>2020-02-10 06:42:29</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>ECTS?! I mim Studium?! Sicher nid!</TITLE>
+    <DATE>2020-02-10 07:07:33</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>They can't handle the truth!</TITLE>
+    <DATE>2020-02-21 09:17:07</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Jedes mau wennde versuechsch ufzpasse ir Lektion</TITLE>
+    <DATE>2020-02-21 09:22:14</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>When you discuss what the air-speed velocity of an unladen swallow is</TITLE>
+    <DATE>2020-02-21 09:28:49</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>it do be true...</TITLE>
+    <DATE>2020-02-21 09:37:46</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>It's all about the monies</TITLE>
+    <DATE>2020-02-24 12:16:07</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Isch ds gr #228;chtfertigt? Wahrschinli nid. Machemers trotzdem? definitiv ja</TITLE>
+    <DATE>2020-02-24 12:18:46</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>u nat #252;rli steut  #246;ber no e frag drzue...</TITLE>
+    <DATE>2020-03-06 08:18:57</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>eifach unfair so z #252;g...</TITLE>
+    <DATE>2020-03-09 07:47:21</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>aber was erwartetme o wenn d lascht a das tool pl #246;tzlech 500 mau gr #246;sser wird aus normau.</TITLE>
+    <DATE>2020-03-09 09:51:19</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>The calculations... they are some kind of elvish, I can't read them</TITLE>
+    <DATE>2020-03-09 12:51:10</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>We have your back covered brother, do not fret their evil advances!</TITLE>
+    <DATE>2020-05-21 23:19:16</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>As a knight of the round table I heed your call, Stogerman, and ride to save this sub!</TITLE>
+    <DATE>2020-08-17 12:15:11</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Nid alli imene Informatikstudium si technisch begabt  #175;\_( #12484;)_/ #175;</TITLE>
+    <DATE>2020-08-24 09:00:42</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Gots to love giving feedback</TITLE>
+    <DATE>2020-08-24 09:18:37</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Press F to pay respects</TITLE>
+    <DATE>2020-08-24 09:23:19</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Worse than violating the Geneva convention</TITLE>
+    <DATE>2020-08-24 09:32:44</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>The genius masterplan is now revealed!</TITLE>
+    <DATE>2020-08-31 12:27:35</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>these fake news are getting out of hand!</TITLE>
+    <DATE>2020-08-31 13:05:00</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>based on a true story</TITLE>
+    <DATE>2020-08-31 13:11:18</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Cmon people, post them memes!</TITLE>
+    <DATE>2020-09-07 08:29:07</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>A speical place in hell</TITLE>
+    <DATE>2020-09-07 08:32:09</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Frantic, Skribbl, Krunker and Minecraft... Lets invite the whole gang!</TITLE>
+    <DATE>2020-09-07 08:42:45</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>2h? l #228;ngt ja no loooocker</TITLE>
+    <DATE>2020-09-14 07:38:41</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Freaking millennials, just wanting to die</TITLE>
+    <DATE>2020-09-14 07:44:30</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Atleast they're honest</TITLE>
+    <DATE>2020-09-14 07:49:33</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>when even god thinks they fucked up</TITLE>
+    <DATE>2020-09-21 12:52:11</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>is it a rant? is it a meme? i dunno</TITLE>
+    <DATE>2020-09-21 12:52:55</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>U mit aues meineni d Folie vom Dozent</TITLE>
+    <DATE>2020-09-21 12:53:40</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>you gotta respect them to some extend...</TITLE>
+    <DATE>2020-09-21 12:54:14</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Straight talk with the FFHS be like</TITLE>
+    <DATE>2020-09-28 08:24:24</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>i'm not always drunk while making memes...</TITLE>
+    <DATE>2020-09-28 08:37:02</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>To the deepest, hottest parts of hell with people like this...</TITLE>
+    <DATE>2020-10-05 08:30:47</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>u/Stogerman being da true MVP (not minimal viable product)</TITLE>
+    <DATE>2020-10-05 08:31:19</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Plus P #252;nkt wenns am Sunntig isch mitere PVA am M #228;ntigmorge</TITLE>
+    <DATE>2020-10-05 08:32:17</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>LETS RIDE TO BATTLE... NOT...</TITLE>
+    <DATE>2020-10-05 08:40:57</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>It's a close race my friends...</TITLE>
+    <DATE>2020-10-12 08:02:44</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Stogerman being da real MVP</TITLE>
+    <DATE>2020-10-12 08:03:19</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>and he was never seen paying attention again...</TITLE>
+    <DATE>2020-10-19 10:34:49</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>heit ja sch #252;sch kener modul oder?</TITLE>
+    <DATE>2020-10-19 10:35:19</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>i'm scared for the future...</TITLE>
+    <DATE>2020-10-19 10:35:45</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  </INDIVIDUAL>

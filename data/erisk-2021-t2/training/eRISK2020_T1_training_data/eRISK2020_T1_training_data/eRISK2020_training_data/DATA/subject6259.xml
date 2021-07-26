@@ -1,0 +1,1719 @@
+<INDIVIDUAL>
+  <ID>subject6259</ID>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-04-22 22:33:45</DATE>
+    <TEXT>"Hope, it is the quintessential human delusion, simultaneously the source of your greatest strength, and your greatest weakness." - The Architect of The Matrix This couldn't be more true and it blows my mind.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-04-24 03:13:43</DATE>
+    <TEXT>This is why intelligence and education are not always related. BACKUPS</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>ARE YOU F**KING KIDDING ME</TITLE>
+    <DATE>2013-04-24 17:15:06</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-04-25 17:27:27</DATE>
+    <TEXT>"Now I'm not saying [I agree with the bombings] ... but I understand."</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Free at last, free at last. Thank God almighty, free at last.</TITLE>
+    <DATE>2013-04-28 19:54:18</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Design help for reddit upvote/downvote system</TITLE>
+    <DATE>2013-04-30 23:18:56</DATE>
+    <TEXT>I'm working on a site and want to incorporate an up/down vote system. Two ways jump out at me: 1) user_id, obj_id, rating. user_id  amp; obj_id are a paired key and rating either stores 1 or -1. 2) user_id, obj_id, upvote, downvote. Paired key is the same as #1 but depending on which the user checked, the appropriate column gets flagged. I've implemented scenario #1 but was curious if the other is better. Any thoughts on which of the two is better? Thanks for your insight.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-05-01 18:07:37</DATE>
+    <TEXT>ratings of 0 are not being stored. I only store a 1 (upvote) or -1 (downvote). When I access the view object page, I get the up/down vote count with the following query (not single select either): SELECT (SELECT COUNT(*) FROM ratings WHERE rating = 1 AND obj_id = " . $this- gt;id . ") AS likes, (SELECT COUNT(*) FROM ratings WHERE rating = -1 AND obj_id = " . $this- gt;id . ") AS dislikes</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-05-06 00:43:16</DATE>
+    <TEXT>I changed my design to scenario #2. I found I was able to get more powerful results from single queries.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>The Two Wha?</TITLE>
+    <DATE>2013-05-07 18:36:44</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Adorable baby hamsters.</TITLE>
+    <DATE>2013-05-08 17:33:36</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-05-08 18:00:17</DATE>
+    <TEXT>Nope nothing. I was surprised also cause I heard the same thing. These were my ex's hamsters and I think they were all split up shortly after the older pictures were taken. They were able to drink and eat by then so we felt they could be alone; we wanted to avoid the mom eating them.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Crappy Monday morning wake up.</TITLE>
+    <DATE>2013-06-17 13:25:27</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-06-17 13:55:04</DATE>
+    <TEXT>Yeh no kidding. Thankfully, it's not my car.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-06-17 18:00:33</DATE>
+    <TEXT>It's from a garbage truck. I have no clue how they manage to do this.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-06-18 16:47:39</DATE>
+    <TEXT>It's like you said, there's no bullshit and there is only one right answer. It's one of the only, if not only perfect things in life. I studied higher levels of calculus after my college quota was met just because I love math.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>One derp to rule them all</TITLE>
+    <DATE>2013-06-23 20:46:39</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-06-27 13:36:47</DATE>
+    <TEXT>I love how in the part they're assuming the guy is an idiot, they spelled category wrong. PRICELESS!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-07-26 00:35:36</DATE>
+    <TEXT>I was on this about 10 years ago and my buddy at the time shot a video of our experience. It was pretty amazing to go through it. I never got a copy of that video unfortunately and I'm no longer friends with the guy. On a side note, I stood on the front of it facing the turnpike and peed into the river. :-)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-08-05 16:32:59</DATE>
+    <TEXT>Even easier way to do this. Tell them you want it off. If they insist to keep it on, then demand a discount for allowing you to use your car to advertise their business. Watch how fast it comes off.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Think they're providing a public service but really they're complete douches. Have heard this from multiple people in my life.</TITLE>
+    <DATE>2013-08-08 14:05:13</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>I'm a developer at a new company. Nothing is documented and I'm told, just copy and paste.</TITLE>
+    <DATE>2013-08-14 12:37:51</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Can you argue?</TITLE>
+    <DATE>2013-08-15 14:47:56</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-08-17 00:31:44</DATE>
+    <TEXT>Not to be a hater but this has been posted and reposted and reposted and so on. OLD NEWS!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-08-17 00:37:00</DATE>
+    <TEXT>Fair enough.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-08-17 00:37:39</DATE>
+    <TEXT>I hardly lose though.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Got this treasure at my laundromat while I was emptying my machines.</TITLE>
+    <DATE>2013-08-19 20:22:02</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-08-19 22:45:51</DATE>
+    <TEXT> gt; [ #8211;]CollinShaver 1 point 8 minutes ago  gt; I have two gold plated nickels. Too bad thy aren't solid gold. :(  gt; permalinkreportgive goldreply  gt;  gt; formatting helpreddiquette  gt; save  gt; I bought a set in 1999 of all five state quarters and a set of regular coins (penny, nickel, dime, quarter, and Susan B. Anthony) also gold plated. I've never opened them as they're supposed to be collector's kits. These hardly have an extra value other than their face but they're pretty damn cool I think.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-08-20 02:46:52</DATE>
+    <TEXT>Gold plated but yes real, not brass.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-08-20 13:24:20</DATE>
+    <TEXT>Most of the things I find "cool," are actually quite humdrum to the majority of my friends. I think a lot of what's in this subreddit is pretty awesome though.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>The back of this Toyota Prius is reconstructed out of wood.</TITLE>
+    <DATE>2013-08-21 14:58:50</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-08-21 15:01:46</DATE>
+    <TEXT>That looks kind of terrifying.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-08-21 15:10:15</DATE>
+    <TEXT>But with less attitude.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-08-21 17:36:58</DATE>
+    <TEXT>I think that's just the design he was going for. He already redid the back, why not tweak the logo as well I suppose?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-08-21 17:54:38</DATE>
+    <TEXT>This was in central NJ, at a Home Depot of all places.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-08-21 17:57:14</DATE>
+    <TEXT>In this world, I think anything is possible.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-08-21 18:29:18</DATE>
+    <TEXT>I did take these pictures.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-08-21 18:39:59</DATE>
+    <TEXT>License plates blocked out since several of you commented on it.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-08-21 18:40:37</DATE>
+    <TEXT>License plates blocked out since several of you commented on it.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-08-21 18:59:05</DATE>
+    <TEXT>I did take these photos myself at the Home Depot in Milltown, NJ. Being that I haven't seen every post on Reddit, then yes it's possible it's been on here before.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-08-21 19:02:18</DATE>
+    <TEXT>Being that I just recently started posting on Reddit, I'm not really sure what link karma really is. Furthermore, as I commented above. "I did take these photos myself at the Home Depot in Milltown, NJ. Being that I haven't seen every post on Reddit, then yes it's possible it's been on here before."</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-08-22 00:32:11</DATE>
+    <TEXT>Because they're probably millions of towns on this planet and finding someone "next door" is pretty cool.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-08-23 13:45:33</DATE>
+    <TEXT>It's like when the quarter fell on its edge in the movie Shaolin Soccer. Amazing movie. Great scene. And this is definitely way more than mildly interesting.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-08-23 13:47:53</DATE>
+    <TEXT>That's what I get for posting while on the train. Will redo when I get to the office. Thanks.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>The 3D model of this molecule looks like a penis.</TITLE>
+    <DATE>2013-08-24 13:19:24</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-08-31 16:52:24</DATE>
+    <TEXT>Kind of ironic that they drew the nuclear towers.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-09-24 14:49:46</DATE>
+    <TEXT>2nd viewing? I've rewatched the show several times already and will definitely do it again.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Gazebo in New Hope, PA [3264x2448]</TITLE>
+    <DATE>2013-09-26 17:47:42</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-09-27 00:18:52</DATE>
+    <TEXT>He already did one.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-10-03 17:01:28</DATE>
+    <TEXT>Everybody needs a Danny.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-10-23 22:14:31</DATE>
+    <TEXT>"Screech, you can't elope! Who you calling cantaloupe you melon head?"</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-10-23 22:17:28</DATE>
+    <TEXT>What's the best thing about fucking twenty-nine year olds? There's twenty of them.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-10-23 22:20:30</DATE>
+    <TEXT>56K was "high speed"</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-10-23 22:23:00</DATE>
+    <TEXT>Breaking Bad is the worst show ever.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-10-23 22:27:04</DATE>
+    <TEXT>The Legend of Zelda A Link to the Past</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-10-28 21:44:23</DATE>
+    <TEXT>"Choice is an illusion created between those with power and those without."</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-11-01 02:10:18</DATE>
+    <TEXT>"He is Vigo! You are like the buzzing of flies to him!"</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-11-04 17:40:15</DATE>
+    <TEXT>My lunch box... This wasn't an ordinary lunchbox though. I bought an ammunition box that I called my lunch box. I drilled holes in the top and installed four blinking LEDs that never stopped blinking. I drilled a hole in the back that had an internal connection to a CD player that I carried inside of it; this way I could plug my headphones "into the box." This thing was covered with stickers of the bands I liked. This never left my side and I carried it everywhere. I do not think anyone would be allowed to get away with this nowadays.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-11-12 20:20:31</DATE>
+    <TEXT>American here but I'm an immigrant from Israel. My family is originally from the Soviet Union and of course, I have relatives that fought in the Red Army against the Nazis. I heard some great stories about them shooting up those Schwein. I agree, Americans don't get it. It's one thing to read about it in a book; it's something different when I can call my grandparents and ask...</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-11-12 22:02:47</DATE>
+    <TEXT>Absolutely,yes. But from my friends and the people I know, it's a no. The only people that shared that were the ones from the European side, not over here.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Where do fan sites get their data from?</TITLE>
+    <DATE>2013-11-27 17:19:51</DATE>
+    <TEXT>Where do sites like puzzledragonx.com and pad.wikia.com get the data for all of the monsters, dungeons, etc. from? Is there a central DB on gungho's site that offers the data or something along those lines? I'm currently crawling one of the sites I mentioned to retrieve the data and store a local copy of it but if there was a central location, I would be so happy. I'm a developer and want to write some scripts that will do a number of things to make my life easier. Even if the things I wanted to do exist, I still want to create my own stuff for fun. Thanks</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-11-27 17:33:50</DATE>
+    <TEXT>That's exactly what I want. As of now, I'm crawling pdx.com and compiling XML files on the fly and storing them for further analysis. Once I have enough stats pulled from their site, I'll build an actual DB where I can run some powerful queries for even more analysis. But the amount of data the game has is way way way too much for them to just get it from playing...</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-11-27 17:54:30</DATE>
+    <TEXT>Yeah, it's like "too perfect" for them to not be affiliated or something with GungHo.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-11-27 21:22:04</DATE>
+    <TEXT>I have a rooted android so I was able to get all of the files stored in the data directory. If the game really is fully loaded on the phone, then those stats must be buried somewhere in one of those files. it then becomes a matter of analyzing the files to try and find the right ones. Does anyone have access to these files that's not version 6.1.0? Maybe a simple file size difference can help isolate the correct set?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-11-28 01:04:39</DATE>
+    <TEXT>Exactly! All of the data on all of the sites, apps, etc. I just don't believe it's not parsed from something.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-11-28 01:05:23</DATE>
+    <TEXT>Awesome. I hope they respond and please share your findings.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-12-06 17:18:07</DATE>
+    <TEXT>What about the Dub-mythlit? I've completed it twice now and have gotten nothing. 25/play is a lot but if i get something, it's worth it. According to padx, it says 100% drop rate. What gives though?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-12-06 17:55:51</DATE>
+    <TEXT>Oh I didn't get that. Then should I bother playing this? I need it for a couple huge evos but I'm getting annoyed.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-12-06 18:12:13</DATE>
+    <TEXT>Well of course but who knows when that'll be again... I don't want to wait forever.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-12-06 18:23:04</DATE>
+    <TEXT>Now I played so many times and got so many dubs, that I need two dub-mythlits. First world problems...</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-12-06 21:29:11</DATE>
+    <TEXT>I didn't realize those were invasions. I've definitely had that and it's awesome. It just sucks having to wait for it.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Playing with bin files.</TITLE>
+    <DATE>2013-12-07 00:22:16</DATE>
+    <TEXT>I know there are two bin files that store game data. I've read with rooted phones, people play multiple accounts by loading/reloading different bins. My question is this. I also preface this with I know this is cheap but let's say I play a board. I don't get the drop I was hoping for. Can't I just reload the bins and try again until I get what I want? If the board is difficult, don't I have "infinite" stamina to try it until I get it? Thanks.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-12-09 17:08:09</DATE>
+    <TEXT>How are stats modifiable?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-12-09 21:09:49</DATE>
+    <TEXT>Oh man. Hill of Iris is the 16th tech dungeon. I'm only on #8 Shrine of Liquid Flame. And these boards are pretty rough cause I dont really have anything too fancy. A couple good pulls that I evolved but mostly it's all dragons I'm advancing.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-12-09 21:32:29</DATE>
+    <TEXT>Well there are classes to download with that load the html and you can traverse the code through a series of routines and what not. I always seem to have a mental block when it comes to those so I'm just looking at the code and doing regular expressions against the parts that contain the info I need and pull it out. It's hardly the right way to do it but it's working.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Legendary Evil Dragon Drop</TITLE>
+    <DATE>2013-12-09 21:42:46</DATE>
+    <TEXT>I really want that Evil Dragon Helhiem. I've completed expert about five or six times but haven't gotten it. I know the drop rate on master is much higher but I'm just not strong enough yet to complete it. Given that last time this dungeon was available was about 6 months ago, should I just keep playing expert until I get it? Am I just delusional and wasting all of my stamina or there's actually a chance for it? Thanks</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-12-09 21:58:23</DATE>
+    <TEXT>I already have him and he's awesome. But that one just looks totally badass. Plus with an ultimate evo, he doubles up on purple attack and is 40x, not 20x.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-12-09 21:59:08</DATE>
+    <TEXT>Yeah I was playing yesterday during x2 but it then ended. I don't know when the next one is so I don't want to miss it.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-12-09 22:35:43</DATE>
+    <TEXT>Damn three drops, that's awesome. I don't have anything too special or good. Mostly the most evolved versions of the starter dragons and "lil x dragon." I use Chaos Devil as my leader for defense and then usually Lightning Holy Dragon, Echidna (for delay), and Tyrannos or something. The partner I pick is a an attack multiplier, don't know the name but for every combo above 3, it multiplies by 1.5, 2.0, 2.5, etc.. all attacks, That's very helpful for almost all stages but the knights on the highest level here just massacre me.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-12-09 22:39:04</DATE>
+    <TEXT>Ok. Sounds like I'm going to hold off on this dungeon until then. I just got a Pterra so hopefully I can get it to the highest level by then and have another powerful white dragon helping me.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-12-09 22:40:33</DATE>
+    <TEXT>Also, maybe I should pick two chaos dragon leaders. That way all damage is quartered and I might stand a chance....</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Ultimate Evolution Specifics</TITLE>
+    <DATE>2013-12-17 17:39:18</DATE>
+    <TEXT>I've tried finding this answer and either didn't look hard enough or it wasn't clear enough for me. So two basic questions: 1) If I'm at level x let's say and I run an ult evo, will I reset to level 1 or will I continue at x + 1? 2) If I have awoken some of the skills and run an ult evo, will I lose those awakenings or will the new ult evo'd monster have them as well? Thanks for the clarifications.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-12-17 17:49:50</DATE>
+    <TEXT>Awesome. Thanks!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-12-17 17:53:21</DATE>
+    <TEXT>I should have asked when I could have gotten another dragon helheim. Now I'll have to use tamadra. Oh well, at least I know for next time.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>So this just happened ...</TITLE>
+    <DATE>2013-12-28 18:52:38</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Increasing skill level</TITLE>
+    <DATE>2014-01-25 19:03:21</DATE>
+    <TEXT>Wanted to get an opinion on leveling up the skills. Should I wait for x2 skill up rate or just do it now? I have a lot of monsters I've been holding onto but I need the room so what do you recommend? Thanks</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-01-25 19:29:10</DATE>
+    <TEXT>Nah these are monsters that aren't as easy to get. I'm sitting on a few mystic knights and chimeras. Looks like I'm holding off a bit, thanks. I know they say there's no difference if the monsters are fed all at once versus one at a time. I still kind of feel that's not true and spaced out is better. Am I crazy about this or is there some truth to that?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-03-07 17:56:33</DATE>
+    <TEXT>Hello Dr. Kaku. I'm a big fan of yours and had the pleasure of meeting you in Newark airport back in December 2012, thanks for the pic. My question, if you had the power to live forever would you accept? Why or why not?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Is it worth it?</TITLE>
+    <DATE>2014-05-21 17:25:27</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-05-21 17:25:58</DATE>
+    <TEXT>Hey guys. So, I rarely use these dragons much anymore but I'm still hesitant to make this move. I fear I might have "fusion remorse."</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-05-21 17:54:00</DATE>
+    <TEXT>That's exactly it for me. I rarely use these guys any more but I like having it in my box and feel like I'll miss them when they're gone.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-05-21 18:25:42</DATE>
+    <TEXT>That's my plan. I've been running a devil team that's pretty damn awesome. I have the orb enhance with my hera ur but I don't have horizontal power awakening with anyone else. I think as a sub for the team, it'll be quite powerful.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>I hope I'm not alone here...</TITLE>
+    <DATE>2014-06-05 23:05:40</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>My first sprites: 1UP Mushroom, Dark Mage, and Link</TITLE>
+    <DATE>2014-07-03 17:12:31</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-07-03 21:29:12</DATE>
+    <TEXT>Thanks.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-07-03 21:29:39</DATE>
+    <TEXT>Oops</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-07-09 19:22:29</DATE>
+    <TEXT>That's the only thing I'm interested in. I was hoping to see a puzzle and dragons nod.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>After the 6.5.2 update</TITLE>
+    <DATE>2014-07-10 22:32:30</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>As a landlord with two houses</TITLE>
+    <DATE>2014-07-10 22:39:19</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-07-11 00:40:35</DATE>
+    <TEXT>I started the eviction process but she's fucking with the courts. Her lease even expired and she refuses to leave so now she's squatting. I hope to have her stupid ass out soon.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-07-11 00:40:53</DATE>
+    <TEXT>Exactly. Courts, the laws, bla bla bla bla.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-07-11 00:43:07</DATE>
+    <TEXT>Yup. People must spend a butt load during godfests to pull her. She's great, but I can't see myself spending hundreds of dollars to get just her if even. I have enough golems.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-07-11 15:14:56</DATE>
+    <TEXT>Oh this is definitely a great change I agree. But people have to make sure they have different leads for each team otherwise the feature is useless.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-07-11 15:16:48</DATE>
+    <TEXT>Very crowded now, I agree</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-07-11 15:33:44</DATE>
+    <TEXT>Damn that's a lot. I haven't spent any stones on expanding my list so seeing 100 seems overwhelming but 420 (nice number) I just can't imagine.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-07-11 15:35:11</DATE>
+    <TEXT>Yeah I can't have that happen to me. Sorry to hear that man.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-07-11 15:39:37</DATE>
+    <TEXT>ONE DOES NOT SIMPLY EVICT DEADBEAT TENANTS.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Man Who Killed Wife Over Dinner Prefers Death to Prison Food</TITLE>
+    <DATE>2014-07-11 17:26:44</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-07-11 20:33:09</DATE>
+    <TEXT>Ok, sorry it didn't make the cut.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-08-18 17:01:04</DATE>
+    <TEXT>I move to Cablevision only cities.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-08-19 22:40:16</DATE>
+    <TEXT>"OF COURSE WE DO SIR."</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-08-20 21:53:07</DATE>
+    <TEXT>The Uros islands. I've been there and it's quite amazing.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-08-29 15:43:36</DATE>
+    <TEXT>Right Where It Belongs - Nine Inch Nails</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Wow I was stupid.</TITLE>
+    <DATE>2014-09-02 02:30:11</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-09-02 03:22:19</DATE>
+    <TEXT>Ha that's awesome.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-09-15 20:18:05</DATE>
+    <TEXT>Probably posted but just in case: https://www.youtube.com/watch?v=1EgVkHjn0yE</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-09-17 16:17:33</DATE>
+    <TEXT>Cartels for sure. Money is the most violent religion.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>New cards are "Tamadras" for skill ups</TITLE>
+    <DATE>2014-09-17 23:38:10</DATE>
+    <TEXT>I've been telling my friends that these kinds of cards must be added to the game. I just read the great news that these are being added, cards 1547-1551. GungHo, you da real mvp.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-09-18 05:39:37</DATE>
+    <TEXT>Wow I didn't bother to look up any details about the card and those are terrible stats. Nonetheless, the card itself, it's amazing.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-09-25 18:51:52</DATE>
+    <TEXT>I remember playing this on my old Commodore when I was like five or six years old. Now I'm all nostalgic so I had to download the game and start playing on my emulator. Games look much better nowadays but they were much simpler then.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-09-26 12:01:41</DATE>
+    <TEXT>That's the way we like to ... oops wrong game.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-09-26 15:21:44</DATE>
+    <TEXT>It was so sad when they stopped drawing her.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>World War III has begun, but no one seems to acknowledge it.</TITLE>
+    <DATE>2014-09-26 15:43:38</DATE>
+    <TEXT>So many countries coming together to bomb ISIS; seems like a world war to me.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-09-26 15:50:04</DATE>
+    <TEXT>http://www.merriam-webster.com/dictionary/war : a state or period of fighting between countries or groups : a situation in which people or groups compete with or fight against each other : an organized effort by a government or other large organization to stop or defeat something that is viewed as dangerous or bad Head count not mentioned...</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-09-26 16:01:59</DATE>
+    <TEXT>It's the giant squid in the room that no one wants to talk about. http://img.fark.net/images/cache/850/m/mt/fark_mtFAVAwGYusMIuNuDVLoIl8LgLA.png?t=spuN1fmNJlpBD28n0uOTrQ amp;f=1411963200</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-09-26 16:25:46</DATE>
+    <TEXT>World War I was primarily fought in Europe, one place. I think random isolated conflicts are opposite of a WW. Israel fighting Hamas, localized and just them. Mexican cartels trying to seize power, also local and just them. But the fact that so many countries are coming together to attack a group, makes it a WW. The reason everyone is going after ISIS is because they threaten not just their locale, but the world.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-09-26 22:31:47</DATE>
+    <TEXT>Please re-read the definition of war. Keep reading it until it soaks in. THIS IS A WAR! WAKE UP!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-09-26 22:33:16</DATE>
+    <TEXT>I guess that's why the giant squid is in the room. People like the blinders for whatever reason.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-09-26 22:36:43</DATE>
+    <TEXT>I don't have cable TV and get my news exclusively from here. Do I think ISIS poses a threat great enough to start a world war? Yes, hence this post. If I didn't, "we wouldn't be here." Furthermore, the fact that, I don't know, ten plus countries are coming together to bomb them, that is a response because of their threat. If this was just chicken shit, there wouldn't be such a global response.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-09-27 18:28:00</DATE>
+    <TEXT>Not to beat a dead horse but just saw somewhere it's fifty countries now against ISIS. Nah, not a world war at all.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Bitch, I'm abandoned.</TITLE>
+    <DATE>2014-09-29 21:17:25</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>My first +297 and her new ultimate evo.</TITLE>
+    <DATE>2014-10-02 20:23:58</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-10-02 21:23:33</DATE>
+    <TEXT>I know! I started plus-ing her months ago and when I saw this uEvo announced, I was happy.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-10-02 21:24:32</DATE>
+    <TEXT>I doubt that is going to happen unless they give something else with the same skill.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-10-31 18:42:38</DATE>
+    <TEXT>Then couple your Wii controller with the Droid and you're all set.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Girlfriend just texted me this</TITLE>
+    <DATE>2014-11-06 19:34:57</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-11-06 20:04:42</DATE>
+    <TEXT>She definitely is and she's got an awesome body. We've been together for 2+ years now and this was after we talked about marriage.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Dug up these gems while cleaning</TITLE>
+    <DATE>2014-12-19 20:30:27</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-12-19 22:07:14</DATE>
+    <TEXT>I remember it scaring the crap out of my buddy and me.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-12-20 05:01:20</DATE>
+    <TEXT>I was considering playing it again, now out of curiosity, I might have to to see how bad it is.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-12-20 22:00:57</DATE>
+    <TEXT>Basically, yes. It was in a box, with more boxes on top of that, buried in a closet.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>MRW my girlfriend texts me, "Do you want a blowjob tonight?" [SFW]</TITLE>
+    <DATE>2014-12-22 15:59:13</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-01-16 17:08:19</DATE>
+    <TEXT>Oh my breakfast is getting cold. Hold my breath as I wish for death.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-05-28 17:26:09</DATE>
+    <TEXT>To get scared half to death.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-07-09 19:37:08</DATE>
+    <TEXT>New link: http://ffilms.org/oxyana-2013/</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-07-20 19:36:46</DATE>
+    <TEXT>They're minerals</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-08-08 06:34:58</DATE>
+    <TEXT>Sieben acht, gute nacht.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-08-19 23:46:12</DATE>
+    <TEXT>This is fucking stupid and proves nothing. We all have our own crank regardless of how much we make. We'd all rather do something else.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-11-08 04:37:46</DATE>
+    <TEXT>I knew this was the video before even seeing it. I absolutely love this song and this band. EISENFUNK F #220;R IMMER. LET US PLAY PONG.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-12-25 09:45:03</DATE>
+    <TEXT>I got jack shit. At this point, I'd smile for a chocolate bar.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2016-01-21 05:41:48</DATE>
+    <TEXT>**ID**| 390,184,246 || -|-|- **Slot 1/2 Fixed Leads**| [\[ Awoken Dancing Queen Hera-Ur \] ](http://puzzledragonx.com/en/monster.asp?n=1536#I/S07/C136/1536 "Awoken Dancing Queen Hera-Ur") [\[ Crazed King of Purgatory, Beelzebub \] ](http://puzzledragonx.com/en/monster.asp?n=1371#I/S06/C171/1371 "Crazed King of Purgatory, Beelzebub") [\[ Enhanced HP \] ](#I/misc/C043/ "Enhanced HP") [\[ Entend Time \] ](#I/misc/C046/ "Extend Time") [\[ Entend Time \] ](#I/misc/C046/ "Extend Time") | Hera-Ur Hyper Maxed, Beelzebub +297 Skill Lvl 2 **Primary Used Leads**| [\[ Marvelous Red Dragon Caller, Sonia \] ](http://puzzledragonx.com/en/monster.asp?n=1645#I/S08/C045/1645 "Marvelous Red Dragon Caller, Sonia") [\[ Awoken Amaterasu Ohkami \] ](http://puzzledragonx.com/en/monster.asp?n=2324#I/S11/C124/2324 "Awoken Amaterasu Ohkami") [\[ Guardian of the Sacred City, Athena \] ](http://puzzledragonx.com/en/monster.asp?n=1422#I/S07/C022/1422 "Guardian of the Sacred City, Athena") | Sonia Hyper Maxed, Awoken Amaterasu +86 Skill Lvl 1, Athena +14 Skill Lvl 6 **Requested Leaders**| Anything really **BF Status**| Pending</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Question] Venus' active skill World or Change the World</TITLE>
+    <DATE>2016-02-01 17:26:38</DATE>
+    <TEXT>I decided to try and complete all of the achievements in the game and when I pulled during this most recent god fest, I got a Venus #128. I wasn't so thrilled but with that, I knew I could complete one of the achievements I missed out on, World. However, her skill in the game says it's Change the World. When I check padx, it's still labeled as World. I don't want to evo her just yet until I find out what's going on so does anyone have an idea why there's this discrepancy. I know it's not a big deal but I would like to get to the bottom of it. Thanks.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2016-02-01 19:23:57</DATE>
+    <TEXT>Ah okay thanks. That's cool they updated her skill but stupid they made it unattainable.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2016-02-26 00:17:40</DATE>
+    <TEXT>I got my Pi running FF7 but I had to overclock it.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2016-02-26 00:20:39</DATE>
+    <TEXT>Johnny Cash singing A Boy Named Sue is just awesome.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2016-03-01 18:20:29</DATE>
+    <TEXT>Take the drug rather than start sobriety.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2016-03-22 03:26:38</DATE>
+    <TEXT>This dude is a total fucking cocksucker. That was assault plain and simple. You don't want her on stage, get her off with security, that's their job. What a fuck tard.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2016-03-29 17:02:41</DATE>
+    <TEXT>Mine has to be a prime number</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Found a pile of pizza in the city (potato quality to keep in theme with the other potatoes)</TITLE>
+    <DATE>2016-04-01 01:16:19</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2016-04-04 20:15:25</DATE>
+    <TEXT>And they didn't even bother to show off the awesome gold cartridge, blast them to hell.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2016-04-21 19:00:13</DATE>
+    <TEXT>Yeah, I used to use pimpmyicon, those were the days.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2016-04-30 22:07:39</DATE>
+    <TEXT>Hey, listen. It's too perfect.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2016-05-05 05:58:05</DATE>
+    <TEXT>Howard Stern</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2016-06-15 16:52:21</DATE>
+    <TEXT>Remember me Eddie?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2016-06-19 10:23:00</DATE>
+    <TEXT>Same here. I'm always too late...</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2016-06-20 01:09:11</DATE>
+    <TEXT>I have 8 codes for 2 GA tickets. This is very cool.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2016-07-06 15:55:38</DATE>
+    <TEXT>I recommend getting WAMP/LAMP. Windows/Linux, Apache, MySQL, PHP. While you didn't mention PHP, get with that. This one installer sets up each of the parts I mentioned configured to work with another. PHPmyAdmin is one of the applications that comes with this package that is a complete front end to MySQL.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2016-07-06 18:38:30</DATE>
+    <TEXT>Bingo. Best of luck</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>me_irl</TITLE>
+    <DATE>2016-10-16 20:09:01</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2016-10-20 23:02:36</DATE>
+    <TEXT>The tweet says the address is .com but if you check WikiLeaks, the address is .net. Has someone hijacked their twitter?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Happy Halloween</TITLE>
+    <DATE>2016-11-01 18:03:24</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2016-11-02 21:46:07</DATE>
+    <TEXT>I'm ok with not seeing cubone et al but I definitely don't miss the damn pidgeys.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>The dictator is finally gone!</TITLE>
+    <DATE>2016-11-28 20:20:31</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Big surprises at this old fire department</TITLE>
+    <DATE>2016-12-29 17:36:25</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-14 20:10:53</DATE>
+    <TEXT>Buffalo Wild Wings has (used to have) all you can eat Monday nights. They have locations throughout Jersey.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Young seed cone preserved</TITLE>
+    <DATE>2017-02-02 20:36:28</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-02-06 20:24:47</DATE>
+    <TEXT>I don't recall the game's name, but it's a bad translation from the Japanese version to the English one.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>My uncle holding me when I first came to America. Brooklyn, 1980</TITLE>
+    <DATE>2017-02-20 21:44:10</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-02-20 22:31:31</DATE>
+    <TEXT>I was a fat baby for sure.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-02-20 22:33:44</DATE>
+    <TEXT>Me too. I've been trying to get this picture for almost ten years now. My family finally delivered and texted me a picture of this. I'd like the original but this is better than nothing.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-02-20 22:45:07</DATE>
+    <TEXT>For sure. Everyone said I was an excellent eater and was a great baby. Fast forward 36 years and I'm still an excellent eater and still a baby, though no longer great.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-02-21 06:05:18</DATE>
+    <TEXT>That's exactly how I still say it; my family is from the Soviet Union.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-02-21 06:05:43</DATE>
+    <TEXT>What does this mean?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-02-21 06:10:38</DATE>
+    <TEXT>You do realize that skin color has nothing to do with being an immigrant? Edit: missing word</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-02-21 06:16:17</DATE>
+    <TEXT>One of my first memories is singing Figaro and "playing" the piano at his house.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-02-21 10:11:09</DATE>
+    <TEXT>Excellent song</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-02-21 10:14:12</DATE>
+    <TEXT>Oh duh. Yes, that's probably his "thing." ... ...</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-02-24 08:08:56</DATE>
+    <TEXT>I'd rather not say</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Album Cover for Pig's "Wrecked"</TITLE>
+    <DATE>2017-02-24 12:30:16</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-02-24 20:17:40</DATE>
+    <TEXT>Yup yup. You got it</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-02-25 15:46:06</DATE>
+    <TEXT>One of the few CDS I still own. I believe I saw them live years ago. I prefer Sinsation over this one though.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-03-21 23:43:01</DATE>
+    <TEXT>I know a couple numbers ...</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-03-23 16:04:53</DATE>
+    <TEXT>Turn on Stasis and the missing stone will be yellow. I started using this trick and it's a huge help to find seeds and chests.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-03-27 06:09:06</DATE>
+    <TEXT>This is great! The seed though looks like a shiny piece of poop.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-03-27 18:13:04</DATE>
+    <TEXT>You can equip the fire swords in the cold weather regions and it'll raise your temperature so you won't need gear. (-:</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-03-27 18:24:14</DATE>
+    <TEXT>Where's your picture? It didn't happen unless you post a picture of it. [-:</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-03-27 18:27:08</DATE>
+    <TEXT>Rather than using the skull for all monsters, try different stamps for different types. For lynels, I use the arrow stamp. For hinox, I use the skull, and for talos another one. This way you know which monster is where. I keep track of weapon locations in an excel file so I don't use those stamps on the map.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-03-27 18:40:31</DATE>
+    <TEXT>I agree notes would be awesome, no need for my excel file then. Maybe with the DLC...</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-03-27 19:32:27</DATE>
+    <TEXT>It's ok, just a little sarcasm going your way. There's been pictures of this almost daily here.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>What's the max on fairies? I've managed to get 11.</TITLE>
+    <DATE>2017-03-29 20:18:56</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>16 fairies! I definitely think I hit the max this time.</TITLE>
+    <DATE>2017-04-02 01:14:53</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-04-02 01:21:36</DATE>
+    <TEXT>Haven't seen it for about a week now.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-04-02 02:08:21</DATE>
+    <TEXT>I totally agree. These aren't necessary whatsoever but it's something other than looking for turd piles.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-04-02 17:40:17</DATE>
+    <TEXT>Then hold five, release them and quickly pause. Hold onto as many to have only two left. Back to game and they'll respawn, put away what you're holding, quickly pick up the five you dropped and grab the new spawns. You have to do this all really quick with full stealth on. I started with 12, dropped the 5, hold 5 and that's how I got the 16.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-04-02 23:08:10</DATE>
+    <TEXT>Yeah more or less. Play around with it and you'll get the feel for it.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-04-03 02:08:42</DATE>
+    <TEXT>Southwest is Gerudo territory; southeast is the fishing village</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-04-03 17:53:12</DATE>
+    <TEXT>Can you get into it and explore?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-04-03 21:04:38</DATE>
+    <TEXT>Start with what this guy said:  gt; 7 in inventory. Hold 5 of them, 4 spawn.  gt; Pocket the 5, pick up the 4, now there's 11 in inventory. Except instead of 7, you'll have 3/4. Whatever you have, hold enough until you only have 2 in inventory. They respawn, put away, grab those then you have more. Keep doing this until you have to let them go, then hold, then spawn, then quickly scoop up. Edit: formatting</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-04-03 21:21:00</DATE>
+    <TEXT>Np. Were you able to get it working?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-04-04 02:23:42</DATE>
+    <TEXT>Since you don't have to let these go, walk out of the fountain then hold the five and walk towards the fountain. While you're still holding them, you should see the new ones spawn.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Found an almost Savage Lynel Sword in my things. I totally forgot about I had this.</TITLE>
+    <DATE>2017-04-06 20:09:08</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-04-08 01:33:58</DATE>
+    <TEXT>True. It's definitely not a sword, but the shape is close enough.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-04-13 18:44:51</DATE>
+    <TEXT>Excellent find! One of my oldest memories is running around the living room when my dad loaded this game for the first time.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-07-12 18:09:33</DATE>
+    <TEXT>You can get monthly parking at the One Spring Street deck for about $100. Call up Boraie for more information, 732-846-3636.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-08-09 06:15:25</DATE>
+    <TEXT>This guy is a piece of shit asshole</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-10-21 04:55:14</DATE>
+    <TEXT>https://m.imgur.com/dg3YPkc Check out that image, I got 16 when the game first came out.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-10-21 05:57:53</DATE>
+    <TEXT>Yeah it definitely took a while to get but eventually got it.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Reading at college level but never bothered to go to college</TITLE>
+    <DATE>2017-11-15 20:56:07</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-11-20 16:20:43</DATE>
+    <TEXT>Ross caaaaaan</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-11-28 14:58:55</DATE>
+    <TEXT>RemindMe! 1 day</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>I found him!!!</TITLE>
+    <DATE>2017-12-09 21:33:17</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-01-08 16:03:44</DATE>
+    <TEXT>I broke up with my ex and we've been sharing the dog for years now. It was a little rocky at first but now we alternate full weeks at a time. My new GF was a little iffy about the sharing and seeing my ex so much but we're married now and still sharing the dog with the ex. Glad to see others understand that the dog isn't like a TV and not something to just give up.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Formal Kombat</TITLE>
+    <DATE>2018-01-18 17:55:51</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Mandarin double time</TITLE>
+    <DATE>2018-01-20 17:34:29</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Tree in a tree</TITLE>
+    <DATE>2018-01-28 01:48:22</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-01-28 21:25:41</DATE>
+    <TEXT>"The atom bomb explodes again."</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-01-29 04:13:45</DATE>
+    <TEXT>Yahaha</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>I pity the fool that doesn't measure twice!</TITLE>
+    <DATE>2018-02-01 13:42:38</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-02-10 09:49:25</DATE>
+    <TEXT>"To the troops, all the troops... Both sides."</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-02-11 05:59:01</DATE>
+    <TEXT>While you labeled/flaired the post spoiler, you put the spoiler in the title thereby negating the value of said label/flair.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Found in Trenton, NJ. Michael, is that you?</TITLE>
+    <DATE>2018-02-26 17:37:27</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-02-26 23:06:14</DATE>
+    <TEXT>Yeah it's not that huge a deal but I've been playing to build up the list to see how far it'll go. Honestly since seeing this, I've totally lost interest and haven't played, that was my goal. I'll get back into it though</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Slippers are surprised to see me.</TITLE>
+    <DATE>2018-03-03 20:19:11</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-04-12 04:34:00</DATE>
+    <TEXT>RemindMe! 1 week</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-04-13 21:34:32</DATE>
+    <TEXT>RemindMe! 10 years 358 days</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-05-17 18:23:57</DATE>
+    <TEXT>I'm trying to grab 2017-02 but haven't been able to even download the meta data and it's been 20 minutes. Any seeders willing to help out? Thanks!!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-05-18 04:00:19</DATE>
+    <TEXT>After 9 hours it finally started! :-) The one zip file I wanted is corrupt and not working :-(</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-05-24 15:06:39</DATE>
+    <TEXT>That store is poorly organized/managed. Prices shown are constantly not the prices at the register. Good riddance.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-05-31 17:12:06</DATE>
+    <TEXT>I had lunch there once with a buddy and we were the only two people in the place and they still messed up my order. I wanted to smack the shit out of someone.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-05-31 19:01:29</DATE>
+    <TEXT>Oh I meant when it was bonchon... It's still not open. This space is too large for one restaurant in the current state of NB. There will be constant rotation until they divide or the city grows more.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-05-31 21:57:09</DATE>
+    <TEXT>I saw them taking the awnings down yesterday.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Angela needs this!</TITLE>
+    <DATE>2018-06-03 03:10:36</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-06-04 15:51:06</DATE>
+    <TEXT>Absolutely agreed.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-06-06 04:24:49</DATE>
+    <TEXT>They used to sell it at Amsterdam on Easton but stopped years ago. I don't think you'll find it in town. Either go online or find a doc ;-)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-06-11 17:24:22</DATE>
+    <TEXT>The B is going to stand for Burgers.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>When you have a show to get to after the long jump</TITLE>
+    <DATE>2018-06-12 16:32:37</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-06-12 22:46:56</DATE>
+    <TEXT>His shirt/ID thingie says Bauhaus</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-06-12 23:40:44</DATE>
+    <TEXT>I know it's totally stupid but I got a chuckle out of it.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-06-13 02:00:43</DATE>
+    <TEXT>Anything good?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-06-13 19:14:54</DATE>
+    <TEXT>Mmmmmmmm, hope you feel better.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-06-13 19:16:28</DATE>
+    <TEXT>I do the same with "special numbers" as I like to call them. 2600 is another one of them, although it's not music related.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-06-13 19:45:33</DATE>
+    <TEXT>RemindMe! 1 week</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-06-15 05:34:04</DATE>
+    <TEXT>RemindMe! 25 years</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-06-17 11:28:01</DATE>
+    <TEXT>RemindMe! 3.5 years</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Don't take advantage of your friends</TITLE>
+    <DATE>2018-06-18 19:46:15</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-06-19 18:21:13</DATE>
+    <TEXT>Besides having sex with men, I'd say the Finer Things Club is the gayest thing about me.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>HADOUKEN!</TITLE>
+    <DATE>2018-06-20 04:26:03</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-06-20 04:34:24</DATE>
+    <TEXT>I've seen the other bagel shop on George, not nosh, toss out dozens of bagels just after closing but I'm not sure if they offer freebies just before. It's a terrible waste of food.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-06-20 17:44:44</DATE>
+    <TEXT>Why is this so hard? That's what she said.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-07-01 17:11:34</DATE>
+    <TEXT>I don't mean to sound like a dick, but this is the dumbest question ever. Is there some special NB only monster that eats dogs? Only NB houses can catch fire and trap a dog? Put the pipe down man.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-07-01 17:30:51</DATE>
+    <TEXT>Well, thank you, thank you a lot.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-07-02 02:01:58</DATE>
+    <TEXT>Again, that can happen anywhere, not just NB. Sorry that happened to you though; I love my dog more than life.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-07-02 02:54:14</DATE>
+    <TEXT>RemindMe! 1 day</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-07-11 23:25:29</DATE>
+    <TEXT>How does WiFi in the bra work? What does it do for your breasts?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-07-17 18:20:28</DATE>
+    <TEXT>These people are who they are because everything they do is financially beneficial.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-07-18 19:08:34</DATE>
+    <TEXT>Ross: Okay, maybe it wasn't my best decision. But I just couldn't face another failed marriage. Chandler: Okay, let me just jump in and ask: At what point did you think this was a successful marriage?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-07-19 05:43:22</DATE>
+    <TEXT>I know of Elijah's Promise. It's not much, but somewhere you can start.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-07-19 22:39:02</DATE>
+    <TEXT>Indoctrination to the police state nice and young.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-07-22 21:28:03</DATE>
+    <TEXT>http://78.media.tumblr.com/tumblr_lh9tovHQ0b1qenzhno1_400.gif</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-07-25 23:59:37</DATE>
+    <TEXT>Pick up Mike Tyson's Punch Out. Mario is the ref in the game.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-07-26 00:34:49</DATE>
+    <TEXT>Awesome! Yeah he's all over the place.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-07-27 23:18:32</DATE>
+    <TEXT>/r/ofcoursethatsathing</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-07-30 15:45:32</DATE>
+    <TEXT>Why don't we take the other 99% and put them into the 1%?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-07-31 15:05:45</DATE>
+    <TEXT>While latitude lines go east/west, they measure north/south. Longitude measures east/west.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-07-31 17:46:11</DATE>
+    <TEXT>Good deal.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-08-05 19:43:24</DATE>
+    <TEXT>Bitch, I'm gay. Bitch, let's chill.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-08-05 19:57:41</DATE>
+    <TEXT>That's the point of the episode that they reveal. It's not really a detail, it's the plot.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-08-06 02:15:13</DATE>
+    <TEXT>I get what you're saying but that's like posting in moviedetails, holy shit, Malcolm is dead in the Sixth Sense. Again, it's not a detail, it's the plot. I guess I see these subs as kind of obscure things that aren't exactly spelled out for you but hidden treasures within an episode/movie. Again this isn't, hidden, these are plots. What you're bringing up is foreshadowing.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-08-06 02:16:26</DATE>
+    <TEXT>Right, it's foreshadowing, not what I'd consider a "tvdetail."</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-08-06 15:16:48</DATE>
+    <TEXT>OK fine.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-08-06 17:47:13</DATE>
+    <TEXT>Slav foot</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-08-07 16:07:34</DATE>
+    <TEXT>CAN'T the government CAN'T ... Transcribe it correctly at least please</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-08-07 16:11:14</DATE>
+    <TEXT>Good stuff</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-08-09 21:54:58</DATE>
+    <TEXT>We're not gonna live.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Image] Wesley Snipes with Truth</TITLE>
+    <DATE>2018-08-16 13:10:56</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-08-16 13:39:47</DATE>
+    <TEXT>Some might even call it a cozy, loftbrary.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-08-16 13:41:58</DATE>
+    <TEXT>I hate getting killed multiple times.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  </INDIVIDUAL>

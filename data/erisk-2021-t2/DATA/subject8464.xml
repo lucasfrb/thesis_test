@@ -1,0 +1,609 @@
+<INDIVIDUAL>
+  <ID>subject8464</ID>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-12 17:24:34</DATE>
+    <TEXT>Not quite, but probably the *most* important thing that was missing</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-13 10:01:51</DATE>
+    <TEXT>It would help if you could be more specific about what you're struggling with. Making an active item is no different to making a passive item except you use active tags in your items.xml file (search through the games' items.xml for an active item and you will see some of the different attributes you can use) and in main.lua you put your logic in the MC_USE_ITEM callback instead of the MC_POST_UPDATE. I hope this gives you a starting point to work from, if you have any more specific issues feel free to reply to this or pm me and I'll try to help. Another very useful resource is other people's mods, go download someone else's active item and look in their main.lua file for how they did it</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-13 10:09:30</DATE>
+    <TEXT>I don't have the api documentation in front of me, and can't really look as I'm at work, but I seem to remember there is a Revive() function or similar in EntityPlayer. Perhaps in the MC_ENTITY_TAKE_DMG callback you could check your hearts with player:GetHearts() (you will also have to check soul and black hearts)and if it is 0 and you have the item then revive. Like I say this is just off the top of my head but this is the way I'd approach the problem if there really isn't a way to add extra lives. When I have the chance I'll check the docs and see if I can help further</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-13 10:33:41</DATE>
+    <TEXT>I have just checked the docs and there is indeed a Revive() function. However there is also a WillPlayerRevive() function. I suggest playing round with this first</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-13 12:29:57</DATE>
+    <TEXT>I believe there is an attribute you can use for your item in items.xml that controls whether your item triggers an animation when used(although i haven't done anything animation related myself yet), but until i get home and check i can't confirm that</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-13 12:36:59</DATE>
+    <TEXT>I think his point is that he knows for a fact it is written in C++ as he has decompiled the whole game and has been modding it for a long time. I know it's not what you want to hear, but there are many games that will struggle to run on a laptop, you might just need to start saving up for a higher spec PC. If you want to see a badly optimised game, try playing original BoI</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-13 12:41:30</DATE>
+    <TEXT>can you be more specific than 'it crashes the game'? It would be helpful if you could maybe send the log.txt file so we can see exactly what the problem is</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-13 12:52:05</DATE>
+    <TEXT>There is a discussion about getting your run seed, or at least a workaround for figuring out which run you're in, [here](https://www.reddit.com/r/themoddingofisaac/comments/5nk3nc/get_current_run_seed_rng_problem/) I'm not entirely sure how this GetDropRNG() works so perhaps you could pm [u/trumps_only_regret](https://www.reddit.com/user/trumps_only_regret) and ask him nicely for some advice?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-13 12:54:16</DATE>
+    <TEXT>I would be very interested in seeing this if you have it</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-13 12:56:38</DATE>
+    <TEXT> gt; You can't create exe files with lua. The game is written in C++ You don't have to be omniscient. Just listen to people's answers when you ask them a question</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-13 14:07:27</DATE>
+    <TEXT>Okay, thanks for your help :) that does sound pretty laborious, maybe a project for the future!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-13 14:09:16</DATE>
+    <TEXT>And Cjreek said twice that it's written in C++. Trust him/her, s/he has no reason to lie. Please don't think I'm trying to have a go at you, I'm just saying it goes both ways and you will likely get a better response if you are open and listen to people when they offer you the benefit of their experiences</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-13 14:41:09</DATE>
+    <TEXT>oh yeah opening it is fine, but going through and translating it all into humanspeak sounds like more effort than it's worth :) We do have an official api now but it has limitations and there are a few things which i would have liked to look at how the game's code deals with them just in case it shed any insight onto how or even *if* these things might be moddable (one thing i'm particularly interested in looking at, which i haven't been able to find anything about in the api docs, is transformations)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-13 14:47:10</DATE>
+    <TEXT>Asks question that can easily be answered with a [Google search](https://www.google.co.uk/webhp?sourceid=chrome-instant amp;ion=1 amp;espv=2 amp;ie=UTF-8#q=what%20language%20is%20binding%20of%20isaac%20written%20in) Receives answer from modder (it says so next to his/her name!) Doesn't believe them Complains</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-13 15:16:00</DATE>
+    <TEXT>Okay, thanks for sharing your insights, they are very helpful :) maybe I will decompile it and try and find a guppy item to see if I can figure out how these blasted transformations work!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-13 15:22:07</DATE>
+    <TEXT>I don't see anything relating to spawning your item in your code so you won't see it unless you add it to an item pool, and then there is just a chance. To test your item you should give it to yourself using the debug console in game</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-13 16:59:26</DATE>
+    <TEXT>Sorry, it wasn't an attribute, it's in the MC_USE_ITEM callback. From the api docs:  gt;Callback is a method that takes (CollectibleType, RNG). Return true to show the "use item" animation, otherwise false.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-13 19:11:36</DATE>
+    <TEXT>It's itempools.xml :)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-13 19:14:00</DATE>
+    <TEXT>Oh sorry, so far I've only made an active item, which doesn't spawn on a pedestal, so I misunderstood your post :)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-13 23:38:40</DATE>
+    <TEXT>In your items.xml for token of hyrule your cache attribute should be "firedelay range" not "tears range" and in your main.lua for emblem CacheFlag.DAMAGE should be CacheFlag.CACHE_DAMAGE and the variable Emblem of Lorule shouldn't have spaces in it</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-13 23:45:49</DATE>
+    <TEXT>If you go to user/Documents/My Games/Binding of Isaac Afterbirth+ there is a file called log.txt. I believe someone wrote a Python script to check for updates to it, I'm sure if you search this subreddit you should be able to find it</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>The Book of Ruth (Active Item)</TITLE>
+    <DATE>2017-01-15 00:32:13</DATE>
+    <TEXT>The Book of Ruth is an active item with no cooldown which permanently removes one heart canister in exchange for spawning a random familiar. I've intentionally left out dead bird and both key pieces but will happily put them back in if people would prefer This is my first Isaac mod so I welcome any and all feedback :) Steam Workshop link: http://steamcommunity.com/sharedfiles/filedetails/?id=842538851</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>The Book of Ruth (Active Item)</TITLE>
+    <DATE>2017-01-15 00:46:53</DATE>
+    <TEXT>The Book of Ruth is an active item with no cooldown which permanently removes one heart canister in exchange for spawning a random familiar. I've intentionally left out dead bird and both key pieces but will happily put them back in if people would prefer This is my first Isaac mod so I welcome any and all feedback :) Steam Workshop link: http://steamcommunity.com/sharedfiles/filedetails/?id=842538851</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>(Passive Item) Transformer</TITLE>
+    <DATE>2017-01-15 22:16:58</DATE>
+    <TEXT>The Transformer is a passive item that acts like a blank transformation item, allowing all 14 of the game's transformations to occur after collecting only 2 of the relevant items. Steam Workshop: http://steamcommunity.com/sharedfiles/filedetails/?id=843351279</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-16 13:04:06</DATE>
+    <TEXT>Sadly not, that would be pretty OP anyway!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-16 13:04:55</DATE>
+    <TEXT>Do you think? I've never had that problem with too many transformations tbh</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-16 13:10:11</DATE>
+    <TEXT>Thanks :)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-16 13:13:22</DATE>
+    <TEXT>I think it's more likely to be itempools.XML can you post this file?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-16 18:03:46</DATE>
+    <TEXT>It wouldn't be the empty cache, looks like TheCrifix has your solution :)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-16 20:51:05</DATE>
+    <TEXT>Wow, then I can see why you probably wouldn't want to install this mod! I'm very rarely so lucky... but then I'm not exactly the world's best Isaac player</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-17 16:48:59</DATE>
+    <TEXT>Great work! I can see how this would be *really* useful when making large mods</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-17 17:08:31</DATE>
+    <TEXT>Yes! I will go and add some classes and examples right now for things I have had trouble with. Like you say, if each of us just does a little it will be a much easier job and we will finally have the documentation we so sorely need, so let's all get behind this! :)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-17 17:14:31</DATE>
+    <TEXT>If gamepedia lets me make an account....</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-17 20:59:49</DATE>
+    <TEXT>Oh my bad, I thought OP said you needed an account</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-18 19:50:24</DATE>
+    <TEXT>Check the documentation for Isaac.SaveModData() and LoadModData(), it should let you save and retrieve a string (which i guess you can just set to "true" or "false"), though I haven't used this myself. If not you can use something like local game = Game() local level = game:GetLevel() local room = level:GetCurrentRoom() if level:GetStage = LevelStage.STAGE1_1 and level:GetCurrentRoomIndex() == level:GetStartingRoomIndex() and room:IsFirstVisit() then newRun = true end and then use that boolean to trigger your drop. It's a bit wordy but it'll do the job</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-18 20:06:49</DATE>
+    <TEXT>This would add a collectible effect, not a tear effect. [This video](https://www.youtube.com/watch?v=mkMgKPhcLB0 amp;feature=youtu.be) should probably explain what you're looking for, he shows how to set color and effects. As datadever says you'll need to use the RNG class (which has it's quirks, so feel free to ask if you have problems with it) to pick a random colour</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-22 18:25:23</DATE>
+    <TEXT>I haven't tried this out but I'd guess you need to use local game = Game() local level = game:GetLevel() game:ChangeRoom(level:GetPreviousRoomIndex()) before you revive the player</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-22 23:21:01</DATE>
+    <TEXT>Hmm that's odd, I have used player:AnimateTeleport() in exactly the same way and it worked fine. Btw it's game:ChangeRoom() not level:ChangeRoom()</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-23 07:32:29</DATE>
+    <TEXT>Ah fair enough. As I said, I haven't tried this code. But in the documentation it is a member of Game not Level so your way may stop working in the future</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>(Passive Item) Transformer</TITLE>
+    <DATE>2017-01-23 17:48:16</DATE>
+    <TEXT>The Transformer is a passive item that acts like a blank transformation item, allowing all 14 of the game's transformations to occur after collecting only 2 of the relevant items. Steam Workshop: http://steamcommunity.com/sharedfiles/filedetails/?id=843351279</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-23 17:56:39</DATE>
+    <TEXT>local floornumber = Game():GetLevel():GetStage() should do the job</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-23 18:34:00</DATE>
+    <TEXT>No worries, happy to help if I can :)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-23 18:34:27</DATE>
+    <TEXT>Thanks! :D</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-23 18:39:26</DATE>
+    <TEXT>Untested but my guess would be yourEntity:AddEntityFlags(EntityFlag.FLAG_BLEED_OUT)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-23 22:28:20</DATE>
+    <TEXT>Unfortunately they don't stack currently. I don't think it should be possible to get 3 in one run anyway</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-23 22:29:52</DATE>
+    <TEXT>I'm already working on a mod to add tinted stoneys :)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-23 22:37:52</DATE>
+    <TEXT>2 puberties does give you adult, Isaac pops a puberty pill on picking up the item, though I am working on making this a little more elegant. And yes it is retroactive. That's an interesting item idea, though I'm not sure if you're likely enough to get all of a transformation's items in one run to make it worth picking up</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-23 22:46:49</DATE>
+    <TEXT>I suppose it could be possible, I must admit I'm not 100% on how it works with items getting removed from pools when they're picked up. But as I say, at present they don't stack. Maybe in a future API update it might be easier to make that happen, though it does seem a little OP</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-24 08:35:52</DATE>
+    <TEXT>Yep :)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-24 08:36:44</DATE>
+    <TEXT>No sorry, they currently don't stack</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-24 19:04:35</DATE>
+    <TEXT>Glad I could help :)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-25 18:30:15</DATE>
+    <TEXT>Looking at OP's above comment, I guess they want to add the charge before the end of room (also there isn't a room clear callback yet sadly, though Room does have an IsClear() method). I think you can just player:SetActiveCharge(player:GetActiveCharge() + 1) in the MC_ENTITY_TAKE_DMG callback. Make sure you pass EntityType.ENTITY_PLAYER in the callback though so you only increment when Isaac takes damage.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-25 21:44:07</DATE>
+    <TEXT>Converting a string back into a table had me baffled, so thank you for posting this!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-25 22:21:33</DATE>
+    <TEXT>Sorry you're right, I misread their comment. Yep that'd work</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-26 19:01:50</DATE>
+    <TEXT>Correct me if i'm wrong, but DullKnife.CacheUpdate doesn't exist. It doesn't appear that you've actually put your code in a function at all</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-26 19:59:51</DATE>
+    <TEXT>In fact I don't think you want this to be in EVALUATE_CACHE either, it should be in MC_POST_UPDATE. Put everything except your first and last line of code inside a function called PostUpdate, and change your callback like so: local DullKnife = RegisterMode("DullKnife", 1) function DullKnife:PostUpdate() the rest of your code end DullKnife:AddCallback(ModCallbacks.MC_POST_UPDATE, DullKnife.PostUpdate) Also, player = 1 should be playerNum = 1 Game() :GetNumPlayers() shouldn't have the space, just Game():GetNumPlayers(). Game()GetPlayer(playerNum) should be Isaac.GetPlayer(playerNum) You don't need to put the AddCollectible stuff in a function, so you can get rid of testMod. And I think you probably want player:GetEffects():AddCollectibleEffect() rather than AddCollectible, at the moment you are actually giving them the item. This would be fine if you were removing it at the end of the room, but right now they would keep it for the rest of the run. I *think* AddCollectibleEffects are reset when you leave the room</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-26 22:44:28</DATE>
+    <TEXT>Hmm no idea sorry. I have always used the Spawn method of Game so maybe try that instead.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-26 22:50:31</DATE>
+    <TEXT>There's still a fair bit of guesswork goes into reading the documentation xD</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-27 17:00:36</DATE>
+    <TEXT>Go to [the documentation](https://moddingofisaac.com/docs/index.html), on the left in Classes you will find a class called Game. In here you'll find a method (just another word for the functions of a class) called Spawn. Check what arguments it takes and give it a try. If you want to make mods you'll need to get used to using the documentation, there is a knack to finding what you need but it isn't too hard to get comfortable with them if you keep at it. And don't be afraid to keep asking questions :)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-27 17:09:50</DATE>
+    <TEXT>Download "IDA Pro" and open isaac-ng.exe. But apparently (I've never done this myself, but have asked the same question) every function and variable is just named after it's address in memory, like function_00A843E0, so you'll have to put a lot of time and effort into figuring out what's what.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-30 20:52:14</DATE>
+    <TEXT>You could try player:ClearCostumes()</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-31 22:32:51</DATE>
+    <TEXT>If you aren't getting your item, that means startConfig is never getting set to false. Try player:GetPlayerType() == PlayerType.PLAYER_AZAZEL instead of player:GetName()</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-31 22:57:34</DATE>
+    <TEXT>Unfortunately it's not well supported in the current API, at least I haven't found a good way. What I did in my transformer mod was something like this: function mod:Init() local syringes = {CollectibleType.COLLECTIBLE_VIRUS, CollectibleType.COLLECTIBLE_SPEED_BALL, etc.} local counter = 0 end function mod:Update() if player:HasCollectible(modItem) then if counter  lt; 2 then for i = 1, #syringes do if player:HasCollectible(syringes[i]) then counter = counter + 1 table.remove(syringes, i) end end elseif counter == 2 then counter = counter + 1 player:AddCollectible(syringes[1], 0, false) player:RemoveCollectible(syringes[1]) end end end It's not particularly efficient but it was the best way I could figure out. If they gave us a pick up item callback we could at least only run this when we get a new item. Also, even though you remove the collectible some of them might have permanent effects. I've never tested it but I'd be very suprised if adding and removing Experimental Reshuffle would return you to your previous state, so make sure the first 3 syringes in your array are pretty innocuous, like The Virus, Speed Ball and Growth Hormones I guess.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-02-01 18:26:36</DATE>
+    <TEXT>Nice, glad you got it going :) Now that you only give the item if you don't already have it, i think you should be able to just put your code all in one if statement: if player:GetPlayerType() == PlayerType.PLAYER_AZAZEL and player:HasCollectible(CollectibleType.COLLECTIBLE_BRIMSTONE) == false then Makes it neater and more efficient. What do you mean by the 2 costumes have the same animation names? They appear to me to be different in both costumes.xml and enums.lua. I don't know an awful lot about costumes but if you post the full code including where you clear and re-add the costumes I'll try and help</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-02-01 20:07:51</DATE>
+    <TEXT>Or just enable half, then half of the remaining etc.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-02-01 21:54:04</DATE>
+    <TEXT>Oh I see, my bad. Even if Brimstone did replace Azazel, if you add it back on after you've cleared them then it shouldn't matter I don't think. Hmm this does have me stumped, sorry</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-02-09 20:57:34</DATE>
+    <TEXT>Try DebugString(tostring(k)) ?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-03-06 13:23:32</DATE>
+    <TEXT>While I agree that English is better for discussion since everyone here should understand it, to suggest someone trying to use the skill that we are all here to learn is a "cringy tryhard" seems very unhelpful to me</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Advice on buying Go equipment in Japan (Osaka/Kyoto)</TITLE>
+    <DATE>2019-03-29 14:09:19</DATE>
+    <TEXT>Hi all, I'm currently on holiday in Japan (Osaka for the next few days before moving on to Kyoto for a week) and was hoping to buy a goban while I'm here as I've always wanted one and thought it would make a great souvenir. Unfortunately I'm struggling to find any shops to buy go equipment - I've yet to come across any second-hand/antique shops with any go kit and there seems to be very little online to guide a foreign traveller to suitable shops. I'm open to any suggestions but would prefer to buy something with a bit of character rather than just any old goban like what I could already pick up online. I'm prepared for the fact the cost might be high and for the right board I'd be happy to pay what it's worth. Any ideas or suggestions would be really helpful!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Advice on buying Go/Igo/Weiqi/Baduk equipment in Japan (Osaka/Kyoto)</TITLE>
+    <DATE>2019-03-29 14:19:56</DATE>
+    <TEXT>Hi all, I'm currently on holiday in Japan (Osaka for the next few days before moving on to Kyoto for a week) and was hoping to buy a goban while I'm here as I've always wanted one and thought it would make a great souvenir. Unfortunately I'm struggling to find any shops to buy go equipment - I've yet to come across any second-hand/antique shops with any go kit and there seems to be very little online to guide a foreign traveller to suitable shops. I'm open to any suggestions but would prefer to buy something with a bit of character rather than just any old goban like what I could already pick up online. I'm prepared for the fact the cost might be high and for the right board I'd be happy to pay what it's worth. Any ideas or suggestions would be really helpful!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Advice on buying Go/Igo/Weiqi/Baduk equipment in japan (Osaka/Kyoto)</TITLE>
+    <DATE>2019-03-29 14:30:30</DATE>
+    <TEXT>Hi all, I'm currently on holiday in Japan (Osaka for the next few days before moving on to Kyoto for a week) and was hoping to buy a goban while I'm here as I've always wanted one and thought it would make a great souvenir. Unfortunately I'm struggling to find any shops to buy go equipment - I've yet to come across any second-hand/antique shops with any go kit and there seems to be very little online to guide a foreign traveller to suitable shops. I'm open to any suggestions but would prefer to buy something with a bit of character rather than just any old goban like what I could already pick up online. I'm prepared for the fact the cost might be high and for the right board I'd be happy to pay what it's worth. Any ideas or suggestions would be really helpful!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-29 14:42:10</DATE>
+    <TEXT>Hey, thanks for taking the time to reply! I had thought about kansai-kiin but their website is entirely in Japanese so I didn't really get very far. Turns out that their premises are actually quite close to my apartment so I'll definitely pop in tomorrow and see if they can give me some advice! Thanks for your help! \^_^</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-30 11:40:11</DATE>
+    <TEXT>As requested \^_^ https://m.imgur.com/a/6L0cnMa</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-30 11:44:34</DATE>
+    <TEXT>Thanks again for this! Went to the Kansai Kiin this morning, they were all so lovely and welcoming, even despite my terrible Japanese! There weren't many boards on offer but I'll keep looking and I did get some beautiful new bowls which will make a great souvenir if I can't find one (pics in another comment above) :D</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-30 11:48:06</DATE>
+    <TEXT>That's a brilliant website, thank you so much! If I can't find a board while I'm here this looks like a great place to order one when I get back ^_^</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-30 11:49:19</DATE>
+    <TEXT>Amazing, thank you so much! I will absolutely be checking this place out next week and will report back (hopefully with pics of my new goban!)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-30 11:50:23</DATE>
+    <TEXT>Thanks very much for replying, I'll keep my eye out for them :D</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-30 11:59:30</DATE>
+    <TEXT>Wow amazing, thank you so much for taking the time to look into this for me ^_^ I am talking about the big heavy ones with legs, so I'm prepared that I will probably have to pay a fair whack in shipping even if I buy it here (I definitely don't trust to let it get rattled around in my luggage, even if it was within my weight allowance!). Thank you so much for the offer of talking to people at your salon, that's really kind of you! Unfortunately I'm in Nara for the best part of the day tomorrow (and think lots of places are likely to be shut anyway as it's Sunday?) and then I'm off to Kyoto (via a couple of days in Koyasan) so I think I may have read this comment too late and missed the boat on getting something in Osaka :( it's really lovely of you to offer though, it can be hard to meet other people who are into this rather niche hobby so it's great to connect with other nice people who love the game ^_^</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-30 12:02:35</DATE>
+    <TEXT>Assume you're talking about the flea market at Toji on 7th of April? I had read that there was one there on the first Sunday of each month so will definitely keep my fingers crossed and check it out :D thanks for taking the time to reply :)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-30 12:05:17</DATE>
+    <TEXT>Hey thanks for the reply, as I said in another comment below, think I probably read this too late as I've not got a lot of chance to check these out now before I head on to Kyoto, but I appreciate you taking the time to reply all the same :)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-30 12:08:52</DATE>
+    <TEXT>Ah okay thanks for the heads up :)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-30 12:11:02</DATE>
+    <TEXT>Thanks very much :) unfortunately this place was a bit out of the way for me considering the short time I have in Osaka - a real shame since it looks like a great place! Really appreciate you taking the time to reply though :)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-31 08:35:05</DATE>
+    <TEXT>Amazing! That's really encouraging to hear! :D</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-31 08:36:10</DATE>
+    <TEXT>Thanks very much, I'll keep my eye out for them :D</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>People who download CP via the dark web fire missiles at a shop</TITLE>
+    <DATE>2019-06-11 09:05:22</DATE>
+    <TEXT>Tor paedos torpedo store</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Modern Christianity has fewer rules about sacred texts and images, while many other religions still enforce them strictly. Has this always been the case?</TITLE>
+    <DATE>2019-08-15 11:01:35</DATE>
+    <TEXT>In many religions there seem to be quite strict rules around their sacred texts (e.g. not touching Torah scrolls with bare hands in Judaism, making formal ablutions before touching the Qur'an in Islam, etc.) and images (e.g. not worshipping images of the Gurus in Sikhism, or forbidding images of Muhammad in Islam). In modern Christianity (here in the West at least) I'm not aware of any such rules. Has it always been this way? Or did Christians once have stricter rules about these kinds of things? And what factors led Christianity to take this more relaxed approach to their texts and iconography, where other religions don't?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[WP] Michael Bubl #233; gets woken from cryostasis for his annual Christmas outing, only to find the facility is in ruins and Santa is nowhere to be found...</TITLE>
+    <DATE>2019-12-17 12:48:48</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-09 00:03:45</DATE>
+    <TEXT>r/nocontext</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>I thought when you said she squatted, surely there will be poop. I'm happy there was only food made of probably humans.</TITLE>
+    <DATE>2020-05-09 00:08:35</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>I thought when you said she squatted, surely there will be poop. I'm happy there was only food made of probably humans.</TITLE>
+    <DATE>2020-05-09 00:10:19</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-30 22:59:50</DATE>
+    <TEXT>Of course it comes down to what you feel comfortable with, but my advice would be to stick to your set amount per day. In the grand scheme of several months studying the book, what difference does an extra couple of days make? There's nothing wrong with giving yourself a day off here and there (although it's obviously worth keeping on top of reviews at least), and I think it's better to keep moving steadily forwards than trying to rush.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-06 02:24:05</DATE>
+    <TEXT>The violence and brutality I'm seeing from the police in the US right now is beyond what I could ever even imagine happening in my country. I'm shocked and deeply upset by it, and I want to do something, anything to help. Of course I'm aware of BLM and a number of charities who are trying to make permanent, long term change happen, and I have donated to some. But I'm wondering what is the most effective thing I can do from outside the country to help the cause and effect change right now, however small.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>As a non-American who is appalled and disturbed by what is happening in the US right now, what could we do that will genuinely help?</TITLE>
+    <DATE>2020-06-06 02:26:47</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-06 02:26:53</DATE>
+    <TEXT>The violence and brutality I'm seeing from the police in the US right now is beyond what I could ever even imagine happening in my country. I'm shocked and deeply upset by it, and I want to do something, anything to help. Of course I'm aware of BLM and a number of charities who are trying to make permanent, long term change happen, and I have donated to some. But I'm wondering what is the most effective thing I can do from outside the country to help the cause and effect change right now, however small.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-06 23:12:43</DATE>
+    <TEXT>"Non-identical twins look different" what a story</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-15 09:54:10</DATE>
+    <TEXT> gt;programmers like to code and program Think you pretty much answered your own question there :)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-10 22:30:42</DATE>
+    <TEXT>You just need to be creative about designing your game so that a minimalist art style works in your favour. Take a look at Mini Metro, it certainly doesn't lose anything for its visual simplicity, in fact I'd say it's part of its charm.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-20 21:33:21</DATE>
+    <TEXT>I once heard speculation that the devs originally added them to help players in the tutorial missions (before you complete the Birth quest) have an idea of what to expect after they join the main game world. Especially when the game first launched, the servers weren't that populated so the gameplay was more PvE based, and the tech tree was much more limited, so it helped new players be prepared for which mobs to watch out for. Not sure how much practical purpose they really serve nowadays, but it's legacy code so probably not that easy for the devs to remove</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Leaking radiator pipe</TITLE>
+    <DATE>2020-10-19 10:38:20</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-19 10:43:44</DATE>
+    <TEXT>Zero plumbing knowledge so hoping someone here can help/educate me! This pipe fitting (connected to my bathroom radiator) has a slow leak, water leaking from the grub screw-looking part in the middle. The screw turns but doesn't tighten, very little resistance when I turn it. Also when I apply pressure onto the screw it does go into the housing a small amount, then pop back out when I remove pressure (the one below is much more secure and does not do this) and the dripping seems to stop while it's pushed in. Massive thanks to anyone who has any ideas or advice on how I can solve this problem!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-19 10:50:42</DATE>
+    <TEXT>Counterintuitively it seems to actually stop dripping when the radiator is turned on  #129300;</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  </INDIVIDUAL>

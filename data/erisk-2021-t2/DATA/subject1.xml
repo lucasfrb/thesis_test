@@ -1,0 +1,153 @@
+<INDIVIDUAL>
+  <ID>subject1</ID>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-13 08:58:08</DATE>
+    <TEXT>Hi, i was thinking About the same thing. Was considering bladevlast bladefall inquis with full conversion. Dont know if itll work but i liked the idea.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Crafting advice</TITLE>
+    <DATE>2020-07-17 12:59:47</DATE>
+    <TEXT>Hey there, i am crafting my staff (for the first time, since harvest is awesome for that) for bladeblast, bladefall inquisitor and i #180;ve got this so far. https://imgur.com/a/i9o75bt The idea here is to remove chaos then augment physical untill i get +3 or +1-2 all physical gems but i need to buy/farm more of those. So far i #180;ve tried twice but always got the phys as chaos. My question is how to finish this craft. Once all the prefixes are done i will have one more modd to augment and then finish it off with a bench craft. The options are: a) I augment caster while blocking cast speed so that I dont get a shitty roll (has kinda a lot of tiers imo). Then with cast speed blocked the outcomes are: % increased Critical Strike Chance for Spells 10% chance to gain a Power Charge on Critical Strike Can i get this when it already has crit chance for spells? or: % increased Cast Speed 20% increased Cast Speed if you've Killed Recently same issue with crafted cast speed? I honestly don #180;t know if these mods exclude each other or not. The other possibility is to augment crit with all around good outcomes imo apart for: (35 #8211;45)% to Critical Strike Multiplier if you have Blocked Recently +5% Chance to Block Attack Damage while wielding a Staff Which is what i dont want. The other possibility would be to not block cast speed and hope for a good outcome with augment caster. Hopefully i made it understandable and thanks for any advice on this as I am not a super experienced crafter.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-21 04:43:39</DATE>
+    <TEXT>Proceed like you said. Aug crit and then %quality and As. You could also corrupt for 30% quality once u have 6 Link and right colours.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-21 04:51:40</DATE>
+    <TEXT>It IS. Forgot About that. Go for it if you get him there.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-21 13:23:48</DATE>
+    <TEXT>Use sextants and scarabs. Try to roll maps to have higher density and iiq. Also map device can add mods which increase density. A good sextant mod IS the one which causes all nemesis monsters to drop currency items. This could help.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>-9 elemental resist craft on helmet</TITLE>
+    <DATE>2020-08-01 09:12:34</DATE>
+    <TEXT>Hey There, on poedb it says - 9 lighning Res on helm is crusader mod but u cant augment it. Is fossil the only way to get IT onto the helmet? Then harvest craft it from there?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-01 09:18:09</DATE>
+    <TEXT>Shit i completely forgot to check ilvl... Damn,. Thanks though.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Inquisitor and -resistance interactions</TITLE>
+    <DATE>2020-09-17 10:51:52</DATE>
+    <TEXT>Hello,  #8203; i got a question regarding inquisitor who has resistance ignore on crit and its interaction with some spells. Does it work with flammability and other -res curses? What i mean is - does it lower resistance after ignoring it with inquisitors ascendancy? Or does it just lower the resistance of mobs which is irrelevant since you ignore it with crits anyway? Same thing for wave of conviction - doest it cause exposure after ignoring the res or just lower the res? And the last interaction is combustion. Im gonna roll blazing salvo door and i wonder if its worth it getting all those -res spells or not.  #8203; Thanks.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Selfcast blazing salvo build</TITLE>
+    <DATE>2020-09-17 20:55:46</DATE>
+    <TEXT>Hello exiles,  #8203; just theorycrafted some selfcast blazing salvo builds for ascendant (door + pathfinder), door and elementalist. They all use MoM + EB (specced until devouring diadem). The way i simulated the dps for BS is I took old firestorm lvl 18 which has pretty much the same dps as lvl 20 BS. I also used lvl 15 immolate to simulate the lower added dmg effectivnes of blazing salvo. The gear i used for simulation is in my opinion mediocre. Obviously devouring diadem is not gonna be easy to get on league start but it should get a lot cheaper after a week or two. Since i dont have a lot of time to play its fine for me. You could obviously use your own aura setup for mana reservation.  #8203; So the link setup i used is this: BS - intensify - energy leech - immolate - conc effect - pinpoint. Note that pinpoint is not included in the PoB. The way i calculated is i took single hit damage from firestorm and multiplied it by 2.2\*0.84 (4 intensity stages =120 more damage and 16 less proj damage). This is how i got base hit value which i multiplied with number of projectiles and cast speed. So the thing is, we dont know how much these will overlap but my investment into area of effect is imo quite big. Since BS has 6 ADDITIONAL projectiles i expect it to have 7 base projectiles. With maximum intensity pinpoint will actually results in a total of 6 projectiles (adds 3 so 7+3 =10 but makes u loose 1 per intensity therefore 10 - 4 = 6). To calculate the dps i might have been too optimistic to use 5 projectiles since this will probably require you to hug the target which might results in death. I also decided to incorporate flame wall which i did by adding fire damage to spells onto a wand. In this case i didnt bother to reduce the dmg to account for the lower added effectivnes of BS in comparison with firestorm. FInally, to simulate frost shield i added 1.5 crit to spells to body armour. This is also super optimistic imo and might have a lot lower uptime so has to be accounted for. BTW im using old version of assasins mark which is gonna be quite a bit stronger in 3.12 so this also isnt accounted for in my calculations. I also tried to use the most reasonable setup in configuration where only ascendant uses flasks since he has pathfinder node.  #8203; The PoBs are: ascendant [https://pastebin.com/Je15jVH7](https://pastebin.com/Je15jVH7) 1.6 mil dps elementalist [https://pastebin.com/hufp6sxi](https://pastebin.com/hufp6sxi) 2.7 mil sdps door[https://pastebin.com/wCWiHg56](https://pastebin.com/wCWiHg56) 1.8 mil dps The dps should be around this number since i didnt incorporate slightly lower added dmg effectivenes of BS but i also didnt account for buffed intensity.  #8203; Overall the dps is quite low. On the other hand, with high gear investment (such as +3 fire skills staff) and for example bottled faith the dps might get into maybe 6 mil sdps which is not bad.  #8203; Looking forward to your feedback and constructive criticism exiles. Cheers.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-18 04:16:17</DATE>
+    <TEXT>Inquisitor  #128515;</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-22 14:36:22</DATE>
+    <TEXT>In doing self cast elementalist And IT Feels ok on a five link. Make sure u use flamewall for single target maybe combustion Arma Brand si that u can use maybe intensity or pinpoint. U could maybe link ur pob?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-23 14:36:01</DATE>
+    <TEXT>Depends on how difficult it is to impletent something like this. My suggestion would be to make the alarm increase with every opened chest so that after opening a certain amount, you would be guaranteed to trigger the alarm. On the other hand, investing into decreased alarm generation could still allow you to open more, potentially all, of the chests. Honestly, i really like that you dont have to worry about killing enemies any more, beacause it sucks not to kill enemies in an ARPG.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-23 14:37:46</DATE>
+    <TEXT>Yeah those. Also got like almost an exalt in the form of shards. Always died with them so i got nothing in the end :)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-23 14:39:37</DATE>
+    <TEXT>1 so far, have not really been able too much though. For me its usually instagib by the mobs.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-23 14:40:24</DATE>
+    <TEXT>Lure them out by small parts, worked for me most of the times.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-23 14:42:04</DATE>
+    <TEXT>Exactly how i wouldve loved to see it be done.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>A lot less negativity in this thread would do us all a service</TITLE>
+    <DATE>2020-09-23 14:52:59</DATE>
+    <TEXT>I get it, the league start was not ideal. Honestly though, whining on reddit will not make any difference. Most of the content in this subreddit seems unreasonably negative with only minority of it being a reasonable feedback. I mean common, you know GGG are working hard on making the content more balanced and overall better. This however, takes time and the fact that they will most likely be able to fix it within 2 weeks is imo quite an achievement on their side. I personally had crashes, died with valuable loot like 70% of the time or ran into a bug which most definitely feels bad. On the other hand the amount of content we are getting basically for free is still amazing. Ppl working at GGG are most likely stressed out by the amount of straightout trashtalk we are seeing here, which definitely will not help them fix those issues faster. Just enjoy the game, if you cant just go play something else for a week and when u come back there will be a shitton of posts saying HEIST is the best league ever...</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-25 13:12:31</DATE>
+    <TEXT>Uf you skip it for two weeks it will still feel new and exciting to you once you get back to it.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-25 13:21:40</DATE>
+    <TEXT>I like IT.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-27 20:56:38</DATE>
+    <TEXT>Acc name subject1666 my ONLY char in heist</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-29 10:19:27</DATE>
+    <TEXT>We all Are</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-05 12:56:42</DATE>
+    <TEXT>You could try using alternate quaklity urgent orders that should give you 10 power minimum so ensured endurance charge.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-05 13:09:35</DATE>
+    <TEXT>Not enough space makes you buy stash tabs.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-13 13:09:01</DATE>
+    <TEXT>Ground slam plus call od steel champ is kinda bonkers. Having a lot of fun. Single target requires a good setup though.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-13 16:11:03</DATE>
+    <TEXT>I feel you. Im like 2.5 k on 28 qual armor and about the smae amount on 38 qual since i gave up on the first one. I think the chance should increase slightly every x fuses you spend. I have quit multiple leagues because of this.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  </INDIVIDUAL>

@@ -1,0 +1,351 @@
+<INDIVIDUAL>
+  <ID>subject4252</ID>
+  <WRITING>
+    <TITLE>Reached Global Elite - ESEA now?</TITLE>
+    <DATE>2015-05-04 14:10:46</DATE>
+    <TEXT>So, i just accidentally clicked the 'back' button on my mouse after writing a long post.. Don't you hate that?.. OT: Yesterday i reached Global Elite, after fighting my way up from Double AK. I de-ranked a few times trough the process, but also i feel like I have gotten alot better because of my desire to reach the top rank. Also i should tell you that I'm not playing as serious as i did a few years back (CSS). Where i dedicated alot of my time in CS. But since GO came out i have been playing more "casually" you could say. It's still important for me to win a match, but I usually don't play very much - about 10 matches a week i think. But i experienced than once you reach the higher ranks you encounter cheaters more often, and it certainly hasn't gone better when reaching Global Elite. So what's next ? I was thinking about ESEA, and I just wanted to know what you're experiences with the system and the players? Also I wanted to know if anyone know anything about the one week premium codes that sometimes are being handed out for free ? and possible anyone would offer me one, since I do no feel like using any money on ESEA unless the community is as good as i think it to be. http://oi57.tinypic.com/11qikp1.jpg</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-05-04 18:37:34</DATE>
+    <TEXT>OP here I tried faceit and i was not really that satisfied with it, often people was low skilled and also alot of people whining if a few rounds were lost.. Also do you know anything about this free week premium key that some people give away for free?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-05-04 18:41:55</DATE>
+    <TEXT>Thank you for this response. Exactly what i needed. Are people friendly on ESEA? , cause often in MM you are teamed up with idiots who blame everybody but themselves for dieing.. Do you know if there is anyway that i can get invited to try esea for a few days for free? I really do not like the idea of spending anything before i try it, and it wouldn't make sense to buy 12 months and regret afterwards.. Thank you again</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-05-04 20:42:49</DATE>
+    <TEXT>OK, i just tried cevo and that was no succes.. 25-8 score on inferno, people are playing like silvers and act like 5 year olds.. Hmm.. seems like ESEA is the only way for me. Thanks</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-05-05 06:49:42</DATE>
+    <TEXT>test</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-07-13 13:11:07</DATE>
+    <TEXT>test</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>SCCM report returns "duplicate" machines -</TITLE>
+    <DATE>2017-07-27 09:44:12</DATE>
+    <TEXT>Hi, I have created a report to get basic information from machines in a selected collection, default: SMS00001 The thing is that many of our users have more than one primary machine, which means it will return multiple rows with same computer name, because the computer has more than one primary user. See below example I get two rows * PC1234 User1 * PC1234 User2 But I want this: * PC1234 User1, User2 How would i join together the values and comma separate them? Here is the code *(To keep this simple I have only included the most relevant lines from the SQL query)*  gt; SELECT distinct  gt; CS.name0 as 'Computer Name',  gt; UMR.UniqueUserName as 'Primary User',  gt; CS.ResourceID as 'ResourceID'  gt; from  gt; v_GS_COMPUTER_SYSTEM CS  gt; join v_FullCollectionMembership fcm on fcm.resourceid=CS.resourceid  gt; right join v_UserMachineRelationship as UMR on UMR.MachineResourceID = CS.ResourceID  gt; where  gt; fcm.Collectionid = @Collection</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-09-06 10:56:48</DATE>
+    <TEXT>phaze93, EU</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-02-20 14:20:48</DATE>
+    <TEXT>I subbed, sub back please https://www.youtube.com/channel/UCUwIYY2nX0GeaF3dQOgYbgg?sub_confirmation=1</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>SUB 4 SUB ! Get in here - Active every day!</TITLE>
+    <DATE>2018-02-20 14:34:33</DATE>
+    <TEXT>Please help me reach 1000 subs! Will sub back asap! https://www.youtube.com/channel/UCUwIYY2nX0GeaF3dQOgYbgg?sub_confirmation=1</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-02-20 14:36:41</DATE>
+    <TEXT>I subbed ! Sub back pls!! :-) https://www.youtube.com/channel/UCUwIYY2nX0GeaF3dQOgYbgg?sub_confirmation=1</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-02-20 14:39:23</DATE>
+    <TEXT>Done !</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-02-20 14:48:23</DATE>
+    <TEXT>Done, Sub back pls :-) (anyone else can sub - i will sub back) https://www.youtube.com/channel/UCUwIYY2nX0GeaF3dQOgYbgg</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-02-20 14:58:29</DATE>
+    <TEXT>Subbed you. Please sub back! Anyone can sub me and I will return the favor!  #9786; https://www.youtube.com/channel/UCUwIYY2nX0GeaF3dQOgYbgg</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-02-22 11:56:44</DATE>
+    <TEXT>Done</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-02-22 11:56:50</DATE>
+    <TEXT>Done</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-02-22 11:57:02</DATE>
+    <TEXT>Done</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-02-22 11:57:14</DATE>
+    <TEXT>Done!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-02-22 11:57:36</DATE>
+    <TEXT>Done..</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-02-22 11:57:52</DATE>
+    <TEXT>did it</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-02-22 11:58:04</DATE>
+    <TEXT>Done!!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-02-22 11:58:19</DATE>
+    <TEXT>its done</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-02-22 11:58:39</DATE>
+    <TEXT>subbed</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-02-22 11:58:54</DATE>
+    <TEXT>Subbed you</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-02-22 11:59:06</DATE>
+    <TEXT>Subbed you</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>SUB4SUB ACTIVE</TITLE>
+    <DATE>2019-03-04 08:15:42</DATE>
+    <TEXT>Please help me reach 1000 subs! Will sub back asap! https://www.youtube.com/channel/UCUwIYY2nX0GeaF3dQOgYbgg?sub_confirmation=1</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>SUB4SUB ACTIVE EVERYDAY - GET IN</TITLE>
+    <DATE>2020-06-10 08:32:51</DATE>
+    <TEXT>Please help me reach 1000 subs! Will sub back asap! https://www.youtube.com/channel/UCUwIYY2nX0GeaF3dQOgYbgg?sub_confirmation=1</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>President Trump ULTIMATE MASHUP/COMPILATION 2020</TITLE>
+    <DATE>2020-10-19 08:22:01</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>President Trump ULTIMATE MASHUP/COMPILATION 2020</TITLE>
+    <DATE>2020-10-19 08:22:42</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>President Trump ULTIMATE MASHUP/COMPILATION 2020</TITLE>
+    <DATE>2020-10-19 08:24:46</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>President Trump ULTIMATE MASHUP/COMPILATION 2020</TITLE>
+    <DATE>2020-10-19 08:25:24</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>President Trump ULTIMATE MASHUP/COMPILATION 2020</TITLE>
+    <DATE>2020-10-19 08:26:04</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Show some love..</TITLE>
+    <DATE>2020-10-19 08:28:25</DATE>
+    <TEXT># President Trump ULTIMATE MASHUP/COMPILATION 2020 [https://www.youtube.com/watch?v=qvkWwxrZ-Mk](https://www.youtube.com/watch?v=qvkWwxrZ-Mk)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-19 10:08:05</DATE>
+    <TEXT> #128077;</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Returning the favour</TITLE>
+    <DATE>2020-10-19 10:09:05</DATE>
+    <TEXT>[**https://www.youtube.com/watch?v=qvkWwxrZ-Mk**](https://www.youtube.com/watch?v=qvkWwxrZ-Mk)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-19 10:09:32</DATE>
+    <TEXT>[https://www.youtube.com/watch?v=qvkWwxrZ-Mk](https://www.youtube.com/watch?v=qvkWwxrZ-Mk)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-19 10:09:51</DATE>
+    <TEXT>pls return the favour: [https://www.youtube.com/watch?v=qvkWwxrZ-Mk](https://www.youtube.com/watch?v=qvkWwxrZ-Mk)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-19 10:09:57</DATE>
+    <TEXT>pls return the favour: [https://www.youtube.com/watch?v=qvkWwxrZ-Mk](https://www.youtube.com/watch?v=qvkWwxrZ-Mk)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-19 10:10:05</DATE>
+    <TEXT>pls return the favour: [https://www.youtube.com/watch?v=qvkWwxrZ-Mk](https://www.youtube.com/watch?v=qvkWwxrZ-Mk)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-19 10:10:10</DATE>
+    <TEXT>pls return the favour: [https://www.youtube.com/watch?v=qvkWwxrZ-Mk](https://www.youtube.com/watch?v=qvkWwxrZ-Mk)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-19 10:10:16</DATE>
+    <TEXT>pls return the favour: [https://www.youtube.com/watch?v=qvkWwxrZ-Mk](https://www.youtube.com/watch?v=qvkWwxrZ-Mk)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-19 10:10:26</DATE>
+    <TEXT>pls return the favour: [https://www.youtube.com/watch?v=qvkWwxrZ-Mk](https://www.youtube.com/watch?v=qvkWwxrZ-Mk)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-19 10:10:44</DATE>
+    <TEXT>pls return the favour: [https://www.youtube.com/watch?v=qvkWwxrZ-Mk](https://www.youtube.com/watch?v=qvkWwxrZ-Mk)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>SO CLOSE TO 1000 SUBS ! Help me reach it today!</TITLE>
+    <DATE>2020-10-19 10:33:22</DATE>
+    <TEXT>[https://www.youtube.com/channel/UCUwIYY2nX0GeaF3dQOgYbgg](https://www.youtube.com/channel/UCUwIYY2nX0GeaF3dQOgYbgg) Thank you so much!  lt;3</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>President Trump ULTIMATE MASHUP/COMPILATION 2020</TITLE>
+    <DATE>2020-10-19 10:37:03</DATE>
+    <TEXT>[https://www.youtube.com/watch?v=qvkWwxrZ-Mk](https://www.youtube.com/watch?v=qvkWwxrZ-Mk)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Will return the favour - sub4sub  #10084; #65039; #10084; #65039; #10084; #65039; #10084; #65039; #10084; #65039;</TITLE>
+    <DATE>2020-10-19 10:42:34</DATE>
+    <TEXT>[https://www.youtube.com/channel/UCUwIYY2nX0GeaF3dQOgYbgg](https://www.youtube.com/channel/UCUwIYY2nX0GeaF3dQOgYbgg)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>I am at 997 subs - help me with the last few!  #9829; #65039; #9829; #65039;</TITLE>
+    <DATE>2020-10-19 12:46:20</DATE>
+    <TEXT>[https://www.youtube.com/watch?v=qvkWwxrZ-Mk](https://www.youtube.com/watch?v=qvkWwxrZ-Mk)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-19 12:47:27</DATE>
+    <TEXT>**I am at 997 subs - help me with the last few!  #9829; #65039; #9829; #65039;** [https://www.youtube.com/watch?v=qvkWwxrZ-Mk](https://www.youtube.com/watch?v=qvkWwxrZ-Mk)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-19 12:47:50</DATE>
+    <TEXT>**I am at 997 subs - help me with the last few!  #9829; #65039; #9829; #65039;** [https://www.youtube.com/watch?v=qvkWwxrZ-Mk](https://www.youtube.com/watch?v=qvkWwxrZ-Mk)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-19 12:47:58</DATE>
+    <TEXT>**I am at 997 subs - help me with the last few!  #9829; #65039; #9829; #65039;** [https://www.youtube.com/watch?v=qvkWwxrZ-Mk](https://www.youtube.com/watch?v=qvkWwxrZ-Mk)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-19 12:48:06</DATE>
+    <TEXT>**I am at 997 subs - help me with the last few!  #9829; #65039; #9829; #65039;** [https://www.youtube.com/watch?v=qvkWwxrZ-Mk](https://www.youtube.com/watch?v=qvkWwxrZ-Mk)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-19 12:48:16</DATE>
+    <TEXT>**I am at 997 subs - help me with the last few!  #9829; #65039; #9829; #65039;** [https://www.youtube.com/watch?v=qvkWwxrZ-Mk](https://www.youtube.com/watch?v=qvkWwxrZ-Mk)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-19 12:54:45</DATE>
+    <TEXT>done</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-19 12:54:49</DATE>
+    <TEXT>yes done</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>998 SUBS ! 1000 so close  lt;3 HELP!!</TITLE>
+    <DATE>2020-10-19 12:59:14</DATE>
+    <TEXT>[https://www.youtube.com/watch?v=qvkWwxrZ-Mk](https://www.youtube.com/watch?v=qvkWwxrZ-Mk) Thanks so much. Pls watch video 3 min!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-19 13:02:58</DATE>
+    <TEXT>great music! - Now check my video [https://www.youtube.com/watch?v=qvkWwxrZ-Mk](https://www.youtube.com/watch?v=qvkWwxrZ-Mk)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-19 13:07:47</DATE>
+    <TEXT>Great! checked your channel out too!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>999 subs! wanna be number 1000 ?</TITLE>
+    <DATE>2020-10-19 13:08:14</DATE>
+    <TEXT> #8203; [https://www.youtube.com/watch?v=qvkWwxrZ-Mk](https://www.youtube.com/watch?v=qvkWwxrZ-Mk) Thanks so much. Pls watch video 3 min!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  </INDIVIDUAL>

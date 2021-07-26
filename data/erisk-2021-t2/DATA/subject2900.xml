@@ -1,0 +1,1617 @@
+<INDIVIDUAL>
+  <ID>subject2900</ID>
+  <WRITING>
+    <TITLE>Method to extend Cat5e?</TITLE>
+    <DATE>2017-11-22 00:51:15</DATE>
+    <TEXT>Hello, Is it possible to extend a Cat5e cable using a keystone? One side would plug into with an rj45 connector and the other would be punched down. Is there any disadvantages to this? The keystone will be wrapped around with electrical tape to prevent dust build up.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Best budget 1x8 HDMI splitter</TITLE>
+    <DATE>2017-11-25 21:35:22</DATE>
+    <TEXT>Hello, I need suggestions on what HDMI splitter I should use. [This](https://www.amazon.com/dp/B07211HGDZ/ref=cm_sw_r_cp_api_X6DgAb508KQWF) is the best budget splitter I found but in terms of reliability I'm not so sure if I can trust it. I'll be using this splitter to bring in a video feed from the congregation building in my church and into the academy building with eight projectors so the children can watch. Thank you, I apologize if this is the wrong community. If you can point me to a more suitable community I'll be happy to move this post.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Best way to send audio over Cat5e</TITLE>
+    <DATE>2017-11-25 21:53:47</DATE>
+    <TEXT>Hi all, I wanted to use a Cat5e cable to send audio to an amplifier and from there it would distribute out to a intercom system. The intercom system I have figured out, what I need help with, is using a Cat5e cable a good option? Say I have an XLR output on a soundboard and I wanted to grab that audio and send it to the amplifier, what adapter would I use for the Cat5 cable on the soundboard side? Thank you, if you have any questions please don't hesitate to ask.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>XLR to RJ45 wiring</TITLE>
+    <DATE>2017-11-30 02:21:35</DATE>
+    <TEXT>Hi all, I have a sound mixer and I need to output the signal over a Cat5e cable. I'm using an XLR to RJ45 adapter and I need help connecting the other end. I have an amplifier with inputs that accepts terminal blocks. My question is, on the other end of the cable do I use the wires 7,8 for ground, 2 for negative, and 1 for positive? For the wires 7,8 I would put in the ground hole with both the cables copper touching each other right? Finally, the wiring diagram for the adapter says the wires 7,8 are used for 0V, would the other end of these wires be plugged into the ground hole in the terminal? Here is what pairs the adapter uses and a picture of the amplifier: https://imgur.com/a/wbLQG Thanks.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Terminate to keystone or homerun to AP?</TITLE>
+    <DATE>2017-12-05 05:15:01</DATE>
+    <TEXT>Hi all, so I have a drop ceiling available. I ran Cat6 above the ceiling but now I'm wondering if I should crimp an RJ45 jack and plug straight into the AP or terminate it to a keystone and then from there plug a short stranded jumper cable.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>DD-WRT NAS question</TITLE>
+    <DATE>2017-12-08 22:12:40</DATE>
+    <TEXT>Hi all, so I got DD-WRT flashed and working just fine and setup the NAS service with a flash drive plugged into the router. The only question I have is, when I edit a file on the flash drive through the ftp server, is it safe to unplug the flash drive without doing anything? How long do I have to wait?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Cat5e size</TITLE>
+    <DATE>2017-12-08 22:25:07</DATE>
+    <TEXT>Hi all, I've been curious as to why some Cat5e cables have thicker sheathing than others. They all have the same specs printed on them. Does having a thicker sheathing help the cable out such as reducing crosstalk, more suitable in harsher conditions, etc. Image: https://imgur.com/5C4yRj5 Thanks</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>ISP WAN IP Address</TITLE>
+    <DATE>2018-01-06 02:21:52</DATE>
+    <TEXT>Hey all, I'm wondering if it's normal behavior for ISPs to give a router a dynamic IP address when a static IP address is set on the plan. Is this to allow for multiple routers to obtain different IP addresses by manually going into the routers web interface and assigning an IP address? Thanks, please don't hesitate to ask any questions if you don't understand.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Video/audio transmitter and reciever over IP</TITLE>
+    <DATE>2018-01-16 22:49:17</DATE>
+    <TEXT>Hi all, I'm completely lost and don't know where to look anymore. I'm trying to find a device that inputs a video connection, preferably with a BNC input but it can be anything as long as it meets my requirements. This will be the transmitter. On the other side there will be a reciever which establishes a connection with the transmitter over the network. Now I've seen hundreds of devices like these but all of them work off of multicast which basically floods the network trying to send a signal out to the reciever unit. I'm hoping there's a device where it's IP based and the device sends the signal directly to the reciever rather than flooding the network with packets. I am aware I could also use a managed switch and setup a VLAN for the devices that use multicast but I would not like to go that route if possible. Thanks.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Mom, guess what I learned in math today?</TITLE>
+    <DATE>2018-01-17 20:49:04</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Cat5e cable dropping connection</TITLE>
+    <DATE>2018-01-29 18:13:29</DATE>
+    <TEXT>Hello all, I'm dealing with a Cat5e cable that was run above a drop ceiling and is terminated to a keystone jack. The other end was crimped with an RJ45 connector. This cable was tested using a continuity tester and everything was normal. However, the cable cannot connect to the LAN, it seems as if it works for a second and then stops working. What could be to blame for this? It was working for about 4 months, now this happens. The wires on the keystone jack do look a bit loose, will re terminating possibly fix the issue? Could electrical lines that were ran next to the cable also be something that's causing the issues? Thanks. UPDATE: Re-terminating on the keystone appears to have worked like a charm. Thank you for the replies.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Best speakers for indoor swimming area?</TITLE>
+    <DATE>2018-03-30 08:08:15</DATE>
+    <TEXT>Hello all! I have a contractor wiring up my indoor swimming area for an audio system. I came here to you guys in hopes of suggestions on good speakers. The size of the swimming area is not too big, around L: 50ft W: 115ft. They will be mounting four speakers in each corner of the room. I started to look around and found the Dual Electronics LU53PW speaker. Will these speakers in each corner be loud enough to fill the entire area? If not, what are your suggestions for a white speaker that can be mounted to a wall like the one mentioned? The price for each speaker can't be no more than $200 and the speakers need to be passive. Thank you!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Cat5e/6/6e bend radius when punching down?</TITLE>
+    <DATE>2018-07-04 07:02:30</DATE>
+    <TEXT>Hey there, this has been on my mind for quite a while now. There are industry standards of how far you should bend a CAT cable but is there anything out there that mentions a bend radius for individual conductors? For example, you strip the jacket of the CAT6 cable, place it in a keystone punchdown jack, and place the conductors into the 110 blades. The thing is, aren't the conductors exceeding a bend radius? In most cases, the conductors are forced to make a right angle bend. I'd love to hear what you guys have to say.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Proper way to connect two buildings to LAN</TITLE>
+    <DATE>2018-07-11 01:52:12</DATE>
+    <TEXT>Hello there, a small company I work for has a Cat5e CMR solid conductor cable outside which connects the two buildings together so they're on the same LAN. The cable is completely exposed to the harsh elements outside, the sheathing has cracked open in multiple areas and water has most likely slipped through. I'd like to prevent a future disaster. My question is, how do I properly connect the two buildings using a UTP cable? Fiber is too expensive for this company and they don't have room for a fiber patch panel. I'd like to mention that the cable is running overhead on the flat roof. Would it be as simple as running conduit on the roof and fishing a new ethernet cable through? Any recommendations are appreciated, thanks. EDIT: I'll be using fiber for this project. I asked for the proper way to do it, and you guys delivered. Thank you for all the replies.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Cat6 cable in overhead conduit</TITLE>
+    <DATE>2018-07-12 09:25:05</DATE>
+    <TEXT>Hello there, I will be running Cat6 along with other cables in conduit that's on a flat roof outside. My question is, if the metallic conduit is grounded do I need to worry about grounding the low voltage cables inside the conduit? The conduit covers the cables all the way till the entry and exit points. AZ, USA Thanks.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>This guy is living in 2047</TITLE>
+    <DATE>2018-07-27 12:32:02</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>3-Outlet tap plugged into extension cord. - Is it safe?</TITLE>
+    <DATE>2018-09-08 20:57:41</DATE>
+    <TEXT>Hello there, I #8217;ve been trying to find an answer to this question. From a little research, I found out plugging in a power strip into a extension cord is NOT ok. However, I haven #8217;t found a clear answer wether or not to plug in a grounded outlet tap into a extension cord. This is the extension cord that #8217;s being used: https://atielectrical.com/product/nema-5-15-extension-cable-sjoow/ Thank you.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Best way to hang hundreds of XLR/SDI cables?</TITLE>
+    <DATE>2018-09-23 02:41:59</DATE>
+    <TEXT>Hey there, I currently work with a small media production company. We have a storage room the size of a high school classroom. The problem is, we use filing cabinets to store our cables and they are properly wrapped. However, when the cables are placed in the cabinets with other cables, they end up getting tangled. Does anyone know a good way of hanging the cables? Ex; using hooks mounted on walls Thank you.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Where can I find a projector ceiling mount similar to this and also allows side-to-side adjustment?</TITLE>
+    <DATE>2018-11-13 23:01:57</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Alap Alap - Marlin Khoshaba</TITLE>
+    <DATE>2019-01-15 19:04:16</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>My heart shattered when I saw this</TITLE>
+    <DATE>2019-01-22 04:13:11</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Support cable above drop ceiling</TITLE>
+    <DATE>2019-01-22 15:38:57</DATE>
+    <TEXT>Happy Tuesday, I was hoping a  #8220;industry standard #8221; method existed when supporting cables. I #8217;ve found a few methods but they require reaching the true ceiling and screwing there. Is there any method that can be used such as J hooks screwed on the drywall partition that sits above the drop ceiling? Here #8217;s a [post](https://www.reddit.com/r/electricians/comments/5vlb3f/if_you_do_this_or_you_let_your_apprentice_do_this/?st=JR7X3PLU amp;sh=5e4c7f9a) showing a method of securing cable to the hanger wire, which is not a good way to do it according to that post. Also, isn #8217;t it the same as just placing the cable on the tile? I mean, all you #8217;re doing is moving the cable and supporting it to the wire. In the end, that hanger wire is supporting the cable either way.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Support cable above drop ceiling</TITLE>
+    <DATE>2019-01-22 15:44:25</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Is this allowed? The flexible cord will be used to power a projector below the ceiling. Picture is not mine. AZ</TITLE>
+    <DATE>2019-01-22 17:29:24</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>What IP cameras  amp; NVR do you use?</TITLE>
+    <DATE>2019-02-01 13:45:49</DATE>
+    <TEXT>Hello, It #8217;s finally Friday! I had a quick question regarding IP cameras and NVRs. I #8217;ve been looking around Amazon and a few surveillance store sites and haven #8217;t been able to find a budget system (under $1000 for 32CH NVR  amp; at least 10 cameras). Would anyone be able to share what setup/brand of cameras and NVR they use? I #8217;ve looked into Blue Iris and would cost $65 for the full version which supports up to 64 cameras which seems like a good deal. Is this a one-time fee you pay? If anyone has used Blue Iris, does it usually work with most IP cameras? Most importantly, what brand of IP cameras do you think are the best? I #8217;ve looked into HIKVision and some other cheap Chinese cameras. They all have their flaws. This will be setup for a medium size church. Room for expansion will be needed. Thank you.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Saw this on Snapchat, it #8217;s a 20amp plug! They did their job.</TITLE>
+    <DATE>2019-02-02 23:21:18</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Ubiquiti network - whisky_kilo [REPOST from r/Ubiquiti]</TITLE>
+    <DATE>2019-02-19 21:52:03</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>In 10 years we will find out what the consequences of vaping will be, just like cigarettes.</TITLE>
+    <DATE>2019-02-27 14:34:57</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Cat 3  amp; 5 removed from 100 year old government building. They ran new Cat6 cables.</TITLE>
+    <DATE>2019-03-06 21:00:31</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Cat 3  amp; 5 removed from 100 year old government building. They ran new Cat6 cables.</TITLE>
+    <DATE>2019-03-06 21:05:47</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>VoIP environment with analog lines, FXO gateway needed?</TITLE>
+    <DATE>2019-03-15 04:13:17</DATE>
+    <TEXT>Hi all, in the midst of upgrading the network at work. Had a quick question regarding analog lines and IP phones. We have a Arris telephony modem that uses coax as the signal. 4 RJ11 jacks are on the modem. Can I simply connect the 4 ports to a FXO gateway and than connect the FXO gateway to the network switch? After this is done, how would I configure the VoIP PBX with the FXO gateway? Thank you, any help would be appreciated. Please correct me if I made any mistakes, new to VoIP.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Why should one use a camera mount for a dome camera?</TITLE>
+    <DATE>2019-03-22 00:53:12</DATE>
+    <TEXT>Hey! I #8217;ve installed hundreds of CCTV cameras for both residential and commercial properties. I still don #8217;t understand why one would use a dome camera mount like [this](https://www.google.com/search?q=security+camera+outside+mount amp;tbm=isch amp;ved=2ahUKEwiZuf-exJThAhVqhFQKHU88CmMQ2-cCegQIABAC amp;oq=security+camera+outside+mount amp;gs_l=mobile-gws-wiz-img.3..33i299l3.1717.2763..2982...0.0..0.171.631.5j1......0....1.........0i30j0i5i30j0i24j0i10i24.loljZy5rOdY amp;ei=uzGUXNnvMOqI0gLP-KiYBg amp;bih=553 amp;biw=375 amp;client=safari amp;prmd=sivn amp;safe=strict amp;hl=en-US#imgrc=b_okd80uSInPKM). Are there any benefits? The only benefit I could think of is it #8217;d be very hard for water to penetrate the camera, possibly damaging it. I #8217;ve also seen dome cameras mounted like [this](https://www.google.com/search?q=cctv+mount+dome amp;tbm=isch amp;ved=2ahUKEwiXg5u4wZThAhXzJn0KHYoXCPIQ2-cCegQIABAC amp;oq=cctv+mount+dome amp;gs_l=mobile-gws-wiz-img.3...1380.2049..2434...0.0..0.92.348.4......0....1.........35i39j33i299.U79rJfVFtPw amp;ei=yy6UXNfxFvPN9AOKr6CQDw amp;bih=553 amp;biw=375 amp;client=safari amp;prmd=sivn amp;safe=strict amp;hl=en-us#imgrc=PRXYE3voqow1YM amp;imgdii=T11KdlfCDzpc0M), with no mount. This method gives a clean and discrete look but I believe that water may enter the camera easier than if it were mounted using the mount above. Any thoughts on this?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>151 Data Drops - Network Cabling Installation</TITLE>
+    <DATE>2019-03-22 19:45:05</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>How do you secure network racks to walls with metal studs?</TITLE>
+    <DATE>2019-03-26 05:15:01</DATE>
+    <TEXT>Will be mounting a 10U hinged network rack to a wall which has metal studs in a office. What would be the best way to do this? I #8217;ve been to multiple sites with plywood behind the rack. I don #8217;t understand how this would help. Let #8217;s say I use a Middle Atlantic rack which has 16 #8221; spaced screw holes and the studs are 16 #8221;, would I need plywood? If the studs are 24 #8221;, would I then need plywood? Is the plywood basically a way to grab on to the studs with racks that aren #8217;t able to do so? Finally, what type of screws do I use for the studs? Thank you. Edit: Thank you for all the replies, very useful information!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Exterior IP camera lightning questions</TITLE>
+    <DATE>2019-03-28 05:53:11</DATE>
+    <TEXT>Hello there, we #8217;re planning to install 14 IP dome cameras on the exterior of our office building. The exterior is brick. We #8217;ll be using UTP Cat6 and the cameras will be powered by our PoE switches. The cables will NOT be exposed when outside. Some of the cable runs will be in metallic conduit. The cameras will be sealed with a silicone sealer/caulk. Is there any risk of lightning striking the cameras and damaging our network equipment with this current setup? If so, how does your company/business go about mounting IP cameras outside? I #8217;ve been researching for the past hour and can #8217;t find a solid solution. I #8217;ve read that the lightning will strike the camera regardless but supposedly my goal is to prevent damage to the other network equipment. If the cables are concealed will I have an issue? Thank you.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Exterior IP camera lightning questions</TITLE>
+    <DATE>2019-03-28 06:01:57</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Exterior IP camera lightning questions</TITLE>
+    <DATE>2019-03-28 06:24:44</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Caddy J-Hook for supporting cables above drop ceiling, how to mount?</TITLE>
+    <DATE>2019-03-31 03:14:15</DATE>
+    <TEXT>Had a quick question, I #8217;ll be running low voltage cables and I #8217;ll be using [these](https://www.discount-low-voltage.com/ERICO-CAT124Z34) J-Hooks to support the cables that won #8217;t be near a wall. I #8217;ll have my own support wire but do these just attach to the metal wire? I #8217;m having a hard time understanding how this hook will hold, what #8217;s keeping it from sliding down? For the runs next to the walls, I #8217;ll be using [this](https://www.discount-low-voltage.com/CAT32HP) J-Hook and secure it to the wall which has metal studs. My question is, how do you secure the hooks to the walls with metal studs? I #8217;m thinking about using self drilling 3 #8221; screws. Will these be sufficient? Thanks.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>It #8217;s depressing :(</TITLE>
+    <DATE>2019-04-05 20:08:22</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Spotted several code violations</TITLE>
+    <DATE>2019-04-06 17:49:30</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Free home security!</TITLE>
+    <DATE>2019-04-10 00:00:56</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Quality of Cat6 cable from different manufacturers. How do I spot the differences?</TITLE>
+    <DATE>2019-04-11 01:12:44</DATE>
+    <TEXT>Hi there, I #8217;ve been browsing Anixter, CableSupply and other cable distributors to purchase new cable for the office. I know the typical things I should watch out for (CCA conductors, gauge, CMR, CMP, etc). However, most of the cables I found are the same. The only difference is the price and brand. For example, I found [this](https://www.amazon.com/dp/B0007GGZ24/ref=cm_sw_r_cp_api_i_SkPRCbVSDT351) spool of Cat6 from Tripp Lite listed for $129. On Anixter, I found [this](https://www.anixter.com/en_us/products/PUR6004BU-UY/PANDUIT/Voice-and-Data-Cable/p/CM-00424PND-7RB-06) spool of Panduit Cat6 for $319. There #8217;s an obvious price difference but what factors into the cable price being different? Is it the brand of the cable, specs of the cable that I may be missing? Is there anything on the spec sheets that I need to understand when deciding which cable I should buy?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>I couldn #8217;t believe my eyes.</TITLE>
+    <DATE>2019-04-14 19:19:10</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>7-Eleven owner confronts thief with kindness</TITLE>
+    <DATE>2019-04-17 04:13:40</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Can we stack more?</TITLE>
+    <DATE>2019-04-24 05:12:47</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Imgur redirecting to scam ads</TITLE>
+    <DATE>2019-05-02 06:26:13</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>What #8217;s the proper method to mount network racks to a commercial steel stud wall?</TITLE>
+    <DATE>2019-05-02 16:01:12</DATE>
+    <TEXT>I #8217;ve been getting mixed answers, some say to use snap toggles into the studs and others say sheet metal screws will work just fine. We will be mounting two 10U hinged IDF racks with plywood backing (fire-rated). What method has worked well for you? I #8217;d appreciate any feedback/suggestions. Here #8217;s an [example](https://imgur.com/a/GOdThIS) of a hinged 12U IDF mounted to a wall with plywood backing. Can anyone tell what the installer did here? Ideally, I #8217;d like the two racks to hold a UPS, switch, and a patch panel. Thank you.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Is anyone able to recommend a wall mounted rack that #8217;s at least 10U, hinged, open back, and with wire mesh doors?</TITLE>
+    <DATE>2019-05-02 22:55:40</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Best way to fish multiple Cat6 cables down an exterior wall with foam board insulation?</TITLE>
+    <DATE>2019-05-07 04:11:17</DATE>
+    <TEXT>I #8217;ve tried using a fish rod to fish the cable down but the most I #8217;m able to fish down the wall is two cables. I need another two cables, and a switch isn #8217;t an option here. I #8217;ve tried using a long drill bit to carve out a hole but I #8217;ve been unsuccessful in doing so, I believe the drill bit goes sideways when reaching a certain spot. Please note that there is no horizontal stud in the wall, as I was able to get the fish rod down the wall. Are there any other methods to fish multiple cables down a heavily insulated wall? I also tried tying the cables with a pull string and pulling, it ended up ripping the string. Any help would be appreciated.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>180+ Drops - Network cabling installation</TITLE>
+    <DATE>2019-05-07 04:54:10</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Wall mountable rack recommendations for a non-secured environment?</TITLE>
+    <DATE>2019-05-08 05:13:29</DATE>
+    <TEXT>Hello all! I've been having a hard time finding a wall mountable rack that's at least 9U (preferably 12U), hinged, has a cutout in the back (to bring in cables  amp; power), and a solid front door. The best I've found is the [CUBE-iT Wall-Mount Cabinet](https://www.chatsworth.com/en-us/products/cabinets-enclosures-containment/wall-mount-cabinets/swing-frame/cube-it-wall-mount-cabinet/11890-724) by Chatsworth. However, it cost a whopping $734. My employer will only approve a rack $400 or less. This rack will sit in a non-secured environment, it's important that the rack is totally isolated from the outside world. Thank you, any suggestions will be greatly appreciated.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Should IDFs be daisy chained or should each one have a home run to the MDF?</TITLE>
+    <DATE>2019-05-14 22:22:17</DATE>
+    <TEXT>I #8217;ve always wondered what the proper method is. For example, is option 1 or 2 correct? Option 1: MDF to IDF1, MDF to IDF2, MDF to IDF3 OR Option 2: MDF to IDF1, IDF1 to IDF2, IDF2 to IDF3 Please explain why, I haven #8217;t been able to find a reason online. If one IDF goes down, then the ones that are daisy chained go down. That #8217;s the only reason I have to NOT daisy chain.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Junction box too big and anyone can unplug..</TITLE>
+    <DATE>2019-05-15 06:46:05</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Shaving - Wednesday Edition</TITLE>
+    <DATE>2019-05-16 07:42:03</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Viewing NVR or multiple IP camera streams at different locations</TITLE>
+    <DATE>2019-05-21 05:53:15</DATE>
+    <TEXT>Hello! We currently have an NVR running Blue Iris with about 20 IP cameras. A few weeks after installing the cameras, we thought it would be nice to install monitors in multiple locations to view the live stream of certain cameras. I #8217;ve been looking into the [ViewZ IP monitor](https://viewzusa.com/security/product/ip-input-monitor/) with the onboard Android OS but these units cost upwards of $900 a monitor. Is there a cheaper solution ($200 or less per monitor)? Thank you. Edit: added link to ViewZ, changed wording</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Fishing cables through foam board insulation</TITLE>
+    <DATE>2019-05-21 20:49:27</DATE>
+    <TEXT>Hello! I spent the last 2 hours trying to fish cable down a wall. I tried the following but I was unsuccessful in doing so: fish rod, flexible drill bit, and fish tape (meant for conduit but I tried anyways). The insulation behind my wall is [foam board](https://www.google.com/imgres?imgurl=https://i0.wp.com/www.eps.supply/wp-content/uploads/2018/12/Foam-Board-Insulation-1-in-x-4-ft-x-8-ft-R-4.2-EPS-HalfBack.jpg?fit%3D500%252C500%26ssl%3D1 amp;imgrefurl=https://www.eps.supply/product/foam-board-insulation-1-in-x-4-ft-x-8-ft-r-4-2-eps-halfback/ amp;tbnid=Q9X6ONTUDFJgaM amp;vet=1 amp;docid=cDzh_mgKQoq6QM amp;w=500 amp;h=500 amp;hl=en-us amp;source=sh/x/im) insulation. Does anyone know a good method of running cable down the wall with this insulation? Thank you. Edit: unfortunately, cable raceways aren #8217;t acceptable for this.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Bee vacuums let beekeepers suck up swarming bees without killing them - Wednesday Edition</TITLE>
+    <DATE>2019-05-22 15:06:17</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Found in a high school yearbook</TITLE>
+    <DATE>2019-05-24 03:29:55</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Why do most MC cables have a black mark of some sort?</TITLE>
+    <DATE>2019-06-07 08:06:12</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Proper way to secure plywood to metal stud wall which will hold a wall mounted rack?</TITLE>
+    <DATE>2019-06-09 02:10:24</DATE>
+    <TEXT>Hello! In this [example](https://imgur.com/a/4g2AMAs) the plywood appears to be mounted using normal drywall screws. However, I know that can #8217;t be right. A different type of screw/method is out there. If you look at the top plywood, it appears to be using different screws. Also, I have looked at Hoffman, Chatsworth, and Tripp Lite and cannot find an affordable hinged 12U+ rack with a solid front door ($400 and below). Any help would be appreciated.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Proper way to secure plywood to metal stud wall which will hold a wall mounted rack?</TITLE>
+    <DATE>2019-06-09 02:35:07</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Can a ISP demarcation be inside an MDF?</TITLE>
+    <DATE>2019-06-09 10:54:37</DATE>
+    <TEXT>ISP is Cox communications in AZ. Can the demarcation box be inside the MDF rather than outside where anyone can open the box and cut the ISP feed (assuming there is no 4G failover)? We currently use coaxial and not fiber. Does anyone else have the demarcation box in their MDF? If so, how does the cable enter (penetrate) the building?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>What #8217;s a free digital signage solution works for you?</TITLE>
+    <DATE>2019-06-14 00:15:43</DATE>
+    <TEXT>I #8217;ve looked at Screenly for Rasberry Pi and it looks promising. Does anyone else have a better solution that works for them? We #8217;re looking at installing a few TVs in the office. Edit: For clarification, the employees that work in the office have to push new content out. They aren #8217;t tech-savvy, a nice UI would be nice. It would be preferable if they pushed a few buttons and it works from there. The content that will be pushed out will just be ordinary images that the assigned employee will upload from his or her desktop. I have found that a network web page is the easiest solution for the employees, as the only thing they have to do is save the IP on their desktop and login. The webpage should preferably have a security wall with a simple password. This will only be on the local network.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Get on my level!</TITLE>
+    <DATE>2019-06-18 00:50:53</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>They wanted our bread!</TITLE>
+    <DATE>2019-07-16 05:14:05</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Jesus Saves cross in Livermore, CA</TITLE>
+    <DATE>2019-07-16 20:52:37</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Best practices to bring down cable bundle  amp; terminate for a 2/4 post rack?</TITLE>
+    <DATE>2019-07-23 18:43:50</DATE>
+    <TEXT>Hello! We just finished running Cat6 throughout the building. Now we #8217;re stumped regarding what the best method is to bring the large cable bundle down from the drop ceiling into the patch panel. Here are a few [methods](https://imgur.com/a/kVQs9O1) we #8217;ve seen before. In one example, the cables come in through a pre-cut EMT conduit strapped to the wall, onto a cable runway and then into a patch panel. In another, no EMT conduit is used and the tile was simply cut for the bundle. To cut to the point, should a cable runway be used? Should we just position the 2/4 post rack next to the wall so the cables just come down? Why should a EMT conduit be used for ceiling entry? Thank you.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>How important is it to replace carpet flooring in a future MDF?</TITLE>
+    <DATE>2019-10-03 05:06:51</DATE>
+    <TEXT>Hello! I wanted to know the importance of replacing carpet with VCT tile for our future MDF. I will be bolting down a rack on the floor which will hold network  amp; server equipment. Based on the room size, the estimated cost to replace with VCT tile and replace the base cove would be around $120 + labor. I am aware of static concerns but has anyone dealt with this same situation? If so, what should be done? The people in charge only want necessary changes, so I need to give them reasons to replace if needed. Thank you. Update: VCT tiles were installed and sealed/polished. No regrets!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Changing balanced cable (80ft) from Nexia CS to unbalanced RCA?</TITLE>
+    <DATE>2019-10-31 00:18:20</DATE>
+    <TEXT>Hello! We **currently have an** **80ft** **balanced** audio cable running from a Nexia CS output and plugs into a 70V amplifier input. Both sides are wired to euro block connectors. There are currently no issues such as hum/noise, assuming because both sides are balanced. Cable: One positive conductor, one negative conductor, and one shield wire. A request came up that requires me to unplug the euro block connector from the 70V amplifier input and plug into an RCA splitter. My question is: 1. If I were to solder an RCA connector on the cable would I run into signal degradation/hum because the cable would become unbalanced? If so, would [this](https://www.bhphotovideo.com/c/product/634376-REG/RDL_TX_A2_TX_A2_Mono_Balanced_to.html) mono balanced to unbalanced converter eliminate signal degradation/hum? 2. Is there any other solutions/products other than paying $80 for that converter (which isn't an issue if it works)? Thank you, any help would be appreciated.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Will be upgrading A/V systems, does anyone recognize this mount for an Epson 835p? 1.5 NPT pipe is attached.</TITLE>
+    <DATE>2019-11-12 15:32:31</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Electrician or Telco guy: I can do it!</TITLE>
+    <DATE>2019-11-28 05:11:15</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Ladies, is it true that some of you talk to someone on your phone while out in public/dangerous areas to feel safe? If not, what are methods people could use to stay safe in public?</TITLE>
+    <DATE>2020-01-09 14:59:34</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>ASU handing out free hand sanitizers</TITLE>
+    <DATE>2020-01-30 17:02:59</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Let #8217;s just have all the weight be held by hinges, no problem!</TITLE>
+    <DATE>2020-02-14 22:03:19</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Service loops FTW</TITLE>
+    <DATE>2020-03-24 09:53:17</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Let #8217;s write in sharpie on the front cover to note that the toner was replaced, great idea!</TITLE>
+    <DATE>2020-03-29 07:16:55</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-05 06:41:35</DATE>
+    <TEXT>https://images.app.goo.gl/R4LzkUPrparzDfVN9</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-05 15:26:35</DATE>
+    <TEXT>This post won #8217;t do any good if you don #8217;t tell them yourselves.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-06 03:19:08</DATE>
+    <TEXT>I can #8217;t understand why those words came out of her mouth. I hate to say it, but the only explanation is being mentally challenged. This was the most shocking thing to me: * Believes people should travel via airplanes as they are now cleaner than ever. (If someone was infected with COVID-19 on that airplane and coughed, sneezed or was sitting next to you, there #8217;s a good chance you #8217;ll catch it as well. It doesn #8217;t matter how clean that airplane is, it #8217;s the people you need to worry about. This is why social distancing is recommended by the CDC.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-06 15:47:10</DATE>
+    <TEXT>I #8217;m glad other people are wearing masks. As I said above, I #8217;m not happy with the people wearing them improperly on purpose or taking them off to talk to someone.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-06 16:30:00</DATE>
+    <TEXT>I totally agree with you guys and this would #8217;ve been a better way to phrase it. Let #8217;s see what the moderators think about this.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-06 19:48:01</DATE>
+    <TEXT>I would just use big joe and pull it out.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-06 22:45:10</DATE>
+    <TEXT>Use the same ones, they aren #8217;t half bad for the price.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-09 19:38:45</DATE>
+    <TEXT>We need to see what type of keystone jack is on your wall plate. Anyways, I would always buy a new keystone jack rather than reusing to avoid any issues. This [kit](https://www.amazon.com/dp/B008UY5WL0/) will allow you to test and strip the cables.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-09 20:14:12</DATE>
+    <TEXT>Use Instacart or Shipt (not affiliated by Kroger).</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Pickup: 10 parking spaces + 15 cars lined up. End my misery.</TITLE>
+    <DATE>2020-04-12 00:03:09</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-12 00:29:03</DATE>
+    <TEXT>Ever heard of secret shoppers?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-12 00:30:29</DATE>
+    <TEXT>Action required means someone needs to look at your application. You should receive a call soon from the corporate HQ for a phone interview. 3 to 4 weeks does seem like a excessive wait time. I would give the 1800 number a call and talk to the HR department at HQ. I won #8217;t be able to give out the number as I #8217;m not sure if it #8217;s publicly available online.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-12 00:35:40</DATE>
+    <TEXT>We #8217;ve also been getting duplicate printouts of totes and has caused issues later on when being picked. But this? This is weird. It looks like the order belongs to the tote to the left according to the numbers below.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-12 03:08:01</DATE>
+    <TEXT>8 organic and 5 normal bananas.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-12 08:57:41</DATE>
+    <TEXT>Nah, he #8217;s a phony. 99% of the pictures he posted were snatched from online. Here #8217;s a [website](http://www.successlifelounge.com/169-satisfying-examples-of-the-true-power-of-powerwashing/) that had posted this picture before.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-12 08:58:31</DATE>
+    <TEXT>If you #8217;re going to steal pictures from online, at least change the title.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-12 08:59:55</DATE>
+    <TEXT>Original Reddit post: https://www.reddit.com/r/powerwashingporn/comments/98gmly/beforeafter/</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-12 09:01:03</DATE>
+    <TEXT>Original Reddit post: https://www.reddit.com/r/powerwashingporn/comments/9gzugm/behold_the_king_of_power_washers_has_arrived/</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-12 09:02:05</DATE>
+    <TEXT>Original Reddit post: https://www.reddit.com/r/powerwashingporn/comments/bqoxm8/begged_my_parents_to_let_me_power_wash_their_deck/</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-12 09:03:24</DATE>
+    <TEXT>Original Reddit post: https://www.reddit.com/r/powerwashingporn/comments/b8lzui/grandparents_deck_before_after/</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-12 09:04:20</DATE>
+    <TEXT>Original Reddit post: https://www.reddit.com/r/powerwashingporn/comments/8tad0i/this_one_has_been_waiting_for_a_decade/</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-12 09:06:11</DATE>
+    <TEXT>https://www.reddit.com/r/powerwashingporn/comments/cgddbl/so_clean_so_bright_so_satisfying_osoc/</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-12 09:07:37</DATE>
+    <TEXT>Original Reddit post: https://www.reddit.com/r/powerwashingporn/comments/asph0q/for_my_power_cleaning_stoners_out_there_my_first/</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>eBay seller using her body in product listings.</TITLE>
+    <DATE>2020-04-13 04:38:41</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-13 05:12:04</DATE>
+    <TEXT>Don #8217;t let it get to you. We now send all complaints to customer service. We no longer have any time to waste listening to someone #8217;s issues.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-13 06:05:36</DATE>
+    <TEXT>Be ready to work 10+ hours shifts while salary, meet unrealistic expectations, and hope you are paired with a competent team.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-13 06:13:18</DATE>
+    <TEXT>You got the experience, I would go for it. No job is easy but being a supervisor ain #8217;t bad. It #8217;s the people around you that will make a difference. Edit: I would show your associates how to do certain things so you can assign each person a mini task. This will ease the amount of things you have to do in a day.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-13 18:55:15</DATE>
+    <TEXT>I said it looks like. I didn #8217;t say it was. I #8217;m a low voltage technician, I can tell the difference.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-14 01:04:39</DATE>
+    <TEXT>How is it illegal storage? The only issue I see here is the support wires for the new drop ceiling are using the upper t-grid as support.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-14 03:11:02</DATE>
+    <TEXT>The commercials they broadcast on television and in-stores is also a publicity stunt to make people think they care about us. Haha.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Kroger #8217;s leaked training video</TITLE>
+    <DATE>2020-04-14 19:44:54</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Walmart #8217;s leaked training video</TITLE>
+    <DATE>2020-04-14 19:56:00</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Customer: Where is the sugar? *while standing behind sugar*</TITLE>
+    <DATE>2020-04-15 06:22:43</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-16 02:42:21</DATE>
+    <TEXT>I would make sure you know what you #8217;re talking about before spreading misinformation. These POWERADD battery banks  #8220;supports over-charged, over-discharged, over-voltage, over-current and short circuit protection, with Pilot 2GS. #8221; In a way you #8217;re right, the power output is determined by the battery bank. With the Pilot 2GS technology, there is no harm in using this with Baymax devices as it #8217;ll know how much to output.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-16 14:56:13</DATE>
+    <TEXT>You #8217;re asking employees to purchase a Red Bull for you so you could enter a  #8220;lottery #8221;?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-16 15:02:40</DATE>
+    <TEXT>I read the [official](https://www.redbull.com/us-en/projects/play3x-kroger-official-rules) rules. I put quotation marks around lottery as it #8217;s essentially similar to a lottery. You buy the Red Bull (ticket), input something (play the game and get a good score), and wait to see if you won any prizes.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-16 16:00:41</DATE>
+    <TEXT> #8220;Yes you do! What are those boxes over there in the corner? #8221; Nice try, lol.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-16 16:39:27</DATE>
+    <TEXT>Yes, hence why I put quotation marks around the statement to mimic a customer saying that. Stay safe out there.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-16 17:23:53</DATE>
+    <TEXT>The plastic bags and the product box could have bacteria, unless they decontaminate those two they are doing all that for nothing.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-16 21:52:31</DATE>
+    <TEXT>Nope. Stop bragging. You #8217;re not fast, no way in hell you could get 20 seconds per item while doing ambient, frozen, and refrigerator trolleys. It #8217;s just the fact that you had multiples of items and you were doing an ambient. On some days I #8217;ll literally sprint and the best time I #8217;ve got was 24 seconds. [Proof](https://i.imgur.com/6FYWu2g.jpg)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-16 22:30:29</DATE>
+    <TEXT>We #8217;re all in this together! Stay safe out there man.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>ATTENTION: All Pickup leads or supervisors! (Please read for your sake)</TITLE>
+    <DATE>2020-04-16 22:51:29</DATE>
+    <TEXT>This is a suggestion for the Pickup department to allow high volume stores to run more efficiently and to save Kroger money in the long run by allowing an automated system do the job of an associate. If you could please quickly skim over, and if you're onboard, forward this idea to your local division Pickup head. If you have any kind of authority where you could get the attention of the Pickup heads, please forward this to them. The goal here is to get as much attention possible on this suggestion. I work in the Pickup department. As you probably know, most of the Kroger stores, especially marketplaces have upwards of 180 or more orders a day. We haven't had much issues with selecting. However, in my opinion, there seems to be lots of room for improvement for the curbside aspect.  #8203; At the moment, Pickup departments rely on the phones in order for the customers to let us know they are in the lot. Here's a perfect scenario, there's two attendants in the backroom. A customer pulls into the lot, calls the number on the sign, one of the attendants picks up the phone, and both the attendants put the order together in a timely manner. Five minutes later, another car pulls up, and the steps are repeated. There's no issue with this process, for stores with a very small amount of orders per hour.  #8203; **Problem** In our case, we have about 20 or more orders per hour. One of the attendants (usually a lead) will get stuck answering calls throughout the duration of the wave. In other words, Kroger is paying someone to act as a receptionist for 8+ hours. There will be a few customers that call in to make a complaint or ask a question about their order. When this happens, the lead has no choice but to talk to the customer and hold off on the incoming calls from customers in the lot. As the phones are going haywire, another attendant that was working on an order now has to stop and pickup the phone if they don't want frustrated customers asking why the phone isn't being picked up. One of the Best Practices while curbside is to get the customer in and out of the lot as soon as possible (under 5 minutes? - currently not meeting that as customers wait 30-45 minutes), I believe the backroom could run more efficiently if another type of system was in place of answering the phones. This new system I would be suggesting would help free up the attendant standing by the phone for the duration of the wave and better utilize their time working as a team putting the orders together.  #8203; [10 lot parking space with 15+ cars lined up waiting.](https://preview.redd.it/92a42ijt69t41.jpg?width=2100 amp;format=pjpg amp;auto=webp amp;s=540778656212e2cecde4db6dd5531fabc0f82e07)  #8203; **Rakuten Ready** I can agree that this is useful, for stores with low order volumes. While the attendants have a short break, they can see a customer driving and get their order ready. However, with a high order volume department you can hardly keep up with the cars in the lot as you are constantly preparing orders with little to no break between waves. Also, this relies on the customers to allow the Kroger mobile application to constantly track the customers location. Let's be honest, who wants someone constantly tracking your location let alone a corporation?  #8203; **Suggestion** Create an automated phone answering system for customers to use when parking in the lot. When a customer parks in a spot, they will call the number, and they will be notified of the store location they called (to prevent checking in at a wrong store). They will use their phone keypad to input their order number (this could be as simple as the four digit tote numbers that is used for their order) and the space they are parked in. The monitor that is currently in use by the Rakuten Ready program could be replaced with a program that is linked with the automated answering system and collects the data after the customer places the call. The program would display the customer name, order number, their pickup time, space parked in, bar code for order retrieval and other useful identifying information. As soon as the entry shows up on the screen, an attendant would be able to scan the bar code next to the entry so they can start working on the order. After the order is put together, the attendant will retrieve the paper from the drawer, note the space they are parked in, and use the MPOS to retrieve the transaction. If the transaction was already processed, then the entry from the screen would disappear a minute after the order was marked as picked up (to ensure the attendant has enough time to note the space they are parked in). If the transaction wasn't processed, the entry would disappear after the attendant processes the order while car-side (this would be the ideal scenario).  #8203; **Example** 1. Customer parks in a space. 2. Customer calls the phone number on the sign. 3. An automated phone system begins playing 1. Thank you for calling Fry's Pickup at 1234 Address Ln. May I know the 4 digit confirmation number associated with your order? 4. Customer presses 4 numbers on their keypad (again, this could be the tote number). 5. Thank you, your order scheduled for April 16th at 5:00pm-6:00pm is ready to be picked up. Are you currently in the parking lot at the moment? Press 1 for yes or 2 for no. 6. If no, system will respond with 1. Thank you for calling, have a great day! 7. If yes, system will respond with 1. Great! What parking spot number are you in? 1. Customer inputs parking spot number on keypad. 2. Thank you, an associate will be right out with your order. This could obviously be modified in many ways, there's always room for improvement. Just thinking of the foundation.  #8203; [Example of the automated phone system.](https://preview.redd.it/d4k8oku9oat41.jpg?width=4032 amp;format=pjpg amp;auto=webp amp;s=d1f9af9b2ea16576f026eb149fafd242faa4325e) **TL;DR** I thought of an idea that could improve the efficiency of the Pickup backroom by introducing an automated phone system. By doing this, we could have one less person in the backroom or use that person that was once taking phone calls to help put together orders/select on the floor.  #8203; I need **YOUR** help to make this possible. If anyone knows who is in charge of implementing these technological features, please private message me. For now, the best way to get attention is to keep forwarding this suggestion to Pickup division heads.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-16 23:24:24</DATE>
+    <TEXT>Thank you. I had thought of that, and eventually the development team could incorporate that into the mobile application as well. I wanted Kroger to be attracted to this suggestion as it allows basically any customer to check-in (even without a smartphone). Allowing them to check-in through the mobile app would be a luxury. Baby steps.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-16 23:30:36</DATE>
+    <TEXT> gt;corporate is unwilling to implement any changes that will cost them money.  gt;  gt;It would take a major external push to make such a change happen You may be right, but forwarding this suggestion to local division Pickup heads would be better than not doing so. Let's make this the "external push" and let every Pickup head know about this suggestion. You never know how far up the chain it will go and might reach the right person.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-17 01:49:17</DATE>
+    <TEXT>You work in Technology out of KMA and can #8217;t link the correct model that Kroger uses? Here #8217;s the [model](https://www.ipoweradd.com/prod_view.aspx?TypeId=81 amp;Id=231 amp;Fid=t3:81:3) that Kroger uses. The manufacture site doesn #8217;t specifically state what I had said above but the [Amazon listing](https://www.amazon.com/dp/B00N2JBTEM) does and is also sold by POWERADD.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-17 02:22:16</DATE>
+    <TEXT>Sigh... Look into voltage and amperage. It is safe to use a power output with a different amperage as long as the voltage is the same. The SRHHG3 or Baymax takes 5VDC through a mini-USB connector. Guess what? The battery bank also outputs 5VDC but up to 3.1A on each USB port. The Baymax only takes what is needed, assuming that the Pilot 2GS technology doesn #8217;t first detect how much amperage to output. Kroger intended it for scales, but the battery bank is intended to charge 5VDC devices. If Kroger doesn #8217;t want lost productivity, we need more Baymax devices or better battery life.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-17 15:44:51</DATE>
+    <TEXT>They have to call, in order for us to know where they are parked. The use of Rakuten Ready just helps get the customer in and out faster.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-18 04:13:31</DATE>
+    <TEXT>This is the explanation I needed, thank you. I #8217;ll remove this post as I don #8217;t believe I can call this trashy anymore.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-19 07:05:07</DATE>
+    <TEXT>Once he puts your hand on you once, it #8217;ll happen again and get worse, no matter how much he apologizes or tells you he loves you. LEAVE NOW FOR YOUR SAKE.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-19 18:36:10</DATE>
+    <TEXT>You can cover the pipe but not the Type LB.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-19 19:31:31</DATE>
+    <TEXT>I don #8217;t get it, was the damaged paint covered by the wood trim and paintings?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-20 05:47:55</DATE>
+    <TEXT>If you #8217;re not joking, Type LBs allow you to make sharp 90s on corners like this. You can see one on the very bottom.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Would I be able to use a MPX (HD-CVI) PTZ camera as a live stream camera?</TITLE>
+    <DATE>2020-04-20 07:54:23</DATE>
+    <TEXT>Hello all, I #8217;ve been looking at PTZ cameras meant for live streaming house of worships and one of the cheapest I #8217;ve found is a PTZOptics camera. We currently have a Canon VC-C50i which only outputs composite video so anything with better quality will do. My question is, will I experience any issues if using a camera like [this](https://www.lorextechnology.com/hd-security-cameras/1080p-weatherproof-mpx-ptz-camera/LZV2925SB-1-p) for live streaming? We can run RG6, two conductor cable, and Cat5 or 6 for RS-485 to this camera. The output will feed into a BNC to HDMI converter (most likely Blackmagic) and into a capture card. Again, quality isn #8217;t an issue here, but I do expect it to be better than the 480p video we have now. What are the pros and cons of using a camera meant for live streaming vs an analog HD security camera?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-20 11:43:37</DATE>
+    <TEXT>Could you further elaborate on the output format? A Blackmagic SDI to HDMI converter accepts an SD, HD, or 3G-SDI signal. Would HD-CVI output not work?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-20 11:49:53</DATE>
+    <TEXT>I see, how #8217;d I miss that? I #8217;ll have to do more research then. Thank you.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-21 04:55:56</DATE>
+    <TEXT>The box blocks the pathway for the laser to escape. It appears the unit was damaged some time ago and the plastic cracked. A fix was applied with electrical tape but that appears to be loose. All you need to do is cover the entire back section of that unit with electrical tape again and make sure there are no openings. If this doesn #8217;t fix your issue, just go ahead and install new sensors. Here #8217;s some inexpensive [ones](https://www.amazon.com/dp/B005DE7SEY) from Genie.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-21 12:38:51</DATE>
+    <TEXT>How is the ground below you holding the weight of your steel balls?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-23 05:21:23</DATE>
+    <TEXT>Only in LA.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-23 05:22:32</DATE>
+    <TEXT>Hope you mean the entire thing, it looks like barf.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-23 05:54:06</DATE>
+    <TEXT>No, it #8217;s a unique image. Reverse image verified this.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-23 19:48:48</DATE>
+    <TEXT>True. However, if the box is empty then it wouldn #8217;t be able to maintain its structural integrity after getting soaked. They need something else.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-23 20:08:00</DATE>
+    <TEXT>Show us the entire view, for all we know the power supply could #8217;ve been unplugged when you set the phone down. It #8217;s also not in view after you pick it up. I #8217;m not saying you #8217;re making this up, but you need to make sure everything is visible.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-24 02:59:10</DATE>
+    <TEXT>Call back the number you were given for the phone screen and ask them what happened.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-24 03:00:19</DATE>
+    <TEXT>What #8217;s Cat7? A knockoff of Category Ethernet cables?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-24 03:08:38</DATE>
+    <TEXT>Correct, you can also see how the cables on the top wall have been painted the same color.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-24 03:26:56</DATE>
+    <TEXT>I was being sarcastic. Cat7 doesn #8217;t necessarily exist as it has not been approved as a cable standard for telecommunications.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-24 08:03:50</DATE>
+    <TEXT>You don #8217;t, it #8217;s a temporary solution. It appears whatever that camera was mounted to previously had to be relocated for now while a remodel is ongoing.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-24 19:32:23</DATE>
+    <TEXT>You #8217;re one of the few (1%) that actually has free time on their hands. Especially during this pandemic. I can only speak for our store, but we have hardly any time to remove the stickers car side, let alone make ornaments out of them.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-25 23:15:47</DATE>
+    <TEXT>I hate seeing messes like this, years and years of techs doing the bare minimum. I #8217;d purchase a demarc box to house all those coax cables  amp; splitters. (read below) I don #8217;t see how you could utilize MoCA in this scenario as you you would have to have a device on the outside and inside where you would like LAN access. You would need an Ethernet cable of some sort running to the outside wall to connect the MoCA adapters to your LAN. If you really wanted, you could utilize two pairs of MoCA adapters so you could turn a coax cable into Ethernet. To give you the reality, if you have to go out and purchase hundreds of dollars worth of MoCA technology and in return you get 70% or less of the speed of Ethernet, I don #8217;t see any benefit. If I were you, I #8217;d gut all the coax cabling and run brand new RG6  amp; Cat6 to each bedroom and any other area you #8217;d like those cables. All these cables should run back to a central point such as a closet, laundry room, etc. For internet access, you would have to run another RG6 to the outside of your house or keep one cable that #8217;s already ran in your house.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-26 03:52:41</DATE>
+    <TEXT>Amazon sells lots of cheap Chinese crap that #8217;s not UL listed. I don #8217;t know about you, but I wouldn #8217;t trust shady brands like WEBANG, Faith, or ELECTECK to provide high voltage in my house. I would check to see if that receptacle is UL listed. If not, toss them. If you haven #8217;t already figured it out, SecurElectric has already vanished into thin air. That #8217;s what these Chinese companies do, provide cheap products at a low cost and disappear later on.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-26 14:59:46</DATE>
+    <TEXT>Not sure how much your time is worth but you could buy a replacement from [Amazon](https://www.amazon.com/JVC-Subwoofer-Replacement-Cable-ONLY/dp/B006RG631Q). If you could partially take apart the other end, have access to the broken end #8217;s terminals to solder, and see how it #8217;s wired, go for it.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-27 01:23:44</DATE>
+    <TEXT>I thought this statement was going to end with you getting a divorce. LOL.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-27 01:28:09</DATE>
+    <TEXT>From what you #8217;re saying, she #8217;s a keeper. Spouses should definitely be supportive of one another. You #8217;re also learning, which is good.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-27 01:41:30</DATE>
+    <TEXT>Select a schedule? Are you a new hire?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Are there any low cost (under $40) ONVIF IP cameras that don #8217;t have any branding on them and look professional?</TITLE>
+    <DATE>2020-04-27 02:22:10</DATE>
+    <TEXT>For example, all the cameras I see in the $40 or less price range is cameras that have Chinese branding like HIKTECHL right smack dab on the front. If they don #8217;t have branding, they #8217;ll have all sorts of designs on them that make them look like toys. Thank you. Edit: only dome cameras or a style similar to [this](https://www.ebay.com/itm/174179513827) one. they can be in the used market. Edit 4/27/20: I wasn #8217;t expecting this find, but I stumbled across a brand called [Anpviz](https://www.amazon.com/dp/B07PNF7DQT) for $53.99, only about $10 more than what I was asking. It does make calls to China, so using a VLAN to isolate these cameras is crucial. For the features (5MP, ONVIF, microphone, weatherproof, night vision) I can #8217;t really complain about the price.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-27 02:36:42</DATE>
+    <TEXT>If there were more available, I would go ahead and purchase it (there #8217;s only 1). I have a very tight budget for a non-profit organization. I #8217;m not looking for any nice features, it just needs to be an IP camera, no branding (if there is, it has to look professional), and has to be similar to the style I linked above or a dome camera. I was wondering if anyone has had luck with finding a source for IP cameras similar to what I #8217;m describing.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-27 14:03:57</DATE>
+    <TEXT>Anything ONVIF compliant will do, but I #8217;m using Blue Iris on a dedicated machine.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-27 14:06:21</DATE>
+    <TEXT>I browsed the entire website and there are no dome cameras, it #8217;s geared more for residential. Also, don #8217;t bother clicking that link. This guy is some kind of unauthorized reseller/scammer.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-27 21:22:17</DATE>
+    <TEXT>Do what? Not allow you to take tips? Or creating a sign like that?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-28 20:57:55</DATE>
+    <TEXT>See if you can at least find out where it goes to. You may need it in the future. You can place a blank wall plate where that cable is and push it in a little. It #8217;s just if anyone in the future needs to find the other end. You would usually install low voltage wall plates by cutting out a hole the size of a receptacle but in this case you could just use drywall anchors to secure it.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-28 22:04:59</DATE>
+    <TEXT>Looks like you need to be taught how to power wash..</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-29 14:37:29</DATE>
+    <TEXT>Take this down or use a NSFW tag! It could cause someone to have a stroke! Unbelievable.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-29 14:42:14</DATE>
+    <TEXT>You have to clarify exactly what you want. When you say combine, do you mean have one switch control two circuits? Or have two switches on a one gang switch?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-30 06:35:42</DATE>
+    <TEXT>You may have severe mental retardation so I #8217;ll get straight to the point: Do not cut the wire, your precious cash will fit in that 1 gang box. As it is a low voltage cable, overheating will not be an issue.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-30 22:08:06</DATE>
+    <TEXT>It was Kroger #8217;s way of warning us that meat consumption by humans would cease to exist.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>*gets sent to fix ground fault*  #8212; gt; *sees this everywhere*  #8212; gt; *sigh*</TITLE>
+    <DATE>2020-05-01 15:32:01</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-01 15:35:30</DATE>
+    <TEXT>Right?!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-01 19:44:21</DATE>
+    <TEXT>Whenever you have low voltage cable in EMT conduit you want to have a plastic bushing around it as EMT has sharp edges. This is one good way of having a ground fault.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-01 19:49:20</DATE>
+    <TEXT>Definitely the install techs. The electricians are probably just told to run conduit from point A to point B. They shouldn #8217;t be responsible. This is just pure negligence on the install tech side.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-02 14:37:07</DATE>
+    <TEXT>Where are all these cables running back to? Usually there is a panel which has a patch panel of some sort.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-02 14:38:35</DATE>
+    <TEXT>Show us the back side of that plate. Highly doubt it #8217;s not adjustable.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-02 14:46:48</DATE>
+    <TEXT>So all those Ethernet plates you have around your house, they have to run back to one central location. Do you know where that is?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-03 01:21:16</DATE>
+    <TEXT>In the industry, they call it a structured media enclosure. You would have to find the Coax cable that comes in from your ISP or Cat5e if using DSL and plug it into your modem. After, plug your router into your modem, connect a cable from your switch to your router, and plug all the infrastructure cabling (cables that go to different areas of the house) to your switch. PM me if you have any questions.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-03 02:10:44</DATE>
+    <TEXT> #8220;Lead knows about it #8221;... does management know about it? The only authority a lead has is to boss the Pickup department around. Go talk to management.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-03 14:04:24</DATE>
+    <TEXT>You see those holes at the bottom of your switch? I would simply mount the switch next to your enclosure and plug all the cables into it. I wouldn #8217;t recommend installing it inside your enclosure as it may lead to overheating, if you manage to fit it inside. The cables that are professionally ran throughout houses or businesses in walls are solid conductor cables (one thick copper conductor). These cables are not meant to be moved as often as stranded cables (few small copper wires that are twisted). Stranded cables or patch cables are meant to be moved constantly as they can handle it. In other words, those cables in your enclosure should #8217;ve been punched down to a patch panel (in your case, something similar to a Leviton data module). Since you say everything is working, I would only go that route if you feel comfortable in doing so. For the coax cables, unless you need all that slack, I would try pushing them up in the wall cavity and use Velcro or zip tie to give it a  #8220;finished look #8221;. For Cat5e, untangle them and use Velcro.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-04 18:07:05</DATE>
+    <TEXT>The only real issue here is the ink display blocking the fire exist. I believe the reasoning behind restricting the traffic flow is to prevent shoppers from standing next to each other. Kroger was in the talks of creating one way aisles. I believe this may be an alternative. For example, if you walk through an aisle, you have to keep going straight. There is no room for two carts to be side by side. For the freezer aisles, same idea, you want shoppers to maintain a good amount of distance and those middle displays should help. They also force shoppers to remain on one side of the aisle. The go backs are just a matter of store management not staffing enough employees to put all the items back on the shelves. As a result, a large amount of items pile up front. These displays are strategically placed by the order of people in higher authority than the store management. They do everything for a reason wether it be to increase profit margins or deal with the social distancing that is required nowadays. Have you talked to store management about the display that is blocking the fire exit? I highly doubt that was an initiative by the higher ups. If they don #8217;t comply, you could be a little fussy and call the local fire Marshall.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-04 18:34:19</DATE>
+    <TEXT>That #8217;s a good way of thinking about it, thanks for sharing. Hopefully corporate will update OP about this situation.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-05 15:17:33</DATE>
+    <TEXT>I understand that you may not be able to leave your kid home. So why don #8217;t you avoid going in-stores and use the delivery or pickup (free) services that Kroger has to offer? If the nation continues to downplay this threat, millions of lives will be lost shortly.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-05 15:45:51</DATE>
+    <TEXT>Very good explanation. I didn #8217;t mean to say you were downplaying, I meant as a whole nation. Stay safe out there.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-05 19:14:47</DATE>
+    <TEXT>It #8217;s a work environment, and drywall isn #8217;t meant for locations with moving pallys and large metal trolleys. That was bound to happen, that is why plywood is used in the back rooms, to avoid things like that.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-05 20:15:09</DATE>
+    <TEXT>Original content [here](https://www.google.com/search?tbs=sbi:AMhZZivjRHxmyjE-RX-dTjJqw-rcbjx5Fu1q6aATyWfdYo6D1eJtP-5q7fpYJEvKmex_1cazpBv-LQIXThIRW4K6DkOXaUXS-Mzimi_18soiCHOX7UxuLj1nPQ7utcyvFNG1iO9gwL9sV5VPCRjwcvo9gJToNUfMgvq68bwXGPA2e0VyLWHZtUMtjT0W5HWlP6yCTZZz4jSBQGPgybX-QWzn2RivFh3dPMXCvk2_1Q4nv1hbbh0s99JY0krXoo0Hr2jNQEyLhhXIAPxAZ_1Tuy6b7NNiaGFOPk-Awkt2iFloHkPDX-Rb-JcVaxMmT-gXV5gdg4G07iJJk10U).</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-05 23:26:24</DATE>
+    <TEXT>Go back in time and sell it.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-06 09:26:20</DATE>
+    <TEXT>The only issue I see here is the fact that there is a family relation between the lead and a clerk. I could care less if all my managers were related or lived in the same house. They can #8217;t play favoritism if they #8217;re all the same position. I would have an issue when you have a clerk and a manager in the same department that are related. The manager can now play favoritism by giving the related clerk less work, letting them go home earlier, etc. You #8217;re not wrong... about the lead and clerk. The reality is, it #8217;s who you know and not what you know. You could also include the fact that there was no opportunity to apply for the positions, not sure how that would play out with ethics.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-06 17:03:05</DATE>
+    <TEXT>Pickup your check from customer service, usually available every Wednesday or Thursday depending where your store is.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-06 18:22:12</DATE>
+    <TEXT>If this is your job, why don #8217;t you be useful to OP and give them some tips?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-07 17:43:38</DATE>
+    <TEXT>OP asked which ones not checked off are absolutely needed. I #8217;m assuming OP will in fact be getting the tools that was checked. He/she was wondering if there were any items not checked off that would be useful.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-07 23:54:40</DATE>
+    <TEXT>Are you a new hire? Sub science has existed for at least two years now. They turned it off temporarily as it was just an extra menu selectors were going through in order to sub an item because the subs weren #8217;t in stock. As shelves are slowly being replenished, they decided to bring it back.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-08 06:27:53</DATE>
+    <TEXT>I agree with you, as soon as I hit B I hit 0 right away and scan the item. After all the overtime and being pushed to finish the trolleys ASAP, I don #8217;t think I could ever go back to using sub science as it slows me down by a few seconds.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-09 05:38:09</DATE>
+    <TEXT>The blue trolleys also have a spot to place produce bags. It appears that no one utilizes it.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-09 06:04:20</DATE>
+    <TEXT>Pretend you #8217;re standing in front of the handle, look down to your left, you #8217;ll see a metal rod sticking out. You are able to slide a produce bag in it, I usually put a binder clip on the end so the bag doesn #8217;t slip out.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-09 09:31:21</DATE>
+    <TEXT>Yes, so put the sub bags in first, and then slide the produce bag, and then install the binder clip so nothing falls out. Works fine for me.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-09 17:12:43</DATE>
+    <TEXT>Some people have their own way of thinking which doesn #8217;t make sense to me. Instead of simply pulling on the bag if it #8217;s on the rod, you have to pull it out from the basket and then pull on it. At the end of the day, I see at least 10 produce bags/regular bags in those baskets. I won #8217;t be sad if they phase them out. I always leave the white bags on the top of the trolley, no need to have them on the rod.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-09 17:51:58</DATE>
+    <TEXT>*sigh* Humans are the virus. Selfish and ignorant. Breaking news in one week: 10,000 new COVID-19 related deaths today!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-10 04:28:00</DATE>
+    <TEXT>20 an hour, total of 253 orders today :/</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-10 13:35:52</DATE>
+    <TEXT>Hmm. You could purchase a [female to female](https://www.amazon.com/dp/B075FPJFD3) adapter and then plug in another [SC single mode](https://www.amazon.com/dp/B01GIV0PIQ/) cable at the other end. If anyone has a better solution other than terminating the fiber, please let me know.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-10 13:43:26</DATE>
+    <TEXT>He/she means to place your router (wall mount, if you want) next to that black box (could be ONT), plug the fiber into the router, and then run a long Ethernet cable to wherever you need it. You would need a network switch and an AP if you do this as you #8217;re technically not moving your router. I don #8217;t see any reason for over complicating, I added a possible solution in this thread.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-10 13:45:26</DATE>
+    <TEXT>Who was responsible for installing that table cover? It looks like it #8217;s crying.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-10 13:54:52</DATE>
+    <TEXT>This is how everything would look like: New SC Single mode cable  #8212; SC pass through adapter  #8212; existing SC single mode cable I had just looked at the reviews of the adapter and it seems like it #8217;s commonly used to extend fiber lines in a residential setting, go figure.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-10 14:08:50</DATE>
+    <TEXT>Not crack heads.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-12 03:55:58</DATE>
+    <TEXT>?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-12 03:56:52</DATE>
+    <TEXT>?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-13 07:54:05</DATE>
+    <TEXT>Those are some THICK Cat6 cables. Almost thought they were RG6.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-13 08:41:26</DATE>
+    <TEXT>They let you install  #8220;Cat7 #8221;? It #8217;s not a standard yet.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-14 03:44:22</DATE>
+    <TEXT>You #8217;d be better off running Cat5e/6 to the camera and use a POE injector. You #8217;ll start pulling your hair out if you use a WiFi camera, especially with a brick exterior.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-15 02:49:45</DATE>
+    <TEXT>feed.kroger.com, click on your name on top right corner, and click kroji maker.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-15 03:08:14</DATE>
+    <TEXT>There could be so many possibilities here. Where do all your low voltage cables run back to in your house?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Electrical panel  #128525;</TITLE>
+    <DATE>2020-05-15 05:22:12</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-15 15:30:15</DATE>
+    <TEXT>You never know, some people will shutdown their W10 PCs but they have fast startup on. As a result, the PC doesn #8217;t really get shutdown and will go into a hybrid hibernate state.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-16 04:51:08</DATE>
+    <TEXT>In humane, disgusting, horrifying. All types of mass shootings/terrorist attacks- Why didn #8217;t God stop whoever planned out these things? The victims loved ones suffer as a result of their deaths. Domestic abuse at home - Why does God allow children to suffer watching their parent getting hit like an animal? Christian believers - Why does it seem that the most faithful are the ones that get the brunt of the evil their way?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-16 04:51:33</DATE>
+    <TEXT>Handle what?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-17 05:15:15</DATE>
+    <TEXT>I could see this being useful if you accidentally leave them above a drop ceiling.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-18 03:27:46</DATE>
+    <TEXT>I wouldn #8217;t bury Ethernet cable for distances that long. You can buy pre terminated fiber and slap fiber to Ethernet converters on each end. You run into the risk of lightning damaging your cable and anything connected to it.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-19 04:47:59</DATE>
+    <TEXT>- Cashiers are able to quickly scan it if they don #8217;t know what the produce PLU is. - Courtesy clerks who have no idea what the produce is can easily match up the PLU/description and put it back instead of throwing it in a random spot. - Pickup associates can scan the barcode on the produce instead of staying by the sign and scanning it several times. There may be other reasons for this decision, but corporate associates do everything for a reason. Some store-level associates may not be able to understand why.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-19 04:54:51</DATE>
+    <TEXT>This appears to be an initiative from your store management and not corporate-level. I can not justify why they would ask that of you. Just a sticker with a price on it, right?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-20 04:20:29</DATE>
+    <TEXT>There are scales in produce.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-20 04:27:35</DATE>
+    <TEXT>It is, located in Tennessee.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Based on past experience, can junction boxes be concealed in walls if used for low voltage?</TITLE>
+    <DATE>2020-05-20 04:56:10</DATE>
+    <TEXT>Hello there, Currently in a commercial building that needs some new AV wiring ran. The problem is, where the AV rack is, there is a 1 inch EMT conduit with 5 cables in it. On the other side (which is a drop ceiling), the conduit is somehow a 3/4 with only 2 cables in it (I have confirmed that these are the same cables heading to the AV rack). This is the case for all the other 6 EMTs above the AV rack, they somehow split off. There are drywall cavities where the AC ducts are ran on each side of the walls, could the junction boxes be inside these? The drywall cavities are all drywall, there is no accessibility to them. However, there are a few sections where vents can be removed. Would it be possible that there are junction boxes hidden in these cavities? Is it against code to hide junction boxes used for low voltage cables? Thank you. Edit: In the cavities, there is an AC duct and right below it, there #8217;s about 4 feet of empty space. These cables were NOT ran in the ducts.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-20 05:23:07</DATE>
+    <TEXT>Store 686, Campbell Station.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-20 05:25:20</DATE>
+    <TEXT>You know those long zip ties that came with those trolley displays? You could zip tie the top totes onto the frame of the trolley so they don #8217;t go flying. The product would obviously have to be transferred to a larger tote.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-20 05:36:59</DATE>
+    <TEXT>The cables are ran in EMT conduit, this is a commercial building. I can tell you that the conduit is not ran in the AC ducts as there is plenty of room below the ducts in the cavity for conduits to be run if needed.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-20 05:57:30</DATE>
+    <TEXT>The run is around 120ft. The thing is, I see 5 cables that go into the conduit on one side. On the other side, I see two of those 5 cables. The other 3 cables go somewhere else. I just hope the junction boxes, pull points, or whatever there is can be accessed by removing the vents.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-20 06:05:50</DATE>
+    <TEXT>Both ends of the cables are intact and working just fine. I have confirmed that the cables are going back to the AV rack. Unfortunately I can not see the entirety of the conduit path. I tried pushing a fish tape through the EMT but it doesn #8217;t end up on the other side of the building (where the two cables come out from). I may just have to do some digging for these junction boxes, ugh.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-20 19:12:26</DATE>
+    <TEXT>You still play Roblox? I #8217;d say you #8217;re at most 13 years old.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-20 19:13:10</DATE>
+    <TEXT>*clicks cancel*</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-20 19:16:46</DATE>
+    <TEXT>You have to also consider that a 97 tote order would be a 25 tote order if you adjusted for the tote capacity. In most marketplace stores, you have those large black totes which has a much larger capacity. If you use these brown bags, that easily drops your capacity down by 40%.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Biamp (Nexia CS) outputting a balanced signal to an unbalanced RCA signal? (100ft)</TITLE>
+    <DATE>2020-05-21 05:59:07</DATE>
+    <TEXT>Hello, We currently own a Nexia CS. Attached below is Biamp's official method of sending a balanced output to an unbalanced input. Can anyone explain why they recommend using the positive and shield terminals instead of simply connecting to the positive and negative? If I follow Biamp's recommendation, should any ground loops be introduced? [Wiring audio inputs and outputs article from Biamp Support](https://preview.redd.it/mbkbsw2w22051.png?width=934 amp;format=png amp;auto=webp amp;s=c96b6a84a90cf807fb1f5d4e377eebe6e16bd113) At the moment, we have to use RCA audio ground loop isolators at the other end to get rid of the hum. Is there anyway the cables can be wired so there is no need for isolators? **My method?** I thought of just sending a balanced signal terminated to an XLR wall plate. From there, connect an XLR patch cable to the wall plate and on the other side it would be plugged into a sound mixer. From the sound mixer, I could use the "tape/CD" RCA outputs to connect to the consumer equipment. Would this also work? **Mono balanced to stereo connection** This has been on my mind for a long time, is it right to connect 2 pairs of conductors to the same euroblock terminals if you want a dual mono or "stereo" connection on the other side?  #8203; I am eager to hear your thoughts. If you have any questions, please let me know!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Biamp (Nexia CS) outputting a balanced signal to an unbalanced RCA signal? (100ft)</TITLE>
+    <DATE>2020-05-21 18:07:21</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Biamp (Nexia CS) outputting a balanced signal to an unbalanced RCA signal? (100ft)</TITLE>
+    <DATE>2020-05-21 18:08:47</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-21 18:22:31</DATE>
+    <TEXT>I know you already bought the cable, but [here](https://m.markertek.com/product/wp-25440b/west-penn-25440b-18-awg-2-pair-stranded-cable-per-foot) is a cable that matches your specs. It #8217;s plenum rated so it can be used in plenum spaces. The cable you bought matches the specs on your current cabling.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-21 19:30:01</DATE>
+    <TEXT>Thank you. If I were to use a balanced connection from the Nexia to the sound mixer, why would a ground loop occur if both sides are balanced? For example, would the below setup introduce any ground loop? Nexia CS Output (balanced)  #8212; gt; Sound mixer with XLR input The sound mixer won #8217;t be on the same circuit as the Nexia. The distance is about 100ft.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-21 19:34:31</DATE>
+    <TEXT>Thanks for responding. If you were told an audio signal needed to be sent from the Nexia to a different location with a different circuit, how would you approach it? I don #8217;t see the issue with sending a balanced signal from the Nexia to a balanced XLR input on a sound mixer. Could you please elaborate why this would introduce issues?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-22 22:51:34</DATE>
+    <TEXT>Can you explain why getting a wired connection between the two buildings wouldn #8217;t be possible? Does the secondary building have any low voltage infrastructure in-place?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Sending a line-level balanced audio signal over 100ft on different circuits. [Image included]</TITLE>
+    <DATE>2020-05-22 23:41:53</DATE>
+    <TEXT>Hi there, Would the following setup introduce any ground loops? Both appliances will be on different electrical circuits.  #8203; My goal is to send a line-level audio signal from a Nexia CS located in the AV room to a different room 100ft away within the same building. If the following setup is not ideal, what would be your way to do it, and why?  #8203; I would appreciate any sort of feedback. https://preview.redd.it/a9n0yjawje051.jpg?width=840 amp;format=pjpg amp;auto=webp amp;s=51029e3e5ba88f10775972ced2546a381b3dfacc</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-23 00:06:23</DATE>
+    <TEXT>Thank you for responding. Am I doing anything wrong in this setup? Is this the professional way to send a line-level audio signal over a long distance? I #8217;m guessing people in the industry have to deal with this as well. The only fix to the humming would be to lift the ground?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Sending a line-level balanced audio signal over 100ft on different circuits. [Image included]</TITLE>
+    <DATE>2020-05-23 01:48:05</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-23 03:22:40</DATE>
+    <TEXT>Amazing find on that article and that PDF. In the article, the author stated that lifting ground is a  #8220;band-aid solution #8221;. Why does he say that if there is no other solution? It #8217;s not like we can safely get rid of the ground potential between the different circuits.  #8220;I used to believe that lifting one end of cable shields was a good practice, but have come to believe it is only a band-aid that tries to mask the actual problems. #8221;</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-23 09:01:01</DATE>
+    <TEXT>Your internet connection has nothing to do with electricians. You cannot use that cable for Ethernet, will you need a Cat5 or higher cable. You described a 4 conductor cable, and those are most commonly used for telephone signals.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-23 09:04:13</DATE>
+    <TEXT>You can use the Cat5 wall plate with Cat6 cable. There is usually text on the keystone jack that identifies what type of cable the jack is meant for. However, just to be safe I would create a label on the wall plate noting the jack is for Cat5 so the next person doesn #8217;t go insane. What type of cable is the Cat6? Is it stranded, solid core?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-23 10:06:46</DATE>
+    <TEXT>Do you know the difference between stranded and solid core type cables? You cannot terminate stranded conductors onto 110 style punchdown jacks unless you want to run into issues. The  #8220;teeth #8221; will have a hard time grabbing on to the conductor(s).</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-23 10:17:06</DATE>
+    <TEXT>You would, and if the cable is in fact stranded, it #8217;s most likely not rated for in-wall use. You can find inexpensive 1000ft spools of Cat5e nowadays for less than $100. Just make sure it #8217;s pure copper and not the CCA crap.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-23 10:21:59</DATE>
+    <TEXT>What is your goal here? To figure out if you have Ethernet wall plates in your building? To better understand your question, are you asking how to figure out if you have wiring that could be used for Ethernet in your building?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-23 10:26:02</DATE>
+    <TEXT>The speed would be limited by the slowest link in the chain (the Cat5 wall plate). 25ft is fairly short, what is your application for? Why don #8217;t you just run a patch cable on the floor? Go to your nearest Home Depot, they will carry short lengths of Cat5e. Just make sure the conductors are pure copper and are solid core.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-23 10:34:00</DATE>
+    <TEXT>Ah, I see. Yes of course, your ISP would be able to assign two different connections to your apartment. A single DSL connection only uses two wires. An install tech would have to come out and configure your service for two DSL connections.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-23 20:29:01</DATE>
+    <TEXT>You have Cat3 run throughout your house/apartment. I #8217;m assuming you don #8217;t have a ton of experience with network cabling or else you would #8217;ve known what that cable was. Short answer is: you can #8217;t use that cable for Ethernet unless you want 10Mbps speeds. Long answer: if you want Ethernet cabling, you rip those cables out and run Cat5e or better cabling. Also, for any future home networking questions you may have: r/HomeNetworking</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-23 21:00:34</DATE>
+    <TEXT>Your ISP will most likely not run the cable as they only are responsible for the cable coming into your house, anything after that is your responsibility. If they did, they would charge lots of money ($200+). It #8217;s not hard at all, the hardest part would be the labor. However, you do need to have some sort of experience so you don #8217;t make matters worse. If you #8217;re selling the house, why don #8217;t you just run cabling along the wall and take it down when you move?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-23 23:09:55</DATE>
+    <TEXT>https://www.amazon.com/dp/B001VPLSE0/ If you know how to run cable from point A to point B down walls, and willing to do so, I can give you some pointers along the way. The above is an example of a cable you #8217;ll need. Each end will need to be terminated. If you #8217;re interested, send me a DM so we can figure out what your house setup looks like.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-23 23:27:11</DATE>
+    <TEXT>What #8217;s your point? Did you read the entire thread? He wants Ethernet wall plates but OP #8217;s house has Cat3 cabling from the 90s.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-23 23:33:29</DATE>
+    <TEXT>Thank you! I had misread what OP was trying to accomplish here. To OP, call your ISP and have them go to the demarc box and swap the lines. Your other wall plate should work just fine. It #8217;s very easy for an average homeowner to do but since that box is the ISP #8217;s responsibility, it #8217;s best to leave it to them.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-24 17:35:49</DATE>
+    <TEXT>Still in better condition than some of other laptops I #8217;ve seen on this subreddit.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-24 20:53:06</DATE>
+    <TEXT>What #8217;s your goal here?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-24 21:27:12</DATE>
+    <TEXT>Ah, should #8217;ve known. A throwaway Reddit account being used by someone hiding behind a keyboard.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-25 18:40:42</DATE>
+    <TEXT>If this is true, why are you bending over for your management like this?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-25 18:42:12</DATE>
+    <TEXT>What do you mean guilt you? You either call back and let them know you cannot come in on your day off or not call back at all. Simple as that, don #8217;t bend over for management. It #8217;s just a retail job, it #8217;s not like you #8217;re needed for a critical project meeting.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-25 20:02:56</DATE>
+    <TEXT>Tell him to screw off. He #8217;s basically an hourly associates with a $1 wage increase that bosses around Pickup associates. I find it hard to believe that your management isn #8217;t aware of this.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-26 07:28:41</DATE>
+    <TEXT>Unscrew the one to the far right and take a picture inside, or even better, all of them. There #8217;s endless possibilities of what could be going on behind those wall plates.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-26 07:47:53</DATE>
+    <TEXT>I briefly looked over the code, job well done. The only issue here is the code would need to updated as soon as the website developers change something as simple as an element name. I would suggest looking into automatic updates. For anyone who isn #8217;t knowledgeable with Python, he basically created a program that loads the Kroger website. The program reads the site just like you would and outputs that info into the program. In other words, it #8217;s safe to use this as your login info would be sent directly to the Kroger website.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Why are used QSC 70v amplifiers dirt cheap?</TITLE>
+    <DATE>2020-05-26 08:36:10</DATE>
+    <TEXT>Hello! I came across a ton of listings on eBay for QSC 70v amplifiers between $100-$200. These are dirt cheap compared to their original price of $1,200 as new condition. I would like to use an amplifier for several TOA and JBL Module Control ceiling speakers that are not in use. I know for a fact that we will be using the eight TOA speakers tapped at 30 watts each. We will be using these for music that won #8217;t be too loud. Here #8217;s an example [listing](https://www.ebay.com/itm/174260158096). Is there a reason why these amplifiers are so inexpensive as used condition? Is there any reason NOT to use these for a commercial installation? Thank you.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-27 03:29:09</DATE>
+    <TEXT>Put it inside a demarc box and I #8217;ll buy you a beer.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-27 03:48:50</DATE>
+    <TEXT>Not sure what that is. A demarc/demarcation box is usually installed by ISPs to house the feed coming from the street. In this case, it appears that all the coax cables were ran on the exterior rather than doing it internally. A [demarc](https://images.app.goo.gl/XvPs1o8kEaX9Kcyd7) box will just help prevent disruption to that splitter and give the setup a cleaner look.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-27 04:45:53</DATE>
+    <TEXT>Serious question. Do you see those red EMTs going into that  #8220;large junction box #8221; to the left? Is that called a NEMA Gutter?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-27 08:42:42</DATE>
+    <TEXT>These Tennessee customers are something else man.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-27 08:50:14</DATE>
+    <TEXT>I #8217;ll be totally honest, I took a chance and tried to assume your store number by the tote stickers, haha. Some stores have the same numbers but different divisions. Quick question, are those leads by the desk? If so, how long do they stay there throughout a day? Do they help you take cars out?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-27 08:53:54</DATE>
+    <TEXT>Yeah, I know that. I was looking at the numbers below the tote order identifier. The store number + trolley route + tote quantity Also, I added a question above.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-27 08:57:18</DATE>
+    <TEXT>Uhh, did they use a low voltage bracket by Carlon?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-27 09:01:38</DATE>
+    <TEXT>Provide more info.. do you need the box? Also, is a home builder involved in this? Are you able to ask them to do it and tell them to screw off with these shitty structured media panels? I would also recommend having them add plywood behind the drywall for your future network rack. If your network rack aligns with the studs then there is no need. I guess if I had to find a reason for that panel staying, you could dedicate it for your coax and other low voltage cables.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-27 18:31:28</DATE>
+    <TEXT>I see. I was asking as I came across the same thing on a job. From experience, can you tell me why an electrical system would have a NEMA 3R 6x6x36 gutter on the roof right above the electrical panel? The purpose of the gutter is to  #8220;branch circuits #8221;. Why is a gutter needed on the roof to branch circuits? I understand if you may not be able to justify the reasoning for my case without physically seeing it. Thank you.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-27 19:44:51</DATE>
+    <TEXT>Saving money by not purchasing gum every three days, I like them.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-27 19:47:47</DATE>
+    <TEXT>They #8217;re literally heart stickers that managers give out to associates for behaving like good dogs. You #8217;re technically supposed to have a placard below your name tag to house all these heart stickers. I never put anything below my name tag, it makes it flop up and down so I just kept these placards at home until the drawing was about to start. Not sure if this rings a bell or it may not exist in your division.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-27 20:21:19</DATE>
+    <TEXT>You can #8217;t be serious. Just buy Cat6 meant for in-wall use with full copper conductors and run it from a central location such as a utility room and then branch them out to your APs. Same goes with hardwiring devices.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-28 03:19:55</DATE>
+    <TEXT>I get taking pictures of the order confirmation papers and the individual products but why the others? Also, you should delete this post. It #8217;s revealing customer information.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-28 03:25:22</DATE>
+    <TEXT>Turn up the volume and play it again, you won #8217;t regret it.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-28 03:58:11</DATE>
+    <TEXT>We need more context.. was this pulled from the shelf or was this sitting in the back room? Looks like someone wanted to do something with the UPC.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-28 18:31:04</DATE>
+    <TEXT>I can #8217;t tell from the picture. Are you able to see what is on the other side of that conduit? It appears that EMT was used without any tape to prevent it from corroding. Also, there #8217;s no LB for entry to the house. Anyways, let me know if you #8217;re able to see what #8217;s behind it.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  </INDIVIDUAL>

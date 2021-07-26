@@ -1,0 +1,687 @@
+<INDIVIDUAL>
+  <ID>subject6254</ID>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2011-09-05 02:20:58</DATE>
+    <TEXT>yeah we might be able to make that work. message me an we can talk if you still need. I'm not on a ton, so give me a day or so to respond.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2011-09-05 02:32:04</DATE>
+    <TEXT>If you want people who really know what they are doing you can try Woodcraft. There is one on Bethel Road, about a mile off of the 315. Their prices are reasonable (not cheap, but okay) and they have a guy that comes in twice a week to do projects for them. I've used them a couple times when i needed a tool to do something that I didn't have.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Camera cleaning/repair shop?</TITLE>
+    <DATE>2011-09-08 16:24:29</DATE>
+    <TEXT>Can anyone recommend a good place to take a camera in to get cleaned? Specifically a Nikon D70s along with some Nikkor lenses? I'd like to have a professional get in a clean out some of the components (esp the sensor, and maybe autofocus drive) really well.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Any good outdoors photography spots?</TITLE>
+    <DATE>2011-10-08 01:09:15</DATE>
+    <TEXT>Does anyone have any good suggestions for places to shoot pictures(portraits) outside? I'd kind of like to avoid the real busy and popular places (like Innis Wood Metro Park). I'd like to find something a bit more unique, but still outdoors with trees nature. Not an urban environment. Any ideas?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2011-10-10 10:26:10</DATE>
+    <TEXT>Thanks everyone, all the suggestions are super helpful.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Game day and Script Ohio</TITLE>
+    <DATE>2011-11-19 14:54:52</DATE>
+    <TEXT>Parents are in town and we're going to the game today. How early do I need to be to make sure they see script ohio before the game? Also, anything else they definitely need to do? They've seen the skull session before, so anything else other than that?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>RPXnow login help</TITLE>
+    <DATE>2012-04-20 12:47:04</DATE>
+    <TEXT>I have RPX (Janrain engage module) enabled on my small family site and it works fine. People can login through google, facebook etc. But the default drupal login (username/password) are still there. I make everyone in my family use the 3rd party authentication. So I'd like to remove the default username/password stuff, and ONLY have the buttons from the janrain engage module available. Is this doable? I've been struggling for hours trying to figure this out. Thanks</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2012-04-20 14:49:46</DATE>
+    <TEXT>THANK YOU! I've been looking for hours how to get the code from the module into its own block. That was SO easy to just hide the other fields. It works great. Now my family isn't confused what to use to log on. Thanks again.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Build Help] Motherboard with Serial, Parralell and PCI to fit in Dell T7400</TITLE>
+    <DATE>2012-08-28 15:28:48</DATE>
+    <TEXT>My work has a Dell T7400. But it only supports DDR2 RAM. They want to upgrade to go to be able to use DDR3 RAM. So I need a new motherboard that will fit. These are the must haves. We use 2 of the Serial COM Ports. We need 1 parrallel port. And we need 3 PCI slots for our cards. Currently it has a server motherboard (I believe, since it can have to CPUs). But I don't know if regular motherboards will fit. We don't use (or need) two CPUs, so that's not a huge deal. My boss just doesn't want to pay a ton of money for new graphics cards, cases, RAM, etc. So does anyone know of a motherboard that will work for us? That has 2 Serial, 1 Parrallel and 3 PCI slots? I feel like most I'm seeing don't have all those things together. Thanks</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>NCE Powercab question</TITLE>
+    <DATE>2013-07-22 17:52:11</DATE>
+    <TEXT>So I think I'm ready to make the jump to DCC. I've done a lot of research, and I think I'm thinking of going with the NCE powercab systems. But I'm a little confused at which one. I see people refering to the Powercab, Powercab Pro, Power Pro, ProCab, Powerhouse and I think one more. I'm pretty sure some of those are duplicate names for the same thing. Can some one point me in a direction of where I can learn which one is best for me? I have a N-scale layout, pretty small. Currently only 3 trains, but eventually I'd like to expand to more. I don't currently have anything, so I need to get a power supply as well as the "throttle". Any guidance would be appreciated. Thanks.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-07-22 19:09:10</DATE>
+    <TEXT>Super, Thanks you two. That helped clarify some. I think I've got it figured out. On another note, anyone have good suggestions of online retailers (other than ebay) to buy from. I've not done much online train buying, and the local shop by me recently closed. I'm thinking its time to dive into online purchasing. Any ideas? (maybe I should post a new thread on this)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Get a subset of files into a list from a directory</TITLE>
+    <DATE>2013-08-22 02:22:57</DATE>
+    <TEXT>I'm self-learning python to help me in my phd pursuit. So I'm pretty new, but learning lots. I have a directory of files that looks something like this. C308G.tif C308G-file02.tif C308G-file03.tif C308R.tif C309G.tif C309G-file02.tif C309G-file03.tif C309R.tif And so forth. I need take the C308G files and combine them. And then the C309G files and combine them. I can get files into a list, but I can't figure out how to iterate through the list for each "set" of files and then move to the next. This is what I have. green_files = [f for f in os.listdir('.') if re.match(r'C[0-9]+G.*\.tif', f)] first = [ word[0:5] for word in green_files] print first So I can get just the G files into a list. And I've tried a few for loops and I can get the 308 files. But then it doesn't go on to the 309 files. I feel like there needs to be some sort of comparison list/dictionary that I can loop through the green_files. And then compare to a "current_file - 1" type of a thing. Like I compare to the previous iteration of the loop. And if the file is still 308 it does something. But if the file is now 309, it moves on to the next set. But I can't figure it out. I'm sure this is way easy to do. Any guidance or pointing me in a direction would be super appreciated. Thanks all. My end goal is I need to combine the 3 or 4 C308G files into one file. And then combine the 3 or 4 for C309G and so forth. I can do the combining part, I just can't get a separated list of each "set".</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-08-24 10:29:22</DATE>
+    <TEXT>So I can't thank everyone enough. These posts helped immensely and I have things working now. I've actually tried a lot of the suggestions here and its pretty cool what you can do. This will save me a ton of time to automate some pretty mundane tasks. Thanks again.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-08-24 10:30:34</DATE>
+    <TEXT>No it was to try and group them based on whether they were a "green" or a "red" file. Whether they had a G or an R after the image number.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Confused on transistors</TITLE>
+    <DATE>2013-09-08 18:21:41</DATE>
+    <TEXT>So I have a circuit laid out according to this diagram. http://www.ecs.umass.edu/ece/m5/tutorials/multiple_LEDs_tutorial.html When I connect the +5V and ground to the +5 and ground on the arduino board, everything works just fine. Thinks blink, LEDs go on and off, I'm in good shape. But when I leave everything the same, but instead hook the +5V to a wall DC adaptor and the ground to the DC adaptor. The LEDs just stay on. No blinking. I'm getting 5V from the adaptor, I've measured with a multimeter. I've built lots of other basic circuits and generally know what I'm doing at a basic level, but I've always avoided transistors. I want to power many LEDs and need to draw from an external power supply. But I'm clearly missing something, and I'm hoping someone here can point me in the right direction. Thanks everyone, let me know what I need to clarify. I'm sure its something simple I'm overlooking.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-09-08 20:42:05</DATE>
+    <TEXT>SUCCESS, thats exactly what I have done. I've never heard of a "floating" transistor before. I'll have to look more into this and figure it out more. But it works now. Thank you so much!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-09-08 20:43:41</DATE>
+    <TEXT>neither, the + from the dc adaptor is going straight to the leds. But it appears to be connecting the two grounds together as suggested below. But your comment actually made a light bulb go on for me on another issue I had a couple months ago. So thanks!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-09-08 20:44:07</DATE>
+    <TEXT>Correct, this appears to be my problem. Thanks so much!!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Graphing software for large datasets?</TITLE>
+    <DATE>2013-09-09 18:00:39</DATE>
+    <TEXT>So I don't know if this should be here or another sub-reddit. I'm basically looking for a graphing software that will allow me to scatter-plot thousands of points. And then move through them easily. I have a project where I am creating 10-15,000 data XY-points. I've tried excel, its obviously horrible at this. I've tried kaleidagraph, its good for some things. But you can't easily zoom in/out and easily pan left/right. I've tried qtgrace and it allows you to click to pan left/right, but its real hard and pretty clunky to use. Does anyone have any suggestions of a better software to try? I have access to all platforms (win/mac/nix). I'm a grad student at a large uni, so free would be nice, but my university may have access to paid options. Anyway, I was thinking the math people may have a good idea. I'm in the biological sciences and don't know math/graphing software well yet. Thanks all.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Numpy array manipulation - row to columns</TITLE>
+    <DATE>2013-10-03 20:06:36</DATE>
+    <TEXT>I have a list/array in numpy right now. Effectively it has 4 columns and 100 rows. I want to rearrange it to have 8 columns and 50 rows. Basically I want to take the last 50 rows (of 4 columns) and stack them next to the first 50, so those 4 columns become columns 5-8. I've tried the numpy shape stuff and I can't figure it out. Everything rearranges the entire list. Can anyone guide me on how to do this? Thanks</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-10-04 13:49:02</DATE>
+    <TEXT>Cool. I'm pretty new to numpy and was unaware of hstack. This is what I ended up with, does it look like it will work? I mean, it works for me right now. But am I missing anything important? a = np.array (new_data) split = np.vsplit(a,num_regions) b = np.hstack(split) print b This way I can split my stack anywhere based on num_regions. And my total stack length will always be a multiple of num_regions (thats the data I have).</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Chrome Sync Encryption Concern???</TITLE>
+    <DATE>2013-10-17 00:28:00</DATE>
+    <TEXT>So I looked into the Chrome Sync stuff and it doesn't appear to work how I thought it would. Hopefully someone can explain. This is what I did. I "signed into Chrome" on one computer whilst simultaneously checking the "choose what to sync". Then I chose to sync just my bookmarks and extensions (all I care about). Then I chose to encrypt all data with a password. I entered a long and complex password and let it sync. All my bookmarks appeared to sync when I checked on my google dashboard. So far so good. But, here's the problem. I then got onto my laptop and first I deleted the user to clear everything out. Then I signed into chrome and let it sync bookmarks and extensions. But I ALSO let it sync themes and history. The bookmarks and extensions synced just fine from my desktop. Then I checked my dashboard and now I have a theme and history found in my dashboard. Clearly this doesn't make sense to me. I NEVER had to put in my password for the "encrypted data". The laptop never asked me for a password. How can it possibly be "client-side" encrypted but then have all my data sync on my laptop when the laptop never saw the encryption password. The dashboard has the little "encrypted" icon next to ALL the fields. So as far as I can tell, the local password does nothing for me? Is there a way to actually make it encrypt my data/bookmarks/etc locally so that they cannot be seen by google. That was my understanding, is that it should work like client-side encryption and only I would have the password. What am I missing/misunderstanding? (Full disclosure: If it matters, I'm using chromium on my linux desktop and chrome on my windows 7 laptop).</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Picture Viewer Recommendation</TITLE>
+    <DATE>2013-12-19 12:50:50</DATE>
+    <TEXT>I have scanned in old negatives/prints from my family and want to share them with them over the holidays. I'm looking for a program/app that is good and easy that they can use. Any advice? Here are the details: Pictures: * A little over 15,000 of them * All are in *.jpg format * All are compressed to web resolution -- So each is ~150KiB * Each has some metadata - (IPTC and XMP which include things like names as keywords, and title/information in the comments field) * I would like, but not absolutely critical, to let them filter/search on the XMP data so they can just see pictures of them/event/etc. What I have access to: * Linux (kubuntu) desktop connected to the TV I want to use. * Same computer dual boots Windows 7, so I can use that also. (PC is new and should have plenty of power) * IPad 2 -- I don't have something to connect it to the TV yet, but my parents would be willing to get something if its the best route. * Nexus 7 tablet - Again, I'd have to get something to connect to the TV, but could be done. * I do have a remote keyboard/mouse I could use if the computer is the best way to go (or I could even set up a pc remote on the tablets). This is what I kind of envisioned: Some sort of app I can put on the Nexus (or Ipad) that makes basically a huge square wall of all the pictures. My family can zoom in or out, left or right, up or down to navigate. They can click on a picture that will then maximize it on the TV (and obviously the tablet). Then they could swap left right (maybe even up down) to navigate through the wall of pictures with each maximized (so one at a time). Then, they could also be "at the wall" and type into a search bar at the top their name, and it would filter down to only show the pictures that contain that XMP data. I don't need to search for specific fields in the XMP data, it could just search/narrow based on any of the metadata. Ideally it could filter out data to. For example I would like to be able to search "Sister1 MaidenName -MarriedName" -- that way it would search for pictures with my sisters maiden name, but exclude the ones that are tagged with her married name. So thats kind of what I'm looking for. I know it seems like a lot to ask for. But at the same time I feel like there's got to be something out there I can use to make this work. Or at least get close to what I want. I would love some ideas/suggestions on this? Thanks everyone also, I couldn't think of a better sub reddit for this. If there is one, I'll post it there. Thanks again.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Picture Viewer Recommendation(xpost from techsupport)</TITLE>
+    <DATE>2013-12-19 13:52:07</DATE>
+    <TEXT>(I originally put this in tech support, but someone there mentioned it may be better here.) I have scanned in old negatives/prints from my family and want to share them with them over the holidays. I'm looking for a program/app that is good and easy that they can use. Any advice? Here are the details: Pictures: * A little over 15,000 of them * All are in *.jpg format * All are compressed to web resolution -- So each is ~150KiB * Each has some metadata - (IPTC and XMP which include things like names as keywords, and title/information in the comments field) * I would like, but not absolutely critical, to let them filter/search on the XMP data so they can just see pictures of them/event/etc. What I have access to: * Linux (kubuntu) desktop connected to the TV I want to use. * Same computer dual boots Windows 7, so I can use that also. (PC is new and should have plenty of power) * IPad 2 -- I don't have something to connect it to the TV yet, but my parents would be willing to get something if its the best route. * Nexus 7 tablet - Again, I'd have to get something to connect to the TV, but could be done. * I do have a remote keyboard/mouse I could use if the computer is the best way to go (or I could even set up a pc remote on the tablets). This is what I kind of envisioned: Some sort of app I can put on the Nexus (or Ipad) that makes basically a huge square wall of all the pictures. My family can zoom in or out, left or right, up or down to navigate. They can click on a picture that will then maximize it on the TV (and obviously the tablet). Then they could swap left right (maybe even up down) to navigate through the wall of pictures with each maximized (so one at a time). Then, they could also be "at the wall" and type into a search bar at the top their name, and it would filter down to only show the pictures that contain that XMP data. I don't need to search for specific fields in the XMP data, it could just search/narrow based on any of the metadata. Ideally it could filter out data to. For example I would like to be able to search "Sister1 MaidenName -MarriedName" -- that way it would search for pictures with my sisters maiden name, but exclude the ones that are tagged with her married name. So thats kind of what I'm looking for. I know it seems like a lot to ask for. But at the same time I feel like there's got to be something out there I can use to make this work. Or at least get close to what I want. I would love some ideas/suggestions on this? Thanks everyone also, I couldn't think of a better sub reddit for this. If there is one, I'll post it there. Thanks again.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-12-19 14:53:27</DATE>
+    <TEXT>Unfortunately I don't have easy access to a macbook. Also, I will be there with them. So I don't necessarily need a program for the tech-adverse in terms of installing or getting it set up. Just something that has an easy user interface once it is set up. But if I don't get other options maybe I'll have to look into borrowing a mac OS computer if it ends up being the best option. Thanks</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>New to VPN, a couple of questions.</TITLE>
+    <DATE>2014-01-07 13:02:29</DATE>
+    <TEXT>I'm finally ready to get into the VPN world. But I have a few questions that I was hoping others could guide me on. But first, my setup: I'm running linux (kubuntu) on a couple computers. Also some android devices. I am currently hooked up through PIA for my VPN provider. 1) There are a few guides on "splitting" VPN traffic to specific apps. But I haven't found anything I fully grasp yet for linux. Is there an easy way to have firefox connect through my VPN and chrome/thunderbird/pidgin/etc through my regular connection simultaneously. My reasoning is, I don't know if I really want to do my regular emails/banking through the same as my VPN traffic. 1a) I guess if there isn't an easy way, I can set up a Virtualbox and do it that way. And just leave everything in there as my VPN traffic, but thats a bit more overhead than I find ideal. 2) Do I even need to care? PIA has servers in multiple countries, but also the US where I am. If I am connected through a different country, my bank and even gmail need to be "allowed" access since they are "detecting unauthorized logins". So my question here is kind of multifold. 2a) Do I care that my traffic to things that identify me (banks) is on the same VPN traffic as other stuff. I mean, in theory, there should be hundreds or thousands of people using that VPN exit node and I would be lost in the midst. But maybe thats still not good enough and I should split. 2b) I could use a US based exit Node, and I don't think it would have an issue then signing in to banks/gmail/etc. Is that any better/worse than exiting through, say, switzerland? 3) Is there a way to know how many people are using my exit node/IP. I know PIA says "shared IPs" but if its 10 people that doesn't help much. If its 150,000 people, that is a lot of traffic, and I would be lost in the mix. No way you could ever connect my personal stuff (banks,email) to anything else. 3a) But, that raises the question, the fact that its shared means lots of others could be doing lots of illegal stuff. And, if I use real-name stuff, I would be associated with that, even if its in a huge sea of garbage. Is that a problem? 4) If I do really want all my data through the VPN (which I kind of do because I don't love my ISP). Can I set up one exit node to act as my bank/email/daily usage. And then use a different server, which I assume??? is a different IP that I can use for stuff I want truly anonymous? Or does changing servers/exit nodes not gaurantee a new/different IP address? I guess my kind of overall question is...Should I just turn on VPN and leave it on, always, for every single thing I ever do? Or should I split it out and keep "anonymous" traffic on VPN and "real life" traffic on my ISP? And if I do split, does it matter what country/exit node I use in terms of keeping my "real life" data secure from others. *Note: I should mention that I think I understand the concept of SSL and the such, but correct me if I'm wrong. I realize that if I connect to my bank SSL, through the VPN, then once it leaves the VPN it still hops through the internet, but encrypted. Whereas sites I'm connecting to in plain html are 'encrypted' to and through my VPN, but once they leave they are still plain text to the internet, just like it would be normally. But correct me if I'm wrong on that. For some reason it still feels less secure to me to send traffic, even SSL traffic, routing through a VPN exit where people may be more tempted to eaves drop. But hopefully someone can help clarify some of these points for me. Thanks!! sorry for the rambling.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-01-07 13:15:55</DATE>
+    <TEXT>Interesting, I guess I thought most of these were kind of general questions that would apply to any VPN provider. But, I may not understand how different they can be yet. So I will definitely go through more of those forums. Thanks</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>VPN Selectivity?</TITLE>
+    <DATE>2014-01-07 18:34:52</DATE>
+    <TEXT>Is it possible to connect a single app to a VPN provider? So other apps do not use it? OR Alternatively, can I turn off internet access for everything except one app I want to use on VPN? I don't need to simultaneously use VPN/non-VPN traffic. But I want to use one app on VPN only. But email, updates, etc constantly are running in the background trying to connect. So if I turn on VPN, they try to connect through that, but I don't wan't those email/update/other apps to use the same network as my VPN. How can I go about this? Thanks@</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Acceptable DC Voltage Error for a Sensor?</TITLE>
+    <DATE>2014-07-22 10:31:12</DATE>
+    <TEXT>I have a tank sensor at work that keeps resetting when it shouldn't. The supplier wants nearly a thousand bucks to replace it. I'm trying to troubleshoot basic things I may be able to fix myself first. The wall input for it claims to be a 15VDC, .6A output (from 120 mains). As test that wall wart it gives me 19.8-20.1 volts always. Is it possible that ~5 extra volts could cause my electric sensor (it is a liquid nitrogen level sensor) to misbehave and keep resetting itself? If I buy a new 15V power supply, could that fix my issue? Or is it more likely to be a problem inside the sensor itself? I'm not sure how much 5 volts over may change the system. I know nothing about the electronics inside the sensor itself, and if it has any sort of voltage regulator in there. Surprisingly, just buying a $10-15 wall power supply is more difficult than you would think here (but doable if one could convince the boss it would fix our problem). Any advice?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-07-22 12:25:20</DATE>
+    <TEXT>It probably is pretty old. Two questions though. 1) Can I just use a resistor across it? Just put a 150 ohm resister across the in/out and measure voltage? 2) What does being old have to do with it? Are old ones regulated differently. I'm just curious to learn more about how things work. Thanks!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-07-22 23:00:23</DATE>
+    <TEXT>Thanks for the reply, that is all interesting to know. I tested my power supply with a couple different resistor loads on it. All of them still gave me 19.11 Volts. I am guess that there really isn't any way to know for sure that that could be the cause of my failing sensor is there?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Where to buy small electronic/circuit components?</TITLE>
+    <DATE>2014-08-30 11:27:21</DATE>
+    <TEXT>Does columbus have any electronic component store...besides radio shack? They don't tend to have the best variety. A place I can buy resistors, H-bridges, Transistors, LEDs, etc?? I don't want to have to wait for shipping sometimes because I don't always plan well and forget a part. Thanks</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Help] Image analysis. Tracing lines, and analyzing pixels.</TITLE>
+    <DATE>2014-11-14 13:43:52</DATE>
+    <TEXT>This is hard to explain, so I'm hoping pictures will help. http://i.imgur.com/cr2LSMq.png Basically, I have images that have structures in them I can represent as lines. I want to start at one end of the (black) line, and every 5-10 pixels, draw a perpendicular line. That's basically what I need help with. The end goal, is I want to be able to measure the width, and variation of the width, of the line ever ~10 pixels. The structures are not a consistent width. So if I can draw a perpendicular line, I can take a line-profile and plot a curve and see the width of the line. Then compare subsequent perpendicular lines and get difference data. I can do those parts. I just can't figure out how to 'walk' along the line. I can't figure out how to find an 'end' of the line. Because often there is no 'end'. The line goes straight through from one side of the image to the other. But I need a starting point. That's my first issue. No starting point, means no place to walk from. 2nd issue, is how do I walk along the line. I think that I could find a nearest neighbor type of approach, but crossing points present a problem. I'm new to Matlab, but familiar with imaging and coding in general (ImageJ, python, etc). Any advice on how to start this would be great. Thanks</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Verizon Note 4 can't get temp root twice to unlock bootloader</TITLE>
+    <DATE>2016-06-29 10:50:50</DATE>
+    <TEXT>I had 5.1.1 installed. Couldn't get KingRoot to give temp root (lots of people say you can only do it on 4.4.4, lots of other people say they got it to work on 5.1.1 if you read around). So I tried downgrading to 4.4.4. Odin failed every time. So I tried downgrading to 5.0.1. That worked. But kingroot still was unable to get root. I then found King O Root. Tried that once, no luck. Tried it a 2nd time, and success. I then ran the samsund_fix file. And it changed my CID. But then you have to restart the phone and run the fix file again. I have run king o root (and tried kingroot) each at least 30 times now. And I can't get either to give me root access again. I've even tried the desktop version of king o root. Nothing. I'm SOOO close I feel. But I can't get that last step. Can anyone help with where to go next? I figure either 1) I have to find a way to get temporary root one more time. OR 2) find a way to get down to kitkat 4.4.4 to get temporary root. One other quick question, is the reason I can't get to 4.4.4 because I upgraded all the way to 5.1.1? EVERYTHING I read says 'yeah you can downgrade' but mine won't downgrade. Odin fails with an error NAND Write Start! boot.img FAIL! (Auth)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2016-06-29 13:24:55</DATE>
+    <TEXT>I did not try kingoroot on 5.1.1. I had downgraded to 5.0 before learning of kingoroot. Should I try going back to 5.1.1 and trying kingoroot? Is that likely to work?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2016-06-29 14:23:45</DATE>
+    <TEXT>I have now tried kingoroot on 5.1.1. No luck. Can't get temproot after 5 or 6 attempts.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2016-06-29 16:17:03</DATE>
+    <TEXT>Awesome. This, slowly, is what worked for me. I wiped everything. And tried king O root like 40 times. Eventually got it to give me temp root long enough to get the 'fix' script to run and give me an unlocked bootloader. Thanks</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Tablet Recommendation -- Huawei Mediapad vs other?</TITLE>
+    <DATE>2018-11-01 17:26:06</DATE>
+    <TEXT>I had a nexus 7 which I loved, but its dead. Looking for something new. Rootable is an absolute must. Unlockable bootloader is almost a must, but MAYBE could be talked out. I like to run lineageOS. SD card is a must. Bluetooth keyboard ability is a must (but I can't imagine any can't do that). Bluetooth mouse support also a plus (I think all android can? I couldn't get it to work on an iPad). I use the tablet for document viewing/editing and working remotely on servers and other things. I don't really do gaming or intense graphics. Screen quality, sound quality, etc aren't a huge issue for me, as long as its reasonable. ..... So that took me to looking at the Huawei Mediapad m5 (8 or 10, not sure yet). It initially seemed to be great for what I need. BUT, Huawei is no longer officially supporting unlocked bootloaders. It sounds like you might still be able to unlock it with other tools. But even that seems like it may not work with the most recent firmware updates. So I'm afraid if I buy a brand new Mediapad off of amazon/ebay/wherever that I will end up not being able to get lineageOS installed (I know there is a third-party lineageOS version out for it).  #8203; So the question is, can anyone tell me for sure if I can or can not get an unlocked bootloader on the mediapad. And if not, can someone recommend a tablet that meets the requirements above. Its getting harder and harder to find decent tablets with unlocked bootloaders it seems. Thanks</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Mediapad m5 still able to unlock bootloader?</TITLE>
+    <DATE>2018-11-01 17:36:06</DATE>
+    <TEXT>Can any confirm if I get a new mediapad m5 (both either the 8 or 10") can I still get the booloader unlocked? From what I can tell, they stopped officially supporting it a few months ago, but some suggest you can still get it unlocked using third-party tools. But then other sources suggest that no longer works with recent firmware updates. And then further sources say maybe you can downgrade to a version that will work, but others say no you can't downgrade anymore.  #8203; So, in short, if I buy a new media pad m5 on amazon, any way to know for sure that there is a method to unlock the bootloader? Thanks</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-11-02 17:05:21</DATE>
+    <TEXT>Any chance you know off-hand if it has an unlocked bootloader?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>My second base</TITLE>
+    <DATE>2019-01-01 17:10:31</DATE>
+    <TEXT>I got this game about 2 months ago on a whim, and it has overtaken my life. My first play through got me to a rocket in about 80 hours. For my second base, I decided to try and go big like I had seen other posts about. I finally got to 2.4 KSPM, or a full blue belt of each, sustained for many hours. I'm pretty stoked about it, and my wife and kids don't understand the 300+ hours of work this was, so I'm sharing here. Here are a couple screen shots. I'm sure its WAY messy compared to what people who have been playing this game for years can do, but I'm happy with my second build for now. Hopefully this is an okay place to share. [https://imgur.com/a/f5FJpia](https://imgur.com/a/f5FJpia) Mainly I just used QoL improvement mods. The standard you see around. Probably the only real 'game changing' mod I used, was on that increased roboport charging rate. I found in one of my copper fields I had 28,000 logistics robots, and they were just taking WAY too long to recharge, despite have like 400 roboports. Once that mod installed that field was much more manageable. Mainly I want to post to say thanks to the community. I didn't keep track of all the tutorials/videos I watched. But I appreciate everyone who put designs and ideas out there, it was a lot of fun to look at them, modify them, outright steal them, for helping me to get going. Its a fantastically complex game. Now on to the next base. Thinking I might try the Bob's Mods or Angel's Mods. That is, assuming my wife doesn't disown me first.  #8203;</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-01-01 19:50:03</DATE>
+    <TEXT>That's good to know about space with Bob's. I already felt like mine above was way cramped as the game went on. I was using 4 engine 16 car trains for main ore/plastics delivery. All with nuclear fuel. I used 2-8 for some smaller stuff. All single direction, right-hand drive with just 2 tracks. I see a lot of people do 4 and 8 track systems, I may have to try something like that. 2 tracks got a little crowded at times if I wasn't careful with spacing and routes.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-01-01 22:55:26</DATE>
+    <TEXT>If you mean the stuff on the left? It is The Fat Controller. [https://mods.factorio.com/mods/Choumiko/TheFatController](https://mods.factorio.com/mods/Choumiko/TheFatController) Its really good. I have almost 100 trains, and it lets me find them easily which is nice. Although, I will say it is the only mod that caused my game to crash twice over the course of 300+ hours of play. But still good.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-01-01 22:56:31</DATE>
+    <TEXT>I know! I keep saying I need to move on and try something new with Bob's mods or something else, but I keep finding little things here or there that keep me stuck in this game......I think its partly the fear of going back to slow walking with no exoskeletons and concrete. :)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-01-01 23:07:28</DATE>
+    <TEXT>I tried a few different designs, some worked better than others. I added a couple photos to the album of loading/unloading stations that are largely settled on for the bulk of the work. I also use circuit networks for loading stations based on 'number of trains through'. So say I have 5 loading stations for ore. Each 'platform' gets a counter that increments each time a train passes through. And incoming trains are then routed to the platform with the lowest number. That way I get even distribution for my outposts. For my delivery stations, I use a circuit network that counts all the ore in each 'platform'. Then I only open the platform with the lowest count, so trains always deliver to the platform that has the most need. Honestly I'm not super pleased with my rail network. I'm excited for my next build, I've learned a lot that I think I can use to make the rail network even more efficient.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-01-02 12:29:50</DATE>
+    <TEXT>With everything in full swing I was holding right around 29-30 FPS and UPS. I only learned about UPS a couple days ago though. So I made zero effort at optimizing anything. I just built. I play on a Skylake i7-6700K, not overclocked right now. GTX 980 Ti. 1440p monitor. Samsung 860 SSD. 16Gb of RAM (forget exact specs right now). I also play on linux, and had zero issues with the game. I dual boot Win10, and tried the game on there as well (but that was on a NVMe Samsung 950 Pro). I noticed no difference in FPS/UPS between the platforms, and no noticeable differences in game save time.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-01-02 17:32:26</DATE>
+    <TEXT>I mean a 1070 is nice, but not necessary for this game at all. CPU and memory are far more important as u/DavidHewlett said. But if you play other games, it could be a nice addition.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-08-18 16:40:37</DATE>
+    <TEXT>Filled out -</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Mending with armor in slot prevents XP going to item in-hand</TITLE>
+    <DATE>2019-09-08 22:01:22</DATE>
+    <TEXT>I have mending on my diamond helmet, legs, feet. I also have mending on a diamond pickaxe. when I mine coal, the XP goes to repair my armor as expected. But once I have fully healed/full durability armor, the XP starts to go to my XP bar and NOT to my pickaxe. If I take the armor off, then the XP goes to my pickaxe. I thought the XP was supposed to go to the item in hand before the XP bar if the item was not at full durability? I'd like to not have to take my armor off everytime I want my pickaxe to self-mend. Anyway to do this? I'm on 1.14</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-09-09 23:33:44</DATE>
+    <TEXT>Haha, this is apparently the route to go for the time being.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-09-09 23:34:26</DATE>
+    <TEXT>Awesome, thx, I didn't release it only picked one slot at a time. So with enough experience everything would eventually get fixed. But it doesn't go 'in order'. Gotcha</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-09-09 23:34:38</DATE>
+    <TEXT>Ok, thanks!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-07 00:18:29</DATE>
+    <TEXT>Hey thanks for posting this, this was incredibly useful for someone who knows nothing about networking and is brand new to this stuff. Some questions if you have time 1. The Dell980 is labelled as 1G in and 10G out. Does it have two network cards to do that? 2. Are all the other networks 10G? (other than the Unifi which is labelled 1g?) 3. The VMs you are running off the Kubuntu. Do you run only 1 at once on like one monitor/screen? Or are you running all 3 at the same time to different 'workstations' (for lack of a better word)? 4. What controls the VLANs? Is it the Dell980? the R710? the Switch? that makes and controls them? 5. Can your VLANs talk to each other at all, or all they all completely isolated? 6. What do you do for data storage? Do you just have hard drives in the R710? Or do you have storage on the Kubuntu/Windows 10 computers? Do you have centralized storage for all the other computers? 7. If I'm understanding, you are using duplicati to backup, and then off-site using Mino to AWS?? Are you using Glacier? S3? Something else I'm not understanding? 8. You said the 980 was overkill. Would you recommend anything else? This setup is similar to something I'm slowly trying to put together. Thanks again!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>How to set up many hard drives for storage server?</TITLE>
+    <DATE>2020-08-07 19:57:26</DATE>
+    <TEXT>I'm completely new to the 'homelab' idea and have no true network experience. I'm a hobbyist that has slowly learned all this stuff on my own through building PCs and whatnot, and have no enterprise experience. I currently have like ~15 hard drives spread across 3 different computers with about 8 on my main 'server' (a desktop running linux mint). I share the drives as NFS shares (and samba for my windows laptop). I have a couple drives in an mdadm raid for some of my most important data. But I want to start moving to something more robust than all of this. My current thoughts are I want to create a 'server' that houses two ZFS pools, one Z1 for my media/games/less critical stuff and a Z2 for double redundancy for my pictures/home videos/other 'important' stuff. I've read about SAS and SATA, and I think I'd like to stick with SATA so i can use some existing drives plus for economical reasons. So I want to put 4 of my 4TB drives in my data (Z2) drive and 6 of my 3TB drives in my media (Z1) pool. But I'll probably want to add a 2nd udev in the future to expand that even further. This is where I've been reading a lot and get a bit lost. What's the best way to go about attaching 10+ drives now, with having expansion later to maybe go upwards of 20 or so drives if needed? It looks like I need to get something along the lines of a DS4246 disk shelf? JBOD? Daisy chaining of servers together? I want to learn but I feel like I've been reading for days and not really getting a great grasp of where to even start. Am I approaching this complete wrong?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-08 15:37:05</DATE>
+    <TEXT>I did worry a little about the drives, but they are all NAS drives so hopefully it will be okay. You are doing 8 drives through the LSI. I'll need more than that. Do you think 2 LSI/HBA cards would work? Or would a SAS expander be better? I feel like 2 HBAs ould work, but I'm not fully sure how that would work in terms of PCIe lanes. I don't fully grasp PCIe lanes on the CPU vs the Chipset and what the HDDs are actually using in relation to a HBA vs SAS expander. The Rosewill case it promising. But I think I may push for one with a backplane for hotswapping.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-08 15:42:51</DATE>
+    <TEXT>Raid 1+0 always loses 50% of capacity to parity right? I guess I could consider Raid 5+0 or some type of that variant But I feel some of the other benefits of ZFS would also be good. I would think IOP would be more important if I was using these for like VMs or other high use. But mine would just be for storage of files, not running programs/OSs off of. So would the IOP limits you are mentioning really affect me that much? I think I know what you mean about the mismatched vdev configuration and sizes and the 'ZFS' tax. I've read through this article many times https://louwrentius.com/the-hidden-cost-of-using-zfs-for-your-home-nas.html I'm not sure I really know what you mean about the ZFS rule of thumb is raid 1+0, one large zpool, multiple datasets/zvols. Do you mean I should make one zpool with multiple logical volumes? Thanks for the supermicro advice. I've actually found a couple of options there that I am thinking of getting. I'm just trying to wrap my head around now how their backplanes attach that many drives to my computer. I get it's through some sort of HBA. But most HBAs I'm finding have 8 ports total. So I'd need 2 HBAs at least for 10+ drives. And maybe eventually a 3rd one or a SAS expander? Or maybe the backplane handles that. Still trying to figure that out.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-08 15:44:46</DATE>
+    <TEXT>I've seen a few DS4246 that go for the 400-500 range. But all the 4486 that are chasis only are 500 without the drive caddies. You must have found a great deal because I can't find anything like that right now (unless I'm more confused than I think). How are you connecting the 13 drives? Are you using 2 HBA cards?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-08 15:50:16</DATE>
+    <TEXT>That was super helpful thanks!. 1. Why do you need 10G if the internet in is just 1G? Is it just for future proofing? If its for intranet data trasnfer, wouldn't you only need that 10G from the Switch to the R710. Why would you need it from the 980 to the Switch? I must be misunderstanding something 4. Yeah I'll start looking into how to set up VLANs. I think this is definitely what I want to do to isolate more things on my network. 6. How many hard drives are you talking about? I have 10 I'd like to hook up now through a ZFS setup. With possibly expanding to 16 down the road. Any thoughts one how to hook up that many? 7. I back up with duplicity to glacier. It's more difficult than I would like, but it's fairly cheap. I quite like it. 8. I've never looked in to PFSense, so I'll start figuring that out as well. Thanks.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-10 11:02:03</DATE>
+    <TEXT>Thanks. That was all very helpful</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-11 10:32:45</DATE>
+    <TEXT>Thanks, that's very helpful. I was having a hard time figuring out how to physically connect things. I bought a 9211-8i to play and learn with.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-11 10:39:19</DATE>
+    <TEXT>Thanks, that was helpful. I've started looking at the backplanes individually to figure out, it's not always clear but usually I think I get it. I'm still not entirely sure what to about the performance issue other than test it on my set up. I'm surprised you had problems, because reading around it looks like most things I'm finding suggest ZFS should have good performance for something like media streaming. I'll definitely test it myself before putting all my data on though. I feel like going with a raid zpool of raid 1+0 is still a lot of drive usage, because you must have all of your drivers mirrored then right? Unless you mean just a virtual 1+0 when you say a 'zpool configured raid 1+0'?? But that wouldn't make sense to me. I've been reading around on zfs 1+0 and there isn't a ton that I've been able to find yet, but there is some. I'm just not sure I'm able to give up 50% of disc space vs cost yet when I'm looking at 20-30TB of storage space needed. I'd have to go to like 60TB of drives. Plus the need still for parity drives.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-11 10:42:36</DATE>
+    <TEXT>That was super useful, hopefully I can figure it out, because this I ended up buying the 4246 and that H200E card and cable. After looking at a lot of options this *seems* to be down the path that will suit what I need to most. Once I get everything set up and going I guess we'll see how it performs. My biggest issue right now is trying to decide to try and control the H200 through my current 'gaming' motherboard computer that's been running my NFS hard drive shares for the past couple years, or if I really need full on server motherboard/cpu to initially get going. Eventually I want to go that route, but the current hardware is working so I kind of want to use it until it starts to falter before upgrading. I guess we'll see.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-11 23:42:12</DATE>
+    <TEXT>Awesome, thanks. I need to look more into the caching stuff.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Starter questions for someone new. Setting up a server with VMs.</TITLE>
+    <DATE>2020-08-21 15:51:16</DATE>
+    <TEXT>Sorry for the length, but I'm 100% new to homelab stuff, so I want to be specific while looking for help.  #160; *My Goal*:: I have lots, but this is kind of my basic starter goals for now. -1. A disc shelf running a raidz2 and raidz1 ZFS that will connect to my server and will handle my 'important' data (z2) and then my other stuff like VMs, media, etc on my z1. -2. A main server that will have a bunch of VMs -- and this is where I need the most help. ---- My hope is to have like 5 separate full linux distros (like Debian, an Arch, a Ubuntu, some others) on VMs that can act as 'daily driver' computers for people in my home. ---- I want to have those up all the time on the main server in my basement. Then have small boxes in our 'study' room, and then some laptops, and maybe a computer in my bedroom, etc, all of which can remote in to the persistant VMs based on the user logging in to 'their' VM. ---- In theory, but this may be asking too much, I'd like to have one VM as a windows VM. That VM would get a dedicated graphics card for game playing for my son. And have photoshop, premiere, etc that others in the home would use when they log on to the windows VM. (most of us daily drive one of the linux distros and have been dual booting for now, which is obnoxious). -3. A separate box running pfSense (I've never used, but seems to be right thing to figure out from reading around) that will run a firewall and setup a bunch of VLANs for separate things (VMs, Guest/Home WiFi, security cameras, VPN, etc).  #160; *My needs*:: 1. A system that will last a while. I'm entering a job contract for the next 6-7 years that I'll be 70-90 hours a week at work. I won't have much time for messing. I want to teach my wife to run updates, and then get a system working, and have it 'just work' with as little input as possible. I recognize things will happen, but stability and long-term use is important. 2. Noise/power. The quieter the better, but I can handle some noise.  #160; **My main questions**:: -1 What server to power this? I've been researching options and I've 'narrowed' it down to 2 in my mind. But maybe both are stupid??? ---- First, buy an r720. I've found a few for around $500-700 that have 16-42 cores and 64-128 Gb of DDR3 ram. Probably would work for my needs. ----Second, build my own. I priced out a Ryzen 3700X, 64Gb DDR4, motherboard, etc. Gives me 16 threads/cores. It's more expensive, about $1300. But my budget is in the 1500-2000 range, less is obviously better. But this seems to be more powerful, cover my needs, and probably more quiet. -1a. Any advice on option 1 vs 2 -- or something even better? I'm leaning towards option 2 right now. I think it gives me best shot at long term success with low noise/power consumption and least concern for something breaking needing maintenance. -2. I'm torn on ECC. 2nd option above is non-ECC. I'm using ZFS so I know they 'recommend' ECC but it's not required. And I don't have any mission critical data. I have great backups. But using ECC means slower memory, slower memory means slower Ryzen speeds, and I hate 'leaving' performance on the table. I *could* do the 2nd build above with ECC. I've been figuring out which boards support it (ASRock Taichi). -3. Gaming through a VM? Is this insane? We don't do competitive gaming in my home. Can I set up a network that can handle doing games remotely from simple workstation with the 'heavy lifting' done by my server? Would I still just use something like RDP or VNC to do it? I know latency will be higher, but for simple games (Kerbel, Civ, Minecraft, etc) I would think it could work? This is partly why I learn towards a higher power Ryzen 3700x based build. -4. I think I can figure the VMs out. But I don't know what I use to 'log in' to a persons VM. I'd like to have like a tiny dell/lenovo cheap workstations that can have a 'log-on' screen. And whoever logs on, logs on to 'their' VM. Can this be done? And then they can log out and let the remote workstation sleep/hibernate until it's needed again, but their 'session' persists on the VM downstairs. I'll read up and figure it out, I just don't know where to start or what to read?  #160; I'm sure I'll have more, but this is where I am right now. Thanks all.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-21 20:02:39</DATE>
+    <TEXT>I already have 12 4 TB WD Pros that I'm going to put (some number) into a ZFS Raidz1 for media and 4 2TB that I'm putting into a ZFS Raidz2 for data (with leftovers for spares). And I'm still trying to decide, but probably some sort of SSD setup for the OS VMs (VMs for other services I'll put on the z1 pool). I already have a DS4246 with a Dell H200 HBA card I'm planning to add in to whatever server solution I go with to control the drives. My firewall plan is a separate machine running pfSense. Probably something like an old optiplex or M73 or something along those lines. Some of the NUCs I've seen people recommend are kind of pricey for I feel like they are doing. My overall budget is in the 2-2.5k range. I've put about 1k into the DS4246, Hard Drives, Cables, Racks/Mounts so far.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-21 20:04:29</DATE>
+    <TEXT>That's good info. I was unfamiliar with VDI and VMUG. There appear to be some open sources ones as well, like flexVDI, maybe even others. It's a good starting point to look into what I'd like to do. I was kind of thinking RDP/VNC may not work at all for gaming. That's not critical to have, really the other linux workstations are more important, gaming would be icing on the cake. I'll look in to Horizon and these other options though, those are all a whole new world to me.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-22 00:03:55</DATE>
+    <TEXT>I've seen that qotom floating around as a suggestion, I'll have to look at it closer. I didn't think about the power cable for the GPU. I guess I could rig something together though. I'm real torn between the options. I found a r720 with 128 ram and 8 core 2.9 GHz processor that is ~680 which seems reasonable. But I keep finding myself drawn to a ryzen build even though more expensive, probably because it's more up my alley of building things I've done a bunch before. I'm not entirely sure I can come up with a reason/use case for nested virtualization. But my plan was to learn and use proxmox, which from a quick search seems like it can probably do if I did end up needing it. Do you access any of your VMs as desktop VMs remotely? If so, what do you use to do that? Thanks</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Quick proxmox zfs question</TITLE>
+    <DATE>2020-08-22 09:49:56</DATE>
+    <TEXT>First time doing this. I want to set up a server with a ZFS pool that I can put some VMs on. Just trying to sort out the order. It seems to me that I should install proxmox on some sort of boot drive (maybe a smallish ssd). Then once installed set up my zpools (I'll be doing two, a z1 and z2). Then install my VMs on those, and the VMs wouldn't even know their storage was zfs. Is this an okay okay and correct? Alternatively it looks like I could just set up the zfs pool and install proxmox on a pool during initial install. Is this better? I've always done separate boot drives in the past for my computer's. Is there a "correct" way of doing this, or just user preference? I guess installing proxmox on the zfs pool gives redundancy for the os as well. That's about the only thing I can think of that would matter.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-22 22:27:56</DATE>
+    <TEXT>So you install your hypervisor on the ssd. Then set up zfs in the hypervisor os? And then share as NFS using the hypervisor as the nfs host to your other VMs?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>First main build planning. Guide me please</TITLE>
+    <DATE>2020-09-07 11:00:01</DATE>
+    <TEXT>**My Goal:** I'm putting together a server that I want to run probably 5-6 VMs on. A bunch of linux builds and one Windows 10. I work with large image datasets from microscopes for work which can generate files that are 6+ GB in size, so one or so of my VMs will need decent ram, like 16 for itself. I'd like to attempt gaming on the windows VM streamed through something like steam link to another thin client in my home. Also a pfsense VM (torn between that or a standalone box). Then a bunch of VMs/dockers for other random things. I also have a ton of data for work and home. I already have bought a Netapp DS4246 and have about 20+ drives I'll be setting up some ZFS system on. My plan is to run proxmox on a server and a bunch of VMs on some ZFS HDD shares, maybe some of the VMs I'll daily drive on some extra SSDs. I also need something that will be pretty future proof for about the next 8 years and not need much upgrading. **The Hardware:** I've built a dozen+ gaming rigs over the years, but never a 'server' oriented build quite like this. I've looked at hundreds of dell servers on ebay, but not found anything that I really feel like can do quite what I want for cheap enough to warrant going that route over just building my own. This is what I've put together and was hoping I could get some feedback on anything I may be missing or not understanding before I take the plunge. *CPU*: Ryzen 3700x *MB*: Asus Prime X570-Pro -- This seems a bit overkill. But finding a 'server' motherboard has been not easy. This has 3 x16 slots and 3 x1 slots. I need at least that many. ----1x16 for a GPU (passthrough gaming). ----1x1 for a second server GPU (since no onboard graphics). ----1x16 for my HBA card to the netapp (basically no MBs have 1x4 and 1x8 nowdays it seems). ----1x16 for 10Gb NIC controller. ----1x1 for PCIe to PCI adapter (for a PCI card I need for a work machine card) *RAM*: I'm real torn on ECC vs not. I think I need at least 64. ----I'm leaning towards G.Skill Ripjaws V 2x32. DDR4-3200 CL16 ----But I'm also looking at some Supermicro ECC DDR4 3200 CL22 on newegg *BootDrive*: WD_Black SN750 250GB ----I think I'll put proxmox here and set up ZFS in proxmox and install VMs from it. ----Might also go 500GB and partition for the Win10 VM *PSU:* Seasonic FOCUS GM-750 *GPU:* Nvidia 980ti -- I already have this laying around. *GPU2*: Something super cheap, like 100 bucks or less to just run the server. *NIC*: IBM I350 quad NIC *Case*: iStarUSA D-400-6 4U rackmount **Total** All of this (excluding GPU I already have) is about 1300. Maybe closer to 1500 if I go ECC ram. But I may need to go 128GB, which ain't cheap. Thoughts? Is this an okay build? Am I missing something fundamental?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>ZFS running on proxmox? Or on VM?</TITLE>
+    <DATE>2020-09-17 00:12:19</DATE>
+    <TEXT>I have a NetApp ds4246 that I have about 20 drives in. I want to create two pools (a raid z2 and az3) that will house various data. A lot of videos and music. But also a lot of smaller files like docx and txts or others I use a lot. I just setup proxmox for the first time. And I want to run a handful of VMs that will need to access this data. Should I set up the zfs pools all on proxmox and share via nfs? Or should I pass my hba through and setup everything in a VM and share through that? It should I pass through individual drives that I want to setup in zfs on the VM? I feel like the first option may not be best, because I can't easily make snapshots of settings and I lose the benefits of VMs The third option seems like the best to me. Because then if in the future I want to add a single drive to my NetApp and pass it through to a single new VM I could easily do that and not have everything passed to a different VM. Does anyone have thoughts on what may be the best route forward?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-17 08:34:01</DATE>
+    <TEXT>Thanks for the input. I didn't know about the iSCSI option if I passed the hba through. Most disks will be going to the pools.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-17 08:37:06</DATE>
+    <TEXT>Yeah I guess reinstalling really wouldn't be that big of a deal. Any particular reason you went with the pools on proxmox instead of passing through the hba to a VM? Or is it just the way you did it?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Running cable to code</TITLE>
+    <DATE>2020-09-17 08:53:57</DATE>
+    <TEXT>I want to run ethernet through my home. But I have no idea how to do this up to code so that on the off chance there is a fire I don't get in trouble (like getting denied insurance or something). How do I go about finding the rules? I could hire someone, but I really like doing things myself and learning. I've been googling a bunch, but there seems to be a ton of "opinions" out there. How do I do this legit. Also, does it matter if it's poe? Edit I'm in the US</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-18 00:04:38</DATE>
+    <TEXT>This was very helpful to me, as this is very close to what I think I'm trying to do. So that kind of solidified some ideas in my head. Thanks. I was hesitant cause I've read some things saying don't do VMs on ZFS pools (at least hdd pools). But I may test it out and see if I can live with what I can get.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-18 00:07:53</DATE>
+    <TEXT>Thanks, updated. In hindsight that was pretty obvious a thing I should have mentioned</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-18 00:09:23</DATE>
+    <TEXT>Like in all cases? Even between floors? Sounds like I'll have to invest in some plenum cables</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-18 00:10:35</DATE>
+    <TEXT>Ok thanks. I'll look into riser rated cables and plenum. These are all new to me.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-18 00:12:59</DATE>
+    <TEXT>Yeah I definitely want to put plates in. I kind of want to have them in almost each room of the house. I'll look into the plenum cable stuff. Seems like everyone agrees it's the best</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-18 08:45:41</DATE>
+    <TEXT>Definitely helps. Tooless sounds great since I don't plan to be doing this really more than once. I'll see if I can find them</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Raid z1 with 7 4TB drives?</TITLE>
+    <DATE>2020-09-20 02:27:24</DATE>
+    <TEXT>I see a lot about recommended number of drives for z2. But less for z1. Is 7 4TB too many? I'll probably have a second udev of 4-5 3TB drives. It's going to be a pool mainly of media streaming. TV, movies, music.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-20 09:40:31</DATE>
+    <TEXT>Yeah I've read that before. But for non mission critical data it still seems like z1 is still a reasonable way to go for getting the most space with some redundancy. I was initially going to do nothing and just use the drives as raw disks in a logical volume. Worst case scenario I have to redownload all the media again if I did end up with two drive failures. No big deal. I feel like everyone gets real caught up in z2 or z3 but it doesn't make sense to me as a home user. I have good off site backups of anything important to two locations. So in a z1 configuration, if two happened to fail, then sure, I'm in down time for a few days until I get backups. But that's not a problem for me. In an environment where having downtime is unacceptable I get why you have to go z2/z3. But at home, at least for me, trying to maximize space seems to make sense. I could go two udevs with 4x4tb and 3x4tb. Or one udev with 7x4tb. All z1. Which makes me have two parity disks. I could do z2 with 7x4tb. Which still is basically parity disks. BUT, in that configuration, if I ever want to add more udevs in the future, it basically commits me two always have to add two parity disks each time I expand. My real concern is reading that some say wide vdevs have really poor IOPS in regular use. Would a 7 disk single vdev z1 be super store compared to one with 4 and 3 disk vdev? Or am I missing other things and or just completely off the mark here?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Performance with a SLOG attached?</TITLE>
+    <DATE>2020-09-20 23:23:01</DATE>
+    <TEXT>From reading around, I feel like lots of things say adding a SSD as a SLOG should NOT improve performance by much, many places even hint it might make things worse. I have a Raidz1 with 3x4Tb 7200rpm discs in it. I have sync=always. Compression=off. My machine has 64Gb of Ram When I use fio to test the Raidz1 with NO slog attached (write test of 500M), I get speeds in the 350kB/s range. When I attached my SAS SSD I get speeds in the 22MB/s range. If I turn sync=standard and NO slog attached, I get speeds in the 13MB/s range. If I turn sync=standard and WITH slog attached (and write 500M) I get like 1000MB/s. If I turn sync=standard and WITH slog attached (and write 4G) I get like 13MB/s. Is this normal? This is my first attempt at ZFS, and it doesn't seem to be quite matching up to what I've been reading around. But maybe this is all within expected parameters. Seems like sync=always and a SSD SLOG (it's not even NVMe) is a reasonable way for me to go.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-21 02:17:32</DATE>
+    <TEXT>Yeah I'm planning on a mirrored slog once I'm done testing and figuring out if performance is ok for me.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-21 10:03:51</DATE>
+    <TEXT>Yeah sorry I should have mentioned that compression off was just for benchmarking. A bunch of places I read said to turn it off for benchmarking. I plan to turn it on with lz4 for production. And I do plan on a mirrored slog. For now I just a ssd laying around I was playing with, but probably okay to go nvme in the end. Right now I was just surprised how much different the speeds were in this case, because I didn't expect the slog to change things that much. I live in a city in the US where we have lots of blackouts. Like multiple times a week. It's obnoxious. I'm going to invest in a ups here. But I also feel like sync would be important to figure out if possible with reasonable speed. But no I'm not looking for bleeding edge speed. And I may still go with raidz2 but I was under the impression z1 was more performant. But this was all mainly for benchmarking purposes and learning at this stage.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-21 22:12:01</DATE>
+    <TEXT>Yeah I'm kind of beginning to question it. I guess it's good I'm asking the questions now. I've never used ZFS so understanding my 'feeling' vs what I 'need' may not be great. I feel I need them, because I have an application I use for work that I spend 30-40 minutes working in during a time period it can not save my work. Then I save everything and move on to the next task. I'd hate to have an outage right when I'm saving and have to redo that work. But the thing is, I *could* redo that work. And the chances of outage are low. And a UPS would solve all that anyway. It's definitely not a database for banking though. Thanks</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-21 22:20:47</DATE>
+    <TEXT>Use case is a file server for my work which is mainly image analysis using ImageJ. I have a lot of 2-4GB images I need to open save. And then a LOT (thousands) of small csv files that get saved out with coordinates based on extracted data from the images. I do want to learn more about ZFS though, this is my first time with it. And I do want to mess around with VMs. I'll need to mess around with fio though. It was a busy weekend and I just used some preconfigured settings I found online.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-21 22:22:47</DATE>
+    <TEXT>I used these settings. And will happily admit upfront that I just stole these from stuff I found online and still don't fully understand fio yet. That's my goal for this upcoming weekend to figure it out more. fio --randrepeat=1 --ioengine=libaio --direct=1 --gtod_reduce=1 --name=randWrite --filename=randWrite --bs=4k --iodepth=64 --size=500M --readwrite=randwrite I was mainly just looking for a quick determination to get me started on the right track, when I noticed adding the slog didn't do what I thought it would do. I still have lots of testing to do it seems.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-21 22:25:58</DATE>
+    <TEXT>Yeah honestly I never even considered that option. I kind of got on the ZFS train and never looked back. I'm going to have to do some more testing and see where I end up. Thanks for pointing me to some places to start with. I hadn't even heard of mergerfs.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-21 22:28:15</DATE>
+    <TEXT>These are good points for me to consider. I replied to someone else below about this, it's a good idea. I guess I still don't have a great feel for how to identify how much is too much in regards to "that many drives is risky and has a fair chance of failing completely". It makes sense that the more drives mean more points of failure. But having not done this much, I don't know how to say that's a risk at 5 drives for 45 drives in a z1. Sounds like 7 might be pushing my luck some though.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-21 22:33:10</DATE>
+    <TEXT>Thanks for the reply. It's nice to see z1 is working well for someone in a home use case, which is what I'm going for mainly. I get why z2 makes more sense in SO many applications. But like you said, raid is not a backup, and I can handle the downtime if I did end up with 2 failing. I've had 11 drives of data over the past 10 years, and only had 2 failures at different times. I guess it's kind of warped my perception (or I've just been super lucky) about how reliable drives are and I feel like putting z2 was *possibly* a bit much for my home use scenario.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-21 22:42:05</DATE>
+    <TEXT>It's work. But it's grad student work. So there isn't really a budget. It happens at home for now due to covid, but I have a server I'm trying to run it off of where the data is stored that has 1GbE connection. But the analysis happens on a separate computer with a beefier graphics card and processor. I'd love the idea of SSDs, because it takes 5+ minutes to open some of the images, even when done locally. But I'm not getting that approved sadly.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-21 22:48:46</DATE>
+    <TEXT>Yeah I think that is where I am at now, trying to figure out exactly IF the software calls for sync writes or not.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-21 23:01:34</DATE>
+    <TEXT>Ah!! brilliant. I would have taken much more time trying to figure it out. Thanks!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[PC] IBM i350-t4</TITLE>
+    <DATE>2020-09-25 00:17:20</DATE>
+    <TEXT>Is this too good to be true? Is it likely a knock off? https://www.ebay.com/itm/333614482849 I've read lots of people saying the "Intel branded" ones for cheap are knock off, but that some oem used ones might be legit. This is for home use and learning. But I don't want something unsecure on my network either.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-25 01:17:51</DATE>
+    <TEXT>Out of curiosity, what website did you use to buy these from?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Should encryption always slow down writes?</TITLE>
+    <DATE>2020-09-25 22:35:40</DATE>
+    <TEXT>I'm just a little confused and thought someone here could clarify. I have a base zpool dataNew with compression=lz4, sync=standard, encryption=off and a SSD slog I've just been testing for learning. I then made an encrypted dataset with the following command zfs create -o encryption=aes-256-gcm -o keyformat=passphrase dataNew/crypto I then cd into /mnt/dataNew and run the following fio command fio --name=random-write --ioengine=posixaio --rw=randwrite --bs=64k --size=256m --numjobs=16 --iodepth=16 --runtime=60 --time_based I did that 4 times and I get an average write speed of 246MiB/s I then cd into /mnt/dataNew/crypto and run the exact same command Again, after 4 runs I get an average write speed of 281MiB/s Is this expected? I would have expected the crypto dataset to be at least somewhat slower. But all 4 runs are faster than any of the 4 runs in the non-encrypted.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-26 11:54:43</DATE>
+    <TEXT>That's pretty much my use case. Workgroup type server. I'm trying to set up a file server for about 5 of us at home here that would be doing word docs, photoshop files, coding/txt files etc. It'll also probably act as a media server for streaming, but read performance doesn't seem to be an issue at all for that. I assume what's happening since I have sync=always is that it writes to the RAM and SLOG. But once the SLOG is written to it returns success. Then it will finish writing out from the RAM to the HDD. And the SLOG is only used if the power fails, then it will write from the SLOG to the HDD on reboot. Does that sound right? Also, you say RAIDZ with multiple vdevs will perform faster. Is that only if I add them in mirrors? If I just added two vdevs of 3 drives each. Would that be faster than 1 vdev of 3 drives? Because my understanding was not that a 2nd vdev would make it better. You would still be at the mercy of the slowest drive. Although I guess more drives means less data going to that slowest drive as it's split into smaller peices. But that's a function of just more drives right? Not more vdevs?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-26 11:55:58</DATE>
+    <TEXT>The compression is lz4 in both. It is inherited as u/jonheese said. And I double checked with zfs get all. The settings are the same across the board except for the encryption stuff.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-26 11:57:18</DATE>
+    <TEXT>I'm running a ryzen 3700x. And grep -o aes does return aes to be doubly sure.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-26 11:58:32</DATE>
+    <TEXT>Well I'm definitely getting no speed loss. I'm just surprised to see an increase. Maybe the increase isn't enough to be outside of margin of error though? But it's consistently faster over many runs.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>How to manage users on a new build?</TITLE>
+    <DATE>2020-09-27 22:52:36</DATE>
+    <TEXT>This is my first real server build. In the past I had a computer with drives that I shared by NFS to a couple other computers (all linux) in my home. I have 5 or 6 users in my house, and I just made accounts on all the machines for each user. That way things just always matched up. I made sure each user had the same UID and GID on each computer. Is this the best way? I feel like there is probably a better way to manage multiple users. Especially as now I'm setting up VMs for the first time. I'm using proxmox. I've read a little about PAM or LDAP. And a little about microsoft active directory, but I'm assuming that's not the best for linux/proxmox? It's a little overwhelming, but that's why I'm trying to do all this, to learn. But where should I be spending my time? Linux user accounts? LDAP? PAM? Something else? I should say my end goal is to eventually have a few VMs with a desktop for each of my users that they can log in to from other thin-client computers. Whether that be VNC, rdp, or something else I also am still learning about.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>ZFS/NFS shares direct on Proxmox vs VM?</TITLE>
+    <DATE>2020-10-03 21:50:42</DATE>
+    <TEXT>I have a large ZFS pool I want to share via NFS to multiple computers on my network. I've read around a lot and I feel like 50% of the time people say just share your NFS drives or your ZFS (or ZFS as NFS) directly from Proxmox. The other 50% of the time people say this is horrible practice and needs to be done in a VM But I never get a great reason why its bad other than "it's not standard" or it makes things less portable and it "clutters" the hypervisor. Which kind of makes sense -- at least in the corporate world. My initial thought was to use a VM (probably ubuntu 20.04.1 LTS) and then bind my ZFS pools as direct storage mounts in the VM. In other words, NOT do it through proxmox. My reasoning is: 1) I have a lot of family users and we keep permissions separate, and I didn't want to mess with more users on proxmox and managing users and groups there. 2) I have a lot of duplicity back-up scripts I've written and it 'feels' more clean to me to do that in a dedicated VM instead of having proxmox running all my data backup runs (local and off-site backups) and 3) I feel like this way I can make snapshots of the VM easier if I mess up something with my backup scripts. My questions are: 1) Is my plan above stupid? 2a) If you mount the ZFS pools as mount points in the VM, does the ZFS 'magic' (checksum, parity, etc) all still happen at the proxmox level? I assume so, because I wouldn't even have to install ZFS in the VM right? 2a) Do I then need to allocate a bunch of ram to the VM? I know ZFS is ram hungry, but it should have access to all the ram in the proxmox base right? 3) Is there a big performance hit to do it this way? Thanks</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Proxmox attached to WAN for pfSense virtualization security?</TITLE>
+    <DATE>2020-10-04 16:04:14</DATE>
+    <TEXT>I have a 4 port intel NIC (0-3). Port 1 (enp10s0f1) is connected straight to my model/WAN from my ISP. I have that bridged to vmbr1. Port 2 (enp10s0f2) is bridged to vmbr2. I have vmbr1 and vmbr2 attached to my pfSense VM and configured correctly to get me WAN on vtnet0 and LAN on vtnet1. Then port2 LAN connects to a switch. Then I run another cable from the switch to my port 0 (enp10s0f0) which acts as my proxmox connection to the LAN. The default pfSense firewall seems to block everything. And I turned on the Datacent firewall in proxmox to drop everything, except 8006 and ssh 22 locally so I can still connect. Is this safe? I just feel like having the WAN port directly plugged in to proxmox is potentially scary. But I don't get an actual IP from it in proxmox, it seems to just go to pfSense. I just want to make sure no one can get into my proxmox box through the WAN/port 1/enp10s0f1 connection. I know a lot of people virtualize pfSense, but I couldn't find an exact guide to do what I wanted, so I kind of pieced this together while learning. This is what my network looks like https://i.imgur.com/rYnypUV.png</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-07 10:44:42</DATE>
+    <TEXT>Ok, I'll look into a jump host. That's a new concept to me. I'm hoping it's okay with the bridge. I guess I wasn't sure if it was better to do a passthrough with the entire card. I haven't done any pass through yet, so I don't fully understand how that all works or if it's necessary in this situation. Thanks</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-07 10:45:20</DATE>
+    <TEXT>Is it more secure/safe to do passthrough as opposed to a bridge like I've done?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-08 21:29:00</DATE>
+    <TEXT>Yeah makes sense. I ended up redoing it and passing through the ports. Now when I do ip addr they don't even show up in proxmox. So I guess it makes sense that it's probably a little more secure that way since it appears proxmox doesn't even recognize the WAN port plugged in to it. Thanks</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Do NFS shares on proxmox have to go through the LAN?</TITLE>
+    <DATE>2020-10-10 15:46:47</DATE>
+    <TEXT>I have a ZFS pool on my proxmox server. I have a couple of VMs that I want to access that pool. I was going to setup a NFS share on proxmox, and then mount those drives in the VM But I have my proxmox on my LAN with all my VMs on my other VLANs. In proxmox I have the LAN coming in on one port on my NIC. But I have all the VLANs coming in through a trunk on a different port. As such, it seems to me that if I set up NFS in proxmox, ALL the data will have to traverse my network. Making ALL my NFS writes, even from 'local' VMs on proxmox to be limited to 1gbps (no 10gig for me yet). Am I wrong on this? Is there a way around to have the NFS shares go directly to the VMs without traversing through my switch/network so that I can have make speed?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-10 19:03:54</DATE>
+    <TEXT>So I create a bridge named vmbr2 and connected no ports/slaves. I then attached that as a second network device in my VM. I then mounted the NFS drives in my VM (10.11.12) from my proxmox share (10.11.11). I shared the NFS from my zfs pool using rw=@10.11.12.0/24. Doing this I get slow network speeds, just as when I connect form a different computer. When I test speeds on proxmox they are 5x faster or more. But in the VM it still must be traversing my network.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-10 19:07:25</DATE>
+    <TEXT>So I'm new to networking, so sorry if I get this wrong. But I believe the gateway is on my pfSense VM that I'm hosting on proxmox. I have a 4 port NIC, and 2 of those ports are passed directly into pfSense. One is my WAN. The other is the LAN/VLANs out to my switch. Then I use my proxmox motherboard's port as a LAN in to proxmox using vmbr0. Then I use a separate cable from the switch to bring the VLANs in to the 3rd port on my NIC, and I've set that as vmbr1 and VLAN aware to connect to my VMs. When I add a bridge (vmbr3) to the proxmox host--with NO ports/slaves--and then assign that bridge as a network device for the VM and then mount the NFS shares, it is slow like on the network. Is this because the gateway is not "on" my proxmox? I don't fully understand how gateways work, but my thinking is everything has to go through that to access from the LAN to the VLAN. And since that all goes through my external switch I'm never going to get a direct connection just within proxmox.???</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-11 14:04:53</DATE>
+    <TEXT>I did not. But now I have and it seems to solve my issue. Thanks! Further question though. It appears when I do this it is 'outside' of my firewall. Is that expected? How I set it up. VM has the initial vmbr1 tagged to VLAN12 (10.11.12.x) which should be the 'main' network of the machine. I then added vmbr2 in proxmox host and made CIDR=10.11.20.100. I then added vmbr2 to my VM and set it to dhcp. I then also added vmbr2 to my pfSense (which is virtualized as a VM on proxmox), and then added that as a new interface as OPT3 and set up a dhcp server so that my VM gets an address (10.11.20.150) from that. Finally I added rw=@10.11.20.0/24 to my ZFS sharenfs settings. That works and I get expected speeds well in excess of my network, since it's now through proxmox instead of my network it seems. But I didn't have to allow any traffic on my firewall rules, and I also can't seem to find any rule that blocks the 10.11.12 and 10.11.20 subnets from communicating. Does having the bridge in proxmox and then the VMs allow them to just skip the pfSense VM all-together and not go through that firewall? (I should note I have turned off the proxmox firewall stuff).</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-11 14:07:43</DATE>
+    <TEXT>This seems like a good idea. I don't actually have a managed switch yet, but I'm in the process of trying to get one (suggestions welcome). At which point I think I will try something more akin to this. I got it working using a bridge for now, but I don't understand the firewall implications (see comment above). But at least I'm getting appropriate speeds. Thanks!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-11 15:07:45</DATE>
+    <TEXT>Okay, perfect. I think I'm understanding more and more. That does seem to be what is happening for me. I think I have one final question/problem I'm running in to. In my VM, if I have BOTH enabled, I sometimes get no outside internet (can't ping anywhere). But if I go in to proxmox and "disconnect" the vmbr2 (10.11.20) so I only have one interface (vmbr1 10.11.12) I always am fine. But when I uncheck "disconnect" to plug it back in, I sometimes have internet, sometimes not. It's real sporadic. Is there some trick to having two interfaces, each with it's own IP to work in linux (I'm using ubuntu 20.04 server as the VM).?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-11 20:02:06</DATE>
+    <TEXT>So that does appear to be what's happening. # ip route show shows that I have two "default via " gateways. I can # ip route del default and delete the 10.11.20 gateway. And then I have internet as expected, edit: actually I CAN mount the NFS drives it appears. But I'm not sure this is the "best" or "right" way to be doing this. I guess I'll have to do some more digging on this one.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  </INDIVIDUAL>

@@ -1,0 +1,903 @@
+<INDIVIDUAL>
+  <ID>subject8152</ID>
+  <WRITING>
+    <TITLE>T440p graphics and fingerprint reader on linux</TITLE>
+    <DATE>2014-11-27 17:32:55</DATE>
+    <TEXT>Hello everyone, I received my t440p yesterday and have since been setting it up. It came with a HDD that was immediately replaced with a SSD with linux already installed on it. With OS Optimized Defaults disabled it booted up nicely and almost everything worked right away. I configured the touchpad so that it is usable (no movement, just soft buttons, left third is left click and so on). I'll share the config file if someone wants it :) I'm currently facing two issues. The first one is the pc temperature. The left side of the laptop is getting pretty hot, especially arround the vent. Sensors read 58 deg. for the cpu temperature and 55 for the 730m in idle. Because of this (and also to extend the battery life) i'd like to turn of the nvidia card completely (not going to be using it really i bought the p version because of the quad core cpu). I know about the bbswitch and bumblebee problems, and most of the search results are concerned with this rather than turning it off totally. I am currently lost and have no idea what to do exactly. Could somebody, please, point me in the right direction? I'm using the nvidia driver and have trien setting it to "Intel - power saving mode" but that causes a lot of problems with the X server. The other problem is rather minor. I set up the fingerprint reader in this way: http://thinkpadmint.blogspot.fr/2014/02/getting-t440s-validity-vfs5011.html But when I want to enroll my finger, it does just one scan and stops. And this results in a very low accuracy so i need to scan my finger multiple times in order to unlock the laptop. Does anyone have an idea how to solve this? Thanks a lot :)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-11-27 18:21:58</DATE>
+    <TEXT>3.13.0-24-generic, Linux Mint 17</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-12-01 09:49:36</DATE>
+    <TEXT>Switching to 3.17 solved some problems, thanks a lot :D</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-12-01 09:50:35</DATE>
+    <TEXT>I'm sorry to hear that. I'm disappointed with Lenovo linux "support" :(</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-12-01 09:53:24</DATE>
+    <TEXT>Unfortunately, that option doesn't exist in BIOS any more. Since I'm using a SSD would I see any improvement from laptopmodetools?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-12-01 10:23:36</DATE>
+    <TEXT>Tried it at the very beginning, doesn't work. Scans only once when I try to enroll, and can enroll only my index finger. The recognition rate is terrible :(</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-12-18 11:04:33</DATE>
+    <TEXT>T440p owner here, with the 4900MQ. The laptop is a beast, and especially for such a portable device. It can handle anything I throw at it, at almost the same speed as my 4770k desktop machine. The 1080p screen is good enough, colors are nice, although it suffers from slight light bleeding at the bottom edge. But that's something you notice only inspecting the device carefully. In everyday use it's not an issue at all. The screen is large enough, and this is coming from a dual 24" monitor user (with my desktop PC). I was faced with the same dilemma. The w540 has a numpad, which I am very used to, but the t440p was a bit more portable so I went with it. If you won't miss the numpad go for the t440p, it will make carrying it to and from the office easier. If you are going to be docked and using an external monitor and keyboard I can't see a reason for picking the w540.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>The future of konsole gaming</TITLE>
+    <DATE>2015-01-10 18:57:46</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>funny 80's/90's rap home video</TITLE>
+    <DATE>2015-02-19 18:24:06</DATE>
+    <TEXT>Hi, I'm looking for a home video by a white "rapper". The scene is shot (at least the intro) in his garage or makeshift studio, he gives a speech about "making it big" and then he starts rapping. It was a popular video a while ago (2008-2009 if I remember correctly). Unfortunately I cannot provide any more information about it. Does it ring a bell, anyone?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-04-05 22:17:26</DATE>
+    <TEXT>YES! Yes it is :D Thank you very much :D</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>To all the Star Wars fans out there...</TITLE>
+    <DATE>2015-04-22 01:18:28</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-04-22 01:23:28</DATE>
+    <TEXT>This may come in handy: http://en.wikipedia.org/wiki/Roman_numerals Cheers :)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-05-10 23:04:43</DATE>
+    <TEXT>Some EEVBlog criticism: part one: https://www.youtube.com/watch?v=obS6TUVSZds part two: https://www.youtube.com/watch?v=HOZBrHqTJk4</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Ideas for a summer project?</TITLE>
+    <DATE>2015-05-27 14:57:48</DATE>
+    <TEXT>I'm a fourth/final year physics student looking for a fun and challenging summer project. I'll be working with a couple of friends (physics/engineering), and we're all fairly proficient with both hardware and software. We'll have access to some basic electronics and optics equipment, and a modest machine shop. We'll also have a couple of hundred Euros of spending money to order stuff from E-bay/Amazon. We don't have a specific goal, we'd just like to build something (that works), tinker with it and learn something new. Our current (and only physics related) idea is to build and test a correlation spectroscope/microscope. Other projects that we're considering are not strictly related to this subreddit (e.g. building an autonomous quad-copter or some other AI/ML stuff. If you guys have any ideas we would be glad to hear them out! Links to papers or other resources would be much appreciated. Thanks :)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-05-27 19:46:27</DATE>
+    <TEXT>That's certainly an interesting idea, we'll look into it. Thanks for the reply!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-06-09 00:04:04</DATE>
+    <TEXT>Obligatory greentext: http://i.imgur.com/6EB2lPJ.jpg</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-06-26 22:00:26</DATE>
+    <TEXT>Can you please upload the config file? Thanks :)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-06-30 15:09:19</DATE>
+    <TEXT>Thanks :)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-08-22 11:52:15</DATE>
+    <TEXT>I would recomend checking out www.nbwn.de</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-09-15 15:18:52</DATE>
+    <TEXT>The issue with the nvidia graphics card is still unresolved (afaik). You can read more about it here https://github.com/Bumblebee-Project/bbswitch/issues/78 and here https://github.com/leoluk/thinkpad-stuff/wiki/Haswell-ThinkPad-problems I use the intel graphics only because of this. If you are planning on getting a unit without the nvidia card go ahead, but if you need it I would suggest reading more about the problems with it. The touchpad and trackpoint are completely fine if you use these drivers: http://tillenius.me/blog/2014/08/19/ubuntu-clickpad-middle-scroll/ I have the touchpad setup so that it isn't sensitive to movement in the upper third and have dedicated left/middle/right button areas. The rest of the touchpad works fine even with two finger scrolling and all that jazz. Of course you can always replace the touchpad with the one from the t450. For me the keyboard is great, the FHD screen is nice, the machine works well overall. If you have any specific questions I'll be happy to answer.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-10-07 00:34:56</DATE>
+    <TEXT>Without changing anything - no. There's an extensive guide on how to autorun Kodi on linux here: http://kodi.wiki/view/HOW-TO:Autostart_Kodi_for_Linux If you are that worried about your current setup - just back it up completely before attempting something.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-10-07 17:29:36</DATE>
+    <TEXT>You can install it on top of what you have.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Understanding and learning linux</TITLE>
+    <DATE>2015-10-10 19:40:51</DATE>
+    <TEXT>I'm a fairly proficient linux user and am able to solve most/all of the problems I encounter while using linux. I come from a scientific background and use it both as a work and home system. I've helped setup and maintain a small cluster/server used for scientific computing - so I have some experience in system administration. Now I'd like to learn more, but am unable to find a good book / class / tutorial. I've considered Linux From Scratch but it doesn't seem like a good learning experience - I can follow the instructions, but how much would I learn by doing so? Can you, please, recommend a good resource for further learning? I'd like to know more about the inner workings of linux (not at the kernel level). Thanks.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-10-11 10:57:32</DATE>
+    <TEXT>Thank you very much for your detailed answer!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-11-09 11:26:45</DATE>
+    <TEXT>I don't know anything about the compatibility, but I'd advise against it. I have a t440p with a 4900mq and temperatures are a bit of an issue. The cpu idles at ~50C and under load it will hit ~80C. It doesn't overheat and turn of but the left side of the keyboard gets pretty hot to the touch and keeping it in your lap gets uncomfortable after a while. If you keep it on a cooling pad things are much better.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-11-09 12:48:03</DATE>
+    <TEXT>Well I would have to disagree with you. The load temperature may be normal, but the idle temp is a bit too high for my liking. And I'm not talking about "oh no my cpu is hot I guess I need to watercool my laptop" type of thing. I bought a thinkpad because I wanted a reliable and powerful machine that I can use on the go. And if it heats up so much that it gets uncomfortable to hold on your lap, if the left part of the keyboard gets almost uncomfortably hot and it needs a cooling pad to fix these issues, then it isn't that portable is it? The thermal management system in the T440p simply isn't up to the task of cooling down a quad-core i7 CPU.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-11-09 13:27:41</DATE>
+    <TEXT>What I'm talking about is this: http://www.notebookcheck.net/Review-Lenovo-ThinkPad-T440p-20AN-006VGE-Notebook.108423.0.html See the "Temperature" section and the image that is shown there.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Diagnosing a problem with a PI2 media server, please help</TITLE>
+    <DATE>2015-11-18 23:11:05</DATE>
+    <TEXT>I bought a PI2 to use it as a media streaming device for my TV. I've been fiddling around with it since the begging of summer and have been unable to set it up exactly as I want. The (main) problem I'm currently facing is video stuttering while streaming (using KODI). It doesn't exactly stutter, the sound stops and video is slowed down. It' doesn't show a buffering message, and pausing to let it buffer doesn't help. It only happens when playing HD video. Here's my setup and the troubleshooting I did: My pc is running linux and is connected to my wi-fi router (Asus rt-n12e) via ethernet. On the pc I have a ntfs drive that's shared using SMB (I'm planing to switch to NFS). My PI2 is in the other room, and it's connected to the home network using a wi-fi adaptor (Asus n10 nano). The PI is powered by a 2A tablet charger (this is like the 4th one I tried). Also I have a powered USB hard disk connected to the PI, but removing it doesn't help. I'm running Raspbian Jessie with 4.1.13-v7+ kernel, installed on a 32GB SanDisk Ultra sd card. I have 320MB RAM allocated for the GPU, and am running at 900MHz. KODI version is 15.1. The most probable culprit for the problem I'm facing would be the wi-fi connection. When I test the network connection (using iperf) i get 70Mb/s down and 40Mb/s up (average over 100s). But tonight I was watching a 107min long 4.3GB mp4, which is ~6Mb/s and the issue occurred. I was monitoring the network usage at the time and it was around 8Mb/s pretty much constantly, before, during and after the stutter. Both the PC and PI were not under serious load at the time. Additionally when I returned to the "problematic" bit of the movie after finishing it, everything was fine... Do you guys have any ideas what could be causing my issue? Thanks!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-11-20 00:18:15</DATE>
+    <TEXT>Thanks guys, this seems to have solved the issue!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2016-01-04 15:27:47</DATE>
+    <TEXT>What loads and what temps does it reach?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2016-01-13 09:53:03</DATE>
+    <TEXT>This sub in unbelievable. The top posts are always the same - "I made the same magic mirror as the previous guy, only bigger!" Instead of being a nice community of electronics enthusiasts, this sub gathers raspberry pi collectors whose Pis sit in a drawer. I joined this sub, and several other communities, in hopes that I'll see interesting ideas, and meaningful discussions. The average post is about blinking an LED, and compared to this is orders of magnitude simpler. But noooo he didn't use the pi exclusively - doesn't belong in this sub. This project was something different, something interesting and something that would have been a bit harder to do without the PI.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>All calculation  amp; no play makes Vince a dull boy - a comedy sketch by physicists for physicists</TITLE>
+    <DATE>2016-03-20 11:03:37</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2016-07-12 21:05:44</DATE>
+    <TEXT>That's normal. Source: using one running at 60deg with just Firefox open. Pretty much nothing you can do about it AFAIK.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2016-07-12 23:23:24</DATE>
+    <TEXT>I never bothered because the noise would annoy me more than the heat does. The best you can do is to install the Nvidia drivers and set it to use only the Intel graphics (be very careful with bumblebee and such, they have caused data corruption previously, not sure about the state now).</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2016-07-13 11:19:17</DATE>
+    <TEXT>Well I have the i7-4900MQ in my machine so the CPU itself produces a lot of heat. I run CPU intensive stuff daily (100% load on all 4 cores for several hours), and it reaches about 90C and the frequency doesn't drop below 2.8GHz. So aside from the laptop being a bit warm to the touch it doesn't bother me. If you plan to use the laptop on your lap most of the time it can be a bit uncomfortable, so have that in mind. Also I'm running linux so it's possible that things are a bit better under Windows.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Parfor gets stuck!</TITLE>
+    <DATE>2016-07-21 22:38:00</DATE>
+    <TEXT>I'm solving a differential equation using ode45, and because I have to explore the parameter space and each execution takes some time I would like to solve it in parallel for different parameters. The problem I keep running into is that the execution stops randomly. My code essentially looks like: parfor k=1:N [tt xx]=ode45(@(t,x) f(t,x,a(k), ...); X(:,k)=xx; end I'm running it on a cluster of machines (12 x 8 cores) running Scientific Linux 6 (kernel 2.6.32-573) and Matlab R2015a. After I start it, it will run for a while and then everything will just stop: CPU load will go down across the cluster and my Matlab session (running on the head node of the cluster) will freeze (and doesn't recover within any reasonable amount of time). This sometime happens after a few minutes, but sometimes after a few hours. The MJS, which is also running on the head node, is reporting all of the worker nodes as busy. If I force quit my Matlab session no error log is generated (or at least I didn't find it). From what I can tell it doesn't appear to be a memory or a communication issue (all of the nodes are reachable and have plenty of free RAM). If I replace parfor with parfeval I can sumbit my jobs, but then fetchNext hangs in a similar way as parfor does. I would greatly appreciate any help because I'm out of ideas at this point. If any additional information is required please let me know. Many thanks!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2016-07-22 05:47:48</DATE>
+    <TEXT>The length is always the same, I'm using the same time span. If i run the same code locally there are no problems.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2016-08-15 20:00:48</DATE>
+    <TEXT>I had the same issue, it turned out to be an app that was turning it on. Check your (recent) installs.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2016-08-28 12:28:10</DATE>
+    <TEXT>Seeing that it only happens when you turn on the lights (and starting them might cause a voltage drop, especially if the bulbs are cold), this is most probably a power issue. Try plugging in you extension cord into another socket, connected to another fuse / breaker or possibly on a different phase (if your electricity is polyphase).</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2016-12-12 09:07:14</DATE>
+    <TEXT>The same thing happened twice to me, on the same machine, also under linux. The first time I left if to charge overnight and it was "fine" afterwards, although I didn't check the battery state. It continued running for more than a year after that event, maybe with a slightly lower capacity. The second time that it happened it was completely dead. I even opened up the battery case and 3 of the cells were completely dead. I tried reviving them with a lab power supply, but it didn't work. It seems that the battery controller shuts down if it detects a problem, so buying a new one was the only option.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2016-12-30 23:45:19</DATE>
+    <TEXT>Meni Consecration ubedljivo! https://www.youtube.com/watch?v=a5ZUq3PgWeg</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-01-16 14:56:08</DATE>
+    <TEXT>Which website is it?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-02-06 13:04:13</DATE>
+    <TEXT>That specific model has huge bumblebee issues (data loss, plenty of sources online). If you're getting the nvidia equipped version I'd suggest installing the nvidia drivers, from which you can change which card is being used (albeit with a logout). The touchpad/trackpoint can be setup so that it works nicely under linux as well, or can be swapped out for the t450 touchpad. Those are the two main issues with the t440p, otherwise it's a nice machine, especially so for $200.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-02-06 16:39:54</DATE>
+    <TEXT>https://github.com/Bumblebee-Project/bbswitch/issues/78 If you don't use bumblebee you should be fine.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-02-10 09:27:37</DATE>
+    <TEXT>My thoughts exactly!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-03-03 11:45:34</DATE>
+    <TEXT>German (as far as I see) vs US layout! The UK layout also has a large enter key.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Izlaznost na izborima - iza #382;i i glasaj pre nego  #353;to bude kasno!</TITLE>
+    <DATE>2017-04-02 11:46:27</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-04-02 11:47:39</DATE>
+    <TEXT>Prijatelji, ako se ovako nastavi izlaznost ce biti ispot 60% sto izvesno znaci nepostojanje 2. kruga. Podsetite svoje prijatelje i porodicu da izadju i glasaju!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-04-02 15:11:36</DATE>
+    <TEXT>Ok, hajmo ovako :) Proslogodisnji parlamentarni izbori su izgledali ovako http://imgur.com/a/eYQWT Ovolika linearnost je prilicno iznenadjujuca, u potpunosti se slazem, ali je takodje i evidentna. Kako trenutno stoje stvari mozete takodje videti u mom poslednjem postu u ovom threadu. Da, doslo je do odstupanja od predikcije koju sam napravio ranije u toku dana, ali ne preterane. Razmislite malo i Vi pre nego sto krenete sa pretpostavkama koje ne moraju biti tacne :) Sve najbolje!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-04-02 15:12:48</DATE>
+    <TEXT>http://imgur.com/a/L3XGl Nekoliko stvari kasnije stvari ne stoje nista bolje, cak i malo gore.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-04-02 16:22:41</DATE>
+    <TEXT>33% veca u odnosu na sta? Ovo je pravjeno na bazi podataka koje su B92 i N1 prenosili sa izvora naznacenih na slici. Nije mi nikako nemoguce da oni ne predstavljaju realnu sliku. Takodje je vrlo moguce da po opstinama / gradovima ima velikih varijacija u izlaznosti.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-05-05 08:32:59</DATE>
+    <TEXT>As a T440p owner, don't go for it. At that price point you can get either something newer, or something older with better specs (if you need them that is). Additionally, the build quality of the t440p is not that great (compared to my friend's thinkpads, both older and newer ones), neither is the battery life. However, where the t440p shines is performance, at least of the very high end ones. I got a t440p for ~1000 #8364; back in 2014 with a i7-4900MQ (and have since upgraded the RAM and the HDD). If I wanted to match it's performance with a newer model (say t460/470p) I would need to spend more money than I did 3 years ago, and a lot more for a negligible performance increase. TL;DR - No, get something newer, lighter and with a better battery life.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-05-05 09:38:44</DATE>
+    <TEXT>Ah, then the situation is a bit different. I didn't see a lot of 4C thinkpads on the EU second hand market though... I guess that it (strongly) depends on the price of a 4C cpu that you would like to swap in (I can only find things on ebay for a few hundred $, which is a lot and I suppose that for that kind of money you could find a used t460p). But if you opt to do that, be prepared to see high idle temperatures (50ish) and even higher load temperatures (80ish), as well as a poor battery life (3-4h). For me these things are well worth the extra horsepower that you get.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-05-15 14:51:23</DATE>
+    <TEXT>I work in a physics laboratory. The machines which are used to control our experiments are under windows (due to legacy software and compatibility issues). Having my experiment crash at 3AM (and endanger months of work and a lot of expensive equipment by doing so) because windows decided to update is an awesome experience (of course the auto updates and restarts are set to off, but it still happened). I don't need all the server features, just please don't reboot my machine. If TVs of one brand suddenly started turning off randomly people would be extremely annoyed and would boycott that manufacturer, but for a PC it is somehow okay...</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-05-15 17:42:19</DATE>
+    <TEXT>I beg to differ. In the scientific world linux is pretty widespread, in some cases it is the de facto standard (HPC and GPU computing). Compatibility isn't an issue in most cases as both hardware and software manufacturers know their customer base and its preferences / habits (the compatibility and legacy software issues that I mentioned previously are due to a specific software package which doesn't have a linux version, which doesn't mean that there isn't an alternative, but setting everything up under linux at this point in time would be a duplication of effort). Usability might be a personal preference, but I would argue that usability isn't one of windows's benefits.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-06-03 12:25:14</DATE>
+    <TEXT>Meni se ovo cini kao 1:1 kopija Engineering Explained kanala, sa sve nacinom prezentacije na tabli. Imajuci u vidu to, ne cini mi se da ces uspeti da privuces neku vecu, pogotovo stalnu, publiku.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Replacement parts store in Europe/France?</TITLE>
+    <DATE>2017-07-11 17:59:22</DATE>
+    <TEXT>I'm looking to replace the keyboard on my t440p due to wear and it not being backlit. I would like to avoid waiting a few weeks for the keyboard to be shipped, but I cannot find a store that sells it at a reasonable price with a quick shipping option. I would prefer to get the UK or DE layout, because of the large enter key. Does anybody have any suggestions? Thanks!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-07-22 16:13:46</DATE>
+    <TEXT>I would suggest a m.2 2242 SATA ssd. A friend is using a Transcend one and it's working nicely. That way you get to keep the 500gb HDD for storage and get an SSD for the OS.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-07-23 08:26:16</DATE>
+    <TEXT>It seems that you're right.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-07-23 08:29:06</DATE>
+    <TEXT>You may be completely right. I personally like having at least some music on my pc, and almost always use my laptop in my lap so I prefer not having any external devices (except for headphones) connected.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>T440p keyboard backlight issue</TITLE>
+    <DATE>2017-08-01 18:26:14</DATE>
+    <TEXT>I have a T440p which came with a non backlit keyboard, which I wanted to replace it with a backlit one. After installing the new keyboard the backlight wouldn't come on (Fn + spacebar, the keyboard has the light icon on the spacebar). I tried swapping it out with a friend's keyboard (from a t450s which was replaced due to a damaged key) but without any luck. Could this be an issue with the motherboard or controller? What are my options? Thanks!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-08-02 15:29:26</DATE>
+    <TEXT>Thanks for the reply. As far as I know the two ribbon cables are for the trackpoint and the keyboard. Through which of them back light is connected to I don't know. Either way I tried reconnecting them but it didn't help.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-09-22 08:39:27</DATE>
+    <TEXT>I have a T440p with the buttonless trackpad. The only thing is that the top third is not sensitive to movement (so that I can use the trackpoint properly) unless you start from the bottom of the trackpad. It is a great setup for me but the noises and shudders that other people make while trying to use it are priceless :D But to be honest they don't come close to the sighs that I make while trying to use the keyboard and trackpad on a regular laptop...</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-10-11 09:33:07</DATE>
+    <TEXT>Maybe if you read the article you'd realize that the issue wasn't the voice activation but a faulty touch sensor. On the other hand nobody is forcing you to use voice-activated devices/features.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-11-08 20:00:17</DATE>
+    <TEXT>Out of curiosity I just ran the passmark CPU test on my i7-4900MQ equipped t440p. In the multi-threaded test I got 8470 instead of 9067, while in the single-core test I got 2130 instead of 2079. The cpu was on boost most of the time, and the frequency never dropped below 2.8GHz. From my experience even if you run it at 100% CPU utilization for a few hours the frequency never drops below 2.8.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-11-09 09:53:51</DATE>
+    <TEXT>Don't. That GPU doesn't offer much better performance than the intel one. Forger about playing games using this card right away. If you need decent GPU performance you would be much better off buying a different laptop.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-11-09 17:44:22</DATE>
+    <TEXT>You may be right, but from my personal experience it consumes way too much power, generates way too much heat and not for a lot of performance (additionally there were/are a lot of driver issues under linux). In the end I keep it off most of the time. Almost any computing (with CUDA) is out of the question, and it can't even run CS:GO nicely so I don't consider it to be a decent gaming card.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-11-09 22:16:41</DATE>
+    <TEXT>Fn+Esc if I'm understanding your problem correctly?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2017-11-12 01:06:47</DATE>
+    <TEXT>Just stopping by to drop this off https://www.youtube.com/watch?v=dRR_pXJT0zU</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>If you use the default ringtone on your phone, everytime it rings in public the bystanders are legally obliged to beat you up.</TITLE>
+    <DATE>2017-12-08 12:51:16</DATE>
+    <TEXT>Doubly so if it's the iPhone tune.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-02-01 09:25:08</DATE>
+    <TEXT>I'm a long time Mint user simply because Cinnamon doesn't work as well and as smooth on other distros as it does on Mint (at least from my experience). If you are not going to be using Cinnamon, what is the advantage of Mint over Ubuntu (either by manually installing KDE or using Kubuntu) or Debian?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-02-13 11:30:17</DATE>
+    <TEXT>Where? I would be more than interested!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-05-11 15:36:34</DATE>
+    <TEXT>I'm running a Lenovo T440p spec'd as follows: CPU: i7-4900MQ RAM: 16GB GPU: Intel + Nvidia 730m Storage: 256GB SSD + 500GB HDD And at work a Dell 7810: CPU: 2x Intel Xeon E5-2620 v4 RAM: 64GB ECC GPU: NVS 315 Storage: 256GB SSD + 2TB HDD Both of them are running Mint 18.3 with Cinnamon (because I really like Cinnamon, it seems to work the best with Mint and overall it's very quick to get everything to a usable state).</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-05-16 19:58:40</DATE>
+    <TEXT>No, people at CERN definitely do not "just install whatever they want". Scientific Linux was not intended as a desktop/workstation O.S. but a server one. It was set up to be as stable as possible (over having the newest versions and new features) and compatible with most of the commonly used scientific computing specific packages. It is / was used on their server farms which are global and very massive (check out https://en.wikipedia.org/wiki/Worldwide_LHC_Computing_Grid). Source: used some computing resources on the LHC Grid.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-05-29 11:32:46</DATE>
+    <TEXT>This might not be the best place to ask but, does anybody know from which space mission is the intro that they play before the show?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-05-31 07:51:26</DATE>
+    <TEXT>I had absolutely the same gripe with Chrome as You do, but then I discovered the Quck Tabs addon. You get a dropdown menu with a searchable tab list, which when You get used to it is far superior than the Firefox solution!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-07-06 07:03:35</DATE>
+    <TEXT>And for a reason! I am a long term Mint user, but after this upgrade I'm probably going to switch to another distro. The reason I was a loyal mint user was that it, for the most part, worked out of the box and seldom got broken (and the best cinnamon experience). Well this time so many things got broken (grub, fstab UUIDs, nvidia drivers got borked of course, problems with hibernation and many customized configurations) that I'm seriously considering switching. And just to be clear, It's not that I'm incapable of fixing those issues, I would just rather spend my time on other things, and especially so on a distro that claims to "just work"...</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-07-06 17:46:04</DATE>
+    <TEXT>Well, the missing part of the statement is:  #8220;You might want to upgrade to Linux Mint 19 because some bug is fixed or because you want to get some of the new features. In any case, you should know why you #8217;re upgrading." Indeed I had a few problems with outdated versions of packages as well a bug here and there that I would like to avoid if possible. So I was not upgrading for the sake of seeing new numbers and names in /etc/lsb-release... I would like to point out that I didn't break the system - their officially released upgrade script did. This is not supposed to be a bleeding edge distro, their release cycle is relatively slow so when they release something. Even the upgrade from Windows 7 to 10 on my work pc went smoother than this and I'm definitely not a person to say nice things about Windows...</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-07-06 17:49:58</DATE>
+    <TEXT>I have considered to jump ship and switch to Manjaro several times, but didn't have the time to devote to setting up from the ground up, nor the SSD space to have two installations side by side. This might just be the perfect occasion!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-08-03 23:56:00</DATE>
+    <TEXT>http://www.proforhobo.com/ comes to mind immediately!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-08-16 11:26:58</DATE>
+    <TEXT>I'm not going to name any distros but list the criteria that it should meet (assuming that the parents are not that tech savvy, otherwise they would be picking their own distro): a) Make sure that it's a stable one - you want to minimize the occasional breakage, as well as make sure that they can update it without much fear of something going wrong. To me it rules out rolling-release distros, and I'll be willing to handle the occasional version upgrade. b) Make sure that you are familiar with the distro, and if possible the DE. From time to time they're going to need some support or something is going to break, so it healps a lot if you don't have to do much googling and messing around to find the problem and the fix for it. Also be prepared for the "honey, could you reming me where is the app / button / menu for X" calls. If you have some familiarity with the DE and it's layout it makes it a lot easier and smoother. c) Pick a distro that doesn't require much configuring and installing to get to a usable experience for them. Neither you nor them are going to have the time or the interest to fine tune every last thing. If it works out of the box - great! The value of sane defaults is very often overlooked. d) You absolutely MUST set up remote access for yourself to the machine. I'm talking both ssh and something like teamviewer where both of you can see the same thing at the same time. It will save you a lot of time and spare you of a lot of frustration. After cleanining up the viruses from my father's pc for the n-th time and dealing with performance issues of running Windows on an ageing pc, I managed to convince him to try using linux (for web browsing, sending email and such). He's computer-literate but by no means a techie. I set him up with Ubuntu, later switched to Mint Mate and haven't had any problems since.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-08-25 23:27:23</DATE>
+    <TEXT>Nadam se uz obavezno zaokruzivanje svih cena na desetinu :) Izludjuju me cene X.99, moze al da mi vratis tu paru... Uzgred, moze li pojasnjenje kako su kod Evra kovanice glavne? Transakcije od ispod 5 Evra su skoro nepostojece, ogranicene samo na stvari poput kupovine hleba u pekari.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-08-26 10:12:39</DATE>
+    <TEXT>Prosto iz iskustva visegodisnjeg zivota u Francuskoj. Pojedinacno jesu sve te stvari po 1-2 evra, ali je bas opisana situacija kupovina "dnevnih potrepstina" uglavnom nesto sto ispadne vise od 5 evra (pri tome da se razumemo ne govorim ni o razbacivanju novca na nepotrebne stvari ni o "luksuznom" zivotu). Pri tome ovde neretko trgovine primaju kartice i za iznose manje od 5 evra (istina postoje i one koje zahtevaju racun veci od 5 za placanje karticom), tako da to definitivno redukuje rukovanje sto novcanicama sto kovanicama. Moja interpretacija iskaza da su "kod evra kovanice glavne" je bila da je gro transakcija sacinjen upravo od placanja kovanicama ili da one u njima budu dominantne, te je oblikovalo i moj odgovor. Moja odbojnlost prema metalnom novcu potice pre svega od cinjenice, da za razliku od novcanica, ne mogu jednostavno da se sortiraju u novcaniku. Pogotovo kod evra gde se novcici od 10, 20 i 50 centi ne razlikuju po boji a samo malo po velicini, pa je potrebno sve istresti iz novcanika i onda probirati. Sa druge strane se novcanice lako klasifikuju i ne cine novcanik teskim i glomaznim.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-08-26 10:40:29</DATE>
+    <TEXT>Novcanicama koje se saberu na minimalni veci iznos od toga, a kusur u metalnom novcu cu iskoristiti za placanje sitnih stvari poput hleba, placanje parkinga ili kupovine karte za metro na automatu. Ili pak mnogo jednostavnije - platicu karticom. I ne pricam napamet nego iz svakodnevnog iskustva.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-08-26 10:42:44</DATE>
+    <TEXT>Ja sam shvatio kao da si hteo reci da su kupovine koje se sastoje od iskljucivo kovanica najdominantnije, te je to oblikovalo i odgovor. Ali slazem se, ako covek ne vodi racuna da ih potrosi gde i kad za to ima priliku lako se nakupe.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-09-04 21:59:52</DATE>
+    <TEXT>I use the taxpayer's money to buy expensive items, including some precious metals and gems, that I use solely for my enjoyment.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-09-18 22:49:26</DATE>
+    <TEXT>From my personal experience what you have described is simply not true. I use Windows seldom, and when I do it's for work related purposes on a very powerful machine, with only the bare necessities installed and a completely virus-free system (i.e. zero web browsing and downloading of anything has been done on the machine). I believe that this is in line of your description of a well maintained / setup machine, but the performance difference between running Linux and Windows on in is staggering. If I need to wait a few seconds for the start menu to open up - something is wrong (at least in my book). And if instead of using an SSD as an OS drive you switch to an HDD things get even worse. Yes everything gets slowed down, but unlike Windows, Linux is still usable.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>S9+ or Oneplus 6t</TITLE>
+    <DATE>2018-12-13 11:37:22</DATE>
+    <TEXT>I'm in the market for a new phone, primarily because my current S6 is getting bogged down and painfully slow at certain times / for certain tasks. After some consideration I have narrowed down the choice to these two phones. I can get the S9+ (dual sim, 64GB) for 560EUR (in Serbia), or the 6t (128GB, 8GB ram) for 510EUR (in France). On one hand I prefer the s9+ (better screen, IP rating, a much better camera), but I'm afraid that it will fare the same as my S6, which is getting too slow after a short time. The 6t also has a larger battery going for it. What would be you suggestions? Thanks!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-12-13 15:20:50</DATE>
+    <TEXT>Could You, please, elaborate?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-12-13 15:22:00</DATE>
+    <TEXT>Could You, please, elaborate?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-19 11:13:21</DATE>
+    <TEXT>https://youtu.be/PksK580n5gQ?t=5</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-04-02 13:46:13</DATE>
+    <TEXT>Where / in which ways did you experience performance issues while using mint? Which DE?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Internet connection performance in a students dormitory [OC]</TITLE>
+    <DATE>2019-04-03 17:52:42</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-04-03 17:57:20</DATE>
+    <TEXT>I'm currently living in a students dormitory, in which the internet connection is provided by the dorm. Every evening the connection would get unusably slow so I decided to track the performance as a function of time. I set up a Raspberry Pi 3 to measure the download and upload speeds, as well as the ping, at 10 minute intervals ("thankfully" the connection is poor enough such that it can be tested using the Pi's 100mbit network). Here you can see the raw data, as well as an FFT of the download speed: https://imgur.com/a/FS8r2TT The data was treated and the graphs were made using Matlab.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-16 18:09:44</DATE>
+    <TEXT>Sorry to say but it looks like a stuck pixel. It might not show up in photos because the camera detects it and removes it or it only shows up at higher ISO values. Is the software stabilization turned on? If so, the movement of the stuck pixel can maybe be explained by it. Try turning it of (if there's an option at all) and shooting another clip.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-16 20:20:13</DATE>
+    <TEXT> gt; ike a stuck pixel. It might not show up in photos because the camera detects it and remov I'm not familiar with that camera so I cannot know for sure how the stabilization is implemented and which features can be switched off, but seeing how it moves with the camera the movement of the red pixel seems to be related to the IS. Nevertheless it is a stuck pixel, a pixel which will always report the maximum brightness possible. These are not that uncommon, and are a result of a defect in the sensor manufacturing process. Unfortunately they cannot be fixed in hardware (except for swapping out the sensor), but in images they can be removed very easily using Photoshop or Lightroom. I suppose that the same is true for video in a decent editor. If the camera is under warranty I would suggest that you send it back and get a new unit :)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-16 20:21:42</DATE>
+    <TEXT>Also the reason for it now showing up in photos could be some "smart" editing done in camera, which detects the stuck pixel and figures out an appropriate value based on the neighboring ones. If you open up the raw (.cr2) file you should be able to see it there.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-08-14 08:26:56</DATE>
+    <TEXT>I bought my t440p from them (back when they were nbwn.de), everything went smoothly and as it should! If you find a good deal go for it.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-08-25 21:16:10</DATE>
+    <TEXT>For those who are interested in the problem I would suggest having a a look at this https://physics.stackexchange.com/questions/255961/what-is-known-about-the-hydrogen-atom-in-d-spatial-dimensions as well as the arXiv article mentioned in the response. Seeing how the response is detailed and somewhat technical I'll try to summarize it here: in 4D space there isn't a solution, but in 5D and above there is a solution to the Schrodinger equation but with a positive energy. Because of this, these states cannot be considered to be bound, they are metastable and a small perturbation of the system can "kick" the electron out and we end up with a free electron and a proton.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-04 06:23:12</DATE>
+    <TEXT>It can be both, you can have either a researcher or a student status. I'm a non-EU PhD student in France and by chance I got a student's visa (at the visa interview I was asked "will you be enrolled in a high-education institution", answered positively and that was it). Most of my friends and colleagues don't have a student's visa though. If you have a choice in the matter I would advise that you apply for a regular visa, because some of the administration is simpler: you don't have to apply every year for a work permit (which is just paperwork, but either way you will be doing a lot of it in France), the resident's permit is a bit easier to obtain and renew (although a bit more expensive, but oh well) and it is easier to stay in France afterwards with a regular visa.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-11 13:19:28</DATE>
+    <TEXT>No, it's cultural. Every test / experiment is designed with some assumptions about how the subject will interpret, understand and interact with the environment or the presented task. It turns out that many of the assumptions and expected behaviors turn out to be heavily culture biased. It is also very difficult to design experiments free of these biases, because the researchers themselves can be totally unaware of them. For more info have a look at https://digest.bps.org.uk/2010/10/01/cross-cultural-reflections-on-the-mirror-self-recognition-test/ and https://journals.sagepub.com/doi/10.1177/0022022110381114 for the original work.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Ethernet over untwisted pair</TITLE>
+    <DATE>2019-10-25 17:19:41</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-25 17:23:23</DATE>
+    <TEXT>I saw the "ethernet over coat hanger" post yesterday and started wondering how well it would work. I got a bit bored at work today and decided to try it out. It worked surprisingly well! Even touching the wires didn't do anything. The next step is to probe the signals with a scope and inject some noise I guess...</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Ethernet over untwisted pair</TITLE>
+    <DATE>2019-10-25 17:29:43</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-25 17:31:25</DATE>
+    <TEXT>Saw this post yesterday: https://www.reddit.com/r/techsupportgore/comments/dmhpzb/just_because_you_can_doesnt_mean_you_should/ Today I got bored at work and decided to try it out. I expected it to do well but not this much! And why? The only answer that I can give is: https://www.youtube.com/watch?v=9nazm3_OXac</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-25 18:23:08</DATE>
+    <TEXT>Yes, yes it is... The cable was too short to plug it into my workstation so I took a laptop from the junk pile to test it. Luckily it had gigabit ethernet!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-25 18:24:49</DATE>
+    <TEXT>Ah, the wonders of modern DSP! :)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-25 18:34:44</DATE>
+    <TEXT>I thought that there will be a slight loss in performance, as the surface area of the loop is much larger than with a twisted pair, but I guess that there wasn't enough RF noise to affect it. I might to inject some RF noise with an AWG. Thanks :)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-26 08:06:53</DATE>
+    <TEXT>OP is trying to see how bad of an environment you really need for the network performance to go down!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-26 08:07:19</DATE>
+    <TEXT>https://www.youtube.com/watch?v=9nazm3_OXac</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-19 08:11:48</DATE>
+    <TEXT>Nema potrebe zamisljati, moze se malo covek igrati sa javno dostupnim podacima: https://imgur.com/a/toB5MQM U pitanju su podaci sa predsednickih izbora 2017 godine (izvor RIK), ukrsteni sa podacima o stanovnistvu po obrazovanju i opstinama (izvor zavod za statistiku). Model koji relativno fino predvidja podatke je relativno jednostavan: populacija je kategorizovana u visoko obrazovane (VO) i ostale (OS). Izlaznost, kao i broj glasova za dve iznete opcije se moze modelovati kao IZLAZNOST = X * VO + Y * OS, gde su X i Y slobodni parametri koji se mogu odrediti pomocu linearne regresije (izlaznost znamo po opstinama iz RIK-ove tabele, dok brojeve VO i OS iz tabele zavoda za statistiku. Isti model i izvor podatka vazi i broj glasova za AV i SJ.). Model, pogotovo imajuci u vidu koliko je jednostavan, vrlo fino predvidja podatke: Na izbore je izaslo ~90% visoko obrazovanog stanovnistva i ~50% ostalih. Za AV je glasalo ~7% VO i ~36% ostalih, za SJ ~50% VO i ~2% ostalih. Na levom kraju grafika se moze videti "rastur" podataka oko modela, gde je jasno da obrazovanje nije skroz dobar prediktor, ali cim se pogledaju podaci iz opstina sa vise od ~15% visoko obrazovanih model radi mnogo bolje. Zeleo bih da se ogradim od bilo kakvih politickih i socioloskih tumacenja ovih podataka. Analiza je uradjena iz dosade februara 2018, bez ikakve tendencije da se populacija A ili B okarakterise kao superiorna/inferiorna ili bilo sta drugo. Zakljucak nije baziran na post-izbornim anketama (kao sto je slucaj u OP-ovom grafikonu), nego samo na javno dostupnim statitstickim podacima. Za pravo razumevanje toga sta ovo znaci potrebna je diskusija sa nekim ko vreme provodi na strani Studentskog Trga blize Knez Mihajlovoj.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Don't do this to yourself!</TITLE>
+    <DATE>2019-12-21 13:07:45</DATE>
+    <TEXT>Since the start of my PhD I was told by numerous people "start writing as soon as possible", which I of course ignored. Then time started running out and this is how my writing went: https://imgur.com/a/iV4T7CK At first I was writing the supplementary material (which was then integrated into my thesis) for a paper and hiding in the lab ("I have plenty of time", or so I thought). I only started writing for real after I was essentially banned from the lab, with little more than two months left until the deadline. I had to pick up the pace slightly, which was not a comfortable experience to say the least :) TL;DR start writing ASAP :)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[OC] PhD thesis writing progress</TITLE>
+    <DATE>2019-12-21 13:10:21</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-21 13:11:07</DATE>
+    <TEXT>Since the start of my PhD I was told by numerous people "start writing as soon as possible", which I of course ignored. Then time started running out and this is how my writing went. At first I was writing the supplementary material (which was then integrated into my thesis) for a paper and hiding in the lab ("I have plenty of time", or so I thought). I only started writing for real after I was essentially banned from the lab, with little more than two months left until the deadline. I had to pick up the pace slightly, which was not a comfortable experience to say the least :) TL;DR start writing ASAP :)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-21 14:22:03</DATE>
+    <TEXT>I handed in my thesis on Monday :)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-21 14:52:03</DATE>
+    <TEXT>Thanks! I ended up (involuntarily) doing the same: the only three places that I visited during the past two months were the lab, the supermarket and my home.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-21 15:00:30</DATE>
+    <TEXT>Good for you, I guess that's how things should be done. My supervisors like taking things slow, so I ended up doing the same... My funding ends soon so I ended up in quite a rush. Though, to be fair, I had already treated all of the data and knew exactly what to write before starting.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-21 16:29:12</DATE>
+    <TEXT>No one can really tell but yourself and your supervisor. If what you have written has already been vetted by someone then you are on the right track. Of course there's a risk that if you start writing too early you will have to rewrite or even throw away parts of it. My point was essentially that as soon as you have something that you know is sound and will be a part of your thesis it's useful to at least write something down about it. Best of luck!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-21 16:33:06</DATE>
+    <TEXT>What constitutes as short is highly field dependent. My thesis ended up being maybe a bit shorter than what's customary in the community, partly because of my concise writing style and partly because I decided not to write about well known techniques in detail. Either way, if you postpone it enough no matter how short it needs to be you will end up in a similar situation as myself - with only the x and y axes being rescaled....</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-21 19:10:00</DATE>
+    <TEXT>Everything was sorted out before, so I only had to write and adapt the figures for the thesis and so on. This made it a lot easier, but it was still tough...</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-22 07:46:30</DATE>
+    <TEXT>It's forcing myself to finish something by the end of the day or the week. Usually coincided with the end of a larger section.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-22 07:46:47</DATE>
+    <TEXT>Yup, I made it. I used github for version control, so it was just a matter of going through the logs / versions to reconstruct this.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-22 07:49:31</DATE>
+    <TEXT>Yup, at that point I remade all of the figures from an earlier paper and added them in, without writing anything pretty much. The word count catches up later on, after I had written about said figures.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-01-02 13:59:49</DATE>
+    <TEXT>Applied science?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-01-22 07:36:53</DATE>
+    <TEXT>For papers and larger projects use git. It's easy to learn (at least the basics), and has the advantage of giving you incremental backups. It works best with text based files, but it you can also use it with other ones. For other things, stick to a naming scheme (e.g. "Project_name_date.xyz") and make sure to always place things in their proper place, create a folder for grad school and put everything there, in a nicely organized way, from administrative documents to your data / analysis / reports / what have you. Use Zotero or Mendeley to manage your paper / book library. They allow you to categorize, annotate, star and easily search through your collection. And possibly the most important thing: MAKE BACKUPS regularly! Preferably using an automated job / script which takes care of everything. I would strongly suggest having at least 3 copies of your data, including an "offsite" backup, such that if your office / lab floods or burns down in a fire you won't loose everything. Don't rely only on cloud backups.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-01-22 08:00:13</DATE>
+    <TEXT>Instead of being a smart ass if you just googled the term, and opened the English wiki page on racism you would find that "Racism is the belief that groups of humans possess different behavioral traits corresponding to physical appearance, and can be divided based on the superiority of one race over another.[1][2][3][4] It may also mean prejudice, discrimination, or antagonism directed against other people because they are of a different race or ethnicity." Where ethnicity covers " language, ancestry, history, society, culture or nation." (also check the wiki page if needed). So when you discriminate, segregate, or "just" behave snobby towards someone based on their language, nationality, culture, or skin color this will in most English speaking countries be labeled as "racist". If you have problems with understanding why it's bundled into one term: because it stems from the same belief - that X is better than Y just because X is (say) French and not (say) Moroccan.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-01-22 08:02:58</DATE>
+    <TEXT>The last one is so true :)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-01-22 09:19:42</DATE>
+    <TEXT>I too, like yourself, believe that we should use proper terminology when describing things. However the reality is that the meanings of words change over time, and if we want to have meaningful conversations with other people we need to accept that sometimes what they have in mind is not the dictionary definition of the word, but the colloquial one. As this is a public forum and not an academic publication the use of colloquialisms is well justified. The person that you were replying to has a valid point, regardless of the fact whether they used the correct terminology or not. Apologies for calling you a smartass.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-01-22 09:35:50</DATE>
+    <TEXT>I am not American, but Eastern-European living in France for a few years now. Before I arrived I had no biases, positive or negative, about the French society. However I have experienced some things that were less than welcoming. I work in academia, where it's common to have people come and work somewhere for a year or two, and almost by definition it becomes a highly international community. When people do not talk to you because you are not fluent in French (which is not to be expected, at least not on the first day), and they shame you when you try to, it's not a great experience. When you get asked bigoted and prejudiced questions by your highly educated coworkers about your country and / or culture, it doesn't exactly make a great impression. When "fraternite egalite liberte" is touted all the time and you see how minorities and non-whites are treated, it screams racism. All of my expat friends have observed or even experienced similar things. Some adapted better, some worse, but even the ones who are here for decades find these aspects of French society problematic. I'm not saying that all French people are racist or anything like that, I have met some lovely people here. But when you are a part of the majority it's tough to realize what an outsider might experience or perceive differently.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-01-22 11:59:35</DATE>
+    <TEXT>So git was developed as a "version control" system for coding, so it's design and features reflect this. It's great for tracking changes across multiple files at once, acts as a sort of a "time machine", and allows for multiple people to work on the project. The reason why I use it for writing as well (in latex though, which is sort of like coding anyway), is because I can easily modify figures and different chapters (which are in their own separate files), and everything is synchronized nicely. If you are just writing in Word / LibreOffice / whatever then there are no significant benefits over renaming files.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-01-25 09:05:59</DATE>
+    <TEXT>Prili #269;no je annormalno neorgansku hemiju zvati anorganska :)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-02-19 23:56:20</DATE>
+    <TEXT>Ima na rutracker net</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-03-16 08:38:28</DATE>
+    <TEXT>Valjda imas racun u banci, ako nemas niko te ne sprecava da ga koliko danas napravis. A kad to uradis, pravac sa karticom u supermarket pa si kupi nesto lepo, da ne crknes siroma od gladi.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-03-21 16:59:02</DATE>
+    <TEXT>PREACH! My university and doctoral school have a strict set of rules about the appearance of the front and back covers of the thesis (but no regulations about the formatting inside). The problem is that they decided to change the appearance this year and no one can tell me what it should look like exactly. After asking repeatedly I finally got a LaTeX template, which doesn't work as it is missing a few figures / logos... I defended 6 weeks ago and still cannot submit the final version of the thesis to the library, as they won't accept it without the "proper" covers...</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-03-28 21:24:59</DATE>
+    <TEXT>Maybe you are doing something wrong OP if "Almost everyone in this department is doing things like this."? Maybe you are not able, or care to, take care of those users properly?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-24 09:29:49</DATE>
+    <TEXT>This advice is coming from someone who has not yet understood what the point / spirit of research is, IMO. A PhD is not clerical work of collecting data and neatly organizing it, although it might seem so at times. It's a journey along the boundaries of the unknown, and the successful ones manage to cross the boundary and we get to learn something new about the world. No amount of organization, spreadsheet and PowerPoint documents, no citation management will help you to do your research correctly if you have no idea what you are doing. The commenter gets one point spot on: "Also, ask your PI for their favorite review articles in the field and additionally try to find a more recent review article if your bosses reccomendations are more than 5 years old. Those in my experience, were my best friend starting out. From there, you can dive down the rabbit hole of that review articles citations.". This is good advice: get to know the field you are going to be working on ...</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-24 19:33:17</DATE>
+    <TEXT>I'm not being philosophical at all. At the beginning of my PhD I was immediately given an experiment to run and some papers to read. Hitting the ground running in that sense made a huge difference. The fact that I was reading relevant publications and books from the start is what set me on the right path - not preparing excel sheets or powerpoint presentations. It's much easier to quickly find a way of organizing things (e.g. by asking someone older in the group or the department about their recommendations and experiences) once you have something to actually organize, than to be hyper-prepared and not know what you are supposed to be doing research-wise. Thus my recommendation is to focus on reading! :)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-24 19:36:58</DATE>
+    <TEXT>Have you tried applying for scholarships? In some sense it is just a scaled-up masters, but the scaling coefficient is quite big :)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-26 11:32:03</DATE>
+    <TEXT>Hey, although these models are easy to grasp, and make for nice visuals (with the shaded CI region and whatnot) - they are not so good at making predictions. https://arxiv.org/abs/2004.08842 This is a nice paper dealing with the inability of confidently predicting the future with these models. It's an interesting read if you are already looking into this stuff and playing with it.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-04 13:25:11</DATE>
+    <TEXT>Hi, also a non-Frenchman here, who did his PhD in France. I might be able to help a bit :) First of all, as de_fou already said, In France you shouldn't focus on the university all that much. The Doctoral school will be the main governing body that you will have to deal with - the university will only be there to take your money for the enrollment (abt. 450e/year), issue you a student's ID card, and maybe help you with finding housing. Not much. The main thing that you should consider is who your supervisor is, and what is the lab like. Being affiliated with CNRS is always a good thing, both for your advisor (no teaching) and for yourself! You might find it a bit tough socially as you don't speak French and it's a rather small town, so keep that in mind.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-07 22:00:20</DATE>
+    <TEXT>Do you have any experience with them? I cannot seem to find any good reviews or experiences, and due to the current situation I cannot try them out in person.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-30 08:54:33</DATE>
+    <TEXT>Ova studija upravo to i treba da izmeri. Tako da je ceo komentar pucanj u prazno.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Moving to Helsinki - help appreciated</TITLE>
+    <DATE>2020-08-28 12:27:10</DATE>
+    <TEXT>I got a job at Aalto university (2 year contract) and am moving to Helsinki on the 1st of September. I have a place to stay for a month or so, but after that I will need to find an apartment of my own. Do you have any suggestions where (and how) to look for one? What are the best websites or real-estate agencies? I'm looking to rent a 1 bedroom apartment in the Espoo / downtown Helsinki area. Also which banks and cell carriers would you suggest, possibly ones that have a good English speaking service line and cater well to foreigners? I googled a bit, but most of websites are in Finnish only, which is not tremendously helpful :) Any other tips or suggestions are also welcome! Thanks! :)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-29 08:38:50</DATE>
+    <TEXT>Wow thanks so much for the reply :D All of this seems a bit more convoluted than I expected to be honest! But it is what it is :) Unfortunately, I'm not from the EU. There is one thing that's not clear to me. Will I be able to rent a flat without a "fully functional" bank account? I'm used to dealing with corporate landlords (in France) that require you to have a bank account (as well as a lot other paperwork...) to be able to rent an apartment. So If I need to change my address first that implies that I already have a place to stay (long term), doesn't it? What am I missing? Thanks again!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-29 08:44:16</DATE>
+    <TEXT>Hey, thanks for the reply! :D Regarding the administrative part our experiences will probably be different, as I am from a non-EU country. How long did it take for you to find an apartment? I lived in the Paris area before, and it was hellish. Should I be prepared for a long and excruciating search? Also do you have any suggestions for websites (other than FB marketplace) that sell second hand furniture? I won't be staying in Finland for (that) long, so it doesn't make sense to me to buy new furniture, both ecologically and financially . Thanks once again!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-29 08:46:06</DATE>
+    <TEXT>Hey, thanks! :D This site seems useful, will keep an eye on it! I'm not familiar with the terminology, what does it mean that a banking service is "cooperative"? Sorry for the dumb question!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-29 08:46:20</DATE>
+    <TEXT>Thanks for the list :D Cheers!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-10 09:55:38</DATE>
+    <TEXT>Hej, kao (bivsi) kolega hteo bih da prokomentarisem par stvari. Iskustvo na FF vrlo zavisi od smera kao i od namera ljudi sta sa tom diplomom zele da urade. Smer "primenjena i kompjuterska fizika" je apsurd, niti se stekne dobro znanje fundamentalne fizike, niti primena, niti vestina potrebnih za rad u industriji. Studenti koji ga upisu su prevareni, po mom vidjenju, jer nije ono za sta se predstavlja. B smer (ili "istrazivacki" kako se nekad mnogo jasnije zvao), je skroz druga prica. Ima GOMILU problema, naravno da ima. Ali retrospektivno (posle zavrsenog mastera i PhD) kvalitet znanja koje pruza je vrlo dobar i uporediv sa svetskim univerzitetima (ima izuzetaka, npr atomska fizika je horor lose pokrivena u BG). Kako je pravi cilj ovog obrazovnog smera istrazivanje, ucenje gomile stvari koje ti se na prvi pogled cini nepotrebnim je izuzetno dobra praksa. Da citiram Luja Pastera "Fortune favors the prepared mind", odnosno sto vise znas, pogotovo tih osnovnih stvari, mnogo ces pre videti neke veze i uspeti da odredjeni problem savladas. Osvrnuo bih se na komentar iz drugog posta gde kazes da "fizicara hronicno manjka pa zato FF studenti upadaju vani na programe". Ne, upadaju jer su prvo vec izuzetno isfiltrirani tako da FF upisuju, a pogotovo zavrsavaju, vecinom oni koje to zanima. A iz raznih iskustava motivisanost, radoznalost, preduziljivost se mnogo vise ceni nego prosek ili odakle dolazis :) Za prakse, da nema ih u BG puno, ali IPB a i INN Vinca primaju studente kad pokazu interesovanje. Ne znam koje te oblasti zanimaju pa ne mogu da ista preciznije kazem :)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-10 09:59:48</DATE>
+    <TEXT>Dodatno, ubacivati FF u ovu opstu pricu o obrazovanju u Srbiji je po meni greska. Taj fakultet je toliko ezoterican, nije mu primarni cilj formiranje neke siroke radne snage (sem nastavnog osoblja), vec fundamentalna nauka. Onda prirodno da nece ni problemi (studenata) biti isti kao na drugim ustanova.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-10 10:39:28</DATE>
+    <TEXT>https://www.youtube.com/watch?v=aS-339iZz-k</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  </INDIVIDUAL>

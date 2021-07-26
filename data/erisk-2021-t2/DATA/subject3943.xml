@@ -1,0 +1,435 @@
+<INDIVIDUAL>
+  <ID>subject3943</ID>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2011-06-20 08:33:44</DATE>
+    <TEXT>If you want to do a whois lookup via your browser, you could lookup google.bit by going to: http://whois.namecoin.us/google.bit Or you can use any standard whois client like this: $ whois -h whois.namecoin.us google.bit</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2011-06-23 01:37:34</DATE>
+    <TEXT>This has been changed after block 24000. There's a long discussion about why initial fees were so high and expires so quick here: http://dot-bit.org/forum/viewtopic.php?p=770#p770 (Short answer, to prevent squatters by making it expensive)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2011-06-23 05:47:25</DATE>
+    <TEXT>i posted a 64 bit version of the latest build, it's at http://www.namecoin.us/downloads.php</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2011-06-23 10:56:17</DATE>
+    <TEXT>If you wanted to go to example.bit, you would just go to example.namecoin.us instead</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2011-06-28 05:01:12</DATE>
+    <TEXT>Namecoin isn't a currency. Cost is designed to decrease, since economic scarcity is provided by the limited number of unique IDs in the namespace of the TLD instead of the limited number of answers in Bitcoin. The "coin" itself has no intrinsic value on the Namecoin network, only the name has value. Namecoin isn't designed for people to "compute4cash" at home, or use it as a financial tool. It's designed to make sure governments can't arbitrarily seize domains. Namecoin's critical flaw, in my book, is that it doesn't satisfy human greed in the same way that Bitcoin does. Namecoin doesn't enrich the miner, where as Bitcoin has a built in notion that it "earns" you money. If you're looking to "get rich" from your "idle computer time", stick to Bitcoin. If you've got an idealogical issue with governments seizing domain names and wish to see registrars and DNS decentralized for the health of the Internet, then support the Namecoin effort with a few Mhash.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2011-06-28 18:05:01</DATE>
+    <TEXT>Go on.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-10-22 21:34:40</DATE>
+    <TEXT>If you're on a mac, this works: http://www.murgaa.com/mac-auto-mouse-click/ Otherwise just hijack the save data being sent to the server and change the values. After that just reload the game and presto you have the new values. HTTPScoop is your friend: http://www.tuffcode.com/ Your save data URL will look something like this: http://candyclicker.com/scripts/saveProgress.v2.php?userid=NNNN amp;keycode=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX amp;totalcandyever=8245046 amp;currentcps=43118.7 amp;savedata={"Credits":"5708249.7","TotalCreditsEarned":"9824504600.0","TotalCreditsSpent":"7536796.2","TotalManualClicks":15676,"MaxManualClicksPerSecond":38,"CurrentLevel":46,"TotalTimePlayed":"1338","Items":[58,51,45,21,12,11,2,1],"PowerupsB":[1,1,1,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"Achievements":[1,1,1,1,1,1,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,1,1,0,0,1,1,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0],"Recyclers":{"o1":388},"fps":[56,0,59,0,0,0,0,58,59,0,59]}</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-11-06 18:20:23</DATE>
+    <TEXT>I feel like SF has a bunch of transplants that do nothing to educate themselves on the history of the city and just bitch because they want cheap rent.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-11-06 18:24:13</DATE>
+    <TEXT>The great irony: if you have enough money to afford the proposed condos, you don't care about rent prices here in SF. Ease the demand for sloppy rich people 2012?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-11-06 18:28:58</DATE>
+    <TEXT>There are so many areas of the city that don't have height restrictions on them like North Beach does. Financial District, SoMA/MidMarket, Hayes, South Beach... where ALL the highrise condos are going up. Better yet, why don't we develop the city towards the south where there's nothing. Oh right, because rich people want their condos right on the water in the historic district.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-11-06 18:32:36</DATE>
+    <TEXT>You are correct: "its the sum". So voting down 134 rich people condos doesn't impact ALL the other massive developments going on in the city. It stopped exactly one thing.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-11-06 18:34:01</DATE>
+    <TEXT>Why are you saying "affordable housing" in a discussion about prop B/C? Seems contradictory there, pal.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-11-06 18:45:56</DATE>
+    <TEXT>I'm not hating on rich people at all. I'm -- like most other engineers in this city -- way overpaid and overvalued. I'm the "problem" that's pushing out the working class and white washing the city. The discussion here is about controlling rent prices for the majority of people, and this prop doesn't do that. It creates more units for the 1%. Funny thing though, when I was ubering to my posh lolicanprogram job this morning, all the huge cranes building huge buildings were still there. I guess they missed the memo to pack up.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-11-06 18:53:19</DATE>
+    <TEXT>The IRS will surely get said car shitter for tax evasion.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2013-12-26 20:31:56</DATE>
+    <TEXT>It's even better when you check out what people who bought the Male Power Mens Black Collared Body Harness Mankini *also* bought... Dat Samsung. http://i.imgur.com/epTHKM0.png</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-05-23 18:44:07</DATE>
+    <TEXT>I promise I've seen them all, just haven't opened them! Skype is worse :-p http://i.imgur.com/T5IVW6i.png</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-05-23 18:49:32</DATE>
+    <TEXT>I'd say 50% of those text messages are from two-factor authentication services like Authy/Amazon/Facebook/banks/etc. And Skype just has a complete mind of it's own on iOS!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-05-23 21:13:18</DATE>
+    <TEXT>^ this. He's a very poke-at-you and throw-it-back-in-your-face kind of guy when he wants to make a point.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-05-23 21:43:43</DATE>
+    <TEXT>I normally find it super annoying! In this case we were friends as kids, went to college in the same city, and now live in San Francisco and work in the same industry -- so he get's a pass from me :-p</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-05-24 00:34:55</DATE>
+    <TEXT>I think you've made the mistake of using normal people logic. You need to use troll logic since that's how video games work. :-p</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-05-28 16:49:35</DATE>
+    <TEXT>nice work OP! when i ordered [this gem](http://i.imgur.com/J5Tdiss.jpg) from my bank on the phone it took every bit of me to not burst out laughing. always starts a funny conversation when people notice it at restaurants or bars :-D</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-05-28 18:32:57</DATE>
+    <TEXT>Lol no... they asked if I had kids that needed to be added to the account. Naturally I wanted to see how far I could push it :-p</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-05-31 20:21:03</DATE>
+    <TEXT>This is one of the major reasons Dean Kamen wanted to work with Coca Cola -- they had the fastest way of getting his Slingshot water purification system to all the corners of the world they're already able to get their normal products to. http://www.coca-colacompany.com/stories/slingshot-how-it-works</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-06-20 20:56:52</DATE>
+    <TEXT>Exactly! Coming from California these #s all seem very low, especially the ones for computer engineers. Is there a source for state-by-state (or even city-by-city) data?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-06-20 21:31:14</DATE>
+    <TEXT>tonymacx86 to the rescue as usual: http://www.tonymacx86.com/mavericks-desktop-guides/125632-how-install-os-x-mavericks-using-clover.html</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-06-20 23:10:42</DATE>
+    <TEXT>USB is slow, but it shouldn't be THAT slow. Are you using a quality USB 3.0 drive? Also, if you follow those instructions exactly, it'll install OS X on a hard drive and you won't need the USB stick anymore. USB is only for initial setup... ie: I haven't had to use a USB drive on mine for 12+ months.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2014-06-22 18:28:28</DATE>
+    <TEXT>Absolutely!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-08-23 17:48:01</DATE>
+    <TEXT>You'd be surprised how often preferential monopolies are created through laws like this. This is -- without question -- the most egregious example in the cannabis space. Edit: Stay strong, Ohio.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-08-31 18:58:50</DATE>
+    <TEXT>Having been arrested in Ohio before for cannabis possession and now working for a cannabis company -- this is certainly near and dear to my heart. What the cannabis community cannot risk is setting a bad precedence like this. As you pointed out, other states sometimes look to Ohio to take cues on how to build their legal policies. ResponsibleOhio would encourage other states to adopt similar monopoly-creating legislation around marijuana. That's how these rich-people-funded ballot measures end up everywhere. They get one state to 'fall', then it's easier to get others in line. "Ohio schools made $X in taxes from cannabis, weed pays for our schools!" Which could be true -- but it's happening by lining the pockets of already rich people. We've worked for too long, we've fought too hard, and we've been treated like criminals for no good reason. RO's proposal is far from what we're fighting for. We're fighting for the potential for cannabis to change lives, create jobs, and to end a senseless war on a plant.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-09-02 01:26:48</DATE>
+    <TEXT>I doubt you'll find sources but working in the cannabis industry I would agree that a very large portion is produced illegally.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-09-02 01:28:33</DATE>
+    <TEXT>It's a nice idea but you'd just end up with locally 'owned' shell companies moving the profits elsewhere.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-09-02 05:45:44</DATE>
+    <TEXT>Go MassRoots!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-09-03 18:04:55</DATE>
+    <TEXT>Have any other favorite Denver cannacompanies? I'm headed out there soon to check some out :-D</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-09-14 20:45:59</DATE>
+    <TEXT>Lawyers... lots of lawyers. It's been a full five hours of legal calls today.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-09-15 00:43:37</DATE>
+    <TEXT>First off -- I'm not a lawyer, I just listen to ours -- so obligatory "don't trust some guy on the Internet for legal advice" warning. That said... My understanding is that there are two major dates that will impact everyone in the industry. The first is the March 31st date, which is a cutoff for compliance under the current regime. The second is Jan 1st which, obviously, the full effect of the law will be felt. It seems to me that the second half of 2016 is going to create some odd 'black blip' in the industry where those who don't make the March 31st requirements turn back to the black market. It's also my understanding that we got what is often referred to as a three tier system, so depending on what your company does or wants to do in the future, you will need to make (legal) plans accordingly. We got a little of Colorado's laws, a little of Washington's laws, and a dash of California goodness to keep it weird.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-10-04 15:22:39</DATE>
+    <TEXT>Grower/manufacturer in CA here... the terpenes in marijuana begin breaking down almost immediately after its cured AND has been exposed to light/oxygen. Most consumers don't realize how old pot is by the time it gets to them. Hint: it's a long time. Vacuum sealing works up to a point (I wouldn't do it) but if you're serious about storing marijuana you need to do so in an oxygen and light free container. Nitrous packaging is pretty much the only option currently.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-10-04 15:25:49</DATE>
+    <TEXT>Freezing causes damage to marijuana at the cellular level. And yes, given that most marijuana is sold with a high moisture content... freezing it is just asking for problems.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-10-04 15:29:42</DATE>
+    <TEXT>Moisture level does not protect terpenes from breaking down. The chemical profile of cannabis will change over time even if the moisture level is maintained exactly at 60%.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-10-04 15:33:33</DATE>
+    <TEXT>Good! I'm so sick of these underhanded companies abusing uneducated consumers. We need to rid the industry of the bad players.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-10-04 15:37:09</DATE>
+    <TEXT>So this is coming second hand from one of the largest edibles manufacturers in CO, but it's a great example: CO decided that all edibles must be stored in refrigerators. All the big edibles companies ran out and spent hundreds of thousands on industrial refrigerators. Then the state dropped that requirement. Guess what though, hundreds of thousands of refrigerators were still sold and companies were now stuck with them. This is a pretty common occurrence.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-10-04 18:22:57</DATE>
+    <TEXT>It certainly can! The profile of the plant changes so dramatically over 30 years though. I've only seen it done once correctly, but I do see a lot of people try and fail.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-10-04 20:51:39</DATE>
+    <TEXT>A recreational user generally wants an effect that's induced by decarboxylating all the terpenes at the same time -- which is done almost instantaneously with smoking and vaping. The terpene profile is certainly most robust immediately after it cures, so I'd think most people would consider that the peak of potency. Is it better? That's up to the consumer! Like you said it's mild, but it's experiencing the plant in a way that's uncommon, which is nifty. Things have a shelf life though, so beyond calling it nifty, I'm not sure what the point is. I too would prefer something fresh any day of the week :-D</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-10-09 16:38:07</DATE>
+    <TEXT>You are required to have a tobacco license. It's highly regulated. Let me give you a crystal clear example: I am one of the founders of a cannabis company that's lucky enough to have a bank account. One of the terms of our bank account is no paraphernalia. Source: my own company and numerous friends who run multi-million dollar bong/vape manufacturers or stores.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-10-09 16:40:41</DATE>
+    <TEXT>Oil rigs are legally sold as essential extracts vaporizers -- like vaporizing chamomile oil.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-10-09 20:28:24</DATE>
+    <TEXT>Done! :-D</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-10-09 21:14:02</DATE>
+    <TEXT>That'd rock, thanks Billy!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-10-09 21:14:46</DATE>
+    <TEXT>Thanks, wish it was about a more positive thing :-)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-10-11 03:59:13</DATE>
+    <TEXT>My mistake -- can you like me to the other one so I can cite?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-10-12 21:13:40</DATE>
+    <TEXT>^ This. Also depends on where you are. In the major cities (NYC/SF/LA) very few people have guns or are pro-second amendment. Fear not though, it's just history repeating itself. And history tells us that the gun nuts will die off soon along with the homophobes, slave owners, and dudes-who-didn't-want-women-to-vote that came before them.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-10-15 21:50:59</DATE>
+    <TEXT>I'll answer your second question: no. The same way you can't have a distillery on the back of a liquor store.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-10-15 22:00:58</DATE>
+    <TEXT>1. It depends from state to state, but it's semi-difficult in all of them. Long term, cannabis will end up like alcohol and be sold in corner stores and Whole Foods -- so ask yourself if you want to compete with that. You don't see stores dedicated to alcohol, do you? The only place you see that is where there's a state law that props those businesses up. In less regulated markets they don't exist. 2. Get lawyers to do that work for you and always do what your lawyers say. Part of operating a business that requires a license is ya don't get to run that business if the state takes your license away. 3. Not at all! I mean, if you're selling dirty CBDs full of heavy metals from China to medical patients then that's not good -- but I've found it's been a net-positive for me.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-10-15 22:02:05</DATE>
+    <TEXT>We pay them? You'd have to be more specific with your question... but my high level advice is find a seasoned CFO that works with a handful of other cannabis companies and leave the work to a professional.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-10-16 01:04:55</DATE>
+    <TEXT>Normally you cannot control cultivation and retail. Again thinking about alcohol, you don't see a Ketle One store. Wine tasting rooms have a special license carved out for themselves. Sorry for the bad news  #128573; #128168;</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-10-17 20:14:31</DATE>
+    <TEXT>I'm not a lawyer and I don't do cannabis business in CO -- so I can't speak for that. In CA, it is illegal for an entity to own both a cultivation and retail license.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-10-18 16:52:58</DATE>
+    <TEXT>Sure, any good CFO will have their CPA. If you read my comment, I said a "seasoned CFO that works with a handful of other cannabis companies". Presumably someone who is accomplished enough to be doing financial work for multiple companies is not a toddler. Or...is a super toddler...  gt;. gt;</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-10-19 18:50:19</DATE>
+    <TEXT>Lolol... there ain't no license for hickplay.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-10-20 18:43:22</DATE>
+    <TEXT>Get away! That's mine! :-p In all seriousness though, Canada's big opportunity is to fix cannabis banking. BMO Harris is the bank behind a ton of cannabis companies state side, oddly enough.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-10-20 18:58:41</DATE>
+    <TEXT>Of course not. The MMJ laws are nearly identical to the alcohol laws. This is likely to be the case at the federal level too.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-10-20 20:46:22</DATE>
+    <TEXT>100% MITM. Distributors exist for the purpose of taxation and liability -- which makes law makers comfortable -- so the state has nearly copy-pasted the alcohol regulations. Edit: I'm not opposed to having distributors, but I do think the regulations on cultivation are out of touch. Edit2: It's also worth noting that these laws were signed nine days ago and aren't yet in effect.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-10-20 21:02:20</DATE>
+    <TEXT>Nice catch, +1</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-10-22 01:43:54</DATE>
+    <TEXT>The Iran document was published years ago. It isn't news. http://ann.sagepub.com/content/618/1/168.abstract</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-10-22 15:14:22</DATE>
+    <TEXT>Friends  amp; family money is the worst money you can possibly take for a startup. Figure out how to bootstrap, work a part-time job to pay the bills, find a NON-FAMILY member that's an accredited investor. The road you're about to travel has been traveled many times before you. And many friendships were ruined and many a families lost money on something they didn't understand and shouldn't have invested in in the first place. Don't do it. Source: have professionally raised (and closed) for three startups and did M amp;A for a Fortune 500 company.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-10-22 17:05:26</DATE>
+    <TEXT>Wow I don't know why you got down-voted so hard for that. I completely agree -- if the idea is good enough then it should be easy to find non-family money. (Banks are a bad idea though :-) Every founder should earn equity based on merit and contribution to the company. Having rich parents isn't merit-based.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-10-22 17:17:36</DATE>
+    <TEXT>Tbh, I don't think this really fixes anything. At the end of the day -- even if equity is drawn up without taking financing into account -- s/he who puts in the most money has the loudest voice and the biggest impact. It doesn't matter if they have a board seat or majority voting control -- because if shit goes wrong that stuff is only enforceable by a court. Shockingly, most startups cannot afford such a legal battle and this is where friends  amp; family money goes horribly wrong. Why would anyone WANT to negotiate with their co-founders mom and dad? Talk about huge waste of time/energy. Apply to some accelerators in SF if you're that hard up for funding. They'll accept anyone with a half-baked idea and a decent team. Don't lose your friends, your family, or your idea over deluding yourself into thinking F amp;F is the only path forward. Sorry if this sounds stern or rude... but taking F amp;F money is the most easily avoidable mistake for a startup. Given all the other pressures that cause startups to fail, why take on the burden (and, frankly, stupidity) of F amp;F money? Fight the real fights, not manufactured ones like dealing with your co-founders parents.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-10-22 18:00:40</DATE>
+    <TEXT>Of the three rounds I've closed, never once did the investor end up with more equity than the founders and never once have said founders put a penny in. I don't have a link handy to prove this, but I'd guess this isn't factually true for most successful startups in SF either.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-10-22 19:28:04</DATE>
+    <TEXT>That only happens to companies with no leverage. Of course in fire sale situations where you can't command multiple offers on good terms you can end up in bad spots like this. This is why I qualified my earlier statement by saying "successful startups" shouldn't hemorrhage that much equity in this early of a round.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-11-02 18:56:23</DATE>
+    <TEXT>As a former Ohio-an and the CEO of a cannabis company, I can't stress enough how BAD this law is. It's been under prohibition for so long that another 12 months doesn't matter. Get the right law, fight the right fight. Don't fuck it up Ohio, vote no and wait until you can do it correctly.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-11-02 18:58:03</DATE>
+    <TEXT>Who cares if it's a good shot? A good shot at a bad thing is still a bad thing. Building a sustainable industry is much more important than getting yolo420high with a legalized cartel behind it. It makes me incredibly sad that stoners are getting duped into supporting this.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-11-02 19:03:02</DATE>
+    <TEXT>You should encourage Ohio-ans to NOT support this bill so New England doesn't ALSO get stuck with shitty laws.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-11-02 19:04:55</DATE>
+    <TEXT>There is no difference. They're both shitty, law-enabled forms of giving a group of people an unfair advantage. Hopefully people aren't too high to understand this.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-11-02 21:50:20</DATE>
+    <TEXT>I work in the cannabis industry -- everyday with AIDS and epilepsy patients... you're preaching to the choir. The war on drugs is deplorable times a thousand. That doesn't make this law the right way forward. The next generation will look poorly upon everyone who votes for Issue 3 and forces them to put up with a shit cannabis industry in Ohio. From my vantage point: * The CEO of the most important cannabis company in Ohio has come out against Issue 3. * Nearly everyone who has a day job in cannabis (around the country) is against Issue 3. Tbh, saying "think of the kids" is a lame scare tactic used by people pushing shitty laws :-\</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2015-11-02 21:51:54</DATE>
+    <TEXT>If Issue 3 fails, another less-draconian initiative will likely end up on the next ballot.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  </INDIVIDUAL>

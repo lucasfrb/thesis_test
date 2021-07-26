@@ -1,0 +1,501 @@
+<INDIVIDUAL>
+  <ID>subject8673</ID>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-03 22:38:22</DATE>
+    <TEXT>Good Luck!! When I was 15 games looked like this on the PC and I tryed to make them but was not able, so keep up. I would recomend looking for consistent Lighting and Overall style. When I look through your code I see that your looking for Components. I dont know if you generating all from scratch. Otherwise I would go with \[SerializeFields\] to preset them on the Prefab, so you dont have to search for them. because you know that they are there.Try to Avoid I.... when using CamelCase for anything exept Interfaces that make reading your code more easy. I defenetly like that you comment everything! but be consistent on your style. Mixing Caps and Lowercase comments is confusing.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-04 08:34:36</DATE>
+    <TEXT>There should be other questions. Why bake when using realtim Lighting? It all depends on your scope and target plattform. there are alot of Shadow techniques and you always have to balance between quality and performance. With every shadowcasting light and each cascade you have to draw each shadow caster is an additional drawcall. there are some optimisations for batching but that requires alot of work for the asset creation and level art. On my professional Project we use One Cascade and draw the distance shadows as SDF shadows. they have less detail and a huge Problem when it comes to transparancy but it turns out visual quality and performance went up compared to 4 cascadet shadwmaps. On our private project we build a topdown open world RPG for Mobile. There we have different requirements. Save Drawcalls and minimize the shader complexity. Also take in mind that GI/AO makes a big difference on visuals and shadow areas, there are also good techniques you can go with.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-06 10:00:19</DATE>
+    <TEXT>Thats damn creative ! going to use these learnings in my game. This will save so much time. thanks for sharing</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-07 09:36:07</DATE>
+    <TEXT>Looks ambitious . but as u/ReZpawner said It needs a bit more love. What I can say is that the SSAO you use is to strong compared to the Lighting Function. It looks like forward rendering because it seams you dont take the Lighting buffer into acount to your SSAO. For a FPS game you need to have a different SSAO approach or connect is with your Lighting. because AO apear strong only in shadowed areas. It means the Ambient is occludet means it should not affect the direct lighting. I think putting some work in this little detail will boost the Visual quality already. cheers robin</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>My first post on Reddit to show my SSAO approach for Mobile</TITLE>
+    <DATE>2020-09-15 18:31:59</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-15 18:34:30</DATE>
+    <TEXT>Hey so its my first post and i hope I get the rules right and all that stuff. Someone told me reddit is soo cool and I read alot about it. Looking forward to get into that scene.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-15 22:01:56</DATE>
+    <TEXT>Thanks alot for your feedback appreciate it! Thanks for thr Normal Thingy. The Normals of the grassblades already point upwards. additional to that. these are all Instances with a "random" color depending on the location of the GrassBlades.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-15 22:06:13</DATE>
+    <TEXT>For the SSAO I use Depth comparision of a 4sample Blured depth map an the original deph map. Its pretty fast but have the downside that you cant adjust the AO depending on the Screen normal. so its is a pretty cheap technique that does the Job. But I need to Optimize it a bit more.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-15 22:07:39</DATE>
+    <TEXT>Yes It have AO Baked into the Mesh Vertex color mixed with a grayscale texture mapchannel. Additional to that I use a cheap SSAO to give the dynamic objects a bit more Depth.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-16 09:20:57</DATE>
+    <TEXT>Nope. Only the assets itself have an AO bake on vertex level. I tryed to looked up the GDC talk the techniqe is based on. But I am not able to find it. As I remember exactly its from Gears of War 1 or 2</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-16 16:58:11</DATE>
+    <TEXT>To be honest to me it looks cool but I really cant tell where is the breaking part. Maybe it helps when you add a beach and another camera location</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-16 17:07:30</DATE>
+    <TEXT>Bloom :D alot of blooom.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Because of some freetime I continued on some assets. Building a Wood House to test some Workflows. And Gifs</TITLE>
+    <DATE>2020-09-16 17:34:30</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-16 17:38:04</DATE>
+    <TEXT>Sorry for the missing ground texture. I know It was mentioned but I have no Idea how the Gane is going to look like. That scene is just to test how the AO performes with different assets. And I also try different Workflows and Styles to find a style I want to go with.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-17 08:34:03</DATE>
+    <TEXT>It looks like you put alot of work into It. But it looks like a PC game and you can go further with at least some Post FX to get a more spooky atmosphere. And dont go full black if there is a campfire near by. you have at least some light bouncing through the whole subway. work with eye adaption to make your tunnels look dark but not full black. For me in a Zombi horror game is more about atmosphere then gunplay. Maybe limit the movement or turnspeed instead of limit the view(no light) Just Look at the resident evil games or Metro. they dont have complete black levels. I hope this helps you to improve the visual quality.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-17 08:45:07</DATE>
+    <TEXT>I would go with the usual Terrain and Raycast down to geht the Surface position in the Grid. As I remember most of the Voxel based games use random generation with some predefined areas. Or fully randome like minecraft. Looking forward to hear about your sollution.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-17 09:03:34</DATE>
+    <TEXT>There are already so many sollutions. And I agree with most of them. I would build a new List out of the existing going over each element and sort that by insertion. With that you have your filter. this is more the Database approach when requesting an ordered List by some column from the Database. but you can apply that functionality to your problem aswell. I would not reorder the existing list that is located in the businesslogic to prepare a view. Look for the MVC pattern. the View Requests and Gets its data and react to the model but never changing it. the model only changes itself when it gets an input like keyinput \[A\]</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-18 10:53:44</DATE>
+    <TEXT>Interesting that Java is still that strong. Maybe thats becaus of all the Web, backend sollutions. I coded in all of the top Languages. I havent touched php but I am no web dev. And Java is for me like an old guy dont want to see to much change in his life. Python is the innovator. and Trys to innovate things that are already pretty good. C# is the old Blizzard Entertainment. Copy stuff and make it better. C and C++ are the good old things the Spagetti you always eat if your fridge is empty. Python is great and fast and really generic. I have never really got into it. Maybe I am a bit stuck in C++ and C#. when you think like this you know you grow old :D</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-18 11:06:09</DATE>
+    <TEXT>Really love the shading. What is missing in my opinion is volumetric light/shadow. you should also consider to allow the clouds to be 100% transparent with the depth fade to make to clouds have better intersection with the environment.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-18 11:20:05</DATE>
+    <TEXT>Good first start.2 Things. 1st: low polycount is not required for mobile development, our game can have 1-2 million triangles on the screen and manage 30+ fps. 2nd bake at least AO lighting since the level is static. move your buttons from the bottom center of the screen to the upper left or right.the lower center of the screen is for most games for skills or consumables. Try always to go with known behaviours. look at candycrush or angry birds how they located the buttons.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>This is how my Grass shader works.</TITLE>
+    <DATE>2020-09-18 11:26:05</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-18 11:33:00</DATE>
+    <TEXT>No one asked for it but I think its a pretty neat sollution to draw grassblades and give them an actual thickness and it works with instancing so all Grassblades are instanced. The Grassblade itself is a very thin triangle strip with UV 2 define the shape from -1 to 1. In the vertexshader I calculate the +-X screen coordinate and extend the triangle strip. additional to that they are fully opaque what makes the Z-Test and Z-Write work accurate and save overdraw It also works with my SSAO-shader as you saw in the previous screenshots of my game.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-18 12:57:47</DATE>
+    <TEXT>Ahh yeah sorry. There is no Clip involved right now. Its actually only a colored mesh. So the good thing is. MSAA or other sollutions should directly smooth the edge because its actual geometry. Sorry for that bad feeling to your stomach, I will do better gifs. the whole Gif thing is pretty new to me so. I was not aware that the gif is that bad. I will take that into account for future posts!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-18 13:03:59</DATE>
+    <TEXT>Yeah these new Screens are not as good as they look like. I dont think there is some information providet by the phone so Unity can preview that. I think you need to create a somple texture for it that matches the screen as good as possible so you can align your UI. Its a lot of work but you can check what device it is and Load different layouts of your UI. We did that to make Ipad and Iphone have a good layout for the different ratios and screensizes. Maybe that helps</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-18 16:58:17</DATE>
+    <TEXT>Working on that right now. not exactly wind but movement in general and wind is a part of it. Dont know if I will finish it today. because I have a lot to do at work. Once it is working I going to share it.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-19 09:57:57</DATE>
+    <TEXT>Now that looks cool. So you use emission for the Lightinscatter? How do you calculate it?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Pivot based wind animation for instanced grassblades with screenalighned thickness.</TITLE>
+    <DATE>2020-09-19 10:01:49</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-19 10:10:39</DATE>
+    <TEXT>Now I got it working. pivot based vertex-wind animations. I could have achieved this with simple transformations. But for me its always a jurney to try new techniques and workflows. And you can also see that I experienced with a ground texture and more assets to get a bit more feeling about the style the game could go for. What maybe sound a bit wired but I callange myself to build all systems and assets myself. Only the animations I got from a friend for testing my playercontroller. And now after a week on reddit I know why people just hype it that much. It is just nice place and a colaborate community. There are always one, two or more ppl who give valuable feedback. Thanks for this experience!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-19 10:24:38</DATE>
+    <TEXT>Looks better then skater XL :D but the gameplay looks much like THPS 1+2 remastered. Right now all the colors and assets look pretty mixed up. They dont look that they belong together. But good work sofar. looks already fun to play</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-19 18:25:50</DATE>
+    <TEXT>You need GI and Ambient light. The Ocean looks cool!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-19 21:02:01</DATE>
+    <TEXT>Ohh nice looking forward to the next update of the game.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-21 11:39:44</DATE>
+    <TEXT>Nice one. I like the idea of procedural content creation and I think you did a good job on the additional, small asset placement. Now the bad feedback comes into place. Think of dynamic neighborhood. there Trailers have to be draged there some how. How did the Park grow. are there People who are friends when they joint, or started to get friends after they have moved there. so the trailers should be aranged in clumbs and have some relations. Also people lived there. and created some additional tends. Parked Cars bycicles all that stuff. Depends on the Age of the Park the nature sould have overgrown some of the trailers. I know most of them require additional Assets. but the first Scatter of the Trailer need a better Relation to each other. and also some pathes for cars and people.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>a viewspace approach i created during the Weekend</TITLE>
+    <DATE>2020-09-21 12:04:26</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-21 12:15:06</DATE>
+    <TEXT>I tryed to create a viewspace approximation on a relatively lowres texture to create a visual pleasing Effect for Dungeons or Indoors for my game. It basicly takes a Rendertexture and sets a global float to define its location much like a spotlight without all the lightsystem overhead. How can I use it for Gameplay? I can simply calculate the Position of a Pixel on the environment and decide if something is visable or not to the player or the AI. This could also be used to approximate a check if a soundsource is occludet by a wall or somthing. Next up is to implement it into the actual Game environment. I am really appriciate every feedback beacause its my first implementation approach and can be defenetly improved. or maybe some hints to other sollutions.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-21 20:06:40</DATE>
+    <TEXT>I think of A few Ushape or L-Shape arangements. Imagine how Citys are grow when they are not planned like acient European citycenters. Because Trailerparks are build in most cases by dropouts who want to leave the Fast, expensive life with not that much money. Thats at least my Imagination. Its pretty hard to find some good algorythms to cover that growth. I thinks its much Like scatter believeable forest or rock arangements.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-21 20:12:36</DATE>
+    <TEXT>The Gray one. Because why they should be blue? the only reason is that they reflect the sky....</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-22 13:55:11</DATE>
+    <TEXT>The calculation is A camera with 179 #176; FOV so it is Rendering a custom LP geometry. The Idea was to use the GPU rasterization to Perform a fast Approximation, to later just read the Texture just like an array if an Object is visable. This also could have a Visibility range approximation if the pixels brightness is 128 for example. That was at least the Idea. so it is PPx on the Rendertexture. thanks for your feedback! I will look if I can find the Video. I imagine A TextureLookup is a pretty fast even on the CPU because it is a linea Array. close to a 2D hashmap. So I thought it is a good approach. a Meshbased Approach requires multiple raycasts to know where the occluders are. I come from GPU programming, this may biased me a bit. I will look into Sebastian Lagues sollution and check what is the faster approach. Thanks alot!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>more grass!! smooth and dynamic. And I got an additional Artist on board who want to join forces</TITLE>
+    <DATE>2020-09-23 16:56:46</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-25 11:08:41</DATE>
+    <TEXT>Nice! but if you skate down a hill like this you going to bail imidiatly. You really need to take the velocity and board direction into account aswell as the weight Character to skateboard. I think it is a realy good starting point. I hope to see a good sim one day. Session is doing a good job on this. but I think its mostly based on animation blending instead of procedural animations.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>got the Viewcone mechanic into the Game. What do you think about the Transition?</TITLE>
+    <DATE>2020-09-25 20:56:56</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-25 21:00:34</DATE>
+    <TEXT>Havent played Skater XL yet. I am more into Session, I follow these guys since 2015 so I am a bit comittet :D. [https://store.steampowered.com/app/861650/Session\_Skateboarding\_Sim\_Game/](https://store.steampowered.com/app/861650/Session_Skateboarding_Sim_Game/) I dont like the style of Skater XL. It looks to clean in my opinion.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-26 12:24:08</DATE>
+    <TEXT>The Problem is that I witch the Renderinglayer to lower the rendering cost. that massiv boosts the performance.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>I Worked on the Transition, Based on your feedback I tryed to make it more smooth, dont know if I nailed it.</TITLE>
+    <DATE>2020-09-26 12:29:01</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-26 12:33:13</DATE>
+    <TEXT>Thanks for the feedback! [https://www.reddit.com/r/Unity3D/comments/j056t3/i\_worked\_on\_the\_transition\_based\_on\_your\_feedback/](https://www.reddit.com/r/Unity3D/comments/j056t3/i_worked_on_the_transition_based_on_your_feedback/) I dont know how to answer with Images. but that what I was able to achieve. It looks more smooth. But I dont know If this is enough. Maybe I need to rethink my transition design.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-27 09:13:03</DATE>
+    <TEXT>Actually it is no light, It is the viewspace of the Character. Its currently WIP so I will continue work on it. Got a lot of feedback as you can see ;-) It is alot that is out of place .</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-27 09:16:17</DATE>
+    <TEXT>That would work if I would overdraw everything. The initial plan was to split the Indoor and Outdoor areas that they can overlap and dont have to alighn perfectly. additional to that I want to make sure when the player is in an Indoor level he cant see whats going on outside. It gets even more complex once I build Dungeons with a Landscape.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-27 09:21:26</DATE>
+    <TEXT> gt;That would work if I would overdraw everything. The initial plan was to split the Indoor and Outdoor areas that they can overlap and dont have to alighn perfectly. additional to that I want to make sure when the player is in an Indoor level he cant see whats going on outside.  gt;  gt;It gets even more complex once I build Dungeons with a Landscape. The Lighting for the Indoor scenes is totally WIP. I try to get an Indoorshading that works for all Indoorlevels. I am a Oneman show and I dont know If I can implement the roof fading into the current system. I think that deffenetly would boost the visual quality</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-27 09:23:04</DATE>
+    <TEXT>Thanks, The Idea was to leave the dark house and be blended by the Light... Dude why I got the song lyrics in my head from a song I dont know the name and the artist :D these 90th</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-27 09:27:14</DATE>
+    <TEXT>That was the Idea behind it. but I am no scientist, I would love to know the exact math behind eye adaptation but I think this is a topic of Bio Physics, maybe chemestry a bit. But thanks for feedback about the Light comming in from the windows and door. I will implement it. Its pretty easy. I just have to place Lights :-)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>I tryed to Improve the Transition even more. I Changed the Lighting as some Told me and added the Ground Texture back in to get a better impression. Ihave to lay it down for now. just to get myself a bit more Distance.</TITLE>
+    <DATE>2020-09-27 16:31:20</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-27 18:53:52</DATE>
+    <TEXT>Yeah I know dithering, Dont know if it would help the Transition. Right now I dont want to use Transparency at all, already broke the rule for the Window light. Its kind of a test how much performance improvement I get when not render any transparent or alpha-test shader. I need to lay down the transition for now. I get a bit tired of it tho :-)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-27 20:41:43</DATE>
+    <TEXT>Oh thanks I try my best. I dont know if there is a name for it. I simply tryed to Build a system where I can have detailed indoorlevels with good lighting and a complex landscapeshader at the same time. I change the rendermask of the camera once I enter the room. so I render the Indoor or the Outdoor level. so I can make them both more complex. Thats how this transition started.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-28 09:42:52</DATE>
+    <TEXT>I like the mood and Stlye pretty much. I dont know If your depthfog supports volumetric lighting like he does in the HDRP. I think this will add so much to the Forest. It is a toony forest by when it comes to abstraction always abstract reality. and Pineforest usually dont have grass underneath the trees. More Sticks, Stones and needles. Maybe you can find a way to include this into your level.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Since the Indoor stuff and Dynamic grass is kinda working. I was thinking of a efficent approach on render Landscape. What do you think?</TITLE>
+    <DATE>2020-10-04 12:01:48</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-04 12:06:49</DATE>
+    <TEXT>If you ask yourself why the hell hexfields and not the Unity Terrain? I tryed to Optimize Landscape Rendering by assuming that I render a max of 3Tiles on a Landscape Transition. Because I dont need LODing or something else I decidet to use Displaces Meshes.I Used Houdini to generate the Hexfields out of a Landscape from Houdini. this is such a Huge Task.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-07 18:31:24</DATE>
+    <TEXT>Good Approach but you dont need to downsample it. Because Vram is not an issue anymore and you sample the buffer anyways per pixel the downsample performance improvement ist only Useful when rendering Post FX and doing calculations such as blur or depth comparison. Because downsampling is there fore 2 reasons save VRam and save calculations on pixel base. the Downsampling in this case makes the Water ripples just bad. And once you render the Water Post Opaque you can simply sample the screenbuffer after the opaque pass with full res. One thing is you could have used is Planar reflections and reduce the capture resolution by 2 or 3. Because a camera capture have to do a few things per pixel. but there are also the Drawcalls relevant. You could set a rendermask to the objects that are most prominent to the Image. Like the Colored blocks or the Landscape in the background.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-07 19:20:26</DATE>
+    <TEXT>Totally got your point. but it is not required. Once you sample the Screenbuffer of the opaque passes your good to go, so you require no extra vram ;-) the other thing. Reflection captures are Spherical and lead to bad Reflections on big surfaces like lakes. the others are Parralx corrected cubemaps and they are relatively expensive. When implementing Planar reflections with a verry low Resolution like 512x512 your imagequality will be so much betten and the overhead is minimal when you optimize your drawcalls. I just want to help you on this I have worked on optimization for Mobile on multiple Games one of them was Sacred Legends. that was before SRP or URP was on the horizon. On Mobile the bottleneck is not the VRam it is the bandwith and the processing power. and with open GL:ES2 to 3.5 its the Drawcall data that costs the most performance. and Vulkan is yet not supported on all Mobile platforms. Thats at least my experience.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-07 21:29:23</DATE>
+    <TEXT>You can still Use Cubemap reflections for the other assets. Just disable the Reflectionprobes for the Waterplane. The other objects can still use it. We implemented the feature for the iPhone 4+ so It is not that expensive. The Camera is Just Refect the Orientation trough the surface normal. [http://web.cse.ohio-state.edu/\~shen.94/781/Site/Slides\_files/reflection.pdf](http://web.cse.ohio-state.edu/~shen.94/781/Site/Slides_files/reflection.pdf) Dont checked if it is the right one but it looks valid</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-08 07:23:59</DATE>
+    <TEXT>yes planar for the water. and cubemap for the rest. how many cobemaps is not relevant. since I expect you to do forward rendering the complexity scales linea to the resolution of the screen. so setting the gameres to 2/3 of your devices res already helps. It even samples subpixels and give a smooter end result. But always keep in mind everything that is reflected by the planar reflection is rendered twice. you also can use a shader override for the reflection and use a less expensive tech like only diffuse and global cubemap ect. That should give you a good aproximation of what is reflected but save a ton of performance.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>This is my Character Editor. This tech batches all cloth and stuff together and build the texturelayout, blendshapes and all this during runtime. This monstrosity is a breathing living tool growing in my head since years now. Would love to hear your thoughts on this.</TITLE>
+    <DATE>2020-10-08 07:39:10</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-08 09:50:37</DATE>
+    <TEXT>:-/ sorry. but one big inspiration was Fable. Mayby lookup dynamic mesh creation. because most of the skinning stuff are just Vertex informations. One big problem is to maintain the Bonestructure through multiple batched meshes because the Skinning always counts from the first skinned bone, the order is always different because of this. The sollution is to check the Bindposes of the Bones to fixup the references.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-08 11:37:08</DATE>
+    <TEXT>Damn is the Inspiration this obvious ;-) The artstyle works great for a solodev. because its simple and beatiful at the same time.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-08 11:38:35</DATE>
+    <TEXT>Took me some years to get my head around it. So for me It felt hard.. but I am by far not the smartest guy on the planet :D</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-08 11:40:06</DATE>
+    <TEXT>what is UMA? so maybe I can check thair implementation and improve mine :-)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-08 13:23:46</DATE>
+    <TEXT>Thanks dont knew that. Quiet interesting. Its a massive system but it is different to the one I build. Mine is a bit more optimized. I have 30 Bones in total and dont have to mess around with thair complex skinning and such. mine follows a different approach. It is tailored for one specific usecase and Provide different functionality. And I dont like to have 30 Sliders that create unnatural proportions :D</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-08 13:25:34</DATE>
+    <TEXT>I asked for it. so it was polite in that case ;-)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-08 13:35:34</DATE>
+    <TEXT>I working on the game right now. hopefully I will finish it! The Tutorial is another thing. I dont know if people will learn from it or simply copy past the stuff. I think its better if you ask when having questions and I give hints. so you learn the stuff. Or I create tutorials for one feature of the System. For example how to setup the Charcter Morph. And how to construct a complex skinned mesh in realtime</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-08 13:51:57</DATE>
+    <TEXT>Thanks alot, appriciate it :-) yes I have Presetuped Skinned meshes that I combine with the character. why struggling stage? what is missing ? I am happy to answer if you have questions how I did some things.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-08 15:59:43</DATE>
+    <TEXT>Did Not count. With the countless reworks. I would say half a year. Dont know to be honest.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-08 20:24:24</DATE>
+    <TEXT>I merge them to One Unity skinned mesh. But I dont merge the vertices and normals only the meshes. And I remove the faces that are occludet by other meshes. So there are no cuts.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-08 20:26:14</DATE>
+    <TEXT>Yes. It is a blendshape and a bone scaling for the hips and chest. But never forget the to compensate the scale One the next bone</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-08 20:27:38</DATE>
+    <TEXT> #128514; Sorry im Not a native Speaker and also have some Linguistik issues i would say. I will change that  #128521;</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-08 21:24:49</DATE>
+    <TEXT>There is no Model underneath. I reconstruct a new Mesh from the meshes. So there is one Mesh in the end combined.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-08 21:40:16</DATE>
+    <TEXT>I mean there should be a seam between the pants and the skin  #128521;</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-08 21:41:14</DATE>
+    <TEXT>But all the Best. Ihope i will find the time to make a tutorial</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-09 15:07:23</DATE>
+    <TEXT>first calculate the difference between BasePose Verts and Normals and then Just keep the basepose and offset the vertices and normals. to the 2nd I Use submeshes in the Basemesh to select occludet areas</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-09 16:07:19</DATE>
+    <TEXT>Through the Batching process I batch all to one Submesh. There are no submeshes in the end. they are just to identify the Areas.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-10 10:46:51</DATE>
+    <TEXT>nice one! I really love the post Bounce. Is it pivot or VertexWorldposition offset based?What is the underlaying driver for all this? Do you use a Texture or a Compute shader for managing the Interaction? Or just crazy wizardry?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>I spend the Weekend to Improve my Landscape generator and added a Cliff generator. I use Houdini for the Mesh generation. It may be hard to see but they are still Hextiles.</TITLE>
+    <DATE>2020-10-12 08:56:54</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-12 09:17:10</DATE>
+    <TEXT>What does steam wothy mean? The Style looks good executed but Inconsistent. I dont find the hooks yet. The water have a good level of quality but is missing a Uniqueness. Then there is a Missmatch between the style itself. the water looks realistic but is not reflecting the mood. for example the fog in the Skybox is not affecting the Ocean. The Plants do not catch the Light but cast shadows. In contrast the Rock in the background does. The rock also looks like he is on the wrong place. where story came into place. What wants the Image to tell me? The Only question is Why is there a mountain-sized boulder on the Beach? I do not get any clue about the Game, what it is all about? is this a Pirate game? add a Chest to the sand and maybe a skeletal captain who wanted to protect the Chest. Just google: Environmental Storytelling. I dont want to be rude or something. I made the same mistakes so dont feel offended just take my notes and improve it.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-15 09:04:29</DATE>
+    <TEXT>replace this with Vector3 and float3. what I think fits better when using ECS and stuff. Because Vector is a Reference Datatype. that comes at the coast of referencing 3 floats instead of a float\[\] where all floats are lined up correctly and save 3Pointer because you just adress \[0\]. Learn C is like opening the door and walk out in the wildernis. Or... Stay inside your protecting house and look out of the window and ask yourself why all the other games... made with unity run so much faster.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-15 17:22:46</DATE>
+    <TEXT>damn they have changed it right. Anyways I prefere the float thing, in graphics programming you can also use halfs ect as Vectors. so its more transparent what the momory usage of the Vector is.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-16 09:11:12</DATE>
+    <TEXT>Dont remeber. But I could have mixed up things with the new Math lib and the burst compiler. Then it makes no sense on this side why they introduced float-float4 ect.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  </INDIVIDUAL>

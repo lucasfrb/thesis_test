@@ -1,0 +1,993 @@
+<INDIVIDUAL>
+  <ID>subject3930</ID>
+  <WRITING>
+    <TITLE>Help me choose parts</TITLE>
+    <DATE>2018-09-30 15:54:42</DATE>
+    <TEXT>I'm building a PC for Gaming during my free time and learning Machine Learning on the side of my work. I am a software engineer but I've had very little exposure to hardware and this is my first time building a PC. I don't have a particular requirement, because until now I've played on laptops and have been very limited by resources. I'll start with cheap second hand screens from my work (1080p, 60 Hz, 24 inch) and I'll move up later, perhaps on Black Friday. I was planning on spending about  #163;1000, but it looked like it might be more when I was looking at parts and ultimately this list ended up at about  #163;1500. I'd rather not go above that but I am open to little expenses that go a long way. I'm currently in the UK. Here's a draft of a list: https://uk.pcpartpicker.com/list/H47X3b I got the impression that the R7 CPU is noticeably cheaper than i7 but is nearly as performant, so I chose that. The mobo is relatively random - I took it from a different build, I'm not very sure how to choose it. One thing I notice is regarding the m.2 slot - I chose an SSD that uses that but PC part picker warns me it is using SATA, which to me sounds like something I don't exactly want. What do you suggest - is that fine or should I choose a better motherboard? I think I'll be able to connect through LAN cable, so I'll probably ditch the Wi-Fi adapter. Also, is it useful to have a case fan? I chose one with RGB to add more colour. I think I'll be looking at a transparent case, any idea where to look for pretty cases? It's very likely that I'll be installing Linux on the PC, too - are there any hardware considerations regarding that? I wasn't sure if I should get 1080 or 1080ti, as it will provide more VRAM and will be useful for Deep Learning, but I think it's getting quite expensive as it already is. Additionally, what screen will you suggest for a GTX 1080? I'm well aware that the initial ones will be very basic and I'll be using them for a limited time only. Thanks a lot in advance!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-09-30 16:16:59</DATE>
+    <TEXT>To me it would seem more valuable to spend the extra  #163;40-50 and get 1 TB of SSD, because it will be faster and probably sufficient, despite being smaller volume overall. Do you disagree? Thanks very much for the pieces of advice!!!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-09-30 16:21:28</DATE>
+    <TEXT>I'd rather match the monitor with the GTX 1080, than tune down the GPU. I am considering 1080Ti, but I'm not sure it's worth it</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-09-30 16:23:21</DATE>
+    <TEXT>Thank you for the suggestions! The case is awesome!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Finalising my PC parts</TITLE>
+    <DATE>2018-10-08 12:34:20</DATE>
+    <TEXT>I'm building a PC for Gaming during my free time and learning Machine Learning on the side of my work. I am a software engineer but I've had very little exposure to hardware and this is my first time building a PC. I am currently in the UK. Initially, I was planning on spending just over  #163;1000 but after choosing the parts I liked, like the 1080 for example, it came closer to  #163;1500. I wouldn't like to go over than that. I have a few specific questions: 1. 1TB ssd - I am under the impression by going with 500GB SSD + 1TB of HDD you can save  #163;50-60, but 1TB SSD is worth it because it will be faster. I could save about  #163;20 if I went with a non-Samsung brand like Corsair, but I'm not sure it would be worth the savings. 2. I don't know much about motherboards, I choose a random suggestion - is this one an overkill? Do I benefit from buying a more expensive one or should I go with a cheaper one? 3. I don't know much about PSUs either. Is this one too expensive? Should I get a cheaper and/or semi-modular? 4. I was thinking of going for a 1080p monitor, but should I go for a 1440p instead? 5. Is there any other part that I need to get, which I'm forgetting? I have a mouse and a keyboard for the time being. [PCPartPicker part list](https://uk.pcpartpicker.com/list/ytGCgw) / [Price breakdown by merchant](https://uk.pcpartpicker.com/list/ytGCgw/by_merchant/) Type|Item|Price :----|:----|:---- **CPU** | [AMD - Ryzen 7 2700X 3.7GHz 8-Core Processor](https://uk.pcpartpicker.com/product/bddxFT/amd-ryzen-7-2700x-37ghz-8-core-processor-yd270xbgafbox) |  #163;289.99 @ Amazon UK **Motherboard** | [Gigabyte - X470 AORUS GAMING 5 WIFI ATX AM4 Motherboard](https://uk.pcpartpicker.com/product/zytQzy/gigabyte-x470-aorus-gaming-5-wifi-atx-am4-motherboard-x470-aorus-gaming-5-wifi) |  #163;172.99 @ Aria PC **Memory** | [Corsair - Vengeance LPX 16GB (2 x 8GB) DDR4-3000 Memory](https://uk.pcpartpicker.com/product/MYH48d/corsair-memory-cmk16gx4m2b3000c15) |  #163;139.99 @ Aria PC **Storage** | [Samsung - 860 Evo 1TB M.2-2280 Solid State Drive](https://uk.pcpartpicker.com/product/wd97YJ/samsung-860-evo-1tb-m2-2280-solid-state-drive-mz-n6e1t0bw) |  #163;178.97 @ CCL Computers **Video Card** | [Gigabyte - GeForce GTX 1080 8GB G1 Gaming Video Card](https://uk.pcpartpicker.com/product/3fvZxr/gigabyte-video-card-gvn1080g1gaming8gd) |  #163;471.37 @ CCL Computers **Case** | [Corsair - Crystal 460X RGB ATX Mid Tower Case](https://uk.pcpartpicker.com/product/vbL7YJ/corsair-cc-9011101-ww-atx-mid-tower-case-cc-9011101-ww) |  #163;101.99 @ Amazon UK **Power Supply** | [EVGA - SuperNOVA G3 750W 80+ Gold Certified Fully-Modular ATX Power Supply](https://uk.pcpartpicker.com/product/dMM323/evga-supernova-g3-750w-80-gold-certified-fully-modular-atx-power-supply-220-g3-0750) |  #163;119.99 @ Novatech | *Prices include shipping, taxes, rebates, and discounts* | | **Total** | ** #163;1475.29** | Generated by [PCPartPicker](https://pcpartpicker.com) 2018-10-08 13:35 BST+0100 |</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-10-08 15:36:44</DATE>
+    <TEXT>Was I wrong in assuming that the case has fans with it?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-10-08 16:07:13</DATE>
+    <TEXT>Oh you mean I need one for the back as well? Yeah, aesthetics is a factor indeed. Thanks!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>A lamb attempt</TITLE>
+    <DATE>2019-02-22 16:31:21</DATE>
+    <TEXT>I'm a complete beginner, I have been curing only in my fridge. Recently I bought a wine fridge to use as a curing chamber(after this has been made). This is my attempt at curing some lamb. I took a few lamb leg chops from the shop, cleaned them from the fats and 2 chops resulted in 4 small pieces.  #8203; https://preview.redd.it/fo16zgvuc5i21.jpg?width=3024 amp;format=pjpg amp;auto=webp amp;s=56c4faecbd97a74fe03fb4d7bd08981b9dd447cd https://preview.redd.it/qf7x6hvuc5i21.jpg?width=3024 amp;format=pjpg amp;auto=webp amp;s=5a2abb2cb7791eafdda10382f14d1511ff2ff6a6 I didn't document my recipe very well, however, this is more or less it: 30 hrs in fine sea salt 10-15 hrs in water Seasoning (including some I brought from Eastern Europe): * Salt * Black Pepper * Red pepper * Lovage ( #1076; #1077; #1074; #1077; #1089; #1080; #1083;) * Savory ( #1095; #1091; #1073; #1088; #1080; #1094; #1072;)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-02-22 17:03:51</DATE>
+    <TEXT>Ended up quite salty actually. All my relatives who cure meat at home use coarse sea salt, so with my next batch I'm trying to determine whether that was the reason for saltiness. It's coarse, but it's also less salt and I turned them around once or twice. Other than that, the spices complement the flavour quite well. It's also quite soft, i.e. I did not dry it for too long! Surprising thing - I think it was drying faster in my regular fridge compared to my wine cooler, which uses thermoelectric cooling and has a fan because of that. It's also working at 10 degrees, while my regular fridge is surely lower. I expected this to be the other way around :D ! I haven't cut the other pieces though, so it just might seem that way on the outside.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-02-22 22:38:49</DATE>
+    <TEXT>Thanks mate! I'm from Bulgaria and there they always use very heavy spices so that's on purpose!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-02-24 13:06:06</DATE>
+    <TEXT>What's longer about it or why is it longer? Also, I usually place them in salt in an oven tray, is that done the same way? Asking because I've read that Some people place the meat in vacuum with just a wee bit of salt, but measure it according to the weight. Would it work without the vacuum sealing, since I don't feel like investing in a machine for vacuuming. Thanks!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Is this done?</TITLE>
+    <DATE>2019-03-11 18:01:58</DATE>
+    <TEXT>I've been dry curing two duck breasts for a while now (more than 10 days) and, in theory, they should have been done by now, but I'm a bit uncertain. The duck seems quite soft compared to the pork and beef I've cured before. Also, they usually turn dark throughout, while this one is very pink in the middle and has dark lining only. I kept them in sea salt in a container filled halfway through for a few days and then I kept them in water for half a day to reduce salinity. They didn't feel that hard after they had stayed in salt, so I worry they might have not taken in enough salt to begin with. Are they safe to eat? Are they done or should I dry them for longer? The one on the left looks more ready to me than the one on the right.. Here's a picture of them: https://preview.redd.it/a7i16s8e4jl21.jpg?width=4032 amp;format=pjpg amp;auto=webp amp;s=35f1cbbbefeb3f8586530074f149afc67049dafd Thank you in advance!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-11 20:08:19</DATE>
+    <TEXT>I didn't measure their weight, but visibly they have become a lot smaller</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-03-12 08:50:30</DATE>
+    <TEXT>Right, that makes sense, I'll buy a hydrometer and play around with a bowl of water in my wine cooler our something like that. Thank you!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>How do you vacuum seal?</TITLE>
+    <DATE>2019-04-16 10:35:51</DATE>
+    <TEXT>So far I've only tried the traditional dry curing method with oversalting and then leaving meat in water to reduce salinity. I'm going to attempt equilibrium cure for some duck breasts, but I was wondering how you guys vacuum seal a breast with the salt? Is using a vacuuming machine the only way possible? I'm not very keen on investing in one, I saw that people "vacuum" food for their freezer using the water displacement method - submerging a zip bag in water and closing the zip, thus taking out most of the air. Is that going to work? Water displacement method: [https://www.youtube.com/watch?v=XrZPLF0ezw8](https://www.youtube.com/watch?v=XrZPLF0ezw8)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-04-16 15:10:25</DATE>
+    <TEXT>Ah, that's nice, thanks for the reply! Some juice must be coming out of the meat, do you just leave it in or do you dispose of it while the meat is curing(I assume that's about 5 days in the fridge)? Thanks!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-04-16 19:09:25</DATE>
+    <TEXT>I am not too keen on it taking space though, that's my main concern.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Handmade sausages</TITLE>
+    <DATE>2019-04-22 09:21:07</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-04-22 09:27:29</DATE>
+    <TEXT>Made these bad bois recently, first time making sausages. Half are 50% lamb, 25% clean pork, 25% pork belly, the other half are the same but with beef instead of lamb. I cut them up myself and filled them by hand, without a machine. Unfortunately, I can't tell too much about the spices, because I used a spice mix I bought from a butcher in my home country - Bulgaria. Curing them in my wine fridge, attempting to keep humidity between 70 and 80 using a glass of water inside and temperature around 13-15C. Traditionally, in Bulgaria we flatten sausages with a rolling pin or press with a board. I'm trying to do that as well and I poke my air bubbles with a needle so the air comes out. Hope they turn out great!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-04-22 16:47:33</DATE>
+    <TEXT>Just a couple of days</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-04-23 10:11:32</DATE>
+    <TEXT>I'm a beginner and this is more of a generic charcuterie question, but when I make meats it usually takes them 1.5 - 2 weeks to be done and if I were to let them stay for 4 weeks they'd definitely be rock solid. So how come yours looks so soft after 4 weeks? How much salt did you use and at what place did you hang them? Thank you!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-04-23 16:06:22</DATE>
+    <TEXT>I've been curing inside a regular wine fridge and I've been wondering whether I should get a UV light with batteries or something of the sort(so I don't ruin the insulation of the fridge), but haven't gotten anything yet. Have you come across anything good like that?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-04-24 09:38:29</DATE>
+    <TEXT>Not sure if they look more like a log or a p*ssy. Nevertheless, they look really tasty, good job!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Duck prosciutto attempt</TITLE>
+    <DATE>2019-05-09 17:57:58</DATE>
+    <TEXT>I tried to make some duck prosciutto and here are my results.  #8203; https://preview.redd.it/yc7ov58y48x21.png?width=1329 amp;format=png amp;auto=webp amp;s=dc0bbaab92592a1c6306b30bcf70b3433fdc89ac https://preview.redd.it/bsfgczi058x21.png?width=1329 amp;format=png amp;auto=webp amp;s=d4468d4fa1cf81c1d718d795b80a63459c543cbe  #8203;  #8203; https://preview.redd.it/qw6aipd258x21.png?width=1329 amp;format=png amp;auto=webp amp;s=8d0ee2dd75b88ba21b7e01a54fb863ee3afe55db  #8203; People say all the time that white mould is fine and is actually a good thing, but I'm a beginner and I can't help but wonder.... is that white mould I have okay? Also, these weighted 200g and 184g and now they are both about 100-110g, is this safe to eat and are they done? Sounds like they lost  gt;30%. Thanks!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-05-09 18:18:54</DATE>
+    <TEXT>It smells nice, also tastes nice but I do wander if it needs more time drying..</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-05-09 18:40:35</DATE>
+    <TEXT>A little over 30%</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-05-10 07:22:45</DATE>
+    <TEXT>Thank you, I'll try that! I'm curing in a wine fridge, so the airflow is from the fan inside. Temperature is about 12-14 degrees C and my humidity is about 60-70.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-05-10 10:32:50</DATE>
+    <TEXT>I had them wrapped in a cloth, that's probably where the "hair" comes from. I have some cups of water in the fridge but I didn't put salt in them, I'll try that next time</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-05-10 10:50:47</DATE>
+    <TEXT>How do you recommend I remove the mould by the way?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-05-10 11:54:26</DATE>
+    <TEXT>I put it in a zipper bag and put it in my kitchen fridge for a while to remoisturise. Should I still take it out and clean mould?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-06-07 17:07:15</DATE>
+    <TEXT>Sounds like a great learning opportunity and a way for beginners (like me) to be forced to follow good practices as part of the challenge!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-06-09 11:23:04</DATE>
+    <TEXT>Hi! Question as a result of my paranoia. I started brewing Coopers' European Lager kit a couple of weeks back. I left it in my living room which is in the temp range 20-24 C, but my thermometer near the bucket usually showed 22-23 C. I see that everywhere people suggest not to brew lager as it is harder and needs lower temp, but my kit did not explicitly ask for that, might I be in the clear? I left it ferment for about 2 weeks (or a little over that). When I decided to bottle it there was a suspicious small layer on top, which some said might be infection, others said it's yeast. Additionally, it could have been some sanitiser water that fell in through the airlock as I forgot to open the lid at the beginning of my bottling. I measured it with my hydrometer and it had a FG of \~1.012, while the OG was \~1.040. This is my second brew and it looked much clearer at bottling stage compared to the previous one - all grain IPA. I assume that is due to the fact I left it longer in the bucket, but could be because of the lack of grains too. I tasted the measurement in the hydrometer and tasted nearly as plain as water - which is what you'd expect at this stage, but the point is it didn't taste bad or anything, so I ruled out the option of infection. I added a little sugar in the bottles and left it to carbonate.  #8203; Here is the main question I have: Have I left the brew for too long in the bucket, could most of the yeast have fallen to the bottom(hence it's quite clear) and if so is there a chance that my beer won't have enough yeast in the bottles and won't start fermentation again, thus won't carbonate? Thank you!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-06-12 08:24:39</DATE>
+    <TEXT>I bottled a sample in a tiny 125ml glass bottle from tonic that I found in the shop dirt cheap. My only worry was carbonation if the fermentation hasn't finished, but other than that, I think it's a perfectly viable solution</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-06-17 12:06:08</DATE>
+    <TEXT>\+1 for Glenlivet!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-06-21 09:31:05</DATE>
+    <TEXT>Make a low alcohol mead - e.g 1060 - 1080 starting gravity, use a full packet of yeast for a gallon (or more if you want) for a very active fermentation - hopefully not more than 2 weeks, then stick some fruits and/or spices in it for 2 more weeks. At that point it might be drinkable, bottle it, with every week it should be getting more drinkable! Beware active fermentations, might need a blowoff tube. Addition: I've heard that adding fruits in primary adds depth, adding fruits in secondary adds flavour. I am a beginner, but this is info I've gathered from reading about (relatively) quick meads.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-02 09:44:50</DATE>
+    <TEXT>I got the same with my pineapple cider. It's still not ready for drinking, but it didn't taste bad when I took it out(apart from the fact it was young), I don't think you should worry!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-04 09:11:45</DATE>
+    <TEXT>I've been meaning to try making a bochet for a while. I'll try and stick some bananas in it, I think the expected caramel/toffee notes would complement each other with the banana note! (I hope :D)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-05 06:37:11</DATE>
+    <TEXT>Haha, thanks</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-07-30 12:46:52</DATE>
+    <TEXT>...... but still.. sounds even more wrong I guess (pun intended)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-09-04 15:22:58</DATE>
+    <TEXT>I used blueberries once and I froze them, then mashed them a little bit.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>My cured sausage</TITLE>
+    <DATE>2019-09-08 20:03:38</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-09-08 20:49:19</DATE>
+    <TEXT>Finished my batch of cured sausages. Tried various spices in different sausages. I got a little sick of waiting and I might have taken them out of the mini fridge a bit too early. I believe they've been curing for about 3 weeks. I didn't measure weight, because they were too many to keep track of. Plan is to eat as is or if it doesn't feel dry enough, just take them out of the freezer and keep in the kitchen fridge uncovered for 2-3 days</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-09-09 07:27:58</DATE>
+    <TEXT>I did use cure 2 in conjunction with sea salt. That's the first time I hear about this 30 day rule...</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-09-09 07:32:19</DATE>
+    <TEXT>Wouldn't be overfermented, I didn't keep them out of the fridge much before starting the drying process. I used a mincer and minced the meat multiple times, I doubt it would be undermixed. And yes, it looks like it's case hardened, but it didn't feel like it when I was eating it</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-09-09 07:41:37</DATE>
+    <TEXT>A wine fridge, temp around 12 degrees, humidity 70%</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-09-09 07:45:11</DATE>
+    <TEXT>Thank you! Some are beef and pork, some are only pork and some are lean pork. In the process I lost track which is which :D</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-09-09 09:40:46</DATE>
+    <TEXT>They were even bursting sometimes when I was filling them... But as it dried the casing did not stay stuck to the meat</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-09-09 10:59:10</DATE>
+    <TEXT>It was in the fridge, but it took me a few hours to fill</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-09-09 23:51:06</DATE>
+    <TEXT>How does this affect the process?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-21 10:03:28</DATE>
+    <TEXT>Hi there, amazing post! I've not distilled anything yet, but I am lingering around to learn more about distillation. May I ask, based on what I've read and watched, if you boil your mash at around 64 C, there will be liquid coming out, apparently wrongly believed to be methanol. Your point on this not being methanol makes sense, but then what exactly comes out at that temperature that stops evaporating afterwards? Is it a mixture of predominantly methanol, because it normally has a lower evaporation temp + other things? Your post left me with the impression that methanol will be evaporated relatively evenly throughout the distillation process. I got that [Acetone](https://en.wikipedia.org/wiki/Acetone), [ethyl acetate](https://en.wikipedia.org/wiki/Ethyl_acetate), [acetaldehyde](https://en.wikipedia.org/wiki/Acetaldehyde) are evaporated as well, I'd imagine some water would also be evaporated, but I'd imagine theres something, which is in the largest quantity, that's being evaporated, which then finishes and the flow slows down by a lot. What is that or am I under the wrong impression? Thank you!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>How illegal is distilling?</TITLE>
+    <DATE>2019-10-21 10:25:37</DATE>
+    <TEXT>I live in the UK, but I come from Bulgaria where there's a very strong culture of homemade moonshine. Obviously, here it is illegal to do your distilling without a license, but license with the purpose of home distilling is basically unobtainable. However, it seems relatively easy to obtain distilling equipment, so.. what's the likelihood of one being caught? What would the consequences be? Basically, "how illegal is it" ?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-21 11:44:42</DATE>
+    <TEXT>I think it's legal to buy one as you can distill other things as well, not only alcohol. EDIT: Like oils for example</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-10-21 14:30:09</DATE>
+    <TEXT>Well, obviously, in the first few months it's "just a little pregnant" :D</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Advice on how to progress with my Bard</TITLE>
+    <DATE>2019-12-06 17:12:15</DATE>
+    <TEXT>I am currently playing a half-elf Bard, College of Lore, (as of last session) level 6. I wanted to go for a caster bard with crowd control. However, I get pretty annoyed with how useless I am in fights. The campaign has a decent amount of role playing parts, which is nice, but I still want to figure out a way to be more useful in fights. I recently joined the party, so the DM would still allow me to make some changes to my character One problem I see with my spells is that a lot of them are wisdom save, which means if we face a wise monster/character, I will be totally useless. On top of that, a lot of my spells require the opponent to be able to hear me, this has already bitten me in the ass multiple times. My only damaging cantrip is viscous mockery. I believe the solution of the problem might be to get some other cantrip which does some other type of damage and I can see a few options 1. Change my Half-Elf to a High half-elf variant, which would let me choose a cantrip and I can get something like firebolt or Ray of frost or idk 1. Pros: don't lose much, a couple of proficiencies which right now are Arcana, Perception and Performance. 2. Cons: The hit bonus is +3 as opposed to +7 if I get eldritch blast via other means. Toll the dead is 10 WIS save. I've got no idea why 2. Give up my Ability Score improvement from level 4 and take the spell sniper feat, which will give me Eldritch blast 1. Pros: I get access to eldritch blast, which I don't have with the aforementioned option 2. Cons: Will have lower Charisma, which means my saves drop to 14, instead of 15. 3. At level 6 college of Lore lets me choose any 2 spells and add them to my list of spells. I chose slow and tidal wave, also considered counterspell, but this is another option because, technically, I can choose eldritch blast 1. Pros: Least change, I get to choose 2 spells, one of them is a cantrip, follows everything I've been doing so far and it follows the natural progression of the character. 2. Cons: If I chose one of the other options, I could still choose a cool spell from other class' spell list with this. 4. Multiclass into Warlock for, say, 2 levels - maybe Archfey or Hexblade 1. Pros: Will get extra spells, will get access to eldritch blast. If I go with Hexblade I'll get access to other medium armor, weapon proficiencies, charisma modifier with 1 weapon, eldritch invocations. Additionally, on top of everything, I'll get an interesting opportunity for role playing, where my character can basically has multiple personality disorder and acts as a normal human at times, but in others is more violent and angry(the effect of the patreon). 2. Cons: Will progress more slowly with the main class. I've no idea how much that would be a problem late game or whether there are other disadvantages of multiclassing. Feels like the multiclassing option will provide interesting role playing opportunities, but perhaps the other two options are more practical as they require a smaller change? I find it quite hard to determine what makes the most sense and what is the most optimal decision. I don't want to drag too much behind my friends in battle and I don't want to be useless against deaf/wise creatures, so I feel like a damaging cantrip might be just enough to make me feel a bit more useful. Thank you all in advance! EDIT: Got a comment that I've probably chosen bad spells so I'll include my spell list as well Cantrips: Message Minor Illusion Vicious Mockery 1st level Disguise Self Dissonant Whispers Healing Word Tasha's Hideous Laughter Thunderwave 2nd Level Phantasmal Force Suggestion 3rd Level Hypnotic Pattern Leomund's tiny hut Additional Magical Secrets Slow Tidal Wave</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-06 17:21:07</DATE>
+    <TEXT>What would be the reason to wait till level 8, instead of asking the DM to switch it now? Is it just the tradeoff between keeping the DC and get the spell later vs get the spell now, but also reduce DC now?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-06 17:27:47</DATE>
+    <TEXT>I have updated my post with the list of spells that I have. What spells would you suggest instead of Slow or Tidal wave? I was trying to choose crowd control spells. They seemed decent to me, may I ask why you think they're bad?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-06 20:17:53</DATE>
+    <TEXT>Hey Nephisimian! Thank you for the long and constructive comment. I gave it some thought and.. I seem quite unhappy with most of the 1st level spells available. I see what you mean about redundant spells. It seems like tasha's hideous laughter is basically the same as some of the other spells, so I thought I should probably take that out. The only thing I can think of that might be worth replacing it with though is something like Bane. Maybe something like Feather Fall or Sleep might be a good idea, but it's also very situational. Sleep and detect magic were picked up by our wizard, but he can change spells so I could ask him to change those. Looking at my other 1st level spells, Thunderwave does some damage and has a nice utility of pushing people away when I get surrounded. Dissonant whispers seems like it has decent amount of damage if it hits(or when upcast) and also can push other people away as well. Both seem useful, do you think they are redundant or should be replaced? On the Phantasmal Force, I agree it can be very creative but I got into an argument about it with my DM, mainly around the question whether it can apply conditions. We reached the homebrew rule that if I use something that applies a condition(like a box on its head), the enemy does a saving roll at the end of their turn. I've been wondering how useful both of those spells are(Wizard has suggestion too). Other spells I've considered are Heat Metal, Detect thoughts and Hold person. I'm overall happy with my 3rd level choices for - Hypnotic Pattern and Leomund's tiny hut.  #8203; Your comment for magical secrets makes a lot of sense! I am thinking of going with something like Fireball/Counterspell/Plant Growth. Maybe something like Scorching ray? What do you think? Is that still too many CC spells? What's your thought on obtaining eldritch blast in one of the aforementioned ways?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Meat came out a little sticky</TITLE>
+    <DATE>2019-12-14 13:29:22</DATE>
+    <TEXT>I bought a few chunks of beef - somewhat lean, some with a strip of fat in the middle or at the edge, as well as some duck breasts. I cured them in a wine fridge at about 12-13C wrapped in cheese cloth. I put quite a few and the humidity was quite high for the most part. First couple of days it even exceeded 90%. I was trying to open it and change the air more often than usual. Then it was lower, just over or under 80%(was varying). Some of the pieces developed a few spots of green mould, but I wiped them with spirit or vinegar. Nevertheless, quite a few are a little sticky to the touch. Is that a problem? They taste fine, I don't really sense a particularly bad smell or anything. I imagine my mistake is the high humidity which I believe stems from being too greedy and putting too much meat to cure at the same time. Previously it has been lower and I've had to raise humidity with other means. Any comments on whether this is particularly dangerous to eat or any advice on the process? Thanks in advance!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-14 16:19:40</DATE>
+    <TEXT>I used Prague powder 2 for my curing salt. No sugar in it there was white mold but also green mold here and there. The humidity has gone down and they're effectively cured at this point</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-14 19:50:12</DATE>
+    <TEXT>I read that humid environment, like 70-80% is good because at that humidity the meat dries in a more even manner and this helps against case hardening</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-14 22:11:42</DATE>
+    <TEXT>Did not consider this AT ALL  #129315;</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-14 22:18:26</DATE>
+    <TEXT>Thank you for the constructive comment!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-14 22:50:17</DATE>
+    <TEXT>Sorry, totally missed the part where you mention last week</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-01-31 09:21:55</DATE>
+    <TEXT>How did you get the cables out of the fridge to plug into a socket?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-02-24 17:48:48</DATE>
+    <TEXT>Hello friend, you must have missed the memo. Today's international 'I hate coriander' day :D [https://www.republicworld.com/entertainment-news/whats-viral/international-i-hate-coriander-day-unites-people-who-dislike-the-her.html](https://www.republicworld.com/entertainment-news/whats-viral/international-i-hate-coriander-day-unites-people-who-dislike-the-her.html)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-03-16 15:25:21</DATE>
+    <TEXT>Could use something like lactose or other unfermentable sugar to sweeten and then bottle condition</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Blueberry melomel question</TITLE>
+    <DATE>2020-03-23 11:48:26</DATE>
+    <TEXT>I started fermenting a bluberry melomel a week or two ago. Bought some packaged blueberries, a few jars of honey, mix it all up and voila. I didn't try the blueberries then, but bought another pack afterwards and it turns out they're not very sweet, actually kinda sour. Do you nice people have any thoughts what that would mean for my mead? I wonder if I will get less blueberry flavour? I imagine a lot of the body will come out of the skins of the blueberries, but how does a fruit like that affect the flavour? Are there any actions I should take for the mead to potentially. come out better? I read somewhere that fruits in primary affect the body, fruits in secondary affect the aroma. I have half confirmed that with my experiments so far, so I was considering racking off the fruit a month in(or something like that) and adding new fruit - should I try and look for sweeter blueberries? TL;DR How much does the sweetness of the fruit actually matter? Thank you all in advance!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-03-26 20:42:11</DATE>
+    <TEXT>Your kickstarter says that anyone from outside of the US would cover additional fees. What kind of fees do you expect for the UK ?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Should I expect a bottle bomb?</TITLE>
+    <DATE>2020-04-03 11:39:04</DATE>
+    <TEXT>Hey everyone, looking for advice - I may have made a mistake and now I'm paranoid. I was making a banana wheat beer - got a packet of young's wheat extract, a few bananas and chugged them in my \~5L glass carboy. I left a reasonable amount of headspace, but fermentation was quite vigorous and it spat bananas out of the airlock and I had a leak and a small mess. Cleaned up, added new bananas, put a blow off tube and... to my surprise, the fermentation was still vigorous enough to keep pushing bananas and foam out through the blow off tube. After 6 or 7 days it was already calm and I thought there's no way it's still fermenting, so I bottled with a little bit of sugar to carbonate - I use a measuring cup, it always gets the carbonation perfect. However, only then I decided to measure gravity with what was left that didn't fit in a full bottle. It was a little less than 1.020, given my starting gravity was somewhere between 1.040 and 1.050, should I be worried about bottle bombs? Or is wheat beer naturally with higher final gravity? Thanks in advance!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-04 10:14:38</DATE>
+    <TEXT>No, it didn't</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>What the F#$K happened to my brew?</TITLE>
+    <DATE>2020-04-06 21:16:46</DATE>
+    <TEXT>[This was an attempt](https://photos.app.goo.gl/UdPWZNoWnKqxhAuy6) to make a wheat beer with cherries inside. I just opened the bucket before bottling and noticed this white stuff on top. Never seen something before, I've no idea what it is. I imagine I need to toss it, but what is it? An infection? My cleaning process of my bucket includes putting some star san on the bottom - a couple of liters, shaking and then cleaning with a brush for demijohns. If there have been fruits or anything I need to throw out, I usually dump it in the toilet before cleaning, I wonder if something could happen then? For this specific case I used Young's dry wheat malt extract, I tried to chug it in the bucket and tried to pour over hot water to dissolve it - it didn't work, formed clumps. I took the clumps and chugged them into a pan with water - that worked fine. Afterwards I only placed the contents of a bag of frozen cherries in the bucket and that's it. Any ideas, suggestions? Edit: Does this mean I need to throw my bucket out as well?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-06 21:22:23</DATE>
+    <TEXT>How do you sanitise fruit? It was packaged frozen fruit. Also, I used a beer yeast, which as far as I know is usually stronger than wild yeasts and almost always overpowers them</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-06 21:31:22</DATE>
+    <TEXT>Is cleaning with dish soap for example acceptable? I thought I should avoid using products like this and use only star san instead - that clearly seems to be wrong</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-07 09:58:19</DATE>
+    <TEXT>My brew got infected, does this mean I need to throw away my plastic bucket?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-10 11:38:40</DATE>
+    <TEXT>I'd love to give Kenku a shot, bit it sounds a bit daunting. A one shot seems too short to gather up phrases I can repeat and for a long-term campaign character sounds like a bit of a handicap. What was your experience? Also, what class are you playing?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Question about initiating combat</TITLE>
+    <DATE>2020-04-15 15:58:47</DATE>
+    <TEXT>I'm a newb DM and I was running the one shot "A wild sheep chase" for my friends. The situation was the following: A sheep, that is actually a polymorphed wizard, finds the party - in this case in a tavern, holds a scroll of speak with animals and explains to them its situation. While it's talking, a half orc with two wolves and a hooded figure enters the tavern and tries to take the sheep. The half-orc doesn't jump to the fight right away but doesn't waste his time talking either. In our case he came into the tavern, said he wants his sheep back and while walking towards the wizard and the sheep, the wizard cast fog cloud. This essentially initiates combat, her attempt was to use it to avoid the fight and escape. I wasn't sure how to rule that, so I said she casts fog cloud and then we roll initiative - i.e. she doesn't get her movement. This sounds a bit like a bad call - should've been either a full turn or no turn at all(probably the former). How should things like this happen usually? Thanks!  #8203; Edit: Thank you so much for all the answers! I think I boil it down to 3 options. 1. The party gets a surprise round 2. We roll initiative, the half-orc wins, notices the caster, but just goes before the wizard manages to cast the spell 3. We roll initiative, everything is as normal, but the wizard is automatically on top. I imagine all 3 are up to DM's discretion, I believe in this case the last one makes most sense, because the other party members were at the bar at that time, so a surprise round for all members doesn't make sense. A surprise round only for the wizard doesn't make too much sense either, because if she wins initiative this means she would go twice, but the others were ready for combat as well, just hadn't initiated.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-19 00:58:57</DATE>
+    <TEXT>There's no problem with using bread yeast for fermentation, many do it. In my experience with pineapple wine and bread yeast it had a "yeast" note which took a lot of aging(months) in bottles for it to go away, that could be smelling to you like beer actually.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-20 10:49:53</DATE>
+    <TEXT>Somewhere around someone extended the permanent injuries table to be a d100, it looked pretty good</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-24 17:05:01</DATE>
+    <TEXT>I made a pineapple cider once, similar ingredients to what you described. Didn't get any mould but it was quite sour indeed. Ended up caramelizing honey to sweeten it as it develops unfermentable sugars when cooked. It was quite interesting, definitely improved the taste. Tl;Dr I recommend backsweetening pineapple ferments  #128515;</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Noob question</TITLE>
+    <DATE>2020-05-07 12:17:08</DATE>
+    <TEXT>I've been lurking around here for a bit, but I've never distilled before. I am originally from Bulgaria, where there's a big culture of moonshine making, usually from fruits, mostly grape. I've been considering trying it, but I currently live in the UK where it's illegal, so I've only been homebrewing wines and beers instead. So.. while I've been looking for pressure cookers to buy for my kitchen, I stumbled across a few pressure cookers with attachments for distillation. Some are 10 litres, others 20. I imagine 10 would be more comfortable for cooking, don't know if it would have a drawback for distilling. So I'm here to ask the experts - what do you think about these? Would they be worth it at all or is there no point in exploring this option? Any thoughts on 10L vs 20L? [https://www.amazon.co.uk/dp/B07QYVLZ4M/ref=emc\_b\_5\_i](https://www.amazon.co.uk/dp/B07QYVLZ4M/ref=emc_b_5_i) [https://www.amazon.co.uk/Distiller-Dyna-Living-Moonshine-Stainless-Distillation/dp/B07QWT6J1Q/ref=sr\_1\_13?crid=2JVIA0E9ZG5XC amp;dchild=1 amp;keywords=distillation%2Bkit amp;qid=1588851536 amp;sprefix=distill%2Caps%2C161 amp;sr=8-13 amp;th=1](https://www.amazon.co.uk/Distiller-Dyna-Living-Moonshine-Stainless-Distillation/dp/B07QWT6J1Q/ref=sr_1_13?crid=2JVIA0E9ZG5XC amp;dchild=1 amp;keywords=distillation%2Bkit amp;qid=1588851536 amp;sprefix=distill%2Caps%2C161 amp;sr=8-13 amp;th=1) [https://www.amazon.co.uk/Alcohol-Moonshine-Spirits-Distiller-Brewing/dp/B0163FS6ZQ/ref=sr\_1\_13?dchild=1 amp;keywords=pot+still amp;qid=1588853294 amp;sr=8-13](https://www.amazon.co.uk/Alcohol-Moonshine-Spirits-Distiller-Brewing/dp/B0163FS6ZQ/ref=sr_1_13?dchild=1 amp;keywords=pot+still amp;qid=1588853294 amp;sr=8-13) [https://www.amazon.co.uk/Distiller-Alcohol-Moonshine-Spirits-Brewing/dp/B0161UZS6I/ref=sr\_1\_10?crid=2JVIA0E9ZG5XC amp;dchild=1 amp;keywords=distillation+kit amp;qid=1588851536 amp;sprefix=distill%2Caps%2C161 amp;sr=8-10](https://www.amazon.co.uk/Distiller-Alcohol-Moonshine-Spirits-Brewing/dp/B0161UZS6I/ref=sr_1_10?crid=2JVIA0E9ZG5XC amp;dchild=1 amp;keywords=distillation+kit amp;qid=1588851536 amp;sprefix=distill%2Caps%2C161 amp;sr=8-10)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-08 12:04:13</DATE>
+    <TEXT>Is there a chance you could point me to a better option? I didn't find that many things on Amazon/eBay</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-09 01:22:37</DATE>
+    <TEXT>Well in terms of money, you said it can be cheaper than the links I sent, so anything decent and cheaper sounds great  #128515;. I'm looking to use it on my kitchen stove, so I imagine that's somewhat limiting in terms of volume. Not entirely sure what that is though</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-09 02:28:04</DATE>
+    <TEXT>With a smaller still.. is it time you sacrifice or quality? I would be looking at batches between 5 and 20 liters, based on the buckets/demijohns I own. Would that take ages to go through?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-09 02:37:19</DATE>
+    <TEXT>Sorry if I didn't make that clear earlier, I am definitely looking at making alcohol, mostly fruit brandy</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>A classic "Do I have an infection" post</TITLE>
+    <DATE>2020-05-10 18:10:58</DATE>
+    <TEXT>I was making a kiwi and strawberry cider with fruit and apple juice as a base. The fruit was in a muslin bag, which I took out and this is a couple of days later. It seems like there's a film on top of the cider, also there's some weird white stuff on the edge. On top of the that the krausen line looks weird as if there's mould over it. Looks like an infection to me, but wanted to check with the experts before I toss it. I was planning on making a second fruit addition, but I'll wait for a response here. Thanks in advance! P.S. Here are a few pics  #8203; https://preview.redd.it/vuu3c2mgazx41.jpg?width=946 amp;format=pjpg amp;auto=webp amp;s=8219dceb6079e9cfa5686af21e2c27a641b69525  #8203; https://preview.redd.it/3f99qjwhazx41.jpg?width=1747 amp;format=pjpg amp;auto=webp amp;s=679941886aa51678034150d208050b03971c38a0</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-10 20:34:37</DATE>
+    <TEXT>Well it does taste a little sour, but all ciders do..</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-10 21:36:44</DATE>
+    <TEXT>No, I didn't use anything like this, that don't seem like plastic in person</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-10 21:37:13</DATE>
+    <TEXT>What do you mean?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Building or buying a new still</TITLE>
+    <DATE>2020-05-14 13:08:06</DATE>
+    <TEXT>Hello everyone, I've been a homebrewer of beer, cider, wine and mead for a bit and I'm considering trying out distilling. However, I find the information overwhelming I'm missing some details so here I am with a few questions. FYI I am based in the UK. First of all.. should I buy or make my own still? I have limited access to tools, e.g. I don't have a drill or soldering iron. I've been looking at a pot still design so far. 1. I came across this webpage describing how to make a still using a tea kettle. The only thing I noticed is that the person is using a rubber stopper and suggests using cork instead. Seems totally doable from my side, I could get a tea kettle for \~ #163;9 around 2.5L, cork stopper, some copper tubing and a random bucket. [https://dangerouslaboratories.org/moon1.html](https://dangerouslaboratories.org/moon1.html) 2. Another option would be using a stock pot or a pressure cooker. I have an old gallon stock pot, could use that, but don't have proper means of drilling it for the copper tube. One thought I had was getting a punch tool and using a hammer to make a hole in the lid - not sure if that's feasible but worth a try. The thing I'm kinda unclear about is how to insulate the tubing in the lid? I see there's I trick with flour+water paste, but would that be enough? Is that how I seal the lid to pot itself as well? I came across people using lead free solder as well, is that what I'd have to use? Can I solder it using the solder string and a matchstick or something of the sort? 3. I asked a few days ago about some stills available in amazon and the response is that I can find something cheaper and better. I was looking at [this item](https://www.amazon.co.uk/Alcohol-Moonshine-Spirits-Brewing-Distiller/dp/B0161UWD20/ref=sr_1_11?dchild=1 amp;keywords=moonshine+still amp;qid=1589459946 amp;sr=8-11) and a few others of similar pricing. However, since then a new item appeared in amazon, more specifically [this still](https://www.amazon.co.uk/KITGARN-Moonshine-Distiller-Stainless-Thermometer/dp/B07VTM7F2N/ref=sr_1_1_sspa?dchild=1 amp;keywords=moonshine+still amp;qid=1589459946 amp;sr=8-1-spons amp;psc=1 amp;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUE3WTdJSVJVVU5ZMDYmZW5jcnlwdGVkSWQ9QTAwMTk1OTIyMzFEUkg2MkVBNTY5JmVuY3J5cHRlZEFkSWQ9QTA0NTkxOTUySFEyU1ZXRkRCWUJIJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==). It seems to be exactly what I'm trying to build, but built by someone who knows what they're doing, so I've been thinking if it's not just better to get that instead and save myself all the trouble? Any thoughts? Thanks in advance!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-14 14:48:32</DATE>
+    <TEXT>Hey, I've not done this before, what do you mean by "make sure the water level is ok"?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-25 15:48:03</DATE>
+    <TEXT>My wine fridge has a fan that's blowing air out and I've succeeded to increase humidity by controlling how many items I'm curing at a given time - the more, the higher the humidity. As soon as it starts to drop, I start putting cups and bowls of water - as many as it takes, sometimes 5-6. In my experience at some point it drops to 70 or even 60 and I don't manage to get it higher, but that's towards the end of the curing of my sausages and pastrami and they've turned out fine. I understand my case may be different from yours and what worked for me might not for you but I thought I'd share anyway :). Good luck!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>New distiller questions</TITLE>
+    <DATE>2020-05-26 16:20:35</DATE>
+    <TEXT>I just got my first still - 20L pot still off Amazon stainless steel with copper tubing. I have a few questions before I do my first run 1. I need to buy an electric stove as my flat is with induction hobs and I imagine they won't work well. What do I need to take in mind? I imagine wattage, but anything else? Would this work for example - https://www.amazon.co.uk/dp/B0013HI1JQ/ref=cm_sw_r_other_apa_i_U4tZEbFCAGE0F 2. I figured out I need to clean it in a few ways. First of all, is using dishsoap okay? Coming from homebrewing I try to avoid dish soap because of its flavourings and perfume's etc which annoy yeast usually. Afterwards I need to do a vinegar run afaik, but what how much vinegar do I need to put in there? And after that I read I need to do a sacrificial run. Now the question is again, how big should my wash be and with what abv? Can it be 5L 5% or does it definitely need to be 15-20L 10-15%? 3. I'm trying to figure out how to estimate how much product to expect so I'd check my maths with the experts. If I have a 20L wort of 10% ABV, this means there is 2L of 100% ABV in there, ignoring efficiency, etc. Does this, however include foreshots, heads, hearts and tails? Given hearts is ~30-40% from what I gather we could say there's ~800mL of hearts assuming perfect efficiency? And if I were to dilute that with 800mL of water, I'd get 1600mL of 50% spirit? So I should expect to come out with.. say 1L of 50% shine out of my starting 20L 80% wort because of efficiency and stuff? Thanks in advance!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-26 16:50:46</DATE>
+    <TEXT>Ah, I see. I thought foreshots is the methanol at the beginning that you definitely need to throw away and heads is afterwards, which you keep for future runs</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-26 17:03:48</DATE>
+    <TEXT>Interesting, thanks for the info!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-26 22:33:06</DATE>
+    <TEXT>But the induction hob works by cycling as well, isn't that the problem? Mine at least is on for x amount of time, turns off, turns on again etc..</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-29 12:55:32</DATE>
+    <TEXT>I live in the UK and I don't have access to PBW. Any idea for a replacement?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>My still is trying to fly away. Is this normal?</TITLE>
+    <DATE>2020-05-30 19:01:28</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-30 19:04:33</DATE>
+    <TEXT>First time distilling here. Got myself a still from Amazon, cheap second hand electric stove - 1500W. Assembled it and decided to give it a go with some water and to my surprise soon after the heat was on it started moving and jumping around. Needless to say, I got worried and turned it off right away. Is this normal? Does it have something to do with the fact that the boiler is bigger in diameter compared to the stove? What can I do about it? Thanks!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-30 21:47:02</DATE>
+    <TEXT>That was as soon as I turned the heat on, the water was not even close to hot, so I wouldn't call it a rigorous boil. But is that still due to power you think? I thought it was heat and that it would get worse over time</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-30 21:48:40</DATE>
+    <TEXT>It seemed to have a reinforced bottom like a pressure cooker, I dont think it's thin, but I'll check for warps</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-30 22:17:30</DATE>
+    <TEXT>So.. I don't have a ceramic pot to smash, but perhaps some glass jars then?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-30 22:19:27</DATE>
+    <TEXT>Yep, here it is https://www.amazon.co.uk/dp/B086RKVJZZ/ref=cm_sw_r_other_apa_i_rUT0EbHSH4ZP2</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-30 22:20:48</DATE>
+    <TEXT>Yeah, that's exactly what I did, but the bottom seemed quite thick, nevertheless still a possibility I suppose</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-31 04:21:47</DATE>
+    <TEXT>I don't have any tubing at hand out tools to cut it with. I saw this guy put two metal cups in his pot, would something like that do it for me too?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Duck salami</TITLE>
+    <DATE>2020-05-31 04:25:58</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-31 04:29:43</DATE>
+    <TEXT>Mostly duck breast with some pork belly - maybe ~4:1. It ended up quite salty - I imagine I didn't factor in the amount of fat and I'd rather err on more salt than less. Also.. It came out very fatty - I was worried the duck on its own won't be fatty enough but oh boy was I wrong. I added nutmeg and done dried plums. I feel the nutmeg, but not the plums, nevertheless, it's quite tasty.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-31 17:01:08</DATE>
+    <TEXT>Not sure what you mean  #128515;</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-31 17:18:27</DATE>
+    <TEXT>Thanks everyone so much for your help! It turned out that it indeed was the very high difference in temperatures. In this case I managed to sort out out by reducing the power and pouring a kettle of boiling water it was wobbly but as soon as it picked up in temperature it was fine. Also, I was stirring it every now and then at the beginning before putting on the lid, that helped a lot too.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-31 21:36:21</DATE>
+    <TEXT>You got me  #128515;, Bulgarian</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-01 13:17:21</DATE>
+    <TEXT> #1048;  #1085; #1072;  #1084; #1077; #1085;!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-01 16:13:46</DATE>
+    <TEXT>I always try to put 3% of the weight in salt. I use a scale but I follow that roughly, so I might be a little over. I'm using a mini fridge for curing and I keep ~10-12C temperature and aim for 70-80% humidity, but at the beginning it was going up to 90 sometimes and I was aerating to reduce it and later I was trying to keep it up to at least 70, but it was going under sometimes before I put bowls of water in there. Some pieces where less crumbly and some were more like this. If I try to cut it at room temperature it is very soft and falls apart, which I think is because of all the fat - I think I underestimated that, but it definitely feels cured enough. Might also be my stuffing process, I don't feel too confident in that. Or my pressing at the beginning to take the air out as well actually  #128515;.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-02 03:50:31</DATE>
+    <TEXT>What does that mean? That it's crumbly?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Just did my first run(vinegar)! Got a few newbie questions</TITLE>
+    <DATE>2020-06-02 17:19:17</DATE>
+    <TEXT>Hey everyone, I got myself a new still - stainless steel pot still with copper tubing, gave it a good rinse and it was time to try it out in a vinegar run. First time doing any of this. Made a 50:50 vinegar and water mix, filled the boiler up to 1/4 and ran it for \~40 minutes. Made it condense at the beginning, then stopped the cooler and I saw my steam coming out. A few questions popped up, though. 1. Turns out I didn't have a mirror at hand, so I used glasses to check around my pipe connections if there is any vapour - didn't see anything on the glass, does that mean I should be safe from leaks? 2. Did I run the vinegar for long enough? 3. I could hear the sound of air coming out where my liquid was coming out too. I'd guess that that's normal, because there's air in there obviously and there might be other gasses coming out too, which are not condensable maybe? Should I be worried? 4. How do I rinse my coil? I tried putting some water in there, swirl it until stops coming out of the other side - did that a few times, but then there's gonna be some water left in there, which is going to oxidise the copper and I have no easy way of drying this any better. Any suggestions? 5. After I finished the vinegar run, there were some weird spots on the lid of my boiler and they don't seem to come off easily. Are they something I should worry about? Attaching a photo Thanks in advance  #8203; https://preview.redd.it/m95khvx86j251.jpg?width=980 amp;format=pjpg amp;auto=webp amp;s=685e8a4a5fefb2e7bc81c336a22d2c310edc7184</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-03 12:52:03</DATE>
+    <TEXT>Thanks! I meant 40 minutes of vapors. Also, the liquid coming out of the still was ~20-25C, it felt cool to the touch (less than lukewarm). I guessed that that's acceptable</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-03 19:18:18</DATE>
+    <TEXT>Don't think so, sounded like air coming out of the pipe</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-03 20:01:36</DATE>
+    <TEXT>Posted another reply but yeah, it was basically a hob on max vs a cold kettle with cold water results in this wobble. Putting warmer liquid helps, turning the power down also helps, stirring while it's heating up too.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-04 16:03:49</DATE>
+    <TEXT>That's a cool idea, I'll keep that in mind, thanks!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-08 03:23:45</DATE>
+    <TEXT>I found myself trying to replicate a wine-like flavour when I'm making mead - e.g. I'm looking for some tartness and acidity and not that much sweetness. Naturally, I went with fruits like blueberries, blackberries, and in those I actually found that cheaper honey goes better, because it doesn't leave that much of a honey flavour afterwards. My blueberry mead came out quite sweet tasting, next time I'm doing one I'm squeezing more lemon juice(I might have not squeezed any this time) and possibly oaking it. I've had some forest fruit meads that came out great with a lot of fruit flavour using cheap honey.  #8203; Now if you actually want those honey flavours to stay - especially if going with traditional or lightly spiced, then quality will make a big difference. At the very least I'd suggest, before buying in bulk, buy a single jar/bottle of the honeys you're interested in and taste them, that will give you a pretty good guide on what their difference in quality is - it might actually turn out that they all taste basically the same and there's no point in getting the more expensive honey. Lastly, I'm gonna say... experiment - make a mead with cheap honey, make a mead with expensive and get to know the honeys you prefer - at the end of the day.. it's all about experimentation and trying out different combinations.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Rose mead seems a little bitter. Any suggestions?</TITLE>
+    <DATE>2020-06-12 00:12:41</DATE>
+    <TEXT>On 23rd May I started a Rose mead. SG was 1.098, I used Lalvin 71B, half a pack of dried rose petals(probably \~120 grams), I squeezed half a lemon over it and tossed a handful or two of raspberries - at the time I thought the petals won't give off colour, as they hadn't when I made a tea with them earlier. I tasted today and I'm a little unhappy to say it tastes a little bitter. There's a strong rose smell, not that much flavour of roses, but smell definitely. And after that there's a long bitter aftertaste. First of all, any ideas why that is? Idea #1 is that I either put too much petals or left them for too long.. or both. Idea #2 if that is not possible, then something to do with the lemon? I think some of its flesh might have fallen in as I was squeezing it. Lastly, which I highly doubt, but could the raspberries have caused this? I was expecting aroma and acidity from them, not bitterness. Second of all, any suggestions on how to fix it? I imagine I'd have to backsweeten maybe? Never done it, not sure how to go about it, as I like to keep it natural with my ferments and avoid stabilisers, so I'd probably go for some non-fermentable sugar - would go for stevia, but I'm open to suggestions. I bought lactose once, but it seems way more expensive than stevia, so don't think there's any point. Thanks in advance!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-12 11:41:38</DATE>
+    <TEXT>It would be going to secondary and day now, should I do that now or before bottling? Another option I was thinking of was to split the batch in two, dilute, put more honey and just make that. Maybe put more roses but don't keep them for so long so I don't lose too much of the rose. Thoughts on both?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-12 11:44:08</DATE>
+    <TEXT>I'm not keen on using stabilisers</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-12 13:34:54</DATE>
+    <TEXT>I see, thank you for all the advice!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-15 02:30:22</DATE>
+    <TEXT>Love the colour! Care to share the recipe? I'm working on a blackberry mead, which is still fermenting but it's a much lighter in colour compared to yours! Worried I might have used too little blackberries</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-15 14:57:47</DATE>
+    <TEXT>Looks juicy</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>How do I make the traditionalists sound like a good faction?</TITLE>
+    <DATE>2020-06-28 00:05:51</DATE>
+    <TEXT>Hi everyone, newbie here. I'm thinking of starting to DM a campaign for the first time - I've only done a few one-shots, and I'm thinking of choosing Ghosts of Saltmarsh for that. I started out by going through the first chapter and I wish to present both factions(that the party initially knows about) sound appealing, with good motives and ideals, but I'm really struggling to present good qualities of the traditionalists. Seems like they don't like anything(or anyone) knew - e.g. the dwarves, they also want to keep everything as is, i.e. don't mind the smuggling, it's a harmless crime. The loyalists on the other hand want to follow the higher power - the king, and want illegal activities to be stopped. I find it really hard to get them even close to a debate which one is better, and if I don't manage to bring up anything good on the side of the traditionalists, my group would just go supporting loyalists straight away, with no second thoughts. Any ideas on this matter? Thanks in advance</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-28 00:17:46</DATE>
+    <TEXT>I am currently in the process of being a rose mead and I found out I left my dried rose petals in there for too long, so it became too tart. I'd advise you to take them out after a few days, a week max. Don't remember how long I kept nice, at least a week.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-28 00:18:57</DATE>
+    <TEXT>BTW people suggested I could fix mine by using gelatin as a fining agent after it got clear, which is what I did today, hope it goes well, fingers crossed!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>How do you manage sub-optimal characters?</TITLE>
+    <DATE>2020-06-29 20:12:21</DATE>
+    <TEXT>Hi everyone, I'm new to DMing and I'm planning on starting my first campaign. I've only dm-ed one-shorts so far, but I came across sub-optimal characters a few times and I was wondering how others handle situations like this. For example, a player wants to play a Halfling Cleric with the bountiful luck feat. This results in a cleric with a very low DC and spell attack modifier. If that were a campaign, the player would soon start to feel useless, which would be a shame, since her concept for the character was great. I was thinking one thing I could do, if I were to have a player with a character like that in my campaign, I could allow her to override one of the ability score improvements, i.e. instead of +2 dex, make it +1 dex +1 wisdom. Another thing I could do would be to give her better items than the others, in order to compensate, e.g. a +1 amulet. That might feel the others slightly neglected, but I would really like to encourage creative characters like that. Has anyone have any general ideas for such situations? Thanks!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-29 20:23:38</DATE>
+    <TEXT>Well, not exactly, it was a playtest character for the actual campaign with a different DM and the character didn't make it because it was too weak, no spell was ever successful.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>How would the Brotherhood hold meetings in the Crabber's cove?</TITLE>
+    <DATE>2020-07-03 16:40:59</DATE>
+    <TEXT>Basically the title. That seems like an awful place, full of crabs, doesn't sound like you could stay still and have a conversation as you'd have to be kicking crabs away all the time. I imagine the story behind people going missing when they go there is either that they're taken by the brotherhood or by the vampire. One solution I was thinking of would be that the brotherhood has a magical item that chases away crabs or there's an enchantment there which, when you say a particular word, the crabs run away. But other than that it seems hugely impractical(borderline impossible) to hold meetings there imo. What do you guys think? Thanks!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Can't make my mead to be the way I wish</TITLE>
+    <DATE>2020-07-04 17:45:10</DATE>
+    <TEXT>TL;DR How do I boost the body of a red melomel and how do I reduce the residual sweetness after fermentation Hello everyone! I like wine(the thing the shop regular people refer to) - particularly, I like full-bodied dry red wines, which aren't too tart - for example, shiraz is too tart for me and I don't enjoy it, but I like wines like Merlot, Malbec, Carbernet, etc. I also quite like something like Cabernet + Shiraz, because it is not as tart as just Shiraz. Now.. I got into mead making because for me it's like wine making on steroids - all the combinations you could have are endless and I've really enjoyed it since! I've been particularly fond of melomels - I've done apple  amp; pear, forest fruits, blueberry, blackberry and others. They all tasted great and I was really happy with them, but now I'm trying to make something slightly different and I never get it to work. I'm trying to get my mead closer to a wine in terms of body and sweetness(or the lack of it). With most red melomels I made - e.g. blueberry and blackberry, there was always a little bit of sweetness left and slightly less body than there would be in a red wine. I am looking for advice on how to change that I would usually start my process with honey, water and fruits. For the blackberry one, I used a cup or two of english breakfast tea that I brewed on the stove for tartness. I believe I also squeezed half a lemon in there to try and beat some of that sweetness that's usually left. I used Lalvin 71B yeast for it, came out at \~13%. The volume I was working with is \~1 gallon or \~5L, blackberries were 500 grams I think. Thoughts I've had on fixing my process: * More lemon/acid * More fruits - wine is made with grape/grape juice, while I'm mixing honey, water and only some fruit after all * Oaking - I have some oak chips I used in a grape wine from store juice, I wonder if they would boost body at least * Maybe I need to try some other yeast, like Lalvin KV-1116 or EC1118  #8203; This hobby is obviously about experimentation, so I'll probably be trying all of the above, however, I am also looking for some guidance from the masters around here - maybe there's something other that I do not know about or maybe there's a clear way of doing what I'm trying to achieve. Thanks in advance!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-04 23:48:18</DATE>
+    <TEXT>Hey, thanks for the answer! I usually freeze my fruit and then either add it frozen, if it's not too much or wait for it to defreeze first and then toss it in the must</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-05 02:02:54</DATE>
+    <TEXT>I think it usually ends at just over 1. It's not that it comes out properly sweet, it's just that it's a tiny bit sweeter than the wines I usually buy</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-07 16:57:23</DATE>
+    <TEXT>What do you mean by replace the water with fruit? I can't really make a mead without water, can I?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-08 00:06:10</DATE>
+    <TEXT>1.028 sounds like quite a high final gravity. It's possible that there are still a lot of fermentable sugars left, which the yeast was not able to go through, because it reached alcohol tolerance. Given you also added sugar for carbonation, the total sugar might be too much for carbonation and you might end up causing bottle bombs. I'd suggest, if you're using a different yeast, let it ferment fully as it is, then bottle with sugar for carbonation, to make sure no explosions happen</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Two months of primary?</TITLE>
+    <DATE>2020-07-11 02:44:38</DATE>
+    <TEXT>Hey people, just wanted to confirm with you. I'm planning on going on a trip and I'll be gone about two months. I would be leaving behind a few melomels and wines - sugar water and fruit. Is there anything I should worry about? Most of my recipes are about 3-4 pounds per gallon, which seems like quite a lot and I worry about mold on top of the floating fruit, but I believe there would be enough CO2 I hope to keep it safe - can anyone confirm? None of the brews I leave will be low alcohol, which would make them more resistant I suppose. I'll make sure there's plenty of liquid in the airlock. I'll probably tape the lids to the buckets to make sure they're extra tight. Is there anything else I can do to increase safety? Thanks in advance!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-11 02:56:49</DATE>
+    <TEXT>Why not tape them? Some of the buckets are a little leaky, when there's low pressure in the bucket it doesn't show on the airlock</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-11 03:24:05</DATE>
+    <TEXT>Not really, I'm trying to make use of my fermenters so that I have things ready for racking or bottling when I come back</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-11 05:29:33</DATE>
+    <TEXT>Just starting</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-11 05:30:04</DATE>
+    <TEXT>I've held fruit for a month with no problems for sure</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-13 02:05:40</DATE>
+    <TEXT>His right or our right?  #128515; #128515;</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Did I just break my still</TITLE>
+    <DATE>2020-07-14 21:22:25</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-14 21:25:11</DATE>
+    <TEXT>I was trying to disconnect my condenser, but I felt some resistance, pushed a bit harder with the wrench and I twisted the pipe. Did I just break it??</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-14 22:08:06</DATE>
+    <TEXT>Should I worry if I try to run it as it is? I bought my still and I'm not too good at DIY stuff</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-14 22:09:42</DATE>
+    <TEXT>I was in a hurry to start my second run and I think it was still warm</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-14 22:12:21</DATE>
+    <TEXT>I ran water through it and it made it to the other side, so it's not blocked. That's the beginning of the pipe before coming so it would still be vapour at that point</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-14 23:02:06</DATE>
+    <TEXT>I just ran it again. Seems like pressure might be building up a little bit - as it's pouring it varies in strength quickly, but seems to be within reason, not too worrying. That might actually not be from the pipe even and might be normal.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-15 00:27:59</DATE>
+    <TEXT>I did a second run, it seems to be running fine. Is it possible to be a problem in a different case</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-15 00:51:50</DATE>
+    <TEXT>Well, I don't know  #128517;, I'm new to distilling. I meant whether must/wash could make a difference and there could be a problem in some other case with whatever I put in the boiler</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-19 06:37:56</DATE>
+    <TEXT>I usually make small batches on my cooking stove, but when I have to dissolve DME, I do it in a pot on the stove while stirring which helps dissolve much better, compared to throwing it in a bucket of hot water where it clumps and never dissolves</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-22 23:25:56</DATE>
+    <TEXT>My girlfriend's advice on looks is law :D .... unless I'm reeeally hung up on something.. but even then :D.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-05 15:35:00</DATE>
+    <TEXT>I've heard of recipes using minced meat in woman's stockings, I see no reason it shouldn't work. Not sure how the fact it's nylon might affect things though. As long as it doesn't leave pieces of string after, you should be fine, I think. Having said that, you're air drying after all. While a muslin cloth reduces evaporation and makes it more even, it could work without any cloth at all too - depends where there's a fan an the fridge, as well as it's temperature and humidity. You could always give it a shot without a cloth, it's not a compulsory tool</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-02 12:24:16</DATE>
+    <TEXT>Disagree on the pineapple. Made one from juice once, I agree it smelled quite a bit while fermenting and it needed significantly more time than the rest to be drinkable, but it was nice in the end</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>I don't get the Sea Grove</TITLE>
+    <DATE>2020-09-07 13:00:30</DATE>
+    <TEXT>I'm a first time DM(except for one-shots) and I'm preparing Ghosts of Saltmarsh for my friends. I read the description of the Sea Grove and that place doesn't make sense to me. Initially I noticed that that's where the druid is with a shrine he's taking care of, but at the same time it's a place where Sailors and people who want to trade information meet up. Additionally, it's a place for seagulls and swampfolk - I found nothing online that explains who or what swampfolk are. To me initially it sounded like an isolated place a druid inhabits without many people, but it turns out it's visited a lot and people even gossip and exchange information with the druid. I understand that, given I'm the DM, I can make it the isolated forest I imagine it to be, but I am trying to understand the intention behind it, rather than hurry and change it. But I cannot for the love of me figure it out.... It seems to be \~750ft wide, which, given most characters can walk 60ft per round(6 seconds) i.e. 10ft per second, means that it can be passed through in a minute and half. So does that make it basically a local park? Kinda like how shady people in movies meet in a park sit at a bench, say a code word and then exchange information? It would really help me if you shared the way you imagine the Sea Grove or share your understanding of the intention behind this place! EDIT: The reason I'm thinking about this so much is because I've got a druid player who, since she was a kid, wild shaped into animals without her control and has never met someone like her before - hell, she didn't even know what she was until she read about druids in a book. So eventually, she'll go and meet Ferrin and he'll be like a mentor to her.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Help me mess with my party's wizard</TITLE>
+    <DATE>2020-09-21 12:22:49</DATE>
+    <TEXT>So the human wizard in my party came in with an interesting backstory. He went with the cloistered scholar background - he used to work and study at Candlekeep(I know it's not in Greyhawk, but we decided to ignore that), but later on he left and he has no memories of what happened there. We talked about it and reached the conclusion that he was enchanted in some way - e.g. upcast of modify memory or some other enchantment which makes the effect of modify memory permanents, etc. It's up to me to figure out the details of what happened there. Additionally, when he was young something happened to his parents(up to me to decide what) and he was adopted by his family friend - elf and human, and had two siblings. They were based somewhere more central in Keoland, so they wouldn't be too affected by the war in the north nor would they be directly affected by the Sea Princes. Later on in his life his adopted mother and brother(a merchant) disappeared(again up to me to figure out what happened), his sister is a travelling bard and his adopted father developed a condition when the mother and brother disappeared, so he's now basically mentally debilitated, left at a caring home, so the character can be at candlekeep/adventure etc. Looking for suggestions on something fun and creative to fill in the blanks that are missing - what happened to his parents and what happened in Candlekeep. I was thinking of doing something very similar to what happened to Caleb from Critical Role -  gt;!particularly him being brainwashed and killing his parents and burning his house down,! lt; but I got the feeling my player wouldn't like that as it's too much of a rip off. P.S. The party consists of a cleric, wizard and druid, forth character might join, but pending. In case that gives someone any ideas.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Weird sound coming out of the nozzle. Any ideas why?</TITLE>
+    <DATE>2020-10-05 14:10:55</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-05 14:20:40</DATE>
+    <TEXT>Hi everyone! I'm running a pot still from Amazon - currently distilling a gin from a pineapple brandy I wasn't too happy with. Sometimes I can hear a weird sound coming out of the nozzle but it's usually at the beginning when there's still offgassing. This time however it's been going non stop and I was wondering what's going on. I attempted a new tactic for warming up my boiler faster - I heated up a few pots of water beforehand and poured them in to dilute and warm up the spirit at the same time. I think however that I might have diluted it too much - it was 2-3L of 55% shine and I put 8-10L of water. Another result I'm seeing is that my starting ABV was the same or a bit lower than what I made the shine in the first place - last time started from 65%, now maybe 63% Do you think maybe my alcohol is evaporating through the nozzle? I checked the things I've heard to check - the water in the cooler is cold, the coil towards the end is cold, the distillate coming out of the nozzle is also cold. Is the abv now higher because I diluted too much? If so, what's the noise and is it something to worry about? Thanks!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-05 18:28:05</DATE>
+    <TEXT>That sounds possible, would that be dangerous?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-06 07:22:21</DATE>
+    <TEXT>Mind if I ask how those two are relevant? Not sure if I'd be able to move that condenser because it's intended to be on the lid, the arm might be too short for me to put it on the other side and I don't know where I'd find something exactly so tall as the boiler as it's base I could probably rotate the stove 90 degrees and my collection jar won't be on it, but why is that important?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-07 08:08:01</DATE>
+    <TEXT>Ooh, by off-spout do you mean the pipe coming out of the still and going into the condenser? Hadn't really thought about it, but indeed when that gets filled with water it is probably tilted a little to the side.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-07 08:12:21</DATE>
+    <TEXT>I wasn't particularly pushing, but instead I had my hand there because, I was plugging the pipe for the cooling outflow because it's making noise as it's sucking in a little air with the water when coming out</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-13 22:47:15</DATE>
+    <TEXT>Very interesting! I've come across people who claimed that mead has too delicate of a flavour and you wouldn't be able to capture it through distilling, but it seems like your experience with honey is the opposite! Never tried it myself but I was planning to. Did you use a super cheap store honey or a more expensive one?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Duck breast equilibrium curing. 13.6C, 80% humidity,  lt;= week. Why white spots of mould already?</TITLE>
+    <DATE>2020-10-15 22:39:45</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-15 22:42:52</DATE>
+    <TEXT>Pretty much as the title says - I went for equilibrium cure, aimed for ~3% salinity, it's at 13C and 80% humidity.and it's been curing for less than a week in my wine fridge. These white spots don't look great, what should I do?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-16 07:26:34</DATE>
+    <TEXT>Oh, I see where the confusion is coming from. I cured it in the fridge for about a week, then hung it to dry in the wine fridge and it's been there for less than a week</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  </INDIVIDUAL>

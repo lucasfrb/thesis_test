@@ -1,0 +1,789 @@
+<INDIVIDUAL>
+  <ID>subject9811</ID>
+  <WRITING>
+    <TITLE>Episode #11 of Starstuff, a local Philadelphia show from the early 80's on WCAU - anyone have vague Saturday morning memories of this?</TITLE>
+    <DATE>2015-04-06 19:44:22</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Starstuff - Episode #11 (1980): Local sci-fi TV show produced and aired in Philadelphia, PA - There were 18 episodes, and this is the only one known to survive [58:26]</TITLE>
+    <DATE>2015-04-06 20:04:57</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Friendliest city in America</TITLE>
+    <DATE>2015-08-21 05:07:45</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Is there anyone here that used to post in the alt.fan.dragonlance newsgroup?</TITLE>
+    <DATE>2015-09-02 02:27:18</DATE>
+    <TEXT>I used to post as Styx, and I maintained the FAQ for a while in the late 90's. Are any of you here now?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Is there anyone here who used to post to rec.sport.pro-wrestling in the late 90's?</TITLE>
+    <DATE>2015-09-02 02:37:42</DATE>
+    <TEXT>I was Styx. When my friend "broken hearts want broken necks" started posting, we formed the GFWO. We posted all the time. Are any of you still around?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Spotted our official roadside welcome marquee at 4th  amp; Chestnut this morning</TITLE>
+    <DATE>2015-09-23 16:09:43</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>How are GPOs that configure user settings applying successfully to an OU that only has computers?</TITLE>
+    <DATE>2016-06-06 20:46:11</DATE>
+    <TEXT>I've been tasked with simplifying my company's GPOs after years of neglect and bloat. I'm very close to being done, but my leftover mystery is how GPOs that specify *user* settings are successfully applying to OUs that only contain *computers*. I can see that they're applying via **gpresult /r** as user settings on computers that exist in OUs that these GPOs are linked to. How? I thought that GPOs specifying user settings are useless unless they're linked to an AD OU that contains actual user accounts. Vice versa, I thought that GPOs specifying computer settings are useless unless they're linked to an AD OU that contains computer objects. Otherwise, the GPO won't do anything. It looks like I'm wrong, but I don't understand why. Can someone school me? I've already verified that loopback processing is not in use. Also note that I've disabled any unused "User" or "Computer" portions of our GPOs. At this point, they're all separated. Other than the default domain policy, we have no GPOs that apply both user and computer settings. Thanks.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Questions about backwards compatibility of ADMX templates while I prepare for the introduction of GPO Central Store</TITLE>
+    <DATE>2016-06-10 16:19:30</DATE>
+    <TEXT>Much like /u/TechGy was doing [3 months ago](https://www.reddit.com/r/sysadmin/comments/46z4h0/admx_files_sanity_check/), I've been working on cleaning up our long-neglected AD/GPO in preparation for expected rapid growth. One of my goals is to get Central Store set up for uniform GPO deployment domain-wide. I've never done this, though, and I'm hoping someone here with more experience can clear the cobwebs for me. My question involves which ADMX templates I need to cover all of the various operating systems within our environment. According to [this post](https://www.reddit.com/r/sysadmin/comments/3ov3zc/updating_admx_templates_in_central_store/) by /u/joners02, "new templates will include all previous settings" ([except for Office](https://www.reddit.com/r/sysadmin/comments/3a3gb3/office_admx_templates/)). I understand this, but does the newest Windows 10 template cover, say, Windows 2012 R2? Do server OSs and client OSs need their own templates? Our OSs vary across the board. On the client side, we have Windows 7 with a smattering of XP machines for various legacy purposes. On the server side, we have 2003, 2008, and 2012 interspersed. Our DCs are a mixture of 2008 and 2012. To complicate matters, we have different flavors of each OS, too. Enterprise/Professional/etc. I figured I'd stage my own Windows 7 Enterprise desktop as the setup model, and then copy its PolicyDefinitions to our domain's SYSVOL once I think it's ready. Because I have a tendency to overthink things into complicated messes, I thought it best to grab every Windows ADMX package so that I don't miss any templates. I did them in order, from oldest to newest: 2006-09-18: [Windows Vista](https://www.microsoft.com/en-us/download/details.aspx?id=17835) 2008-01-03: [Windows Server 2008](https://www.microsoft.com/en-us/download/details.aspx?id=14355) 2010-07-06: [Windows Server 2008 R2 and Windows 7](https://www.microsoft.com/en-us/download/details.aspx?id=6243) 2013-01-02: [Windows Server 2012 and Windows 8](https://www.microsoft.com/en-us/download/details.aspx?id=36991) 2014-09-12: [Windows Server 2012 R2 and Windows 8.1](https://www.microsoft.com/en-US/download/details.aspx?id=41193) 2015-07-27: [Windows 10](https://www.microsoft.com/en-us/download/details.aspx?id=48257) 2015-11-14: [Windows 10 Version 1511](https://www.microsoft.com/en-us/download/details.aspx?id=48257) Once complete, I opened my local gpedit.msc and received [these eight parsing errors](https://i.imgsafe.org/ac9e5b0302.png) for eight different ADMX templates. Five state that the resource "could not be found," two state that the namespace is "already defined as the target namespace for another file in the store," and one says that the policy presentation element "does not exist." As expected, removing the ADMX/ADML files for each of the eight templates from C:\Windows\PolicyDefinitions\* makes the errors go away when opening gpedit.msc, but that's not where my confusion lies... Are these errors occurring because all eight templates are specific to other operating systems while I'm using a Windows 7 desktop to test them? I noticed that one of the templates is for Microsoft Edge, for example, which didn't come until Windows 10. If I were doing this from a Windows 10 desktop, would these errors not occur? Am I testing this in the wrong way? Am I on the right track?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Requesting help with the vShield Endpoint driver (vsepflt.sys) continually stopping on multiple VMs</TITLE>
+    <DATE>2016-08-02 20:14:35</DATE>
+    <TEXT>This problem spans VMs running VM Tools 10.0.6.3560309, 10.0.8.3746311 and 10.0.9.3917699. The operating systems vary from XP, Win7, and 2012 Server. We have 1000+ VMs. Right now, I only have 16 that refuse to start vsepflt.sys, so the impact is low but... annoying and recurring. At all times, I have a handful of VMs that aren't protected by our antivirus solution. The fix seems to be uninstalling VMWare Tools entirely, rebooting, and then installing the latest version. If the VM is already running the latest version of VM Tools, a complete uninstall/reinstall typically kicks vShield back into gear. It doesn't always last, though. The 16 that I found today were previously working just fine. Now, though, [running msinfo32.exe shows that it's stopped](http://i.imgur.com/BZRwTPg.png), and [starting vsepflt.sys from the command line w/admin rights fails](http://i.imgur.com/C5nidbq.png) with "OpenService FAILED 1060: The specified service does not exist as an installed service." I don't know if this information is helpful or not: I also always have a handful of VDIs from our floating pools that aren't running vShield, even though the template they're building off of has it installed. Almost all VDIs are protected at all times, *but never all of them*. Have any of you experienced any of this before? Your thoughts/suggestions would be appreciated! I just want the vShield Endpoint to reliably function on all of our VMs, regardless of whether they're floating VDIs or static servers. EDIT: I've opened a Support Request with VMware, and they've confirmed the symptoms described and are looking into it.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Wishful thinking</TITLE>
+    <DATE>2016-08-30 15:35:34</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>I'm sitting here watching old Undertaker matches and just caught Gorilla Monsoon inexplicably slipping kayfabe into his commentary - give this 10 seconds</TITLE>
+    <DATE>2016-09-20 04:06:13</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>User GPOs reflect old data and are both applying AND not applying simultaneously</TITLE>
+    <DATE>2016-10-07 16:17:48</DATE>
+    <TEXT>I went to [the Spiceworks Community](https://community.spiceworks.com/topic/1862107-user-gpos-reflect-old-data-and-are-both-applying-and-not-applying-simultaneously) with this first, but they're as stumped as I am. Maybe /r/sysadmin could help me? Here's the [sanitized output of gpresult /r](http://pastebin.com/nMxBSLVZ) as a framework. When I run a **gpresult /r** from my physical desktop, our Computer GPOs are reflected there perfectly, but our User GPOs are a *total mess*. This happens from any physical desktop that I check from. Here are the two main issues: - Under "Applied Group Policy Objects," one of the User GPOs is not listed here: "U - BlockPST." The rest are listed and applying fine. The Case Of The Missing GPO. I checked the scope/delegation and it looks just like the rest of the User GPOs. It's applied to the correct User OU where all of our accounts reside, inheritance isn't blocked, the GPO is enabled, etc. - Under "The following GPOs were not applied because they were filtered out," the same User GPOs that are successfully applying *are also listed as not applying*. There are even duplicates, and one of the listed GPOs is reflecting an old GPO name that has since been renamed! This implies some sort of stale caching, yes? Additionally, our Missing GPO is listed here as being filtered out. Here's what I've clumsily attempted so far: - Checked the Authenticated User permissions under the delegation of each GPO and ensured that both Read and Apply Group Policy were enabled per #4 [of this Technet article](http://social.technet.microsoft.com/wiki/contents/articles/22457.10-common-problems-causing-group-policy-to-not-apply.aspx) and all was perfect, which means that this couldn't be caused by the infamous KB3163622 update from earlier this year as [that update only breaks GPOs that have had Authenticated Users removed from security filtering](https://blogs.technet.microsoft.com/askds/2016/06/22/deploying-group-policy-security-update-ms16-072-kb3163622/). Additionally, we had blocked KB3163622 in WSUS back in June just to be extra-precautious. - Defying [this Technet Magazine article](https://technet.microsoft.com/en-us/library/dd673616.aspx) which specifies that you should disable the computer settings in User GPOs (and the user settings in Computer GPOs) to ensure faster GPO processing, I enabled them fully as a shot in the dark. - Repaired the local security database (**%windir%\security\database\secedit.sdb**) per [this Windows IP Pro article](http://windowsitpro.com/security/q-what-could-prevent-security-policy-settings-have-been-defined-domain-wide-group-policy-ob), rebooted, and ran **gpupdate /force**. - Deleted the local security policy database per [this Spiceworks post](https://community.spiceworks.com/how_to/27566-old-gpo-still-applying) by breaking the PC from the domain, rebooting, deleting **%windir%\security\database\secedit.sdb**, rebooting, rejoining to the domain, rebooting, and running **gpupdate /force /boot**. - Deleted the local Group Policy cache by deleting the contents of **C:\Users\All Users\Microsoft\Group Policy\History** per [this MacGyverIT article](https://macgyveritblog.wordpress.com/2014/01/27/recreate-the-local-group-policy-cache-in-windows/), rebooting, and then running **gpupdate /force**. - Attempted to apply [this Microsoft hotfix](https://support.microsoft.com/en-us/kb/979731), but it wouldn't install due to it being inapplicable to my system. - Deleted the following registry keys per [this Technet thread](https://social.technet.microsoft.com/Forums/windowsserver/en-US/75ab1158-e460-4aa5-8658-402836e6096a), rebooted, and ran **gpupdate /force /boot**: [HKEY_LOCAL_MACHINE\Software\Policies\Microsoft] [HKEY_CURRENT_USER\Software\Policies\Microsoft] [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Group Policy Objects] [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies] - Ran the [Active Directory Replication Status Tool](https://www.microsoft.com/en-us/download/details.aspx?id=30005) which reports no issues with replication across our five domain controllers. - Executed **Get-GPO -name "GPONAMEHERE" -server DOMAINCONTROLLERHERE** via Powershell on all five of our domain controllers and verified that the GUID, Creation Time, Modification Time, AD version, and SysVol versions matched across the board. - Ran **dcdiag /s:DOMAINCONTROLLER** on all five domain controllers without finding any problems. As you may have guessed, none of this has made any difference whatsoever #sysadminlife. My computer is not the only one reflecting this User GPO mess. I'm not sure what my next step should be. Do you?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Deal with it</TITLE>
+    <DATE>2017-02-04 20:29:25</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Trailer - 1m50s] Nightmare In The Makeup Chair (2017) Premiering later this year, Robert Englund tells stories while being transformed into Freddy Krueger once more for his very first fan meet and greet as the authentic dreamstalker</TITLE>
+    <DATE>2017-02-04 21:19:11</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>The spoils of war</TITLE>
+    <DATE>2017-02-27 05:19:17</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>TIL 85% of outlet clothing is made with lower-quality fabrics and cheaper construction than its retail counterpart. Companies like Levis, Ralph Lauren and Nordstrom have all been sued for having MSRP on their "Compare At" price tags even though the product never saw the inside of a flagship store.</TITLE>
+    <DATE>2017-03-01 00:47:40</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Auditors are requesting a report to show which MS updates/patches were installed on which servers and when they were applied - is there a native WSUS report or third-party solution that would reflect these metrics for me?</TITLE>
+    <DATE>2017-03-02 17:59:30</DATE>
+    <TEXT>I've been goofing around in WSUS's reporting options for a bit now and I'm not getting what I need. The closest I've found is this [somewhat clunky Powershell script](http://www.powershelladmin.com/wiki/Check_when_servers_were_last_patched_with_Windows_Update_via_COM_or_WSUS#Find_Last_Installed_Update_via_Windows_Update_Using_WSUS) that requires that I tell it which machine(s) to poll for the information. We have over 1000 machines, so this method would be... less than optimal. Is there a streamlined solution to this problem that my Google searches haven't yielded?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Are there any apps that offer integrated Nagios push notifications on iOS?</TITLE>
+    <DATE>2017-03-09 15:13:16</DATE>
+    <TEXT>My co-worker has an Android phone running [aNag](https://play.google.com/store/apps/details?id=info.degois.damien.android.aNag). I want an equivalent for the iPhones. There are third-party push notification clients for iOS like [Prowl](https://www.prowlapp.com/), [Pushover](https://pushover.net/), [PushBullet](https://www.reddit.com/r/nagios/comments/1xd946/nagios_alerts_via_pushbullet/), [WISVIA](https://www.reddit.com/r/sysadmin/comments/2dy33j/push_notification_for_nagios/) and [Boxcar](https://www.boxcar.io/), but all of them require multi-step processes, scripts, and configs to force functionality. We'll go this route if we have to, but it seems convoluted. The only app I've found that claims to integrate push notifications is [MobiosPush](http://www.isnapp.nl/mobiospush/). Our network admin added a few lines of config to the Nagios server yesterday and it's working, but it is not sending me push notifications for every alert. [MobiosPush's FAQ acknowledges this](http://www.isnapp.nl/mobios-push-faq/), so this is not a good solution either. Literally while typing this I discovered [iNag2](http://www.inag2.com/) which also claims to include push notifications but comes with a hefty price tag of $19.99 and [possibly charges for every push notification](https://www.inag2.com/2013/change-in-push-pricing/). Can anyone confirm or talk more about this app? EDIT: Looks like MobiosPush is actually working great. It just required some additional Nagios adjustments. Thank you for all the input!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Almost 30 years ago this month, the Ultimate Warrior suffered his first and only clean loss in the entirety of his WWF career at a house show in Italy. This 33 second video of the finish is the only surviving footage.</TITLE>
+    <DATE>2017-04-18 16:26:21</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Why isn't my GPO to delete two specific desktop shortcuts working?</TITLE>
+    <DATE>2017-04-19 21:21:24</DATE>
+    <TEXT>Everyone has two shortcuts on their desktop that are no longer used. I want to use Group Policy to delete them. One is located in C:\Users\Public\Desktop on every machine, so I'm telling the GP to delete %PUBLIC%\Desktop\shortcut1.lnk The other is located in C:\Users\\*username*\\Desktop on every machine, so I'm telling the GP to delete %USERPROFILE%\Desktop\shortcut2.lnk My first attempt was a [user configuration GPO](http://i.imgur.com/VFEOcsQ.png). I moved my own AD user account to a test OU, linked the GPO to it, and ran *gpupdate /force* and then *gpresult /r* to confirm it was applied. It was. Nothing happened. Logging in and out of Windows had no effect. I don't see anything interesting in the Event Viewer. My second attempt was to try a [computer configuration GPO](http://i.imgur.com/Zn2b80p.png) instead. I moved my own computer account to a test OU, linked the GPO to it, and ran *gpupdate /force* and then *gpresult /r* to confirm it was applied. It was. Nothing happened. Logging in and out of Windows had no effect. I don't see anything interesting in the Event Viewer. I tried changing the GPOs to look for the location "Desktop" and "All Users Desktop" in the Location pull-down instead of specifying environment variables and paths, but there was no change. I tried disabling *Run in logged-on user's security context (user policy option)*, but there was no change. I've got to be missing something dumb. Any ideas? If I can't get this to work, I'll try [one of these scripting/batch file methods](https://community.spiceworks.com/topic/168007-removing-the-shortcut-from-user-desktops-through-group-policy), but I'd much rather use built-in GPO. Thanks for any suggestions!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Slapstick gold as two thirsty fans try to grope Miss Elizabeth at a Philly house show in '86 and get nonchalantly combo-punched by a Savage left</TITLE>
+    <DATE>2017-06-13 04:09:46</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Macho Man Randy Savage eloquently expressing his feelings at two fans who tried groping Miss Elizabeth</TITLE>
+    <DATE>2017-06-13 04:19:14</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Excerpt from the personal letters of artist, bongo player, Nobel Prize-winning theoretical physicist, and safecracker Richard P. Feynman</TITLE>
+    <DATE>2017-06-19 22:26:34</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Someone successfully snuck onto the roof of City Hall. "I believe that this is the only video you will ever see of someone doing this and I went up by myself. I apologize for how little i talked in the video due to the fact I was under lots of stress on my way up." [6m56s]</TITLE>
+    <DATE>2017-07-31 19:19:07</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>30% off Wolverine x Leffot 1000 Mile Boot in natural chromexcel. $269.50 shipped. All sizes from 8.5D - 12D currently available.</TITLE>
+    <DATE>2017-08-12 05:55:56</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Guitar guy at party: check. Tortured angst: check. Wolf t-shirt: check. Ignored by girls: check. Hole in my crotch that I only noticed now: check. Real life, 1995.</TITLE>
+    <DATE>2017-08-21 16:21:11</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>The Land Before Time</TITLE>
+    <DATE>2017-09-09 01:08:55</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Looking to have a gory old memory from mid-80's NWA TV identified so I could try to see it again. Anyone remember this?</TITLE>
+    <DATE>2017-10-09 04:22:52</DATE>
+    <TEXT>Not sure if it was Georgia TV or Mid-Atlantic or what, but the memory haunted me back then. Barbarian was dragging Boogie Woogie Man Jimmy Valiant's limp body across the mat by a chain or bullrope or something. Whatever it was was tied around Jimmy's neck, and his body left streaks of blood behind it as it was drug. I thought Valiant was dead. I want to see it again. I've Googled it off and on for years but never came up with anything. Ring any bells for anyone?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE> #8220;Sometimes the world seems like a pretty mean place. That's why animals are so soft and huggy. #8221; -  #128293;Bill #128293;Watterson #128293;</TITLE>
+    <DATE>2017-10-17 14:59:41</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Installed my first WWAN in my T25 - can anyone verify my terminals look OK before I power back up?</TITLE>
+    <DATE>2017-10-28 19:45:14</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Merlin, a help assistant for Amiga. Am I making this memory up?</TITLE>
+    <DATE>2017-10-29 22:01:07</DATE>
+    <TEXT>I used to have an Amiga 500. I have memories of an on-screen sprite named Merlin that would interject in the same way that Microsoft's Clippit would. I know that there was a Merlin for Microsoft, but this memory is Amiga-specific. I'm not finding anything via Google. Can anyone confirm/deny?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE> #128293;  #128293; Our mayor had a Twitter AMA on Friday  #128293;  #128293;</TITLE>
+    <DATE>2017-10-30 14:35:14</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Shooting survivor /u/PTSD--throwaway offers resources and incredibly insightful coping advice for those suffering in the aftermath of Sutherland Springs. "After I got shot, I stalked news coverage of my shooting and read every comment. I kept hoping someone would just tell me what to do."</TITLE>
+    <DATE>2017-11-05 23:51:47</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Hoodies with extra-deep over-sized hoods that aren't meant for cosplay or boxing?</TITLE>
+    <DATE>2017-11-06 04:41:56</DATE>
+    <TEXT>I did search for answers first, but [the pickings](https://answers.yahoo.com/question/index?qid=20100729233725AAtPZRK) are [slim](https://www.reddit.com/r/malefashionadvice/comments/3coxz6/where_can_i_find_deep_hooded_hoodies/) and [sparse](https://www.reddit.com/r/malefashionadvice/comments/5ob1j5/recommendations_for_a_sweatshirt_with_a_large/). I also watched video reviews of Flint  amp; Tinder, American Giant, and Reigning Champ but the hoods looked the same as Gap hoods to me. Two pieces, standard depth, etc. I think [three piece hoods](https://i.imgur.com/NoQRZm9.jpg) look and lay so much better. I realize I could go the route of a [makeshift wizard's cloak](https://www.aliexpress.com/item/2017-Autumn-Men-Long-Paragraph-Cloak-Hooded-Cardigan-Jacket-Casual-Hoodie-Dark-Wizards-Men-s-Cloak/32825201539.html) or an [elven tunic](https://www.lothhoodies.com/product-page/adventure-hoodie), and I really will if I have to, but I'd rather attempt a casual approach first. I have a big Slavic head and most hoods look like skullcaps on me. Any suggestions? What's the magnum of hoodie hoods?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>The NFL -  #8220;I have an idea. What if we held the draft outside on the street in Philadelphia on purpose? #8221;</TITLE>
+    <DATE>2017-11-19 17:32:18</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Anyone ever have success getting a USB Ultranav keyboard working over VMware View?</TITLE>
+    <DATE>2017-11-21 14:41:22</DATE>
+    <TEXT>Our environment at work is almost entirely virtual, and I connect to my daily Win 7 Enterprise x64 machine via a [ClearCube PCoIP zero client](https://www.clearcube.com/products/zero-clients/). I brought my SK-8835 keyboard in. Everything works, surprisingly, but the lack of specific Trackpoint/Trackpad settings in Control Panel -- gt; Mouse is obviously limiting as there are adjustments I'd like to make. I found a [post on Lenovo's forums from 2012](https://forums.lenovo.com/t5/Windows-7-Vista-and-XP/Lenovo-USB-keyboard-Trackpoint-Touchpas-not-working/m-p/766333#M11823) detailing steps to take get it to work on Win7 x64 in a non-virtual environment. The steps require the 1.07 driver in order to work, which I can't find anywhere. I found a handful of old drivers in [some old FTP repository from 2007](http://priede.bf.lu.lv/ftp/pub/OS/datori/IBM/T42/INDEX.txt) of T42 software but none of them make any difference, nor does the [driver package provided by IBMFiles](http://www.ibmfiles.com/pages/sk88xx.htm). I had the same results with [Lenovo's driver package](https://pcsupport.lenovo.com/us/en/downloads/migr-72368). Is this the point where I resign myself to limited functionality, or are there other tricks to try?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>For everyone else waiting patiently these past five months, there are signs of life from the supply chain - my Sennheiser 6XX just arrived</TITLE>
+    <DATE>2017-11-22 18:49:09</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>The first time my friend visited my apartment she was mind-blown that my shower curtain looked  #8220;exactly #8221; like one of her shirts. I half-seriously said that her story sounded made up and promptly forgot about it until she returned the following week to demonstrate. I forever stand corrected.</TITLE>
+    <DATE>2017-11-25 18:03:25</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>The first time my friend visited my apartment she was mind-blown that my shower curtain looked  #8220;exactly #8221; like one of her shirts. I half-seriously said that her story sounded made up and promptly forgot about it until she returned the following week to demonstrate. I forever stand corrected.</TITLE>
+    <DATE>2017-11-25 18:19:26</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Scientist /u/kscholten breaks down the popular but very inaccurate Tesla vs. Edison narrative that has been propagated into modern myth by sites like The Oatmeal</TITLE>
+    <DATE>2017-11-27 17:09:11</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Docking station alternative: The ThinkVision P27h 27 #8221; USB-C 1440p monitor is only $297.99 + tax and free shipping for the next two days via Lenovo/Perks</TITLE>
+    <DATE>2017-11-28 19:22:02</DATE>
+    <TEXT>I have the Thinkpad T25 and ordered this instead of a docking station since a USB-C monitor basically functions the same way, but with a bonus screen. Best as I can tell, this is the lowest this model has ever been listed. It #8217;s certainly true by a long shot if you go by Amazon pricing + CamelCamelCamel. This deal ends Thursday at midnight EST. Released just under a year ago, the P27h is an IPS QHD 1440p display (2560x1440), so there #8217;s plenty of real estate to work with. There is also the P24h, its smaller 24 #8221; cousin which also offers 1440p and is listed around $209, another all-time low. I considered this one but worried about minuscule text size issues, probably unnecessarily. These displays are not serviceable options for those who want to take advantage of USB-C in a multi-monitor setup as [daisy-chaining will only mirror the display, not extend them](https://forums.lenovo.com/t5/Displays-Options-and-Accessories/ThinkVision-P27h-10-daisy-chaining/td-p/3813286). If you aren #8217;t using it as a USB-C docking station replacement, this is a non-issue. Additionally, because the refresh rate is 60Hz and there #8217;s no FreeSync, it #8217;s fine for general gaming but not the best option if you #8217;re into intensive first-person shooters. However, if you have a machine with USB-C and you have limited space like I do, or you just prefer a minimal desktop setup with near-nonexistent wiring, this is an excellent option at the best price offered yet. In fact, unless you #8217;re looking at Korean options, this looks to be the best-priced 27 #8221; USB-C display currently on the market, especially considering that even without Perks it #8217;s [still just $302.99](https://www3.lenovo.com/us/en/accessories-and-monitors/monitors/professional/P27h-10-27inch-Monitor-HDMI/p/61AFGAR1US). I don #8217;t work for Lenovo or benefit in any way from anyone purchasing their products, by the way. No /r/hailcorporate here. It #8217;s just a great deal for those of you who find yourselves in a similar position as I do. **A note of warning about USB-C in general**: Using incompatible/poorly-made USB-C cables can [fry your device without warning](https://www.theverge.com/2016/2/4/10916264/usb-c-russian-roulette-power-cords). This is why I #8217;m using a Lenovo laptop with a Lenovo monitor and a Lenovo-supplied USB-C cable. Until this new standard normalizes (or you have an electrical engineering background that allows you to sort through the mess of voltages and wattages and other ratings and measurements that I don #8217;t confidently understand), I #8217;d suggest playing it as safe as you can.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Award-winning Palestenian-American poet and clinical psychologist Hala Alyan just wrote a truly moving tribute to professional wrestling #8217;s impact on her as an immigrant Muslim child growing up in Oklahoma.  #8220;I didn #8217;t believe in Superman or Santa Claus, but I believed in Shawn Michaels. #8221;</TITLE>
+    <DATE>2017-11-28 20:19:35</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>What is your Windows Update deployment schedule? Besides /r/sysadmin, what other resources do you use to ensure there aren't any problematic Windows Updates before deploying them to your environment?</TITLE>
+    <DATE>2017-11-29 16:13:32</DATE>
+    <TEXT>I've inherited WSUS management. The current policy is to wait 7 days to deploy Security Updates and 14 days for Critical/General Updates. Both of these time frames seem overly precautionary, but then again, I've never really had to clean up a mess caused by Windows Update before. Where do you go to find reports of problems before deploying? I check [Woody Leonhard's site](https://www.askwoody.com/category/microsoft-windows-patches-security/) on the regular, but I assume there are other reputable sites, too. I'd like to set up an RSS feed for them. Any suggestions are very welcome.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>How to get an old USB Thinkpad UltraNAV keyboard working on Windows 10</TITLE>
+    <DATE>2017-11-30 21:14:20</DATE>
+    <TEXT>I'm sharing this so that it comes up in searches for anyone like me in the future who was banging their head on this issue. You want n15gx14w.exe released on 2016/10/06. This is listed by Lenovo as [Synaptics Pointing Device Driver for Windows 8.1 (64-bit), 7 (64-bit) - ThinkPad 11e (Type 20D9, 20DA), Yoga 11e (Type 20D9, 20DA)](https://support.lenovo.com/cl/en/downloads/ds041497). The direct download link is [here](https://download.lenovo.com/ibmdl/pub/pc/pccbbs/mobiles/n15gx14w.exe). After installing this, my Trackpoint and Touchpad work on my SK-8835. This means it'll likely work for the more common SK-8845 as well. When you go to *Settings -- gt; Devices -- gt; Mouse -- gt; Additional mouse options*, you'll get a Synaptics Pointing Device error stating "Control Panel Extension is incompatible with Driver Version." You can click OK to get beyond it. You'll have the Synaptics tab, but you won't be able to do anything in it. Additionally, the option to enable the System Tray icon doesn't do anything. ...but your Trackpoint and Trackpad will work! EDIT: [Source/credit, which I found after 2+ hours of digging](http://martin.iturbide.com/2013/07/thinkpad-full-size-ultranav-usb-keyboard.html).</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Gallery of Red Wing Beckman "Flatbox" boots made with unstructured toe boxes for Japan and Singapore this season (more in comments)</TITLE>
+    <DATE>2017-12-07 00:02:33</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Gallery of Red Wing Beckman "Flatbox" boots made with unstructured toe boxes for Japan and Singapore this season (more in comments)</TITLE>
+    <DATE>2017-12-07 00:06:24</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>2meirl4meirl</TITLE>
+    <DATE>2017-12-12 14:43:19</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>A bold prediction</TITLE>
+    <DATE>2018-01-03 03:29:25</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>The 65 bus route in the SEPTA app has a pretty great typo</TITLE>
+    <DATE>2018-01-07 16:00:34</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>I #8217;m at the Museum of Modern Art in NYC right now and guess what they #8217;ve got on display?</TITLE>
+    <DATE>2018-01-15 17:42:25</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Singapore/London exclusive Red Wing Chukkas and Bluchers in Cigar Esquire leather for $150ish shipped from Nordstrom Rack</TITLE>
+    <DATE>2018-02-16 13:43:30</DATE>
+    <TEXT>[Red Wing 9096 Caverly Chukka](https://www.nordstromrack.com/shop/product/2248908/Caverly%20Chukka%20Boot%20-%20Factory%20Second?color=CIGAR amp;sid=972549) (Last: 210) for $151.20 and [Red Wing 9086 Mil-1 Blucher Oxford](https://www.nordstromrack.com/shop/product/2248910/Blucher%20-%20Factory%20Second?color=CIGAR%20ESQUIRE amp;sid=972549) (Last: Mil-1) for $143.20 are available in most common sizes, both in the exclusive Cigar Esquire leather made available only in the Asian and UK markets under the  #8216;Classic Dress #8217; collection. Esquire leather is  #8220;a special tanned Heifer hide leather that features fine textured skin. In its dyeing process, coating grain side by resin was popular and often use for penny loafer. This makes the leather glossy by polishing and applying buff at the finishing stage. #8221; Both have the same Gro-Cord outsoles used in most of Red Wing #8217;s overseas Heritage releases. These are an excellent deal.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Haha sigh</TITLE>
+    <DATE>2018-02-25 18:20:24</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Winnie-the-Pooh and Insanity Wolf too</TITLE>
+    <DATE>2018-02-28 21:44:42</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Aggressively rejected by two cat dimensions without ever touching the ground</TITLE>
+    <DATE>2018-03-03 18:36:46</DATE>
+    <TEXT></TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-05 03:59:33</DATE>
+    <TEXT>This is why I no longer waste my time putting energy into trying to understand viewpoints that contradict or dismiss objective reality. You have to draw the line somewhere. If we can #8217;t agree on basic shit like  #8220;Russia interfered, #8221; there #8217;s really no point.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-05 12:53:56</DATE>
+    <TEXT>Literally not seeing this shit.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-05 14:39:09</DATE>
+    <TEXT>The New Yorker is truly a treasure of journalism. Thank you for linking us to their content. They #8217;re so underpriced for the value they provide.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-05 14:57:30</DATE>
+    <TEXT>No, I #8217;m not wasting my time on this. This is your problem.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-05 19:28:11</DATE>
+    <TEXT>Most big companies weren #8217;t playing arcade games when they started. They were working.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-05 19:33:57</DATE>
+    <TEXT>This is adorable and is also how stories about why you #8217;re confined to a wheelchair start</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-05 20:14:52</DATE>
+    <TEXT>Will there ever come a day when a straight answer will be given on this issue? It #8217;s in the top 5 of every Reddit site announcement thread but I #8217;ve yet to see it addressed. EDIT: [spez less than an hour ago.](https://reddit.com/r/announcements/comments/827zqc/in_response_to_recent_reports_about_the_integrity/) Went over like a fart in church. The ensuing thread is really fantastic.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-05 21:01:01</DATE>
+    <TEXT>Got it!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-06 12:35:53</DATE>
+    <TEXT> gt;I #8217;m getting a strong odor of bullshit So did I, but [the wiki adds credence.](https://en.m.wikipedia.org/wiki/C #7911;_Chi_tunnels) The rest of the information (like the movie theater, for example) seems to come from [this documentary.](https://topdocumentaryfilms.com/the-cu-chi-tunnels/) There #8217;s also [this nine minute video from the BBC](http://www.bbc.co.uk/programmes/p04kxnbt) posted earlier this year.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-06 13:58:17</DATE>
+    <TEXT>Amount of educated professional therapists who would ever under any circumstances respond to this genius #8217;s mic drop with  #8220;Jesus #8221;  #8212; zero The amount who would give a standing ovation is another matter altogether</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-06 14:06:12</DATE>
+    <TEXT>The first White Orchard area is basically an excellent, extended tutorial and story-starter. Have fun with it. When you get to the swamps of Velen, take a moment to really savor the depravity and rot and despair. Let it work its way into your bones. This area is the spirit of the Witcher 3 and what you will benchmark all other areas against. When you take your first quest-driven boat trip, search the area that it arrives ashore thoroughly. Don #8217;t rush. Every once in a while, turn off your minimap and explore blindly and curiously. With headphones. Save your game constantly. There are things that will kill you, like falling too far. It is the best game in the world and I #8217;m jealous of you for getting to experience it for the first time.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-06 14:22:19</DATE>
+    <TEXT>Right? Reminds me, you ever see NASA #8217;s dawn/dusk photos from the surface of Mars? Its sun is almost exactly like ours except a little smaller. Just goes to show you we #8217;re all the same.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-06 14:36:42</DATE>
+    <TEXT>I don #8217;t own a USB-C power meter. Any suggestions on how I can get that info for you? I can confirm the monitor powers a T470/T25. Maybe [this thread](https://forum.thinkpads.com/viewtopic.php?p=810579) has an answer?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-06 15:02:29</DATE>
+    <TEXT>They should just put it in rice.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-06 15:04:52</DATE>
+    <TEXT> gt; Avoid stealing in front of the guards because they will always be stronger than you and will beat the crap out of you and take your gold. If you do piss them off, run. It #8217;s kinda fun to jump into the nearest body of water to just watch them helplessly hate you.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-06 17:44:17</DATE>
+    <TEXT>Remember this bewildering excerpt from the [2012 Texas Republican Party Platform](http://mobile.edweek.org/c.jsp?cid=25920011 amp;item=http%3A%2F%2Fapi.edweek.org%2Fv1%2Fblogs%2F83%2F%3Fuuid%3D25255)? *We oppose the teaching of Higher Order Thinking Skills (HOTS) (values clarification), critical thinking skills and similar programs that are simply a relabeling of Outcome-Based Education (OBE) (mastery learning) which focus on behavior modification and have the purpose of challenging the student's fixed beliefs and undermining parental authority.* Real fucking life. I #8217;m 40 and I #8217;m Team Kids.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-06 17:51:58</DATE>
+    <TEXT>I think the fair majority of them know when and why they #8217;re being abused, and that #8217;s a significant distinction. It may be my own bias, or my perception is a product of where I live, but overall awareness seems sharper as newer generations emerge.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-06 18:40:30</DATE>
+    <TEXT>My inner Jordan Catalano is leaning with his back against the hallway wall nodding slowly at your post while staring pensively into the distance, at the other row of lockers.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-06 18:57:46</DATE>
+    <TEXT>That's exactly how a gigantic insecure baby with debilitating control issues would parent. Curious.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-06 19:14:52</DATE>
+    <TEXT>~~pensively~~ vacantly</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-06 19:33:17</DATE>
+    <TEXT>This is serious, we need this to happen so we can sleep</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-06 19:39:41</DATE>
+    <TEXT>I only recently started playing. So far, two quests I already completed have returned after I talked to different NPCs, and after going down a waterfall I saw three slaughterfish swimming in the sky. Still awesome.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-06 19:43:34</DATE>
+    <TEXT>He also had the bit where he no longer judges other parents for flipping their shit after having kids himself and experiencing firsthand just how exasperating it can be. I don't have kids so I try to refrain from passing judgment there because the truth of the matter is that I have no idea what I'm talking about. Suppressing critical thinking in the education system as a part of public policy is an entirely different matter altogether.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-06 20:05:41</DATE>
+    <TEXT>I feel disturbed and why does the censored dick pic have a healthy coat of tawny fur?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-06 22:00:41</DATE>
+    <TEXT>Yeah, I was only thinking in terms of anger. I #8217;m on board with all of that. My grandmother had an excellent move where she #8217;d rap you across the tip of your chin.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-06 22:02:42</DATE>
+    <TEXT>With the exception of a few time-sensitive side quests, or closed-off side quests that confine you to a particular area until completion, you can do whatever you want whenever you want. The game will tell you when there #8217;s no turning back. It happens towards the end of the main quest. If you ever get a message that you failed a quest, reload your last save and see what happened.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-06 22:08:05</DATE>
+    <TEXT>That was /r/oddlysatisfying and extremely well-filmed. Would zone again.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-06 22:39:46</DATE>
+    <TEXT>Quoting this just in case you come back and delete it after you turn 17 because it #8217;s amazing and deserves a place in history  gt;Yeah maybe if you're on drugs. Kind of a worthless post  #128239; but when you target this specific demographic it's not like you need to have anything actually interesting as druggie find even the most mundane things amusing.  gt;Derrt hey guys look a plant  #127807;  gt;Youre literally watching grass grow what has your life come to?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-06 23:06:47</DATE>
+    <TEXT>Wow. This is serious dedication! Yo /u/nonouiswrong, what #8217;s the story?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-06 23:30:01</DATE>
+    <TEXT>/r/oddware would enjoy this.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-07 05:32:30</DATE>
+    <TEXT>They're on point so often that we base our outfits on our weather apps pretty reliably every day Imagine being an educated meteorologist and having a bunch of mouthbreathers in sweatpants take breaks from their Buzzfeed quizzes to call you and your profession an overpaid sham every time you inaccurately predicted the exact weather patterns of a planet EDIT: Your dog is awesome</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-07 13:18:29</DATE>
+    <TEXT>Despite being a bastion of culture and art, Egypt did *not* have Gary Gygax [EDIT: **or Dave Arneson!!!**]</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-07 13:25:22</DATE>
+    <TEXT>My mom loved stand-up and brought me up watching Richard Pryor, George Carlin, Eddie Murphy, Steven Wright, etc. The classics. I remember us discovering Brian Regan and Bill Hicks together back in the 90 #8217;s. I #8217;ve just watched a *ton* of stand-up over the years. I #8217;ve gone to a fair amount live, too. No bit has ever made me laugh harder than [Louis C.K. #8217;s  #8220;Being Broke #8221;](https://youtu.be/P3jLufZx3IM)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-07 13:34:18</DATE>
+    <TEXT>She #8217;s awesome but this has the same vibe as those sassy  #8220;NEVER MESS WITH A VIRGO WHO DRIVES A NISSAN AND LISTENS TO PUDDLE OF MUDD #8221; Facebook t-shirts</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-07 14:29:27</DATE>
+    <TEXT> gt; Just because we don #8217;t know about it doesn #8217;t mean they didn #8217;t. You can say that about literally anything though</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-07 14:42:11</DATE>
+    <TEXT>I know someone who worked at an animal sanctuary and most of the time they had multiple Band-Aids and were covered in poop.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-07 14:46:25</DATE>
+    <TEXT>For all of the unhelpful snowflake talk being thrown around, the newer generations sure seem better-equipped to handle criticism than my classmates when I was that age in the 80 #8217;s. I got sent home with a note because I called Robby Porter a  #8220;ding-dong #8221; and he cried.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-07 14:52:48</DATE>
+    <TEXT>I #8217;ve seen some top-notch relevant XKCDs in my day but this is possibly the toppest notch.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-07 15:23:31</DATE>
+    <TEXT>Pouring a sip out of this tankard of mead for him [EDIT: **and Dave Arneson!!!**] right now.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-07 15:31:13</DATE>
+    <TEXT> gt;Are you crazy? I promise you that I don #8217;t think I am!  gt; People today are far more sensitive than they used to be. I think people are just as sensitive today as they always have been, but about different things. We #8217;re just older now. I do not remember the concept of  #8220;owning #8221; your criticism in the 80 #8217;s. Being made fun of was treated like a really big deal. Its period teen movies reflect this almost universally via the archetype bully. That characterization is treated like satire now because the younger generation has moved beyond that. That #8217;s what this photo reflects, to me.  gt;You can #8217;t say anything to anyone any more without it becoming a huge issue. I #8217;ve found that whenever I #8217;ve made extreme statements like this, the issue was usually with me and not the world.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-07 15:51:16</DATE>
+    <TEXT>Do you think we #8217;re talking about two different things? I acknowledge the rampant extreme SJWism of some portions of the younger generations, but I #8217;m talking about this newfound self-confidence in younger people. This, in other ways unrelated to the SJW wave, makes them less prone to victimization than we were. It #8217;s impossible to make a person feel like shit about themselves if they *know* they aren #8217;t shit. I wonder if a fair amount of the malaise plaguing the GenX/Xennial crowds (hi) can be attributed to a lack of the same.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-07 16:00:53</DATE>
+    <TEXT>Yeah, but I #8217;m 40. This is when you start making sweeping assumptions about entire age ranges without any evidence except your own certainty.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-07 16:05:04</DATE>
+    <TEXT>Heard</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-07 16:52:15</DATE>
+    <TEXT>Hey /u/raging_asshole, we #8217;ve all been there.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-07 17:01:25</DATE>
+    <TEXT>My inboxes are a horror show, I'm telling you.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-07 17:10:00</DATE>
+    <TEXT> gt;but you too made a sweeping assumption about entire age ranges Can we pretend I edited it to say "except for people with mental health issues or are otherwise prone to self-harm and I also don't mean to say that this conditional observation of mine applies to literally every single person between ages X and Y" and call it a day?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-08 04:39:33</DATE>
+    <TEXT>Bat wing</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-08 14:57:46</DATE>
+    <TEXT>Wow better call the Navy Seals in for this one boys</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-08 15:22:04</DATE>
+    <TEXT>To her credit, she shared it or else we wouldn #8217;t be watching it and that would suck. /r/therewasanattempt</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-08 15:30:30</DATE>
+    <TEXT>This is a Nine Inch Nails song that Johnny Cash covered.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-08 15:39:19</DATE>
+    <TEXT> gt; If I ever get to design my own house I #8217;m doing an ammonite pattern in the bathroom tiles Hey, you obviously do you, but also an FYI that aquatic/seashore bathroom motifs make a lot of people want to take a melonballer to their eyeballs so please consider your guests</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-08 16:50:52</DATE>
+    <TEXT>Name? Can #8217;t find info anywhere. EDIT: Found it. [Mario Adinolfi](https://en.m.wikipedia.org/wiki/Mario_Adinolfi), founder of [The People of Family](https://en.m.wikipedia.org/wiki/The_People_of_Family) party. They stand for every terrible thing you already imagine they do.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-08 17:52:21</DATE>
+    <TEXT>Doesn #8217;t make it  #8220;a Johnny Cash song. #8221;</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-08 17:55:41</DATE>
+    <TEXT>Proper submission! /r/UrbanHell isn #8217;t  #8220;Photos of places I wouldn #8217;t live because cities make me feel uneasy. #8221;</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-08 21:46:54</DATE>
+    <TEXT>You #8217;re making a niche subreddit with fairly low activity about you and it comes off as obnoxious. Your control issues aren #8217;t our problem. I want to see all Thinkpad-related stuff Reddit wants to share. That #8217;s why I subscribe to /r/thinkpad. I do not subscribe to /r/thinkpad for whatever this is.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-08 22:18:48</DATE>
+    <TEXT>Nothing. Weird, I know, but [we won #8217;t even experience anything when Andromeda and the Milky Way merge.](https://en.m.wikipedia.org/wiki/Andromeda #8211;Milky_Way_collision) From the surface of Earth, it doesn #8217;t matter all that much how the space is warped around us.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-08 22:34:23</DATE>
+    <TEXT> gt; Could a habitable planet even exist orbiting a star orbiting a black hole so closely? I can #8217;t speak on the habitable part, but as long as the solar system has a stable orbit outside of the black hole #8217;s event horizon, it #8217;s structurally just fine. It #8217;s surfing the curvature of spacetime like normal, but rolling around an infinitely deep gravity well as opposed to a measurably deep one.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-08 23:00:14</DATE>
+    <TEXT>Here, I #8217;ll help. Trump Org:  #8220;No we didn #8217;t. #8221;</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-08 23:01:12</DATE>
+    <TEXT>Robby Reality</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-08 23:16:40</DATE>
+    <TEXT>I #8217;m only keeping my mouth shut because it #8217;s Thanksgiving dinner, Uncle Perkins. I #8217;ll argue with you about the definition of  #8216;affordable education #8217; on Facebook later.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-09 14:00:55</DATE>
+    <TEXT>This is beautiful. Why did you post it here?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-09 14:39:15</DATE>
+    <TEXT>Step 1: divide by zero Step 2: reinforce the emergent anomaly with wooden planks Step 3: prophet</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-09 14:44:07</DATE>
+    <TEXT>Excellent! All that #8217;s missing is the Kool-Aid mustache.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-09 14:48:21</DATE>
+    <TEXT>This is the part in the video game that you die at over and over again until you get the pixel position and timing down perfectly.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-09 15:09:26</DATE>
+    <TEXT>I thought this sounded made up but [holy shit, TIL](https://i.imgur.com/cbzUfoA.jpg)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-09 19:00:57</DATE>
+    <TEXT>jesus christ</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-09 22:23:25</DATE>
+    <TEXT>This movie also brought the Houston rap scene to a lot of people who had never been exposed. Scarface and The Geto Boys are all over it.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-09 22:48:47</DATE>
+    <TEXT>[On a shelf in my apartment](https://i.imgur.com/UfBuyL5.jpg) This is all very strange</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-09 23:45:46</DATE>
+    <TEXT>I think you #8217;ll really enjoy [Stevie Ray talking about this](https://youtu.be/kQVPrurzHKg) if you haven #8217;t seen it already. He calls Hogan  #8220;the blackest white guy I #8217;ve ever met. #8221;</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-10 01:37:10</DATE>
+    <TEXT>That is some great line work! Classy, too. The guy who drew mine is coincidentally a tattoo artist here in Philly.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-10 03:57:15</DATE>
+    <TEXT>Yooo you got the Kickstarter mug! That #8217;s sweet. I was eyeing them on eBay for a little but I couldn #8217;t justify it. Functional or decorative? I do have the spinning keychain but it fell apart. Womp womp. I kept a backup that I #8217;ll never use now, and an old mug. [They say what #8217;s up.](https://i.imgur.com/raKTe6b.jpg)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-10 05:25:49</DATE>
+    <TEXT>This made me laugh out loud, but also it *is* North Korea. In contrast, consider the message that countries like Germany and Britain are sending.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-10 14:10:51</DATE>
+    <TEXT>[Yes](https://reddit.com/r/AnimalsBeingBros/comments/80m3jk/crow_feeds_and_befriends_stray_kitten_couple/), front page of /r/all. Phony OP didn #8217;t even change the title.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-10 14:52:51</DATE>
+    <TEXT>It #8217;s hard not to contrast this with the notoriously bewildering excerpt from the [2012 Texas Republican Party Platform](http://mobile.edweek.org/c.jsp?cid=25920011 amp;item=http%3A%2F%2Fapi.edweek.org%2Fv1%2Fblogs%2F83%2F%3Fuuid%3D25255): *We oppose the teaching of Higher Order Thinking Skills (HOTS) (values clarification), critical thinking skills and similar programs that are simply a relabeling of Outcome-Based Education (OBE) (mastery learning) which focus on behavior modification and have the purpose of challenging the student's fixed beliefs and undermining parental authority.* The greatest enemy of bullshit is a good education.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-10 15:14:06</DATE>
+    <TEXT>The people who agree with the policy don #8217;t care.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-10 15:49:13</DATE>
+    <TEXT>This is when you wipe your palms on your pants and save your game.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-03-10 16:07:33</DATE>
+    <TEXT>I *think* [this is the source](http://lostesorosdemiscofre.blogspot.com/2015/09/guerreros-de-poder.html)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  </INDIVIDUAL>

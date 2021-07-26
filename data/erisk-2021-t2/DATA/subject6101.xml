@@ -1,0 +1,231 @@
+<INDIVIDUAL>
+  <ID>subject6101</ID>
+  <WRITING>
+    <TITLE>Alternative modules to pygame for outputting Sound?</TITLE>
+    <DATE>2020-06-03 21:19:36</DATE>
+    <TEXT>Question says it all. What are the alternative modules that can output sound in Python?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-03 21:57:45</DATE>
+    <TEXT>Thank you for the fast response, however which module would you recommend to use, because the only reason I am moving away from pygame is because when used alongside Tkinter it is extremely slow, so are you aware that any of these modules would run faster than pygame would?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Spinning rainbow-coloured circle on Mac using PyCharm when running code that uses Pygame and Tkinter?</TITLE>
+    <DATE>2020-06-04 09:29:18</DATE>
+    <TEXT>Any solutions to fix the above question: when I click a button on Tkinter, a function to play sound is called, but as soon as the sound begins playing then the rainbow-colour circle appears and all the other buttons in the Tkinter window are unresponsive, and I am only able to quit the program by manually stopping it through Tkinter, rather than through pressing the 'quit' button. Does anyone know why this is, or how I can fix it?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Spinning rainbow-circle on Mac appears when sound is played through Pygame when button is pressed on Tkinter?</TITLE>
+    <DATE>2020-06-04 09:32:50</DATE>
+    <TEXT>Any solutions to fix the above question: when I click a button on Tkinter, a function to play sound is called, but as soon as the sound begins playing then the rainbow-colour circle appears and all the other buttons in the Tkinter window are unresponsive, and I am only able to quit the program by manually stopping it through Tkinter, rather than through pressing the 'quit' button. Does anyone know why this is, or how I can fix it?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-04 09:38:01</DATE>
+    <TEXT>Thank you very much, this does make sense, but then how would I be able to work around that then?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-04 10:35:08</DATE>
+    <TEXT>Yh there must be, just need to find that way!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Beachball (Spinning Wait Cursor) on Mac appears when sound is played through SimpleAudio on Pycharm when a button is pressed using Tkinter to call this function?</TITLE>
+    <DATE>2020-06-04 20:53:08</DATE>
+    <TEXT>Any possible solutions to fixing the issue stated above, as I would like to be able to press other buttons while the sound is playing, but this simply won't work, given that the Beachball persists and so does not allow any of the functions that should be called when the button is pressed to actually be called? Note that this post is an update from my previous post: [https://www.reddit.com/r/learnpython/comments/gwe6qc/spinning\_rainbowcircle\_on\_mac\_appears\_when\_sound/](https://www.reddit.com/r/learnpython/comments/gwe6qc/spinning_rainbowcircle_on_mac_appears_when_sound/)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Beachball (Spinning Wait Cursor) on Mac appears when sound is played through SimpleAudio on Pycharm when a button is pressed using Tkinter to call this function?</TITLE>
+    <DATE>2020-06-04 20:56:52</DATE>
+    <TEXT>Any possible solutions to fixing the issue stated above, as I would like to be able to press other buttons while the sound is playing, but this simply won't work, given that the Beachball persists and so does not allow any of the functions that should be called when the button is pressed to actually be called? Note that this post is an update from my previous post: [https://www.reddit.com/r/learnpython/comments/gwe6qc/spinning\_rainbowcircle\_on\_mac\_appears\_when\_sound/](https://www.reddit.com/r/learnpython/comments/gwe6qc/spinning_rainbowcircle_on_mac_appears_when_sound/)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-05 15:25:07</DATE>
+    <TEXT>Sorry, but I am quite new to programming, how would I go about doing this and using the SimpleAudio package, because the playsound package did not work for me?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-06 07:58:35</DATE>
+    <TEXT>Thank you I have just installed and read through the documentation and programmed it to output sound, however, I am confused about how I would put the sound playback code in its own thread as you said? How would I go about programming this?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>How to adjust volume on macOS Catalina to a float (e.g 6.5) rather than to an integer as osascript allows?</TITLE>
+    <DATE>2020-06-06 07:59:12</DATE>
+    <TEXT>The question above, overall my program is aiming to fractionally increase the volume until the point at which the user is able to hear the sound and then store this value to a variable, which can then be accessed later, I would appreciate any help greatly on how I could achieve this? Further reference: When running the code below the 'phrase' printed out is just the current value + 1 (as it rounds it up), e.g if current volume = 6 then it turns into 7, rather than 6.5, but I require a way to change volume to 6.5 (for example). current_volume = float(osascript.osascript("output volume of (get volume settings)")[1]) print(current_volume) phrase = "set volume output volume{}".format(current_volume+ 0.5) print(phrase) osascript.osascript(phrase) sleep(1)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>How to compare (in a selection) whether the Tkinter main window (root) is closed?</TITLE>
+    <DATE>2020-06-06 21:28:31</DATE>
+    <TEXT>The question says most of it. To provide a further reference, I need to run a `while True` loop immediately after the `root` (main window) is closed, rather than carrying out the code in the `while True` loop before the window actually closes, which results in the window freezing. Also, I am on macOS Catalina.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Microsoft Forms - Feedback for Spectium: Glasses to aid the spatial awareness for blind</TITLE>
+    <DATE>2020-06-30 19:59:18</DATE>
+    <TEXT>I am a 14-year-old, who just won a national digital competition with my idea to help the blind using programming. And so, now I am looking for any feedback to improve and develop the innovation that is programmed in Python, Tkinter, Osascript and pyqt5. I would love to receive any responses and advice that you may have. Thank you! Form:[https://forms.office.com/Pages/ResponsePage.aspx?id=tsIb8iiMJEauhuWBft2Ki8nzfNIa34lIqUAnVNQNB\_5UMUVKOTJGTzVUQVBOT0RXN0U1U09XOE01TC4u](https://forms.office.com/Pages/ResponsePage.aspx?id=tsIb8iiMJEauhuWBft2Ki8nzfNIa34lIqUAnVNQNB_5UMUVKOTJGTzVUQVBOT0RXN0U1U09XOE01TC4u)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-01 06:57:27</DATE>
+    <TEXT>Thank you! Any ideas on how I could improve the idea for the future?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-01 07:00:27</DATE>
+    <TEXT>Sorry for repeating the audio file, I was unaware of another way to play audio for the question, but now have updated the form since there is already an option to read out the questions, but left the audio for the options, as I cannot think of another way to make the form accessible. Apologies again for any inconvenience!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-01 07:10:00</DATE>
+    <TEXT>Some more information about Spectium: The glasses continuously play a sound to the user, that varies in volume depending on the distance from an object around them. The distance is calculated using ultrasonic sensors, which bounces an ultrasonic sound wave at a high frequency and using the time it returns to calculate this. A calibration system app is used to determine the lowest point which the user can hear, in order to make it a better product for the blind, which is achieved by playing a sound progressively louder until the presses the stop button and this value is used as the bottom value when sounds are played to the user. A cut off point is implemented to prevent the device from being annoying, which is selected by the user, i.e if the cut-off point is 1 metre, then any object detected that is further than 1 metre is not played as a sound to the user until it becomes closer to them than this. Hopefully, this information helps, but if you have any specific questions I would love to answer! Now I am simply focussing upon making the innovation better and more suited to the blind, by making it more user-friendly, and I am achieving this in due accordance to manuals, books, videos and factsheets provided online, such as those from the RNIB (Royal National Institute Of Blind People, and so would love any additional advice! Thank you again for taking the time to do the form if you have!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-01 07:10:54</DATE>
+    <TEXT>Regarding the Drive file, is it just the Drive file on this Reddit page or within the Microsoft form as well? I will change the Drive file on the Reddit page now.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>[Academic] Opinions on Spectium: Glasses for the blind (18+)</TITLE>
+    <DATE>2020-07-01 10:12:24</DATE>
+    <TEXT>I am a 14-year-old, who just won a national competition with my idea to help the blind. And so, now I am looking for any feedback to improve and develop the innovation to make it better suited and more functional to improve the spatial awareness for the blind and visually impaired I would love to receive any responses that you may have by completing the form or by commenting to the post. Also, note that audio is added to the options for the form and by clicking the button, which looks like a script, for the question to make the form more accessible for those that are blind or visually impaired. I am using the form to decide what my next function to add to the glasses is, and also people's opinions on the innovation currently, before implementing it. Thank you! Form:[https://forms.office.com/Pages/ResponsePage.aspx?id=tsIb8iiMJEauhuWBft2Ki8nzfNIa34lIqUAnVNQNB\_5UN05OS0w2NzA2S1BOTFUzS1U5Mk5FVU41RC4u](https://forms.office.com/Pages/ResponsePage.aspx?id=tsIb8iiMJEauhuWBft2Ki8nzfNIa34lIqUAnVNQNB_5UN05OS0w2NzA2S1BOTFUzS1U5Mk5FVU41RC4u) If you want any additional information on the innovation please comment and I hope to help!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-01 10:14:11</DATE>
+    <TEXT>Some more information about Spectium: The glasses continuously play a sound to the user, that varies in volume depending on the distance from an object around them. The distance is calculated using ultrasonic sensors, which bounces an ultrasonic sound wave at a high frequency and using the time it returns to calculate this. A calibration system app is used to determine the lowest point which the user can hear, in order to make it a better product for the blind, which is achieved by playing a sound progressively louder until the presses the stop button and this value is used as the bottom value when sounds are played to the user. A cut off point is implemented to prevent the device from being annoying, which is selected by the user, i.e if the cut-off point is 1 metre, then any object detected that is further than 1 metre is not played as a sound to the user until it becomes closer to them than this. Hopefully, this information helps, but if you have any specific questions I would love to answer! Now I am simply focussing upon making the innovation better and more suited to the blind, by making it more user-friendly, and I am achieving this in due accordance to manuals, books, videos and factsheets provided online, such as those from the RNIB (Royal National Institute Of Blind People, and so would love any additional advice! Thank you again for taking the time to do the form if you have!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-01 16:56:18</DATE>
+    <TEXT>Yh this would be great if I could find a community such as this on Reddit, although I am struggling to do so. Are you aware of any such communities, websites or groups within or out of Reddit that are like this, since this would be perfect?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-01 18:21:42</DATE>
+    <TEXT>Thank you for the reply, and as a response, this is where my future ideas will come through: detecting the temperature of objects and alert blind people of this; Using surround sound to play sound, so you can map exactly where the object is; utilising machine learning and AI to determine whether an object is un-necessary to alert the user of, or necessary, for example, if a moving vehicle is beyond the cut-off point (so they wouldn't usually be told of it) they will be informed as the glasses can detect that it poses a danger to the user. And even currently, I am not aware of glasses that use bone conduction technology and solve this problem, which allows for better social integration, since one can hear their surroundings while being informed and also permits it to function for the deaf-blind. And so, therefore as a summary, even for those that can gain a basic spatial awareness without glasses, all of the extra information that the glasses can inform to the blind, I think is invaluable, and at no cost or inconveniences to them. How do you understand the temperature of objects around you on a day-to-day basis? And using your method of navigating, which I would love to know, by the way, does this allow you to map out the exact place of the objects as surround sound would? Thank you again for your excellent question!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-01 20:03:48</DATE>
+    <TEXT>Yes, I understand and I really do appreciate the insight as it has been very difficult to receive advice or fully comprehend the issues that the blind face on a day to day basis due to coronavirus. However, regarding the temperature, I aim to integrate it to combat the issue of scalding from extremely high or low temperature, which I am unsure if you are able to detect, please tell me if you can and how if so. And also, have you seen bone conduction technology used in an innovation like this, such as the thing you described that you wear on your arm that you were referring to? Furthermore, about echolocation, this was where I originally got the concept for Spectium, since I thought it could be applied to this very concept for the blind, is there anything specifically you believe that I should look into about echolocation? Lastly, within your final sentence what did you mean by stating that '*these things never show up*', as in they are never created? Thank you so much again, this is super helpful!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-02 07:45:05</DATE>
+    <TEXT>Thank you, this helps a lot, I think I will commit my time and programming to make something better and more useful for the blind, which will help more so, such as making something more accessible, and definitely will ask on the subreddit before asking! Thank you so much!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Feedback for a new idea to help blind and visually impaired before committing to it:</TITLE>
+    <DATE>2020-07-02 19:54:15</DATE>
+    <TEXT>I am a 14-year-old, and currently, I am looking at committing my time to program technology that will impact and improve the quality of life for the blind and visually impaired, after having previously come up with an idea, but now understood its irrelevance. And so, after having read and watched numerous videos and articles, I have decided to focus upon creating something that will make certain features in daily life more accessible to the blind. Subsequently, I noticed the problem of reading but mainly reading where the person does not know they need to read, which is described online as impossible. To elaborate further, an example could be a sign on a road, which a blind person cannot see, thus meaning they cannot read the information. Hence, I came up with the idea for a pair of glasses, which can read and detect that the sign is there and convert its text into audio, to convey to the user. Conceptually, I have not developed the idea massively, as first I would like to see whether it is a viable and relevant idea that would genuinely help, before fully committing to it, although, I imagine I will program an app to accompany it, to make it even more accessible, personalised and involve the user more. Therefore, I have a few questions: Would this idea genuinely help and improve the quality of life for the blind or is there a known way to achieve this, that is not mentioned online? If so, then what features would make it very useful. If not, then what technology would help impact your day to day life? Thank you for reading and any feedback would be much appreciated! :)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-02 20:12:11</DATE>
+    <TEXT>Thank you for the response, I understand and I will look through previous posts on the subreddit, as I definitely think this will help a lot. But by any chance, do you have any concepts for technology that can help improve your quality of life?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-04 09:24:42</DATE>
+    <TEXT>I intended for the innovation to help read signs which you do not know are there, so the glasses sense that there is a sign, and turns the text into audio, an example was provided as a comment which fits the idea perfectly: *"arriving at a store, where they've hung some homemade sign out front that you weren't expecting...like right now, with COVID19, I went into a grocery store and asked an employee if there are any rules or anything I need to know about because I can't read signs and posters they put up in small print"* This is exactly what type of signs and information I would look to make it more convenient to read, as well as information for public transport such as if a train or bus is delayed. Hopefully, this helps clarify that. And so, do you believe this would help or is it too niche of a sector to look into?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-04 09:29:55</DATE>
+    <TEXT>Thank you so much for this comment, as this is exactly what I was trying to convey as the primary goal for the glasses to achieve: reading signs which you do not realise are there. However, do you believe that this is too niche of a part to develop within? And overall, to reply to some of your concerns, regarding the battery life, I would look to make it as convenient as possible for the blind, by involving them in the process of creating it, so what battery life would you think to be best for an innovation such as this? Furthermore, about weight, it will feel and weigh similarly to normal glasses and, finally, the accuracy of translating from text to audio will definitely not be a problem. Lastly, overall I am not too worried about funding the idea, just moreover concerned with formulating the idea first, and then will hope to receive funding if I can develop a robust and relevant idea to help the blind. Thank you for the response!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-04 09:34:47</DATE>
+    <TEXT>I have looked into Seeing Eye to some depth, and I believe that the major problem with it, is that the user must be aware of exactly what they are looking to read before using the app, whereas with the innovation I have proposed, it will simply read it for you, whether you are aware of its existence or not. Although, the app does recognise and achieve more. And finding a unique angle and developing an existing innovation is currently my aim, by developing and expanding upon modern technologies but making them more accessible and useful. Finally, your last comments are very interesting, as developing technology for those who can not speak definitely would be interesting, and useful for them, so I may look into this as well. Thank you for your response!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-04 09:36:23</DATE>
+    <TEXT>Thank you for linking this post and it definitely doesn't dishearten me but rather inspires, as I am looking to develop off of current technology and make them more accessible through the inclusion of the blind in the making process, and so this definitely helps. Thank you for your response!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-04 09:43:04</DATE>
+    <TEXT>I entirely agree with your thoughts for Navi Lens, and so this really does emphasise the use and notion of my innovation, since the glasses I propose do not require the tag or any other form of a material object to identify, but rather identifies what is currently there, such as a sign that sighted people view from and converts it into audio. Thus meaning that it is applicable to all cities, signs and countries without any need to add things to the area first. And your final comments in the first paragraph entirely is my aim since I intend to develop and expand off of modern technologies and concepts that already exist by making them more accessible. Furthermore, I would like to thank you for your kind words, although I simply am looking to make the world more sustainable through expanding from Bill Clinton's inspirational quote, *"We cannot build our own future without helping others to build theirs."*. And so, I am definitely looking to remain within this field of study and development of an idea to improve the quality of life for those who struggle on a day to day basis in some way. Thank you for the kind response!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-04 09:44:05</DATE>
+    <TEXT>I do understand this, but currently, I am looking at integrating technology through some sort of app, to build up my skills and confidence within this area, and after this will then look at creating larger scale innovations to help the lives of the blind even further. Thank you for your reply!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-04 09:49:25</DATE>
+    <TEXT>Yh thank you very much for this detailed comment and sorry for any ambiguity in my text written in my original post, and what I originally meant was that I am looking to focus on an innovation that can convert the text of a sign which you do not realise is there into audio, for example, a temporary sign that has been placed or in public transport sites. Hopefully, this clarifies things. Moving on to your comments regarding creating more accessible games, I would love to create and achieve this, through integrating the use of image processing and OCR, but I do not know if I am able to achieve this as I have tinkered with the concept of image processing but found it far too difficult at the time to integrate (when I was working upon a different idea to help the blind). And so, do not know if I would be able to achieve this, do you know of a more interactive method of learning image processing outside of a textbook, to make it easier to learn? Thank you very much though for your reply!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>First Python Web Scraping Project: Study Motivator</TITLE>
+    <DATE>2020-09-01 20:55:08</DATE>
+    <TEXT>I know it isn't anything impressive, but just wanted to share my first web scraping project :) The program scrapes through a website that lists thousands of motivational quotes, and then based on RNG, it obtains a random quote, which is outputted as a notification alongside a randomised message as the title, e.g: "Keep on going! :)" "You're doing great!  #865;( #176;  #860; #662;  #865; #176;)" "Keep working hard!  #3232;\_ #3232;"  #8203; https://preview.redd.it/m4egmh1lklk51.png?width=776 amp;format=png amp;auto=webp amp;s=1a829d6d45b03643497a8ddb00e969686b3a9313 This notification is sent every 30 minutes (containing random quote + random message as title), and as well as this, every 30 minutes it tells you how long you have been working for (i.e since program started running):  #8203; https://preview.redd.it/unrjmnoiklk51.png?width=775 amp;format=png amp;auto=webp amp;s=6dee52f47b8a679dc1e74e7e79d5dea0eadcbe43 All in all, I know it isn't very extensive, but I am really happy it worked out, and allowed me to practice some key skills! Appreciate any feedback or advice for future! Hope you all like it too! :-)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-02 09:14:18</DATE>
+    <TEXT>Thanks for replying :-) The website I scraped from: [https://www.keepinspiring.me/motivational-quotes/](https://www.keepinspiring.me/motivational-quotes/) Not sure what you meant by alternatives, explain if possible, and I would love to help!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-03 19:01:11</DATE>
+    <TEXT>Sorry no github link :(</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-09-05 13:46:34</DATE>
+    <TEXT>The program actually sends it as a notification through Windows, using the win10toast module.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Why is element in CQC website not being parsed using BS4?</TITLE>
+    <DATE>2020-10-18 17:06:43</DATE>
+    <TEXT>Currently, I developed a very basic web scraper on bs4, to find out the CQC inspection ratings for certain hospitals but, after copying the CSS selector for the *requires improvement* part of *Medical Care in CQC inspections  amp; ratings of specific services* the code is not printing anything, but is returning an IndexError. The website link, I am scraping from: [https://www.cqc.org.uk/location/RWEAE#icon-keys](https://www.cqc.org.uk/location/RWEAE#icon-keys) The code is shown below: res = requests.get("https://www.cqc.org.uk/location/RWEAA") res.raise_for_status() soup = bs4.BeautifulSoup(res.text, "html.parser") elems = soup.select("#content-wrapper  gt; div.tab-content.clearfix.location.location-tabset.location-overview  gt; div.right-blocks.new-inspection  gt; div.overview-inner.service-ratings  gt; ul  gt; li:nth-child(1)  gt; span") print(elems[0].text.strip())</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-18 18:14:05</DATE>
+    <TEXT> gt;soup.select('.right-blocks li:nth-child(1)  gt; span Wow, thank you, this is exactly what I have been looking for this whole time!!! How do you get an alternative selector though?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  </INDIVIDUAL>

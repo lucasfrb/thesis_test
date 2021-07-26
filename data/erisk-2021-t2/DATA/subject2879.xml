@@ -1,0 +1,214 @@
+<INDIVIDUAL>
+  <ID>subject2879</ID>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-29 06:01:31</DATE>
+    <TEXT>Interesting! I am assuming that the analysis, presumely done by law enforcement, would know which type of gun is being used (pistol/rifles/etc) but lets say a person was caught with a 'ghost gun' days after its use, is it really still considered 'hot'? How would law enforcement know that THIS ghost gun was used in a specific moment or event? I know guns themselves get hotter when used so if someone was caught an hour, enforcement can feel the gun and tell if its been recently used but how would it be possible days after?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2019-12-29 07:48:23</DATE>
+    <TEXT> gt; As it exits the barrel, imperfections in the boring of the barrel itself will leave a completely unique pattern on the sides of the bullet (like a finger print) This is very interesting! So you are saying if i buy two pistols from the exact manufacturer and shoot both of them in the same direction at the same time, the bullets (not the shells themselves) will have a unique pattern on it? Or will this 'fingerprint' largely depend on how the gun was made? Also, is it possible to control this pattern or not? **Edit:** I assume this is the fingerprint you are talking about? [https://i.imgur.com/TnZJ4yn.png](https://i.imgur.com/TnZJ4yn.png) \[Taken from: [https://en.wikipedia.org/wiki/Forensic\_firearm\_examination](https://en.wikipedia.org/wiki/Forensic_firearm_examination) \]</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-02-12 21:54:42</DATE>
+    <TEXT>Hi, sorry for the late reply but actually I **do want** a VM that destroys itself every 30 minutes (including all the data within it). If i did not, i would have just stuck with ClearDB where they store my data or just host my own and never needed to ask this question but its the fact I want a temporary VM. The problem with MySQL add-on's is that 1. I have to sign up with a service 2. Need to force it to erase the DB every run 3. Need a CC to verify</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-02-12 21:55:02</DATE>
+    <TEXT>How come this was edited?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-02-15 05:29:27</DATE>
+    <TEXT>1. Thats good to know about the difference between mysql  amp; mysqld. Thank you 2. Running mysqld throws an error about a missing library, despite being installed from apt  #8203; ~ $ /app/.apt/usr/sbin/mysqld /app/.apt/usr/sbin/mysqld: error while loading shared libraries: libaio.so.1: cannot open shared object file: No such file or directory I even editied the Aptfile here: libaio libaio1 libaio-dev mysql-server I tried to move the file: mv /app/.apt/lib/x86_64-linux-gnu/libaio.so.1.0.1 /app/.apt/usr/sbin/libaio.so.1 Still get the same error</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-03-26 14:28:59</DATE>
+    <TEXT>Wow, thank you so much!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-09 05:42:16</DATE>
+    <TEXT>Thank you for these tips but i only have this setup so i can do some testing. Rather just let the limits loose until I can get something working and narrow it down from there. Turns out /u/MindStalker as you said so ill work from there</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-09 05:42:29</DATE>
+    <TEXT>Thank you so much! This solved my problem!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-09 05:42:45</DATE>
+    <TEXT>Turned out to be a problem with permissions as /u/MindStalker suggested</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-09 16:21:32</DATE>
+    <TEXT>So how would i be able to login to MariaDB? (There is a reason why i want MariaDB in the Dyno, I actually DO NOT want persistant storage, i want it to get reset)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-04-22 18:48:49</DATE>
+    <TEXT> gt;Stop providing partial information. Where is this code? How is it called? What are df1, UserInQuestion and DoOperation? Where is the actual URL handling code? Verry sorry about that, here you go: [https://pastebin.com/dmt5HzCs](https://pastebin.com/dmt5HzCs) I simply call /doOperation just by typing it in the browser</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-05-08 23:29:59</DATE>
+    <TEXT>Ty man, i see p5js is used. Does itself have something to do with the AR experience</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-29 22:50:52</DATE>
+    <TEXT>Throwaway account for obvious reasons. How come most Intezer blog posts get 100+ upvotes and 0 comments? I always see this when it comes to Intezer. The blog post somewhat looks original but the thing is that, every blogpost they make is anti-Iranian or Russian (atleast from awhile ago, maybe they switched?). It also does not help that this Israeli company has has never reported on big campaigns like the NGO Group (also based in Israel)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-06-29 23:11:28</DATE>
+    <TEXT>True but atleast blogposts have material and actually try to educate something. I have seen this with all others (like Malwarebytes, Kaspersky, COMODO, etc). However, the Israeli-based Intezer feels like 20% netsec material and 80% political propaganda. You never see this with Kasperksy, a Russian based company. They do report on Russian malware, even if they have ties with the Russian government.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Streamable Upload API Disabled?</TITLE>
+    <DATE>2020-07-03 06:02:04</DATE>
+    <TEXT>It seems that the Streamable Upload API has been disabled? This is new and no warning was given!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-15 17:58:01</DATE>
+    <TEXT>Has to be hardcoded in the video</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Making an app that gets authorization from a 3rd party service, how to deal?</TITLE>
+    <DATE>2020-07-17 19:05:10</DATE>
+    <TEXT>I am trying to make this app that gets authorization from a 3rd party site. I want to check for two conditions: * If the user has a GUI (for Windows, Mac, etc) * If a user is running without a gui (for users using Ubuntu server) I have to open an external site so the user can login, confirm they want to allow my app access, and then the external service redirects them to a URL of my choice. My plan was this: 1. Run a small server (using Flask) on the users PC, so the server would be looking for https://localhost:5000/authlisten 2. User gets directed to website, logs in and confirms 3. Third party redirects to [https://localhost:5000/authlisten](https://localhost:5000/authlisten), confirming validation The problem is, this wont work if a user is running headless (without a gui) since there is no webbrowser to open so I am somewhat stuck on what I can do: This is my code so far: [https://pastebin.com/raw/a7eL7mwA](https://pastebin.com/raw/a7eL7mwA) Any suggestions would be helpful</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-17 20:32:16</DATE>
+    <TEXT> gt;If you didn't understand till now, your idea is (and I'm sorry to say) a terrible one. It was going to be simple Github project but how would you resonate I should go? Also how do services like Spotify  amp; Discord work? Dont they do the same thing? When u connect to a program that uses spotify, doesnt it do the same thing?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>New to craigslist and two exact messages within the span of 5 minutes. Default message?</TITLE>
+    <DATE>2020-07-18 17:02:26</DATE>
+    <TEXT>Hi, new to craigslist. I just posted an listing to sell furniture. Seller has to pick it up themselves but i never specified it was cash only (which i should have done). All of a sudden, two messages that look like this:  gt;Still available? I #8217;ll prefer text XXXXXXXXXX And then  gt;Still available? I #8217;ll prefer text (XXX) XXX-XXXX I think its maybe the default message for craigslist but after looking up the number, the first number is owned by bandwidth(dot)com and the second is owned by Enflick (now known as TextNow) Are these the default messages for craigslist?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Calling a Class Above to Execute Command?</TITLE>
+    <DATE>2020-07-22 04:07:18</DATE>
+    <TEXT>I am trying to spin up a temporary web server in Python. Basically put, a server that, when started, runs and waits for a request from '/shutdown' which should shutdown the server The main.py is: [https://pastebin.com/raw/uanEAAhC](https://pastebin.com/raw/uanEAAhC) The MainServer.py file that contains the class: [https://pastebin.com/Z5ShV061](https://pastebin.com/Z5ShV061) I am trying to make it that, when '/shutdown' is called, the server shuts down. (I am using this scenario as an example). The fin function shuts down the server successfully How could I call a function from above to execute the shutdown function?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-07-22 14:43:15</DATE>
+    <TEXT>Hi! Thank you so much! This script works standalone but how could I call it from another class? For example, I know by calling '/shutdown' I get it to shutdown but this will be in a class that I need to call when I want it to start up. How could I do that?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Convert DateTime Object to UTC and Convert/Unconvert to Epoch</TITLE>
+    <DATE>2020-08-08 14:35:29</DATE>
+    <TEXT>Hello there, I have a python script that fetches (from an API) how many seconds until a token expires. My variable is set up like this: ``` datetime.datetime.now() + datetime.timedelta(seconds=int(r.json()['expires_in'])) ``` However, the problem is that datetime is not serializable so I have two goals: 1. How do I concert the datetime to UTC to be consistant 2. How do i convert it (and unconvert it) to epoch time. (So I can save to and reload from a JSON file)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-17 17:04:37</DATE>
+    <TEXT>So basically keep it like this in the HTML? ``` 
+    scriptsetInterval(pingServer(), 8000);/script```</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Sending POST Request (to Telegram) results in failure due to escaping - Somewhat stuck on what to do?</TITLE>
+    <DATE>2020-08-19 04:37:33</DATE>
+    <TEXT>I have a Python script that sends a message using Telegrams Bot API's sendMessage function ( [https://core.telegram.org/bots/api#sendmessage](https://core.telegram.org/bots/api#sendmessage) ) So I am using the requests library to send a post request like this: [https://pastebin.com/raw/jKjrCaxn](https://pastebin.com/raw/jKjrCaxn) While the POST request worked, it seems that Telegram has trouble understanding my message because the message is not being escaped. This is the error message: [https://pastebin.com/raw/Law4Gy1U](https://pastebin.com/raw/Law4Gy1U) The problem revolves around the message content (if i change the "message" variable to just "test", it works). I do not know how I am supposed to escape all characters. I even tried adding \\\\ anywhere I can but it still complains! Any help would be good</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-19 15:01:51</DATE>
+    <TEXT>Commented</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-19 15:02:51</DATE>
+    <TEXT>Commented</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-08-19 21:21:59</DATE>
+    <TEXT>Solved</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Editing Table with New Values Using JS?</TITLE>
+    <DATE>2020-08-25 05:38:15</DATE>
+    <TEXT>So I have some example code here: [https://jsfiddle.net/SacklyCasper77/6rusqtbv/28/](https://jsfiddle.net/SacklyCasper77/6rusqtbv/28/) In the snippet, a function called GetAllInfo() populates a table with information which is fine. However, another function called ReplaceInfo() is also there too! Currently, when you click the button, the script just adds the info from ReplaceInfo() to the table. However, I would like it to replace the info by looking at their "ID" numbers. So the values in ID 0 would be replaced and so on. How would I use JS to look at the ID of the table and replace the values?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Unable to replicate CSS from tutorial, what am I doing wrong here?</TITLE>
+    <DATE>2020-09-28 14:50:32</DATE>
+    <TEXT>Hello I have this tutorial with the final code looking like this: [https://jsbin.com/xotelusexi/1/edit?html,css,output](https://jsbin.com/xotelusexi/1/edit?html,css,output) As you can see, the 3 photos seem to line up well like this: [https://i.imgur.com/TgbQmGk.png](https://i.imgur.com/TgbQmGk.png) However, my code does not do that: [https://jsbin.com/ragowomuxi/1/edit?html,css,output](https://jsbin.com/ragowomuxi/1/edit?html,css,output) What am i doing wrong?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Unable to replicate CSS from tutorial, what am I doing wrong here?</TITLE>
+    <DATE>2020-09-28 14:50:55</DATE>
+    <TEXT>Hello I have this tutorial with the final code looking like this: [https://jsbin.com/xotelusexi/1/edit?html,css,output](https://jsbin.com/xotelusexi/1/edit?html,css,output) As you can see, the 3 photos seem to line up well like this: [https://i.imgur.com/TgbQmGk.png](https://i.imgur.com/TgbQmGk.png) However, my code does not do that: [https://jsbin.com/ragowomuxi/1/edit?html,css,output](https://jsbin.com/ragowomuxi/1/edit?html,css,output) What am i doing wrong?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Converting Websocket Data to Audio File?</TITLE>
+    <DATE>2020-10-04 18:20:12</DATE>
+    <TEXT>I want to connect to a websocket through NodeJS (using the 'ws' package) and save the data to a file to relisten to again. If i inspect the page [http://websdr.ewi.utwente.nl:8901](http://websdr.ewi.utwente.nl:8901) , I see a websocket is created (the audio version is: ws://websdr.ewi.utwente.nl:8901/\~\~stream ). I wrote a small NodeJS app to replicate this here: [https://pastebin.com/yJ3BMyEh](https://pastebin.com/yJ3BMyEh) And when I run it, it seems to be working, appending to the file with each new data ... Saved! Saved! Saved! Saved! Saved! Saved! Saved! Saved! Saved! Saved! Saved! Saved! Saved! Saved! Saved! Saved! Saved! Saved! ... However, opening the file in VLC does not seem to work. I assume I am saving it incorrectly but do not understand why. I am also wondering if they are using any special way of reading the data thats not normal. For example, I see the JS file: [http://websdr.ewi.utwente.nl:8901/websdr-sound.js](http://websdr.ewi.utwente.nl:8901/websdr-sound.js) (copy of file: [https://pastebin.com/J5Zdi4hJ](https://pastebin.com/J5Zdi4hJ) )is what handles the sound so im wondering if its doing anything different than the standard HTML5 audio tags How could I resolve this?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Apply Filter  amp; Text Over Background Box?</TITLE>
+    <DATE>2020-10-05 15:21:10</DATE>
+    <TEXT>Hello, a little new to CSS. I was wondering how I can recreate something like this: [https://i.imgur.com/VakrUcb.jpg](https://i.imgur.com/VakrUcb.jpg) (Picture with text over it and a dark background) Also I plan to add a hover effect (where u hover your mouse and text gets slightly bigger if your mouse is on it)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Using Python and/or Regex to extract this date from text?</TITLE>
+    <DATE>2020-10-17 00:48:09</DATE>
+    <TEXT>I have this text here: ``` This price is only available from 10/6/2020 11:00 am to 11/3/2020 11:00 am. ``` I want to use Python to extract the time and date so I can convert it to a Date object and then can use it. How would I be able to do that?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2020-10-17 01:12:14</DATE>
+    <TEXT>Wow! This is really good! One small question, how would I change the timezone? (new to date objects)</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Why wont list fall into navbar?</TITLE>
+    <DATE>2020-10-17 02:53:41</DATE>
+    <TEXT>Brand new to CSS and trying to create my own small projects to learn. I am trying to create a navbar with options side by side. I have my items in the navbar but I dont know how to push them to the right without the logo staying on the left: [https://jsfiddle.net/4a9bxdyr/](https://jsfiddle.net/4a9bxdyr/) What am i doing wrong?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  </INDIVIDUAL>

@@ -1,0 +1,51 @@
+<INDIVIDUAL>
+  <ID>subject3301</ID>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-04-18 07:26:47</DATE>
+    <TEXT>I'm not sure I know what you mean. Are you saying that you have lines that can be either "2_label2_1" or "2_label2_2", and that you want to split them by the last character? In that case you could do something like this... val Array(one,two) = scala.io.Source.fromFile(filename).getLines.groupBy(x = gt; -x(x.length-1)).values.toArray Where one is an Array of the lines that end in one and two the lines that end in two. Probably not the best way but if your file is relatively short then this should work well enough.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-04-20 19:36:09</DATE>
+    <TEXT>I love this one. What did you use to make it?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-04-21 01:31:45</DATE>
+    <TEXT>So cool! What software do you use?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-04-21 05:55:29</DATE>
+    <TEXT>For me, every show brings its own atmosphere and feels like a different experience to me. Here are a few that stand out in my mind. Yellow Claw always delivers a really well crafted list of songs and they do their transitions well, albeit their sets tend to run on the short side in terms of time. Zomboy is great because the crowd tends to get crazy, which I enjoy. When Nghtmre  amp; Slander toured together they put on a badass show that was almost 2 hours long, and they really engaged the crowd. Old Borgore shows were great because the songs he would play were funny and would put the crowd in a light hearted mood. Rezz is fun to see live because you can feel the Rezz bass and her music is so easy to get lost in. It really all depends on what you are looking for I suppose.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-05-07 02:48:53</DATE>
+    <TEXT>What app is this?</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-05-13 21:31:59</DATE>
+    <TEXT>This is the only Lion King EDM song that I know: https://youtu.be/TY3-VZmoKX4</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE></TITLE>
+    <DATE>2018-06-04 14:36:45</DATE>
+    <TEXT>I've been waiting for Life and Death since seeing her at Something Wicked. So excited!</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+  <WRITING>
+    <TITLE>Just found out what I do when I feel anxious is not normal.</TITLE>
+    <DATE>2018-07-03 00:29:40</DATE>
+    <TEXT>When I feel anxious I take it out on my body. I have been known to deprive myself of sleep or food, burn myself with boiling water or lighters, shock myself with batteries, punch my legs to the point of bruising, scratch or bite myself to the point of scaring, etc. My therapist told me that this behavior isn't normal and that most people don't deal with anxiety this way. While I never thought this behavior was normal per say, I also never felt like it was a huge issue because I'm not cutting. I'm kind of just in shock a little bit from figuring this all out, I don't know how to feel.</TEXT>
+    <INFO>Reddit post</INFO>
+  </WRITING>
+</INDIVIDUAL>
