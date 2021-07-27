@@ -3,7 +3,6 @@ import xml.etree.cElementTree as ET
 
 from subject import Subject
 import concurrent.futures
-from count import Count
 
 
 
@@ -14,7 +13,6 @@ class CorpusReader:
         self.subjects = list()
         self.gt_file = gt_file
         self.size = size
-        #self.count_words = Count()
 
 
     def load(self):

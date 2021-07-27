@@ -3,7 +3,7 @@ from numpy.lib.shape_base import split
 import yake
 import re
 import os
-from Levenshtein import distance as lev
+#from Levenshtein import distance as lev
 # pickle
 
 def analyze_token(t):
@@ -17,32 +17,6 @@ def analyze_token(t):
     return True
 
 
-def spplit2(string):
-    tokens = list()
-    string = ""
-    in_string = False
-    analyzed = False
-    for ch in string:
-        if ch == '!':
-            tokens.append(ch)
-        
-        if ord(ch) >= 65 and ord(ch) <= 90 or ord(ch) >= 97 and ord(ch) <= 122:
-            in_string = True
-            analyzed = False
-        else:
-            in_string = False
-
-
-        if in_string:
-            string += ch
-        else:
-            if not analyzed:
-                if analyze_token(string):
-                    tokens.append(string)
-                    string = ""
-                analyzed = True
-
-    return tokens
 
 def spplit(string):
     return re.split('[,;\?%&()\\\\* ]+', string)
@@ -70,16 +44,19 @@ class Tokenizer:
         if string == '' or string is None:
             return ''
 
-        '''
+       
+
+class Normal_Tokenizer(Tokenizer):
+
+    def process(self, string):
+        super().process(string)
+
         string = self.rule_lower_case(string)
-        #tokens = spplit(string)
-        #tokens = self.rule_rm_stopwords(tokens)
-        #tokens = filter(analyze_token, tokens)
-        #return ' '.join(tokens)
-        kw_extractor = yake.KeywordExtractor(top = 5)
-        tokens = [ token[0] for token in kw_extractor.extract_keywords(string) ]
+        tokens = spplit(string)
+        tokens = self.rule_rm_stopwords(tokens)
+        tokens = filter(analyze_token, tokens)
         return ' '.join(tokens)
-        '''
+
 
 class Yake_Tokenizer(Tokenizer):
 
@@ -118,7 +95,7 @@ class My_Tokenizer(Tokenizer):
         super().process(string)
         string = self.rule_lower_case(string)
         tokens = spplit(string)
-        tokens = self.rule_rm_stopwords(tokens)
+        
 
         keys = list(self.imp_words.keys())
         keys.sort(reverse = True)
@@ -129,13 +106,13 @@ class My_Tokenizer(Tokenizer):
         for key in keys:
             tokens_k = self.combinations(tokens, key)
             values = self.imp_words[key]
-            for token in tokens_k:
+            for i,token in enumerate(tokens_k):
                 for imp_token in values:
-                    if lev(token, imp_token) < 2:
-                        new_string_list.append(imp_token)
+                    if token == imp_token and not token in new_string_list:
+                        new_string_list.extend([tokens_k[i - 1], token, tokens_k[i + 1]])
         
-                    
-        new_string = ' '.join(new_string_list)
+        tokens = self.rule_rm_stopwords(new_string_list)     
+        new_string = ' '.join(tokens)
 
         return new_string
 
@@ -157,5 +134,5 @@ def load_stopwords(filename = 'stopwords.txt'):
 
 if __name__ == "__main__":
     t = My_Tokenizer()
-    print(t.process("I have just found a critical situation. #998 http://knsdkjs.com"))
+    print(t.process("it #8217;s not much but I think you are a hero after all that shit you went through u still have hope most people don #8217;t, I don #8217;t know you but this inspires me to do something with my life thank you"))
 

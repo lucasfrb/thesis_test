@@ -22,7 +22,7 @@ from numba import cuda
 import sys
 # insert at 1, 0 is the script path (or '' in REPL)
 sys.path.insert(1, '../pre_process')
-from tokenizer import Tokenizer
+from tokenizer import Normal_Tokenizer, Yake_Tokenizer, My_Tokenizer
 from emoticons import EMOJIS
 from post import Post
 
@@ -92,11 +92,18 @@ class Emojis():
 
 class Token():
 
+    def __init__(self, type):
+        if type == "normal":
+            self.token = Normal_Tokenizer()
+        elif type == "yake":
+            self.token = Yake_Tokenizer()
+        elif type == "my":
+            self.token = My_Tokenizer()
+
     def transform(self, lista):
         print("Token")
         save('PHASE', 'TOKENIZER')
         l = list()
-        token = Tokenizer()
         for sub in lista:
             sub_list = list()
             for post in sub:
@@ -104,8 +111,8 @@ class Token():
                     post.title = ""
                 if post.real_form.text == '':
                     #save('tokenizer - BEFORE', str(post))
-                    post.title = token.process(post.title) if post.title != "None" or post.title != None else ""
-                    post.text = token.process(post.text) if post.text != "None" else ""
+                    post.title = self.token.process(post.title) if post.title != "None" or post.title != None else ""
+                    post.text = self.token.process(post.text) if post.text != "None" else ""
                     
                     sub_list.append(post)
                     post.real_form.title = post.title
