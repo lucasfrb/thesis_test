@@ -39,8 +39,7 @@ class SVM(svm.LinearSVC):
 
 def train_model1(classifier):
 
-    with open("log.txt", 'w') as f:
-        pass
+    
     
     path1 = os.path.join('..', 'data', 'erisk-2021-t2', 'training', 'eRISK2020_T1_training_data', 'eRISK2020_T1_training_data', 'eRISK2020_training_data')
     path2 = os.path.join('..', 'data', 'erisk-2021-t2', 'training', 'eRisk2020_T1_test_data', 'eRisk2020_T1_test_data', 'T1')
@@ -146,8 +145,7 @@ def train_model1(classifier):
 
 def train_model2(classifier):
 
-    with open("log.txt", 'w') as f:
-        pass
+    
     
     path1 = os.path.join('..', 'data', 'erisk-2021-t2', 'training', 'eRISK2020_T1_training_data', 'eRISK2020_T1_training_data', 'eRISK2020_training_data')
     path2 = os.path.join('..', 'data', 'erisk-2021-t2', 'training', 'eRisk2020_T1_test_data', 'eRisk2020_T1_test_data', 'T1')
@@ -253,8 +251,7 @@ def train_model2(classifier):
 
 def train_model3(classifier):
 
-    with open("log.txt", 'w') as f:
-        pass
+    
     
     path1 = os.path.join('..', 'data', 'erisk-2021-t2', 'training', 'eRISK2020_T1_training_data', 'eRISK2020_T1_training_data', 'eRISK2020_training_data')
     path2 = os.path.join('..', 'data', 'erisk-2021-t2', 'training', 'eRisk2020_T1_test_data', 'eRisk2020_T1_test_data', 'T1')
@@ -362,8 +359,7 @@ def train_model3(classifier):
 
 def train_model4(classifier):
 
-    with open("log.txt", 'w') as f:
-        pass
+    
     
     path1 = os.path.join('..', 'data', 'erisk-2021-t2', 'training', 'eRISK2020_T1_training_data', 'eRISK2020_T1_training_data', 'eRISK2020_training_data')
     path2 = os.path.join('..', 'data', 'erisk-2021-t2', 'training', 'eRisk2020_T1_test_data', 'eRisk2020_T1_test_data', 'T1')
